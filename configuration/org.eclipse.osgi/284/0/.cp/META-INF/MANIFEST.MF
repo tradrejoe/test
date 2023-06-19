@@ -1,0 +1,87 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.e4.ui.services
+Bundle-SymbolicName: org.eclipse.e4.ui.services;singleton:=true
+Require-Bundle: org.eclipse.core.commands;bundle-version="[3.4.0,4.0.0
+ )",org.eclipse.e4.core.services;bundle-version="0.9.0",org.eclipse.e4
+ .core.contexts;bundle-version="0.9.0",org.eclipse.e4.core.di;bundle-v
+ ersion="0.9.0",org.eclipse.e4.ui.di;bundle-version="0.9.0"
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.ui.git;path="bundles/org.eclipse.e4.ui.services";
+ tag="I20210115-1810";commitId=2abcf7451cac96ef70f0667cb04b7251a8f4ea4
+ 2
+Bundle-Vendor: %providerName
+Import-Package: javax.annotation,javax.inject;version="1.0.0",org.osgi
+ .framework;version="1.3.0",org.osgi.service.component.annotations;ver
+ sion="1.2.0";resolution:=optional,org.osgi.service.event;resolution:=
+ optional,org.osgi.util.tracker;version="1.5.1"
+Require-Capability: osgi.extender; filter:="(&(osgi.extender=osgi.comp
+ onent)(version>=1.2)(!(version>=2.0)))",osgi.service; filter:="(objec
+ tClass=org.osgi.service.event.EventAdmin)"; effective:="active"
+Service-Component: OSGI-INF/org.eclipse.e4.ui.services.events.EventBro
+ kerFactory.xml
+Export-Package: org.eclipse.e4.ui.internal.services;x-friends:="org.ec
+ lipse.e4.ui.workbench.swt,org.eclipse.e4.ui.workbench",org.eclipse.e4
+ .ui.services,org.eclipse.e4.ui.services.events;x-internal:=true,org.e
+ clipse.e4.ui.services.help,org.eclipse.e4.ui.services.internal.events
+ ;x-internal:=true
+Bundle-Version: 1.5.0.v20210115-1333
+Bundle-Name: %pluginName
+Bundle-Localization: plugin
+Build-Jdk-Spec: 11
+Created-By: Maven Archiver 3.5.0
+
+Name: org/eclipse/e4/ui/services/ContextServiceAddon$1.class
+SHA-256-Digest: 0UYL/NVQF6612R/0itNzGDpxDzuJwvXMGvcSgfVaitM=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/e4/ui/services/EMenuService.class
+SHA-256-Digest: Qf4zji4wG4/Qmrnmo2Oq9RBGCO9CqOk0hz7eUa/K5FQ=
+
+Name: .api_description
+SHA-256-Digest: qaRQlZg/TFejvwn7OOS4TwDKKvbeYeAvKjJ1UI1JB0Q=
+
+Name: org/eclipse/e4/ui/services/IServiceConstants.class
+SHA-256-Digest: 8nqfrM61RBCGZ4WWEJ8dcR2IPExlWiMcHv4EqW1EIwY=
+
+Name: OSGI-INF/org.eclipse.e4.ui.services.events.EventBrokerFactory.xm
+ l
+SHA-256-Digest: OB9ZWaGgHVBYvnQnK0kpLv83G2MnS8Buoyb61fm/0EE=
+
+Name: org/eclipse/e4/ui/internal/services/ContextContextFunction.class
+SHA-256-Digest: CRibWYNvSj5CyVqe0yLxZEJyN8oLftQ97vaaifG5N6k=
+
+Name: org/eclipse/e4/ui/services/IStylingEngine.class
+SHA-256-Digest: qcd/BkWmDfja53YCUcX2DfD46dYiQh6eGAlpRFUcO7w=
+
+Name: org/eclipse/e4/ui/services/internal/events/UIEventHandler.class
+SHA-256-Digest: K8WnGPDw0iZ1fdPaO/PljcIanQ/bKcJT8z0Hjl+qTgE=
+
+Name: org/eclipse/e4/ui/services/events/EventBrokerFactory.class
+SHA-256-Digest: B7dgGCYRgff/L5Q6tRJJ3tYpul73mevV0m1juqCwjGo=
+
+Name: org/eclipse/e4/ui/services/EContextService.class
+SHA-256-Digest: w+KvuICWHDbGaPGYh0IDe7nN1LzEOq4MUlkDHWuSWGU=
+
+Name: org/eclipse/e4/ui/services/ContextServiceAddon.class
+SHA-256-Digest: TzoAR6s7W5UNaN2Uc+O1BTEjFKIxTRE57HifH0ZEPQI=
+
+Name: plugin.properties
+SHA-256-Digest: 0qdryE1sRN6z6tu0wiV5dGaAX0Rj3U7zMRBvnLbbImE=
+
+Name: org/eclipse/e4/ui/services/internal/events/EventBroker.class
+SHA-256-Digest: NUJjeqUcMhTYIynNk1pzrUJMiCmFx5/vyqSFyKCOcyo=
+
+Name: org/eclipse/e4/ui/internal/services/ActiveContextsFunction.class
+SHA-256-Digest: K0kuVVOl+dFSlqTiCpmCyCcYX+dtFXc1DiWgP8y8lYA=
+
+Name: org/eclipse/e4/ui/services/help/EHelpService.class
+SHA-256-Digest: PVDaDD0BI1+qtT7sIC/uda+df+C2M5OS6yrTUxT5lPg=
+
+Name: org/eclipse/e4/ui/internal/services/ContextContextService.class
+SHA-256-Digest: v3MK+QYf+aJFrBSGA8yzjQxfmKgwm7xgKWhLtVdZ2Nc=
+

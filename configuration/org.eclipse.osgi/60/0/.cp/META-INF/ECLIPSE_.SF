@@ -1,0 +1,41 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: iKSuUtBRJNXc73B7kP/EpwxZOpBg4
+ 9eJnEmwGkYRQhQ=
+SHA-256-Digest-Manifest: LCyFu8ILSTqpcZuBsdLSU2k+WiNLVcUQOxMj1rlGnH4=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: org/apache/batik/i18n/Localizable.class
+SHA-256-Digest: biI2uMbVITh2ivkn1fY6j/ntbVDQiw7G7t9e2RAhz9g=
+
+Name: META-INF/NOTICE
+SHA-256-Digest: Fmj6Ogt+M4GK7JeZfVZhfpinhJ/YubsxM4Xjdu+tUqY=
+
+Name: about.html
+SHA-256-Digest: 4RM2CQ6btHtPWhhnRw95GfD+eaKaaJG9Y76pZikIDlY=
+
+Name: META-INF/LICENSE
+SHA-256-Digest: LrptLnlAZef2H5MaJHWgI43HftW21S8i5kGmxFn7Xb4=
+
+Name: about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: 70sq4AoiKPmbnFMVhYi1e9oPczCS6WKy+maEqwyunWY=
+
+Name: org/apache/batik/i18n/LocalizableSupport.class
+SHA-256-Digest: zlDKDcWhy3RDx6N/iT7yXunbLxl3S0MA1jSedRrNuGM=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.i18n/p
+ om.properties
+SHA-256-Digest: BxuMa0jPH8JbJDJeOmRw0duaMf9iGtB9HDjhDk6qbbk=
+
+Name: org/apache/batik/i18n/ExtendedLocalizable.class
+SHA-256-Digest: fiJw4asfR2k1RZataM8oJO+fIy3WQ1YUikGaKzJ53fA=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.i18n/p
+ om.xml
+SHA-256-Digest: 5bUsLOzVaeZI03RU+gToMVXqg1apZB1Lm38F+pHAk64=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: niEkqISg7KF2CdBBzPqF8t6hRhBQKJLaRLi6tLLg/oQ=
+
+Name: org/apache/batik/i18n/LocaleGroup.class
+SHA-256-Digest: wQl/6EXN0fa0oZGq+DKM0LWO9YSOWiQDRqZ45eH5+Mk=
+

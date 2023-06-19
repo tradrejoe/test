@@ -1,0 +1,341 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.equinox.registry;singleton:=true
+Bundle-Version: 3.11.200.v20220817-1601
+Bundle-Localization: plugin
+Export-Package: org.eclipse.core.internal.adapter;x-internal:=true,org.e
+ clipse.core.internal.registry;x-friends:="org.eclipse.core.runtime",org
+ .eclipse.core.internal.registry.osgi;x-friends:="org.eclipse.core.runti
+ me",org.eclipse.core.internal.registry.spi;x-internal:=true,org.eclipse
+ .core.runtime;registry=split;version="3.7.0";mandatory:=registry,org.ec
+ lipse.core.runtime.dynamichelpers;version="3.4.0",org.eclipse.core.runt
+ ime.spi;version="3.4.0"
+Require-Bundle: org.eclipse.equinox.common;bundle-version="[3.15.100,4.0
+ .0)"
+Bundle-Vendor: %providerName
+Bundle-Activator: org.eclipse.core.internal.registry.osgi.Activator
+Import-Package: javax.xml.parsers,org.eclipse.core.runtime.jobs;resoluti
+ on:=optional,org.eclipse.osgi.framework.console;resolution:=optional,or
+ g.eclipse.osgi.service.datalocation,org.eclipse.osgi.service.debug,org.
+ eclipse.osgi.service.environment;resolution:=optional,org.eclipse.osgi.
+ service.localization;version="1.1.0",org.eclipse.osgi.service.resolver;
+ resolution:=optional,org.eclipse.osgi.storagemanager,org.eclipse.osgi.u
+ til,org.osgi.framework,org.osgi.service.packageadmin,org.osgi.util.trac
+ ker,org.xml.sax,org.xml.sax.helpers
+Eclipse-ExtensibleAPI: true
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: org.eclipse.equinox.registry
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-equinox/equ
+ inox.git;path="bundles/org.eclipse.equinox.registry";tag="I20220817-180
+ 0";commitId=443cc536805145356c94afdcac65ee70cd90838e
+
+Name: org/eclipse/core/internal/registry/osgi/EclipseBundleListener.clas
+ s
+SHA-256-Digest: ND3fm5XRRrMhAcsy/8Gpx4epCJFZuWrvMHNwJZ+4pqM=
+
+Name: org/eclipse/core/internal/registry/RegistryMessages.class
+SHA-256-Digest: 0UmIKqTGawfY0Atd6bGK9xElfOppbEqwHfZGTKEt0SM=
+
+Name: org/eclipse/core/internal/registry/Contribution.class
+SHA-256-Digest: WV11aCC6X5jkFaVp2TB5vZ/Gpd2NeV/WkfpaRMw4YiE=
+
+Name: plugin.xml
+SHA-256-Digest: /M9BPz3YkzR7bU3+MmXDIMpBWWSYjYr+ZbYMgtyZ05A=
+
+Name: org/eclipse/core/internal/registry/osgi/RegistryCommandProvider.cl
+ ass
+SHA-256-Digest: Z1OEqOTlpgu55DlgePUXJaIOhW8DunHXM8hSt/f2a1U=
+
+Name: org/eclipse/core/runtime/IExecutableExtensionFactory.class
+SHA-256-Digest: RHKUmXt7VnTpLK7FeraJTk0h5IhLfaniVOJLe6gL4TY=
+
+Name: org/eclipse/core/internal/registry/RegistryDelta.class
+SHA-256-Digest: 9Pn/NGUVsat1/Yb4V6zMgTlunELRHNHoVbHKD9j5kvo=
+
+Name: org/eclipse/core/internal/registry/RegistryObjectFactoryMulti.clas
+ s
+SHA-256-Digest: vmk4RgqbRtR1oEOfnp7OX/PBZ8en9xDs78vXpEW8ghM=
+
+Name: org/eclipse/core/internal/registry/DirectMap.class
+SHA-256-Digest: 7Uc/blXRTN15DHyLhtypxng/bO11A58vokDif91DDJw=
+
+Name: org/eclipse/core/internal/registry/ExtensionPointMulti.class
+SHA-256-Digest: J5bxToBl3vflwt+Nlm+YrsfsEKGi8IpmhXEWSYqfZ58=
+
+Name: org/eclipse/core/runtime/IConfigurationElement.class
+SHA-256-Digest: 2m9TMHSYoE21hKLlczWaDHaGJJQ9qSuOS0Nkww7o3DM=
+
+Name: org/eclipse/core/internal/registry/ReferenceMap$SoftRef.class
+SHA-256-Digest: JeNkWa3Z8Q373RlblwVx2q3On0NfEVm+sTdUmMg5M14=
+
+Name: org/eclipse/core/internal/registry/ExtensionPointHandle.class
+SHA-256-Digest: wB9RSW4SAYXK/gsLV59h002hHAUITPupX8LxTcWu1Nc=
+
+Name: org/eclipse/core/internal/registry/RegistryObjectManager.class
+SHA-256-Digest: 92Zs9qJFOKIut/zKZPeEOhOe35H8fDP11y1CawuYDis=
+
+Name: org/eclipse/core/internal/registry/ExtensionPoint.class
+SHA-256-Digest: oylapqwzFeIMSvYeTz9eOq+Pv7laTzL7+V3zVLTnryc=
+
+Name: org/eclipse/core/runtime/RegistryFactory.class
+SHA-256-Digest: QrO9ZJ1Db5DvhWjN2n8sri97xEjW568rEES0WXJcX7s=
+
+Name: org/eclipse/core/runtime/spi/RegistryStrategy.class
+SHA-256-Digest: iqLL+g1NKW50MJTZ66AqnNMa7OMJSBj8DTkop+Lp1+g=
+
+Name: .api_description
+SHA-256-Digest: UaD5WGKD7ks0oV2K7lRcrfvUXYsTp+rJOIrKlBE8zyA=
+
+Name: org/eclipse/core/internal/registry/osgi/RegistryProviderOSGI.class
+SHA-256-Digest: vvc5v0qW2RGeJBzoPKr7K8boIFi4TRzkpWVE05gdBBQ=
+
+Name: org/eclipse/core/runtime/ContributorFactoryOSGi.class
+SHA-256-Digest: 19w1a4Bwh8DRu3YQoDRLV8ZIzIQRG5TbPLj9JgIwo8A=
+
+Name: org/eclipse/core/internal/registry/ExtensionRegistry$RegistryEvent
+ Thread.class
+SHA-256-Digest: sFqTTlEJTekMZszGnVlZzqFl0DYfq3JcOiBL8ZTiwPY=
+
+Name: org/eclipse/core/runtime/spi/IRegistryProvider.class
+SHA-256-Digest: z1nzTzwgFaZt5Q+Y1prbZwFyVS8f4Zzs/tEAMsO5Kt4=
+
+Name: org/eclipse/core/internal/registry/osgi/ExtensionEventDispatcherJo
+ b.class
+SHA-256-Digest: J8rYnQVr0iQ/Ol8DTgaWYFeRVj+IIbkaHGpP7GvrtwM=
+
+Name: org/eclipse/core/internal/registry/RegistryIndexElement.class
+SHA-256-Digest: rEgDOjHROBwXcnLq9rslq54zrIo1ayvRAosVtL1xKjU=
+
+Name: org/eclipse/core/internal/registry/ConfigurationElementHandle.clas
+ s
+SHA-256-Digest: pYsXvrvQITVpd2cFWylhtfgKT891oNAF+yYIueUVPaM=
+
+Name: org/eclipse/core/internal/registry/ExtensionMulti.class
+SHA-256-Digest: kx6yvX3puJgQPTzylEakGNIhEbVnhxWMNQlyJH9rub8=
+
+Name: about_files/LICENSE-2.0.txt
+SHA-256-Digest: z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=
+
+Name: org/eclipse/core/runtime/spi/RegistryContributor.class
+SHA-256-Digest: l9eXQoLwmPiwEVERYHA/XcGHo34Vu/OROTmvPCKl6OE=
+
+Name: org/eclipse/core/internal/registry/RegistryObjectFactory.class
+SHA-256-Digest: HZ7HvyN3NVhyLD5M4F/lemaDtaxdLJ9JkyggdcVkKEg=
+
+Name: .options
+SHA-256-Digest: eiwTC8c6aC9PBc3iMOKyLq81NJUOaYjXwRX5qGGI+WQ=
+
+Name: org/eclipse/core/internal/registry/ExtensionHandle.class
+SHA-256-Digest: 1Hz/IpJdtA0y875P+hOG6URgG1XlLGTUUcnSPxnG1DY=
+
+Name: org/eclipse/core/runtime/IContributor.class
+SHA-256-Digest: wPoJbdFxHrCKXQQKrtr3C/M+Ltrr0NN2scjARUJteXk=
+
+Name: org/eclipse/core/runtime/dynamichelpers/IFilter.class
+SHA-256-Digest: A52sWlOJZV1VEqvVadjE6YMShn9mrrCw+9Wcvq/9inI=
+
+Name: org/eclipse/core/runtime/dynamichelpers/ExtensionTracker.class
+SHA-256-Digest: cx17Pi3xIoXChy2icQxirjlcmGmzRdmV/r8lL6MM9sY=
+
+Name: org/eclipse/core/internal/registry/RegistryIndexChildren.class
+SHA-256-Digest: NSbkgKGkDjztydDPQSRaoNeeKh38bqVHZ+imroY5W+0=
+
+Name: org/eclipse/core/internal/registry/RegistrySupport.class
+SHA-256-Digest: LzSxIxDe7b61bsXCKQWXpi1S97wUPJ7GIl5LENmWg2k=
+
+Name: org/eclipse/core/internal/registry/spi/ConfigurationElementAttribu
+ te.class
+SHA-256-Digest: 4n0HufPuYTZc06qbcLT/K/yUq+jhCnh8/VhVAxFRJz8=
+
+Name: org/eclipse/core/runtime/InvalidRegistryObjectException.class
+SHA-256-Digest: I22JQ+YqvLmKcjfolZ9CRV/1z0u/zAxAwguIskO/aD4=
+
+Name: org/eclipse/core/internal/registry/ThirdLevelConfigurationElementH
+ andle.class
+SHA-256-Digest: DtDZ+AWOe9w9eD3abjVM/Q9BZbVIc8NkE41qnfHKxB8=
+
+Name: org/eclipse/core/internal/registry/ExtensionRegistry$QueueElement.
+ class
+SHA-256-Digest: XzEURfSVknvdzuS3D5hBjOuRStUyqBEccVeVfKUTP/k=
+
+Name: org/eclipse/core/internal/registry/BaseExtensionHandle.class
+SHA-256-Digest: 55uBfcxrdr7BnbunbFxEzFdplDmShQfQeYnqOuzRYd8=
+
+Name: org/eclipse/core/internal/registry/TemporaryObjectManager.class
+SHA-256-Digest: xekde3HuqXphRhiJuAli2/SmuryFOEV5hZ2lZVrQzFM=
+
+Name: org/eclipse/core/internal/registry/IObjectManager.class
+SHA-256-Digest: vzWp/uQRAdJtWg6psdRPjzZiXMcQG0JLGhTXFHYeyT4=
+
+Name: org/eclipse/core/internal/registry/osgi/EquinoxRegistryStrategy.cl
+ ass
+SHA-256-Digest: d5AWOrHnywL793gSEjr7jo2tAaEQ/QRqfTD8eHfigp4=
+
+Name: org/eclipse/core/runtime/spi/IDynamicExtensionRegistry.class
+SHA-256-Digest: t1oNai3G6iCeWqe2ntVAJZzn40vJfFvm0EPIj/ZFIVI=
+
+Name: org/eclipse/core/internal/registry/IRegistryConstants.class
+SHA-256-Digest: gnNpl47MMGuJ/InZIQAwXKza4PFLs4IM4yL155mxo14=
+
+Name: org/eclipse/core/runtime/IExtensionDelta.class
+SHA-256-Digest: uvIFhL31OKIt87LpqUdYNS1LWWiOHt8KLmzKyH7h5a8=
+
+Name: org/eclipse/core/runtime/dynamichelpers/IExtensionTracker.class
+SHA-256-Digest: fCnPxrAwY+NR3I3cYCB4QKmwoJRRrK7JyHfGPelQewg=
+
+Name: org/eclipse/core/internal/registry/ExtensionRegistry$1.class
+SHA-256-Digest: 1GrhVwYPuxkIoSTFsH8yWIqYclz4Mi6U/QunkEIe4/U=
+
+Name: org/eclipse/core/internal/registry/messages.properties
+SHA-256-Digest: vVm9nfpPdii0bLWaEHuj8JcK4StRekL1qgPi/d1pBKw=
+
+Name: org/eclipse/core/internal/registry/RegistryProviderFactory.class
+SHA-256-Digest: +cQh+i034AyR/cLj3dH2nR5m4t/kHFApTHFhw24GK3M=
+
+Name: org/eclipse/core/internal/registry/Handle.class
+SHA-256-Digest: ZI4NuBwXzSGR1y/TfhSJdvy72w1IaNXl5lwzgVIjrPc=
+
+Name: org/eclipse/core/internal/registry/TableWriter.class
+SHA-256-Digest: WQBxDEGnzpnwZdlxQvt0MjR2cD0xeQ0nlqEJikfa1zo=
+
+Name: org/eclipse/core/internal/registry/osgi/Activator.class
+SHA-256-Digest: 63Qkc+l+yo3C/2smI1q5K7F8FGJZoY6hRuKrK9h55F8=
+
+Name: org/eclipse/core/runtime/IExecutableExtension.class
+SHA-256-Digest: HyGNRbSvHtahhfHbOWcykSV5S3475aeZyjaxHJrAUps=
+
+Name: org/eclipse/core/internal/registry/ReferenceMap$IEntry.class
+SHA-256-Digest: Jg7j/rXpior8s/E2jyT4zV7LaEcAYPkNU7qA1J83O40=
+
+Name: org/eclipse/core/internal/adapter/AdapterFactoryProxy.class
+SHA-256-Digest: CTGDXjRIGpiYX96SCe2FwS50udM8JZASi5OrgEdTgYE=
+
+Name: org/eclipse/core/internal/registry/HashtableOfStringAndInt.class
+SHA-256-Digest: hxKW4EvxqIIsCKqtnnUxwQDWIi8y7Y7rYRvQjliHacY=
+
+Name: org/eclipse/core/internal/registry/KeyedElement.class
+SHA-256-Digest: 1kLsJC5DVK34v5w+RNWLzPBrwEHjis2CrC68FCDWnc0=
+
+Name: plugin.properties
+SHA-256-Digest: K8kGAS2EiBEvrpXaYStHI9XRIKW/CT4cJvMGDAmfdZE=
+
+Name: org/eclipse/core/internal/registry/ExtensionRegistry.class
+SHA-256-Digest: T7xfzbg87/B/2jrqzJVNHsckGaS6Jn/6hv4DkkjJjWg=
+
+Name: org/eclipse/core/runtime/ContributorFactorySimple.class
+SHA-256-Digest: 9YDnYocs504l/Mos0gN/3eS/QcRE51HJzO7uhA/+s60=
+
+Name: org/eclipse/core/internal/registry/osgi/RegistryStrategyOSGI.class
+SHA-256-Digest: K8G7BWtDBq4yVg+RyUk0BB82L6TAossK4msZTfT/ydk=
+
+Name: org/eclipse/core/internal/registry/osgi/OSGIUtils.class
+SHA-256-Digest: jJQ4afej0/SRCAClXpnQGA4SMSwLjFCc8GVvk/CihbQ=
+
+Name: org/eclipse/core/internal/registry/CombinedEventDelta.class
+SHA-256-Digest: BJpjzGIKWUVfUm8eEEDOTF+mUE8xdnNrlVbPxGcgvPI=
+
+Name: org/eclipse/core/internal/registry/osgi/ExtensionEventDispatcherJo
+ b$1.class
+SHA-256-Digest: 7AJ/0TQNzIz2NnNxnmzngW1yNhhvzG99P5I7etj+EUg=
+
+Name: org/eclipse/core/runtime/dynamichelpers/IExtensionChangeHandler.cl
+ ass
+SHA-256-Digest: qdb089FpVG5xcyNtbJqpThtJHeGZYyMhQjGqj4wwshA=
+
+Name: org/eclipse/core/internal/registry/OffsetTable.class
+SHA-256-Digest: /VNWcQKu2Sb3GAqjLVVQDW4DOD4WpFM1KvUJPqueQWY=
+
+Name: org/eclipse/core/internal/registry/ConfigurationElementMulti.class
+SHA-256-Digest: EPXe7YKMCt6JkSVPdfp/Zd+Qo/G4JpHnM7wwVAT6ABQ=
+
+Name: org/eclipse/core/internal/registry/KeyedHashSet.class
+SHA-256-Digest: IcnVKukWQYCr0kzoKJ3XMsZC845cY2//MZYB+KdXyBM=
+
+Name: org/eclipse/core/internal/registry/ExtensionsParser.class
+SHA-256-Digest: OiBmGImhDiRfqvHkVVdqsBQM2iHvsjK4flrZjygQZAw=
+
+Name: about_files/NOTICE.txt
+SHA-256-Digest: xTY0yWAWPwC6CwFHzD3uXK8Oake8mQmi/pS3rc9dmD4=
+
+Name: org/eclipse/core/internal/registry/ReadWriteMonitor.class
+SHA-256-Digest: LfGKRqtKu/J6j9rDsshmW9bVTGxU7+OW8CL0p8vVwFI=
+
+Name: org/eclipse/core/runtime/IRegistryChangeListener.class
+SHA-256-Digest: Zo8wJ4FIF2v9HYydmGBh7CksdNr6JWWEhg595uYaLz8=
+
+Name: org/eclipse/core/internal/registry/ExtensionRegistry$ListenerInfo.
+ class
+SHA-256-Digest: 80F61axQnUT9TIKutoatB8SRVw3ZtaESnmJ8P0MA6j0=
+
+Name: org/eclipse/core/internal/registry/RegistryTimestamp.class
+SHA-256-Digest: zgtsV++XPuZ4ZoGcLZud7eQL+3etLdXzo55jMnYZJ34=
+
+Name: org/eclipse/core/internal/adapter/AdapterManagerListener.class
+SHA-256-Digest: nKItEfCWPC5mA1FIzZuMxKZUkZJG0FQ73rgYyO3tfQc=
+
+Name: org/eclipse/core/internal/registry/RegistryObject.class
+SHA-256-Digest: oiiQnTyHCO43t6UF3adZrkbQHO343/oqeK1fRffDavk=
+
+Name: org/eclipse/core/runtime/IRegistryChangeEvent.class
+SHA-256-Digest: HBrwWwoLVUOJ5peVR04rTmqe+x9qgJ97shrywHkQ9XI=
+
+Name: org/eclipse/core/runtime/IRegistryEventListener.class
+SHA-256-Digest: x1h8ay65VoNOK9i768Mdx0nGK4ABWE19LiGGDsdv9MY=
+
+Name: org/eclipse/core/runtime/IExtensionRegistry.class
+SHA-256-Digest: nw8oXMCN1aXLfxJymleKnssbTi6w9qcraHbP7N3m/0s=
+
+Name: org/eclipse/core/internal/registry/RegistryChangeEvent.class
+SHA-256-Digest: HKPRPxH9rIPAdKSmb3WT10i577CFNTrjH4CttjhQPoA=
+
+Name: org/eclipse/core/internal/registry/RegistryProperties.class
+SHA-256-Digest: bA9MvVUcje5cTLdk+kw3ROxb5EUwvb4YPW2TyiDzyv8=
+
+Name: org/eclipse/core/internal/registry/BaseExtensionPointHandle.class
+SHA-256-Digest: dpGjbQ98qG3U1+7UE4QMGSvFOSthM+Pxf+fNgXZM0vQ=
+
+Name: org/eclipse/core/internal/registry/osgi/EquinoxUtils.class
+SHA-256-Digest: V31fMLMqUi986YaBTe+lWhQUCdRjaBJ2GiPMBR1zpCg=
+
+Name: org/eclipse/core/internal/registry/spi/ConfigurationElementDescrip
+ tion.class
+SHA-256-Digest: jZMHW0xcbg1v4Oac0ZzH2fcfVcdNSpZxk+y9x9VvNTs=
+
+Name: org/eclipse/core/internal/registry/ConfigurationElement.class
+SHA-256-Digest: CM214C6wu3GC5FGMQHtwmX76TGf7NQvKSItkhGiSPIg=
+
+Name: org/eclipse/core/runtime/IExtension.class
+SHA-256-Digest: 8Pc8xvRP8W2s3TrO54NPr7lzMUy5fr0UEJO7K2PafQs=
+
+Name: about.html
+SHA-256-Digest: wXMi78+Wybhj8+WDGFY6oIIA2w7AZUrDhOw//h5Hu0A=
+
+Name: org/eclipse/core/internal/registry/ReferenceMap.class
+SHA-256-Digest: uPPI9v+jiij+4xdlzQtlAsdlviWd+YGfEhN5h3ndl3A=
+
+Name: org/eclipse/core/internal/registry/BufferedRandomInputStream.class
+SHA-256-Digest: Vb4YRPaR7RoXOmXLnerk7csk2Xa43bB39KpzXKQ6w0s=
+
+Name: org/eclipse/core/internal/registry/ReferenceMap$HardRef.class
+SHA-256-Digest: OV5RR7DHeib7XqVqzhCgZVXn9G6OgIhJkvWUB4TR5cc=
+
+Name: org/eclipse/core/runtime/dynamichelpers/ExtensionTracker$HandlerWr
+ apper.class
+SHA-256-Digest: 1NWg1AixhF5F4NDse/ft6wlbFt4/LG92WkblMGRMrAU=
+
+Name: org/eclipse/core/internal/registry/ExtensionDelta.class
+SHA-256-Digest: X1zg2w4hZ9HkWW00q0+eaUQg0xbfn2uTmVfjvwY2WHM=
+
+Name: org/eclipse/core/runtime/IExtensionPoint.class
+SHA-256-Digest: 50T4pKxZb5mjHs0jxBENDpbayFi4uPhCmn+3fNCklKE=
+
+Name: org/eclipse/core/internal/registry/TableReader.class
+SHA-256-Digest: /WkKd443j/Lrif5DXIyQ2DeF6fItCNAbU6DKhRUYPCI=
+
+Name: org/eclipse/core/internal/registry/Extension.class
+SHA-256-Digest: oDkir01dKT0QSOSRLP2LR5itxRC0vZcvO5HEHTU0YuM=
+

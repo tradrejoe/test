@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.equinox.p2.core_2.9.200.v20220817-1208" version="1.2">
+    <plugin id="org.eclipse.equinox.p2.core_2.9.200.v20220817-1208"/>
+    <package name="org.eclipse.equinox.p2.core" visibility="1">
+        <type name="IAgentLocation" restrictions="3"/>
+        <type name="IPool" restrictions="1"/>
+        <type name="IProvisioningAgent" restrictions="3"/>
+        <type name="ProvisionException" restrictions="2"/>
+    </package>
+</component>

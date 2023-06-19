@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.equinox.p2.engine_2.7.500.v20220817-1208" version="1.2">
+    <plugin id="org.eclipse.equinox.p2.engine_2.7.500.v20220817-1208"/>
+    <package name="org.eclipse.equinox.p2.engine" visibility="1">
+        <type name="IEngine" restrictions="3"/>
+        <type name="IPhaseSet" restrictions="3"/>
+        <type name="IProfile" restrictions="3"/>
+        <type name="IProfileRegistry" restrictions="3"/>
+        <type name="IProvisioningPlan" restrictions="3"/>
+        <type name="ISizingPhaseSet" restrictions="3"/>
+        <type name="PhaseSetFactory" restrictions="2"/>
+    </package>
+    <package name="org.eclipse.equinox.p2.engine.spi" visibility="1">
+        <type name="Touchpoint" restrictions="0">
+            <method name="qualifyAction" restrictions="8" signature="(Ljava/lang/String;)Ljava/lang/String;"/>
+        </type>
+    </package>
+</component>

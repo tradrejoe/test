@@ -1,0 +1,748 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Automatic-Module-Name: org.eclipse.ltk.core.refactoring
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.ltk.core.refactoring; singleton:=true
+Bundle-Version: 3.13.0.v20220822-0502
+Bundle-Activator: org.eclipse.ltk.internal.core.refactoring.RefactoringC
+ orePlugin
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.ltk.core.refactoring,org.eclipse.ltk.core.re
+ factoring.history,org.eclipse.ltk.core.refactoring.model,org.eclipse.lt
+ k.core.refactoring.participants,org.eclipse.ltk.core.refactoring.resour
+ ce,org.eclipse.ltk.internal.core.refactoring;x-friends:="org.eclipse.lt
+ k.ui.refactoring,org.eclipse.ltk.core.refactoring.tests",org.eclipse.lt
+ k.internal.core.refactoring.history;x-friends:="org.eclipse.ltk.ui.refa
+ ctoring,org.eclipse.ltk.core.refactoring.tests",org.eclipse.ltk.interna
+ l.core.refactoring.resource;x-friends:="org.eclipse.ltk.ui.refactoring,
+ org.eclipse.ltk.core.refactoring.tests",org.eclipse.ltk.internal.core.r
+ efactoring.resource.undostates;x-internal:=true
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.25.0,4.0.0)"
+ ,org.eclipse.core.expressions;bundle-version="[3.4.100,4.0.0)",org.ecli
+ pse.core.filesystem;bundle-version="[1.2.0,2.0.0)",org.eclipse.core.fil
+ ebuffers;bundle-version="[3.5.0,4.0.0)",org.eclipse.core.resources;bund
+ le-version="[3.16.0,4.0.0)",org.eclipse.core.commands;bundle-version="[
+ 3.5.0,4.0.0)",org.eclipse.text;bundle-version="[3.5.0,4.0.0)"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-jdt/eclipse
+ .jdt.ui.git;path="org.eclipse.ltk.core.refactoring";tag="I20220822-0600
+ ";commitId=18e0eee7aeb2bf3f491e03e75ea197d15412d4b0
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHisto
+ ryService$2.class
+SHA-256-Digest: oyhaG17h6Bx28ENQqUEWRmafgnVrKSvMG4pJw50BENQ=
+
+Name: plugin.xml
+SHA-256-Digest: 9aS+wuWlRI/hJvNDpyuixN9kY1B0IqpTMtXxhi85ZCU=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/IRefactoringDesc
+ riptorDeleteQuery.class
+SHA-256-Digest: b1R7l+ltV1iN5W5AWsWKDTOryv6zsvmRk5kC6ifvB1c=
+
+Name: org/eclipse/ltk/core/refactoring/participants/MoveProcessor.class
+SHA-256-Digest: jp1M/LNXCqGPiW7xQ21VDnpgtdSznZL2KWv0lVBEwOA=
+
+Name: org/eclipse/ltk/core/refactoring/ContentStamp.class
+SHA-256-Digest: Hfc70vRoUd3WeGM89e77bDJc7Xtp23Qqa/nChwautNw=
+
+Name: org/eclipse/ltk/core/refactoring/CompositeChange.class
+SHA-256-Digest: tlJ58rBC46yKK3Oi4I/S8oU5VyAni1NX/qwFVpLm8QA=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/DeleteResources
+ RefactoringContribution.class
+SHA-256-Digest: ZzRW0XKTIP6+mIIZNmF/XWGJ+qUVKJlDyR59oduFSqA=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/MoveRenameResou
+ rceRefactoringContribution.class
+SHA-256-Digest: Xku7LQlcMfWUk/ByqkyFGoTYDvGnUVsCzkUXKOQXAxE=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/ResourceModific
+ ations$CreateDescription.class
+SHA-256-Digest: xyV+hw59z3YhGGFF5J3E1wYBJAT2K5DeEKoXrp32NPQ=
+
+Name: org/eclipse/ltk/core/refactoring/MultiStateTextFileChange$Composab
+ leBufferChangeGroup.class
+SHA-256-Digest: q+MvI92PkYkA4vjGHVJ1Sk4q/ioxQ8R4Cwec2X32dNA=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoManager2$4.class
+SHA-256-Digest: 54zWE98wZp9OjrVUIJsbBgV018jo+s6yW52Rk7/Q8Bc=
+
+Name: org/eclipse/ltk/core/refactoring/resource/MoveRenameResourceDescri
+ ptor.class
+SHA-256-Digest: Ccgd8Lz7m48s/v0dBBKwPH3QvJHThTOKVzFJEuBqQuA=
+
+Name: org/eclipse/ltk/core/refactoring/CategorizedTextEditGroup.class
+SHA-256-Digest: QaKh8Up6OvIq1VOGKZXCBc4c+10pqtBKxiiWLTeCTbk=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHisto
+ ryManager$DOMWriter.class
+SHA-256-Digest: LXLlzjDK4nRS4832X4acSv3qj2ZHrfc2QDLyOUnffQc=
+
+Name: org/eclipse/ltk/core/refactoring/MultiStateTextFileChange$Composab
+ leBufferChange.class
+SHA-256-Digest: TtYSBP/dfS+v6Am7aX6lVfXz2iqzTZXoOzVbB0PZVmk=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHisto
+ rySerializer.class
+SHA-256-Digest: 8V75WFuKAByyQy96WRO3RMnaNLD1fZak9DM/RNinVYA=
+
+Name: org/eclipse/ltk/core/refactoring/DocumentChange.class
+SHA-256-Digest: 4jrXVzq853U5DrMwrWTw7poygrj0rpU3aRVqVO8otpE=
+
+Name: .api_description
+SHA-256-Digest: vUEjwBUO4BA9rqxoYXUzZVEok9w+3h+O0D7oy0fm+uE=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHisto
+ ryService$NullRefactoringHistory.class
+SHA-256-Digest: /ojvq+8niApx4MaGCXclagYfpl5a+IrgyoaweyY2NgY=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringContext.class
+SHA-256-Digest: 1Z2CzxYRMLxlT7akvDKYp6bDxsjm+skjqXbVvMMph6w=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RefactoringParticipa
+ nt.class
+SHA-256-Digest: 0i1wpvDsu7lgq8O5wPL8S8kFybyDyeG5uUi2JBF1mLQ=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RefactoringArguments
+ .class
+SHA-256-Digest: fY8FXrWcThn7/FT3V65IsdK06Amtf9cc4ip34la8IfE=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringStatusEntry.class
+SHA-256-Digest: sgb11x281JH879yT9yKqJ0RL5t0vjlIUGNyFaDzboxs=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CheckConditionsConte
+ xt.class
+SHA-256-Digest: arRsjVCNBQzHamR1+8OBsLAxeIyi9E9NM2KdsOhCVds=
+
+Name: org/eclipse/ltk/core/refactoring/Change.class
+SHA-256-Digest: WiHPyn+3BHtaQdhEH1BuNQ81jsGkLoATpgsxcsKhkps=
+
+Name: org/eclipse/ltk/core/refactoring/participants/DeleteRefactoring.cl
+ ass
+SHA-256-Digest: oNR0WVgAlfyffxNgbA2VgsyOQl9gwYn+Yb3QpT8q/s0=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/DefaultRefactori
+ ngDescriptorProxy.class
+SHA-256-Digest: TqvYnj8J6hcaFjHzuRIcpYd4EKGOttt0IOayFPSCEi0=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CopyArguments.class
+SHA-256-Digest: aJkwrtpNRXuHaJkjXVVFT3mcgtIsH6Iwyrpfe1v69bY=
+
+Name: org/eclipse/ltk/core/refactoring/Refactoring.class
+SHA-256-Digest: Zk7pzDdV9unHnJav0HciO10wVTcsDRWtmYYAXt9u/Ig=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/UndoDeleteResou
+ rceChange.class
+SHA-256-Digest: t7F9ph8xv3MeiM8STiWg/tvTVapwXodn5GM852lNxWY=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Cont
+ ainerUndoState.class
+SHA-256-Digest: 1toeuwOERbvFwdqwAy2f5TkTnG1U0tvdK3wIq06n63Y=
+
+Name: org/eclipse/ltk/core/refactoring/ChangeDescriptor.class
+SHA-256-Digest: UmjwPlvILtRZF4V3LaAbRjl3Gs36W8Cnx7LGw2crLtE=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringChangeDescriptor.class
+SHA-256-Digest: geHY2zeCFz3fVm7iXtqY6K3SJR0pNVJW7YtvJYt+xWg=
+
+Name: org/eclipse/ltk/internal/core/refactoring/Messages.class
+SHA-256-Digest: PeDqNXrcnmtxxcLdjelqu/h5bcWVxmgYWGEPuuuMm6s=
+
+Name: org/eclipse/ltk/core/refactoring/TextChange.class
+SHA-256-Digest: qnYHcb05wbe0Xu5qg2BQgZCglIYG1vqumHcuRzo2azI=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringSessionTransf
+ ormer$AttributeComparator.class
+SHA-256-Digest: FSprK/fryfRwu1ZKzYEahtxqdySwK9ey8VinAVHyenk=
+
+Name: org/eclipse/ltk/core/refactoring/participants/DeleteProcessor.clas
+ s
+SHA-256-Digest: RAlACAuOkSs0jR7y9wlAuUnodbxxjiowf6ZdONweESA=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringContr
+ ibutionManager.class
+SHA-256-Digest: jyUkUpFJN2LvAqIbEMUGJEk5ySa31t9kvza9AUC9QSw=
+
+Name: org/eclipse/ltk/core/refactoring/history/IRefactoringExecutionList
+ ener.class
+SHA-256-Digest: +xV/yeXR9vEnrqMh7mjBJ637T+AFiIgAhmWlJcCCrIw=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringCore.class
+SHA-256-Digest: umWqBGlrnzevCWrJT3rhhRVEoJRkRH+rOoobXgN+d9g=
+
+Name: org/eclipse/ltk/internal/core/refactoring/BufferValidationState$Mo
+ dificationStamp.class
+SHA-256-Digest: 8noSRPl4DD3jACQp/KpFBnYP/LFwdGtNTIM3zi0rFUo=
+
+Name: org/eclipse/ltk/core/refactoring/history/IRefactoringHistoryServic
+ e.class
+SHA-256-Digest: 26IFBlFXUpjmLuHFe64/vlTDt2WPXYb5OJLYFdKPpng=
+
+Name: org/eclipse/ltk/core/refactoring/TextEditBasedChange$LocalTextEdit
+ Processor.class
+SHA-256-Digest: 4+nlrRhNIyrOMr8wkZYZgzcRKrQ9MZv6vFy5VrqvzF4=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RenameArguments.clas
+ s
+SHA-256-Digest: stxzNiru7APQwijuR1dQsF4y/KHJ1ibYPI2/egJM+wk=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoManager2.class
+SHA-256-Digest: T896dYNKzm4COXnNowTm9Y4BTAgU536I+RgfmXoDhvE=
+
+Name: org/eclipse/ltk/core/refactoring/history/IRefactoringHistoryListen
+ er.class
+SHA-256-Digest: M43UW7Cz/5HMVYWCr6w0EdOAQYdmiNdSqTxweigRHOA=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHisto
+ ryService.class
+SHA-256-Digest: lY0CDImOTsPsOu4b1xWVGIUaCUhBoNUS/xR5UQIjpyY=
+
+Name: org/eclipse/ltk/core/refactoring/IUndoManager.class
+SHA-256-Digest: oNyyKKg1fgn1fkvUkDGV/HWw4r3DeBgJ7Wm3xA0hXpc=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoManager2$3.class
+SHA-256-Digest: tbjDF81BLJ9Oabyo7jd00aP8fTjtHHQFCR64Z8p53kg=
+
+Name: org/eclipse/ltk/internal/core/refactoring/NotCancelableProgressMon
+ itor.class
+SHA-256-Digest: 9quocAaCTEwKEqqvwH+Fm9s8nfKMeZZPtall6SDzT4w=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHisto
+ ryService$1.class
+SHA-256-Digest: bWNb9JmSqekh7GJIH39e0cQqHaBKL5+Pq6h8BXIbC7c=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringCoreMessages.
+ properties
+SHA-256-Digest: oZxCO0ZdxKYqXafpqpScpDUeQQMrCDuu3mBuf3Xd3/o=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHisto
+ ryImplementation.class
+SHA-256-Digest: IW9jgM9aVY5amo+yrq2eFsfFllxu6IVywndt8vKpBpU=
+
+Name: org/eclipse/ltk/core/refactoring/resource/ResourceChange$Validatio
+ nState.class
+SHA-256-Digest: llivzrGuGA16ivT1Qnr0mUiAUaE4mqVSTnplPfdRvjg=
+
+Name: org/eclipse/ltk/core/refactoring/IRefactoringStatusEntryComparator
+ .class
+SHA-256-Digest: l+szRzmHM87/E5E2xW6eSlLCzm8t0wDWjfkr/Cb8MhQ=
+
+Name: org/eclipse/ltk/core/refactoring/resource/ResourceChange.class
+SHA-256-Digest: VlHYau7StAEcmIgeGigKzxyQZLzV5ju4jiE8qW8HYhA=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ValidateEditChecker.
+ class
+SHA-256-Digest: vg67MLCZvrk9WaeXLEUgFBY8TiTny32VvWM/DhqRLzk=
+
+Name: org/eclipse/ltk/core/refactoring/PerformChangeOperation.class
+SHA-256-Digest: PCPfnngItTIZ0CsXalKd6Y3440pOifU1kJUu9iP6x1g=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoableOperation2Change
+ Adapter.class
+SHA-256-Digest: lk5GRav61AlsQsS/cJuFmJVfiABkZkM7sHA4ZezKKII=
+
+Name: org/eclipse/ltk/core/refactoring/MultiStateTextFileChange.class
+SHA-256-Digest: b5UEsUjMv1wAW/O43xFVAKcOAcVGOX3FWpE9WZZ6wF4=
+
+Name: org/eclipse/ltk/internal/core/refactoring/IRefactoringSerializatio
+ nConstants.class
+SHA-256-Digest: huoonGPecq+URqxRk1W8qBdX2qMv9bOLh+iMdWgzqaE=
+
+Name: org/eclipse/ltk/internal/core/refactoring/TextChanges.class
+SHA-256-Digest: ZrO3VBzYMLlydkyiuHDaXL8h89dlZaT9atOhlKbBizI=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/File
+ UndoState$1.class
+SHA-256-Digest: 8cOnwlyXRDRWDB/V+DJtwH4LE6kzBBv1ppxgXvpW1GA=
+
+Name: org/eclipse/ltk/core/refactoring/IValidationCheckResultQueryFactor
+ y.class
+SHA-256-Digest: JKfaSOI0YXZT7z1s95uh3bRu7MbPA/gr1ompR9UVH4A=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/File
+ UndoState.class
+SHA-256-Digest: IjxNc7spEdkwdaGCxvQClvrDatyGUVRpAgf3YQOpHns=
+
+Name: org/eclipse/ltk/internal/core/refactoring/ParticipantDescriptor.cl
+ ass
+SHA-256-Digest: TNTMIKri8eD+Cg+mKsri3kNOTuQe16vyp4+/iS4y/j0=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Fold
+ erUndoState.class
+SHA-256-Digest: SMgvOiXaRTOrCAG+a6hm3Eo9V0xEqbm1m9ZBma5+7VE=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/MoveResourcesRe
+ factoringContribution.class
+SHA-256-Digest: fz/n9SAWfYXrPktKpjzmQGTE/mRAnd8wtVnV2ZKbQBs=
+
+Name: org/eclipse/ltk/internal/core/refactoring/BufferValidationState.cl
+ ass
+SHA-256-Digest: bipdiuZ8GJfM6mSK4Ihy2FhLyCrr5QnHaV6Am1fxgYs=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringCore$DefaultQueryFacto
+ ry.class
+SHA-256-Digest: bUFzVUh82W8kdfgWuuc02N/jk4rdsA11nuzU+ussrfI=
+
+Name: org/eclipse/ltk/core/refactoring/participants/IRenameResourceProce
+ ssor.class
+SHA-256-Digest: tKS4z21K77YJynpyEabMsluEGtUnTWlgV42+Hlgsrlk=
+
+Name: org/eclipse/ltk/core/refactoring/participants/IParticipantDescript
+ orFilter.class
+SHA-256-Digest: Wa6CFHH6NJdZcWpR+eh18CYJd3WA5JhPnJln5SLevjg=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ParticipantExtension
+ Point.class
+SHA-256-Digest: VuOkera4f/5pQBm4K1aFFZwnnc8iYt39lk0IbOL7KNI=
+
+Name: org/eclipse/ltk/core/refactoring/CheckConditionsOperation.class
+SHA-256-Digest: GZZ/zDwIysiwHBqfpV3OVrz4CqCUMipQsrzdRJS5MP8=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringSessionReader
+ $1.class
+SHA-256-Digest: 1Dr8mdmm80TsRDmeSpnBVrfapVkLXxrv1jhRRPsoJcA=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHisto
+ ryService$3.class
+SHA-256-Digest: IoXQJUszeMa8k+hi+SZJFMxVCDLoJDuYw2900KvHsYw=
+
+Name: org/eclipse/ltk/internal/core/refactoring/MultiStateUndoChange.cla
+ ss
+SHA-256-Digest: QGHZZdDiuQ3gBSH7v+Z0kSTbLxfRlhFxvFfKs8AYnNE=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/ResourceModific
+ ations$CopyDescription.class
+SHA-256-Digest: uBnH9eDsJUgaUg/hwc61Gqc7jlKEU8xNMDXB8/ZQEd0=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ProcessorBasedRefact
+ oring$ProcessorChange.class
+SHA-256-Digest: vVJgWYTNsbIE2cMPCtnk1YQsGVvhQAMtld2xyzKWp+U=
+
+Name: org/eclipse/ltk/core/refactoring/MultiStateTextFileChange$2.class
+SHA-256-Digest: ThqSqYXt6DtHvOuurnrlBsqh/p7HMEwmL5aVrk/sCVM=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringUndoContext.c
+ lass
+SHA-256-Digest: 5a8eNPsBGEkXGItjwryibZ0aaWJe7XKegKxloD/Skzc=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/RenameResourceR
+ efactoringContribution.class
+SHA-256-Digest: ExxM3Tv6MqyE0X6LWDp8lUwPA2oYd5CGsR3KeuHJeOo=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Abst
+ ractResourceUndoState.class
+SHA-256-Digest: JKuXdNwNtfInAzYXED0dtDY+AoeK9GsbUqjwLCQkZlU=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ResourceChangeChecke
+ r.class
+SHA-256-Digest: GjgAuQS6D0bNkBLv6bYXvWAM4IcZJSTBEowwLC1tfb0=
+
+Name: org/eclipse/ltk/core/refactoring/model/AbstractRefactoringDescript
+ orResourceMapping.class
+SHA-256-Digest: s+Xlk0brFNmOAwixPUCY/GAbC4P7ce+t98+gFpE0Too=
+
+Name: org/eclipse/ltk/internal/core/refactoring/ModificationStampValidat
+ ionState.class
+SHA-256-Digest: FikYsm7/8WXB+rZOlSoznzmm+NcK2mNYHtMcOK5e/N8=
+
+Name: org/eclipse/ltk/core/refactoring/history/RefactoringExecutionEvent
+ .class
+SHA-256-Digest: 3acsKbYu6Gzuei8qrPkVEGL5Vf61FssBZxtZesnwQB4=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringContribution.class
+SHA-256-Digest: YIFYCFghhd8TMbZr7JMQPpk+F0sYzR/2BtDqop9dp74=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoableOperation2Change
+ Adapter$ExecuteResult.class
+SHA-256-Digest: cp/7Dk2uNONk36ZhTWyD/Woif+OOywGA6pgekMnotKQ=
+
+Name: org/eclipse/ltk/core/refactoring/participants/MoveArguments.class
+SHA-256-Digest: Kaz9tHMHa+pAY+p24adoWkxp3o6CKpEkmeIey6+poiA=
+
+Name: org/eclipse/ltk/core/refactoring/MultiStateTextFileChange$1.class
+SHA-256-Digest: cT21gqvYkNo6jzueZidAXzbO3CBs8h47yeyiTK8f1M0=
+
+Name: org/eclipse/ltk/core/refactoring/history/RefactoringHistoryEvent.c
+ lass
+SHA-256-Digest: cjdvL1clTDNY+6JQ/1xp1GxzQrJz7w7r91Z8bkpDc+U=
+
+Name: org/eclipse/ltk/core/refactoring/history/RefactoringHistory.class
+SHA-256-Digest: gsQ9AaZCOYpQqbDOKG7wSC2EG3vG6RYoHqVt5qq1fjM=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringTickProvider.class
+SHA-256-Digest: Ro0MyD7tBtqfo99IPVWGpetWUxnwjJ3lAVKJS3mItcI=
+
+Name: org/eclipse/ltk/internal/core/refactoring/BasicElementLabels.class
+SHA-256-Digest: 2OeU+94gZKxxyixDLEgzzLudj3GbMwBlxcVZtxRjCdM=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/ResourceModific
+ ations$MoveDescription.class
+SHA-256-Digest: 2HKBRN+JQn3DNG/fCG+93AAPKbD1AWYxBKkJSnhF08s=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Reso
+ urceUndoState.class
+SHA-256-Digest: Ul4k+VenHib76BZom8OQEoT//XZg7NUXADtKLncix9U=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ParticipantManager.c
+ lass
+SHA-256-Digest: dcQ+EexTFeSi20DEv/mNQXeS+7APibWG+lKf1d/K4BI=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ProcessorBasedRefact
+ oring.class
+SHA-256-Digest: /7mMIdf8M5XgA0sJz7jNPejyWFQILG3B2x5B9foQ0aE=
+
+Name: org/eclipse/ltk/core/refactoring/MultiStateTextFileChange$Composab
+ leUndoEdit.class
+SHA-256-Digest: bI2pGJbNiyHVgkDtv4VfaIF/xVuchmuz72XTE0wr82w=
+
+Name: org/eclipse/ltk/core/refactoring/participants/DeleteParticipant.cl
+ ass
+SHA-256-Digest: Lmg9UzwVvC3g7KV+dHbZ5acz7z9qUBtq9o2lcUYMJBQ=
+
+Name: org/eclipse/ltk/core/refactoring/MultiStateTextFileChange$Composab
+ leEditPosition.class
+SHA-256-Digest: upG9stqNfwUmqCs+XUIQ1n+gcAueBKpt8z7Zrg2B15k=
+
+Name: org/eclipse/ltk/core/refactoring/resource/MoveResourceChange.class
+SHA-256-Digest: RAV+aaLpeTYHh0vaRNYp1o3W0AkDiWrs3WZVE5p0avA=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringSessionDescriptor.clas
+ s
+SHA-256-Digest: fF66B8OH55ujE3DBl9/w7mpfPvspha17uQQcehyruNQ=
+
+Name: org/eclipse/ltk/internal/core/refactoring/ContentStamps.class
+SHA-256-Digest: j67Rvh1ZoT4zqzdO+CpSUdeV1U54pRBZpNKrzh2UIWU=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CopyRefactoring.clas
+ s
+SHA-256-Digest: JyUFL6KXG+rXrRAQDn0JUSXXvDGbXAUj+Md7fQvw5n8=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoableOperation2Change
+ Adapter$ContextAdapter.class
+SHA-256-Digest: uCfqY2Y2C0UxhVpInYFMOt3jshp8YmpSRfFz/9UrquM=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RefactoringProcessor
+ .class
+SHA-256-Digest: EbCnf7l4rUVcEP7lRLM1iQI4jm+okrlry5SujKAzw5g=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Mark
+ erUndoState.class
+SHA-256-Digest: eQeb33RlqqtcahbyhmIotof+EjxwYMkvKfHwgOQIbx0=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RenameProcessor.clas
+ s
+SHA-256-Digest: Qi0lCfczonxL52OpsDtl78X04aRnVEst18CmCQdlz8U=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ISharableParticipant
+ .class
+SHA-256-Digest: nQ+eYiJUo1CoRxxHzQveZqhJS6cNAzEJ68zExMNL5uE=
+
+Name: org/eclipse/ltk/core/refactoring/participants/MoveParticipant.clas
+ s
+SHA-256-Digest: GydIeomg+v6bfKeWHye67mzuxntWemOIoaXz4z51Lxw=
+
+Name: org/eclipse/ltk/internal/core/refactoring/NoStampValidationState.c
+ lass
+SHA-256-Digest: SMh32+yDPMo/u2R1Kt5yKzUSeDfNFi0/7fHFxBjWhQk=
+
+Name: org/eclipse/ltk/core/refactoring/resource/Resources.class
+SHA-256-Digest: dgy+uAsCB8ym4ojeg/MaX0mSS2oAATGXywm9vy8GV3o=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CopyProcessor.class
+SHA-256-Digest: ewSCRcD0VsPtNIpwcD9HB8TGhNqoww5Ut4LLlOt4FCA=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringCore$NullQuery.class
+SHA-256-Digest: HWP2UsugyoPXIT4kDswp8Gmo4g/nytEm7VgF+jMlve8=
+
+Name: org/eclipse/ltk/core/refactoring/FileStatusContext.class
+SHA-256-Digest: UWQLVq1LiEEKuXoMPwnMmdk7Ep5z6Y4Co0Na9bgnDo8=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoManager2$1.class
+SHA-256-Digest: ad8Et3KnhkT3Ih0TtL1ok8bPrn5oe03HjYK755geCT4=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringDescriptor.class
+SHA-256-Digest: ax3UN6n/H+6ZsRQWXqXuFlrp4+68sL926qJTHMqOIDc=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/ResourceModific
+ ations$ChangedDescription.class
+SHA-256-Digest: SCnX5DAVgbJjZuKtgoCwPl3Gn5zB43rSARXe19Sbqkw=
+
+Name: org/eclipse/ltk/core/refactoring/participants/DeleteArguments.clas
+ s
+SHA-256-Digest: 5CuG4ACU9Qaz9tgufQ4zLJ0N4yQHIL5iwZz4D8fyZlw=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/DefaultRefactori
+ ngDescriptor.class
+SHA-256-Digest: tHNMGspEv1cYfcxM0Grw/U+G65eaxZ07MwcPKrw3eyw=
+
+Name: org/eclipse/ltk/core/refactoring/CompositeChange$2.class
+SHA-256-Digest: pxMb6ROXgnQbfwK8xe5bPjbSXyk/MlA1KU6AJzemrVg=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoManager2$2.class
+SHA-256-Digest: 6J4FUmIjIgCfNl6FiMHKUIP0+oObFHFiwr3MyTQ9LsQ=
+
+Name: org/eclipse/ltk/core/refactoring/resource/DeleteResourceChange.cla
+ ss
+SHA-256-Digest: 2t2netga3QSEN5QkJyoMsWmiVH+aiDEP8+fzI4UMpIk=
+
+Name: org/eclipse/ltk/core/refactoring/UndoManagerAdapter.class
+SHA-256-Digest: dYDBPrVqSSYhbZjZopYPx7VdzLaGPwxzu3Z9MeYCLEQ=
+
+Name: .options
+SHA-256-Digest: 9JgQPatH1cnTdqc/8sKbhT3SL0AcxeekFWld2BmnCrs=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CreateParticipant.cl
+ ass
+SHA-256-Digest: c3pWICC/BdDLSBLAqixEndN9DFMHpTLSFP2dN2ucvFw=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringSessionReader
+ .class
+SHA-256-Digest: GhMXCmo9RRxc0UuEptItX1mYxV1vP4FiRqW2A63KeuQ=
+
+Name: org/eclipse/ltk/core/refactoring/TextFileChange.class
+SHA-256-Digest: 5q6yHQMq8u3GkzIqloe6CxiK0IOyhCBfryC1RKzOLzA=
+
+Name: org/eclipse/ltk/internal/core/refactoring/ContentStamps$ContentSta
+ mpImpl.class
+SHA-256-Digest: i82EpU0+wNET9fh/1uf8c7AG6KPwyv5GMpaq+vqmw+M=
+
+Name: org/eclipse/ltk/core/refactoring/IValidationCheckResultQuery.class
+SHA-256-Digest: mlkBKdtePhwyJCk+VnXfDc8oxeRlVdgHtHKm/b/Ca1k=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoManager2$NullQuery.c
+ lass
+SHA-256-Digest: rjsziyJKeITPDFmx5DLypv2ks0zgbJRdVXMqlKgufxk=
+
+Name: org/eclipse/ltk/internal/core/refactoring/NonDeletingPositionUpdat
+ er.class
+SHA-256-Digest: UWIxmGBr/pQAFDhQZaMO5EgxtbTM+BEfkjPzwl61rkM=
+
+Name: org/eclipse/ltk/internal/core/refactoring/Changes.class
+SHA-256-Digest: zYP27ws6kzVB14jUIcZvP1UAlbLPs2zV8qeltqTb0Ts=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringDescriptorProxy.class
+SHA-256-Digest: xjMCk714gXHpOzFbyYOcjI1HqwjrKCD1QcfMQ1sHNXU=
+
+Name: org/eclipse/ltk/internal/core/refactoring/Lock.class
+SHA-256-Digest: /wp+/k12MR7faWlfgAMeWhBfkcmhUCTGHGAWLaY7znk=
+
+Name: org/eclipse/ltk/core/refactoring/UndoTextFileChange.class
+SHA-256-Digest: /AfQstCAFtcJ/kGriHXpQpLZdzHIa9Sg02iXkaHGO1g=
+
+Name: org/eclipse/ltk/core/refactoring/participants/SharableParticipants
+ .class
+SHA-256-Digest: PpCX8R+PpMD2R3Ym6dYPFs7f8CJePDghOoTE2zDujWo=
+
+Name: org/eclipse/ltk/core/refactoring/IUndoManagerListener.class
+SHA-256-Digest: lIACuKvujfVrqWEtj4OmDoFS2vAXfpvwts11txtKZGk=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RenameParticipant.cl
+ ass
+SHA-256-Digest: h6beM5GkDIJKBVp5UJXlcc17lYjqAytO6ORxpnkUqbs=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/ResourceModific
+ ations$DeleteDescription.class
+SHA-256-Digest: uQvjpYFKgT0Ri9aG+X/dCvvMqo4/163FmaPsFZxTy+Y=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringStatusContext.class
+SHA-256-Digest: 6LwHdJmuYzLeqiCiS44XF9YW/V3hWNVr2gUaY++/61Y=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/ResourceModific
+ ations.class
+SHA-256-Digest: u95Z/ZCgrR1YkYkA/wG/xY/eJrD9M6nQaR1iUC/XarA=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/UnknownRefactori
+ ngDescriptor.class
+SHA-256-Digest: dd3oZBAqvp0IlqtfRTOzo2K7bPEh/U4TOuR6VCXVvNc=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/RenameResourceP
+ rocessor.class
+SHA-256-Digest: in6OnLupCytbiRHd++GC8ZdY0KLLODHaX5AR+I2fTeA=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringCoreMessages.
+ class
+SHA-256-Digest: 6XcjaKr1HNXBr9V2KuJ5VrKxNGu7CjRP5dD0LpTyJjA=
+
+Name: org/eclipse/ltk/core/refactoring/resource/MoveResourcesDescriptor.
+ class
+SHA-256-Digest: N9zK+TDGE20oCNV8H/KdD4QiYCjCP+cwLVHfAy3H8Mg=
+
+Name: org/eclipse/ltk/core/refactoring/NullChange.class
+SHA-256-Digest: 0vUYsTH+Fo+h/uTGJjBrLKRAcar66RP3ZapymhsWcZs=
+
+Name: org/eclipse/ltk/core/refactoring/CreateChangeOperation$1.class
+SHA-256-Digest: Ba0RlXIO+KZli6C2DtGqFRXa6rIlGFll6HY81pRN8Ok=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringPreferenceCon
+ stants.class
+SHA-256-Digest: Cdpo6woSdBJ+0ii7q+r01mSfAhttV+H5GaCwSrmNadg=
+
+Name: org/eclipse/ltk/core/refactoring/TextEditBasedChangeGroup.class
+SHA-256-Digest: SuQd47/1ezdctEOPyd1+GuIgFhxJqtiJcTvhN/wPOpQ=
+
+Name: org/eclipse/ltk/core/refactoring/TextEditChangeGroup.class
+SHA-256-Digest: IEJqF3+rkBIqtM2LA6jcwxd3xJRBg5r1sy9WsMQiJ2U=
+
+Name: org/eclipse/ltk/core/refactoring/participants/IConditionChecker.cl
+ ass
+SHA-256-Digest: MJ1CGMBhYUJemNkPgE04H+DKKDdwgs5A2FwEzPiG5/4=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/MoveResourcesPr
+ ocessor.class
+SHA-256-Digest: bmcU3I8GCGSV7bqninTnc6O5/0Ov1XT4oFNlCGrTBEc=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/IFil
+ eContentDescription.class
+SHA-256-Digest: X9eUFR36BW277ETLC/dyPaqPS0PEORMmHMiB/b/jbug=
+
+Name: org/eclipse/ltk/core/refactoring/IRefactoringCoreStatusCodes.class
+SHA-256-Digest: 2etGuhwhDWJpnGzQCOi5oP9TNoNsOjRBF1Zv/lyM0AM=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CopyParticipant.clas
+ s
+SHA-256-Digest: UfOi/ZPjs0gRYOg0a2H60Ea9vnyiKVv0TqTSfSyh13E=
+
+Name: org/eclipse/ltk/internal/core/refactoring/NoStampValidationState$D
+ ocumentChangedListener.class
+SHA-256-Digest: SE8xp6+Y4AJZMRpV+jEqyThoillxyDF4aR0ZXK4LuZs=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHisto
+ ryManager.class
+SHA-256-Digest: ryx7OcHEBL+X/q7VTUYYIQ/EgwG4F5hIKllx8jcYTVQ=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/ResourceModific
+ ations$DeltaDescription.class
+SHA-256-Digest: /ZoH3r4ZYjhtSU2dgemW5woQW+Y4/UzJFEFDzhXuq5A=
+
+Name: plugin.properties
+SHA-256-Digest: fa1SH17e+7wZolcZt2FG8xk3KClk5uCnKWLolSOA/GQ=
+
+Name: org/eclipse/ltk/core/refactoring/GroupCategorySet.class
+SHA-256-Digest: TTelGaFx7mW9dQEKaBOZ652gy65cR3jaOh0a17x9WN0=
+
+Name: org/eclipse/ltk/core/refactoring/GroupCategory.class
+SHA-256-Digest: YAMhi/A4El2lEHAfYJba9iqTE3hXvn9h3uEVVoaB1Gc=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Proj
+ ectUndoState.class
+SHA-256-Digest: KxDr6dy68lAOXZ0h6XltfBPAD7XglO+KbtZuc6zc5sc=
+
+Name: org/eclipse/ltk/core/refactoring/PerformRefactoringHistoryOperatio
+ n.class
+SHA-256-Digest: w49lvZq85KTth9ZE8sYpF7oetQ+psre58nLCnoxvTQg=
+
+Name: org/eclipse/ltk/core/refactoring/GroupCategorySet$1.class
+SHA-256-Digest: f9TxhKoUbzweYeo7LHGuVl6pcquRwUKrv8mTOvlbM9Y=
+
+Name: org/eclipse/ltk/internal/core/refactoring/ContentStamps$NullConten
+ tStamp.class
+SHA-256-Digest: Z2U9T5fM4kKPDxk3L0HE5KGaOuZ677YSlv9v+hEoOew=
+
+Name: org/eclipse/ltk/core/refactoring/participants/MoveRefactoring.clas
+ s
+SHA-256-Digest: FIdNbt12YlpI8NKR1BMrxCX4zJOhmLlPk81NRLVnKB4=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringStatus.class
+SHA-256-Digest: xnvAFdALWKomprcxwQf1Ids/AaUNzZt1QKIJH0UZtsc=
+
+Name: org/eclipse/ltk/core/refactoring/model/AbstractRefactoringHistoryR
+ esourceMapping.class
+SHA-256-Digest: nuzUA1TnbVztP62/ouZ7imifGw0oD0QGGbBT+ZB3WaE=
+
+Name: org/eclipse/ltk/core/refactoring/resource/RenameResourceDescriptor
+ .class
+SHA-256-Digest: m2hacIwvIBxieVJc09mcu+NEbGPrDqCAg8cE4sGZn78=
+
+Name: org/eclipse/ltk/internal/core/refactoring/NoStampValidationState$F
+ ileBufferListener.class
+SHA-256-Digest: +D2Um4rJQIKRgLd3Bxw0oKwm2vlfFKnkvqoaImBw0W4=
+
+Name: org/eclipse/ltk/core/refactoring/PerformRefactoringOperation.class
+SHA-256-Digest: aBN/JAyipkUhFiFt5S9n666vMC+nVi3pWKZ5HDyA5S0=
+
+Name: org/eclipse/ltk/core/refactoring/CompositeChange$1.class
+SHA-256-Digest: YdNS3ENzYx9GR8Lf8E+oaDTJrCqBL8c38ER/TPfvc3M=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoManager2$QueryAdapte
+ r.class
+SHA-256-Digest: C0zxVqWiJyqN0vSqMHYp4Fu0yg0g1jRz3Jpn5cDoSEA=
+
+Name: org/eclipse/ltk/core/refactoring/CreateChangeOperation.class
+SHA-256-Digest: 8XB3vsmFY2Fj/Qp9+Ztp2WQyazr8x31XsJDG6vB8aDk=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/DeleteResources
+ Processor.class
+SHA-256-Digest: /eTV7Nqmc3Hl0DIwKzblGTK4Zi4CTBwJeWCA2RtzJ2c=
+
+Name: org/eclipse/ltk/core/refactoring/resource/MoveRenameResourceChange
+ .class
+SHA-256-Digest: m8XLXTA/o0K9hjVminEf4ZgFGwf/ucGQSRuJTSxDBqs=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringDescr
+ iptorProxyAdapter.class
+SHA-256-Digest: RlR8bxDSGZr1HAf2VzULxpQjWy8QAQKBC9d5jbY49Ow=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/MoveRenameResou
+ rceProcessor.class
+SHA-256-Digest: VH8Cls8TjU01CBhFrPFdi90ix2RTHuOSO3Jh1N2hQdg=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RenameRefactoring.cl
+ ass
+SHA-256-Digest: NiLOucdkRh0Setn4Oo8Wh5gUoVz8Ny6tluToHq9nCKo=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoManager2$OperationHi
+ storyListener.class
+SHA-256-Digest: tRnrI1LB1M4W58SA38xa5/PuQXKEUA1fgdsl/laHyX0=
+
+Name: org/eclipse/ltk/core/refactoring/IResourceMapper.class
+SHA-256-Digest: fQqpRamAuigeb5TdSLHr1PVdr5m51zqHyiJ0V4KiquQ=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/ltk/core/refactoring/TextEditBasedChange.class
+SHA-256-Digest: pkqSpgjlcHgdVetG6ymvsBPqeDpKOWzz70+pWarWlsI=
+
+Name: org/eclipse/ltk/core/refactoring/TextEditBasedChange$PreviewAndReg
+ ion.class
+SHA-256-Digest: 7J6+JS9jq2o8MGHe6tmnUV14ihsaWftjPzv+T3rzYYw=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoDocumentChange.class
+SHA-256-Digest: R/spChbKdmYkjbSRjlU8F54AIBP/co+JWLaFrStSya4=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringCorePlugin.cl
+ ass
+SHA-256-Digest: dG1u5ruxQb7+8QUUqP6YXSutmhx5tJ99X7Cpe+h8NU8=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringDescr
+ iptorChange.class
+SHA-256-Digest: 1PSH5jQdoISqErBwsb4IGnT2YcLtfGowW8O7cBvgDHI=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringSessionTransf
+ ormer.class
+SHA-256-Digest: FTSky+ZIY9B4qlTxnMcrmiFE/CmTmUfR88gIVZh1oAw=
+
+Name: org/eclipse/ltk/core/refactoring/resource/RenameResourceChange.cla
+ ss
+SHA-256-Digest: nZ0O8uGCIHd84my4HUBDkG1npnISeqiieny4HoG0doo=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/ResourceProcess
+ ors.class
+SHA-256-Digest: OU5fVoGFxxaUKO7itu1wiZ/JSRv6FHhVIBw/QNcsPE0=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ReorgExecutionLog.cl
+ ass
+SHA-256-Digest: mAZ/SzWWWOcxXAnDCL3p+AovRQQOX/qHn0QMcjbvtmg=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CreateArguments.clas
+ s
+SHA-256-Digest: cIyIkk2JGAPyyHfuHnkz/isw95C+00YBDLvsQFZx7RQ=
+
+Name: org/eclipse/ltk/core/refactoring/resource/DeleteResourcesDescripto
+ r.class
+SHA-256-Digest: ftcxr4bLpjUcgrTqbmeRGyOp2adiZR96Mj1EfUtl5AQ=
+

@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-SymbolicName: org.eclipse.e4.ui.widgets
+Bundle-Version: 1.3.0.v20210621-1136
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Export-Package: org.eclipse.e4.ui.widgets;x-friends:="org.eclipse.e4.ui.
+ workbench.swt,org.eclipse.e4.ui.workbench.addons.swt"
+Require-Bundle: org.eclipse.swt;bundle-version="[3.6.0,4.0.0)"
+Automatic-Module-Name: org.eclipse.e4.ui.widgets
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platform
+ /eclipse.platform.ui.git;path="bundles/org.eclipse.e4.ui.widgets";tag="
+ I20210621-1800";commitId=b3963656a4d6c01d6f321a8f0f22b256507370a1
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/e4/ui/widgets/ImageBasedFrame.class
+SHA-256-Digest: DtYhuQXhSN/WD3eTJpGsL+jDL5tRPjECOvO6EiA7r8g=
+
+Name: plugin.properties
+SHA-256-Digest: yrmCGqabGYFW9jieamACxhem8R8XhX+qoqyRwIlInUA=
+
+Name: .api_description
+SHA-256-Digest: ILczd0hzq+frHeqtPlqea3WB4GmEFd41urY+Ssm5sYA=
+
+Name: org/eclipse/e4/ui/widgets/ImageBasedFrame$1.class
+SHA-256-Digest: 9+hoxLpQKOy8VBZeS2k3Edonx/oAH3V4P5pCD055sWk=
+

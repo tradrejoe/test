@@ -1,0 +1,93 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: CNOW63ocK1OVHh/3ojgtx3VI+eyuWL0n3NCNMVLrIyg=
+SHA-256-Digest-Manifest-Main-Attributes: ENz05mxFpeyowKQ6HTB+mxhfAJia8wI
+ Ac+h861crG2M=
+
+Name: org/eclipse/e4/emf/internal/xpath/EObjectPointer.class
+SHA-256-Digest: wsm+H4lxZJ7cwMaRdjAq4acXtMs+MjQe9wB2ksR1W/E=
+
+Name: org/eclipse/e4/emf/internal/xpath/CollectionPointer.class
+SHA-256-Digest: xwJTL6HTXr3FAUye6th7sOZqJtRKBBPaykawPPJcHx0=
+
+Name: org/eclipse/e4/emf/internal/xpath/EStructuralFeatureOwnerPointer.c
+ lass
+SHA-256-Digest: XL1gNT5eVaYWsvWnYj2tAxhGheDkARufLoMC6XSb0tE=
+
+Name: org/eclipse/e4/emf/xpath/XPathContext.class
+SHA-256-Digest: TC2uEUcgxXnOsI4Bx16NNSCifSu7yI5c2X9WuwLbTLY=
+
+Name: org/eclipse/e4/emf/internal/xpath/JXPathContextFactoryImpl.class
+SHA-256-Digest: rIYT1vkbWwpsBcxf6CtiJMXi86ANOqgd7VRdbYdDcWY=
+
+Name: org/eclipse/e4/emf/internal/xpath/EObjectPointerFactory.class
+SHA-256-Digest: kDAFpZ68f1V3w4XMgfBLuKEzga1+QoxzK+y55O1+IVM=
+
+Name: org/eclipse/e4/emf/internal/xpath/JXPathContextImpl$EMFFunctions.c
+ lass
+SHA-256-Digest: SL+zLht4FVMTkqpNy1kJcETmIxKK9wGq/63/kOVbYJA=
+
+Name: org/eclipse/e4/emf/internal/xpath/EObjectPropertyPointer.class
+SHA-256-Digest: M55vxxeFSteY4yx1iyjxGGJYnoxoD8p46F8f/ERb+eU=
+
+Name: org/eclipse/e4/emf/internal/xpath/LangAttributePointer.class
+SHA-256-Digest: GvT+ARB/3VLbgu9Ct2Gh/uYFe9opqKGM4rtfj1eTuc4=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/e4/emf/internal/xpath/CollectionNodeIterator.class
+SHA-256-Digest: iQ5JybCA79Ewrk37qHzVlebbrlalqiZYziclDi0NUrQ=
+
+Name: org/eclipse/e4/emf/internal/xpath/CollectionAttributeNodeIterator.
+ class
+SHA-256-Digest: mPBc+9Tii/cg6ieqq3aLKFIdBIHbfn7J7IDDavFxylw=
+
+Name: org/eclipse/e4/emf/internal/xpath/JXPathContextImpl.class
+SHA-256-Digest: LNkD6dytwIW8eEyqdRmlyuFeL2mEg4hyzI+yWeHE3gI=
+
+Name: org/eclipse/e4/emf/xpath/XPathContextFactory.class
+SHA-256-Digest: 2uemOX0GIulm9r/jW21iPwju3pLilzqyZL66fEViE1w=
+
+Name: org/eclipse/e4/emf/internal/xpath/EStructuralFeatureIterator.class
+SHA-256-Digest: 1Q2zAdWEv+ZtO8YfCJj+PWUas6nc6HCbM9OqtU6UFDc=
+
+Name: org/eclipse/e4/emf/internal/xpath/helper/EDynamicPropertyHandler.c
+ lass
+SHA-256-Digest: f5Zq3ojLjvYmbXGZqxlwwmy1wJ5+yM8uZ0uMznVfIIM=
+
+Name: .api_description
+SHA-256-Digest: u3HfGiggjIPBs7JlNS4XtdK8QVoocYebFGlTMTutmQE=
+
+Name: org/eclipse/e4/emf/internal/xpath/helper/ValueUtils.class
+SHA-256-Digest: x30SqzhP3Q5H9QuvsXrOBZW5xMx+4RJB/sexoA0SNmA=
+
+Name: org/eclipse/e4/emf/internal/xpath/helper/JXPathEObjectInfo.class
+SHA-256-Digest: WZs91DKqCplnwPt1/jMTUM5b3iqpNKf8ZR4fDR3EBqw=
+
+Name: org/eclipse/e4/emf/internal/xpath/NullPointer.class
+SHA-256-Digest: Cn6JL2OmTVDhK6oBk5O2g08vxN2j8sDYciSGO7I4Sps=
+
+Name: org/eclipse/e4/emf/internal/xpath/EStructuralFeaturePointer.class
+SHA-256-Digest: brFtVt7ADq7tuob6DEjv5RFBRNFw5xjxleud4V+Mu0Y=
+
+Name: org/eclipse/e4/emf/internal/xpath/NullElementPointer.class
+SHA-256-Digest: gjTs7XEmpruKOptqJqpb1O6bWBTOHyYoXvvpST9p+/4=
+
+Name: org/eclipse/e4/emf/internal/xpath/EObjectAttributeIterator.class
+SHA-256-Digest: NLncXsl5sW4BlQ9dJsosCko+0wgWclAOQ5xEEDHUUKY=
+
+Name: org/eclipse/e4/emf/internal/xpath/CollectionChildNodeIterator.clas
+ s
+SHA-256-Digest: /qU+5yBu2orHlrGIduokrvSDOp+maMfCqpcyaqp7/fo=
+
+Name: org/eclipse/e4/emf/internal/xpath/NullEStructuralFeaturePointer.cl
+ ass
+SHA-256-Digest: 7dMEkWpJc5KLRXqeQVgoYVLlP6ogWFcgYV4oXdR2UMQ=
+
+Name: org/eclipse/e4/emf/xpath/EcoreXPathContextFactory.class
+SHA-256-Digest: BdaW+Ylxo+/qOPQgamzhx2wnNjSzeHpuMT3P2l0ivm4=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: ddOlTpS3q+/n/c6PRGBAjf0xCVpuGYIieMV50HjSqV0=
+

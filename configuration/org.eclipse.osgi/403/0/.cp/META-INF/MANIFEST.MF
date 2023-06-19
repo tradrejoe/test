@@ -1,0 +1,61 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %bundleName
+Bundle-Localization: bundle
+Bundle-SymbolicName: org.eclipse.jdt.annotation
+Bundle-Version: 2.2.700.v20220826-1026
+Export-Package: org.eclipse.jdt.annotation
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: %providerName
+Automatic-Module-Name: org.eclipse.jdt.annotation
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-jdt/eclipse
+ .jdt.core.git;path="org.eclipse.jdt.annotation";tag="I20220826-1800";co
+ mmitId=b7baf569cc545057401d6c9dd28b7b46ab02a391
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: bundle.properties
+SHA-256-Digest: lUEeKjtcW6tkxmMXioWvQPDDrY0Soqu367r0zMSfb8Y=
+
+Name: src/org/eclipse/jdt/annotation/Checks.java
+SHA-256-Digest: /Bd+4zpF7MbS2wP+HJrePI+lAXxCF1JLImYP+Ju7svE=
+
+Name: org/eclipse/jdt/annotation/NonNullByDefault.class
+SHA-256-Digest: cn/bQG/o77UO09WEiTB0qZ+DiZYAgLLD23kNxsYjqrw=
+
+Name: org/eclipse/jdt/annotation/NonNull.class
+SHA-256-Digest: g5VcL30rdemvJ7jMvuhhA+5QeOpHQ+wkaR09yWrkw+o=
+
+Name: .api_description
+SHA-256-Digest: FlJy9FmKb+i3HAUhqxJ1beq8H88UrTG72r1LWzhR1e8=
+
+Name: src/org/eclipse/jdt/annotation/DefaultLocation.java
+SHA-256-Digest: 6Xkvpdveye9e9e9xrP3v3j/QR9LyKt5u4DHQaOtchPI=
+
+Name: src/org/eclipse/jdt/annotation/Nullable.java
+SHA-256-Digest: nkbR5JGq+iO5VQqSi+gdq4EOoiXsMUgQ/dQIJnI6F+8=
+
+Name: src/org/eclipse/jdt/annotation/package-info.java
+SHA-256-Digest: 5EQZ5LNgs1hGKAsIJ+sCOoqGg17iiIg9eAg3gu7BYN8=
+
+Name: src/org/eclipse/jdt/annotation/NonNullByDefault.java
+SHA-256-Digest: QdFL4dNrWY3nNZUGKEBC5CwvwqvVzMfBLTsTvjUi7R8=
+
+Name: org/eclipse/jdt/annotation/package-info.class
+SHA-256-Digest: 5Fht+NExT82P8LbQnN0a1mERU8HCzDDieWMpgUUQGOw=
+
+Name: org/eclipse/jdt/annotation/DefaultLocation.class
+SHA-256-Digest: VJYMwURqtMzGraOZmF/IUZXuGwMd4dx0sSHR9KSfVZM=
+
+Name: src/org/eclipse/jdt/annotation/NonNull.java
+SHA-256-Digest: 7bqNvZfP3RlC6V9V43Tl4HhRfV9SlmNtRpJSnT6YryY=
+
+Name: org/eclipse/jdt/annotation/Nullable.class
+SHA-256-Digest: HziJQpiPYPwEg3/Nz//nAmrNf2TS9aoA1mfAx+4fh14=
+
+Name: org/eclipse/jdt/annotation/Checks.class
+SHA-256-Digest: buXiDmljtZ3oh7IL0zCDcOeoZP8YzeQVx5jXFa6P2hI=
+

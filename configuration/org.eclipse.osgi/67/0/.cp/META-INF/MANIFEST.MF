@@ -1,0 +1,618 @@
+Manifest-Version: 1.0
+Created-By: Eclipse Bundle Recipe Maven Plug-in
+Built-By: default
+Build-Jdk: 11.0.9
+Automatic-Module-Name: org.apache.commons.io
+Build-Jdk-Spec: 1.8
+Bundle-Description: The Apache Commons IO library contains utility class
+ es, stream implementations, file filters,file comparators, endian trans
+ formation classes, and much more.
+Bundle-DocURL: https://commons.apache.org/proper/commons-io/
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.apache.commons.io
+Bundle-Vendor: %bundleVendor
+Bundle-Version: 2.8.0.v20210415-0900
+Export-Package: org.apache.commons.io;version="2.8.0";uses:="org.apache.
+ commons.io.filefilter,org.apache.commons.io.function",org.apache.common
+ s.io.comparator;version="2.8.0";uses:="org.apache.commons.io",org.apach
+ e.commons.io.file;version="2.8.0",org.apache.commons.io.filefilter;vers
+ ion="2.8.0";uses:="org.apache.commons.io",org.apache.commons.io.functio
+ n;version="2.8.0",org.apache.commons.io.input;version="2.8.0";uses:="or
+ g.apache.commons.io",org.apache.commons.io.input.buffer;version="2.8.0"
+ ,org.apache.commons.io.monitor;version="2.8.0";uses:="org.apache.common
+ s.io",org.apache.commons.io.output;version="2.8.0",org.apache.commons.i
+ o.serialization;version="2.8.0"
+Implementation-Title: Apache Commons IO
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Version: 2.8.0
+Import-Package: org.apache.commons.io;resolution:=optional;version="[2.8
+ ,3)",org.apache.commons.io.comparator;resolution:=optional;version="[2.
+ 8,3)",org.apache.commons.io.file;resolution:=optional;version="[2.8,3)"
+ ,org.apache.commons.io.filefilter;resolution:=optional;version="[2.8,3)
+ ",org.apache.commons.io.function;resolution:=optional;version="[2.8,3)"
+ ,org.apache.commons.io.input;resolution:=optional;version="[2.8,3)",org
+ .apache.commons.io.output;resolution:=optional;version="[2.8,3)"
+Originally-Created-By: Apache Maven Bundle Plugin
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Specification-Title: Apache Commons IO
+Specification-Vendor: The Apache Software Foundation
+Specification-Version: 2.8
+
+Name: org/apache/commons/io/FileCleaningTracker.class
+SHA-256-Digest: XMBA3iii9R3q2xme97okDrbsP8SpFtmk2VefMYssNUY=
+
+Name: org/apache/commons/io/comparator/SizeFileComparator.class
+SHA-256-Digest: plDp2ExPbkDi8QKgPXEZjzKRB/J/I59hbjfeeJmHV+0=
+
+Name: org/apache/commons/io/output/BrokenWriter.class
+SHA-256-Digest: h5dXuPvHOTjIRixPWJZDh3dX9wGnrS4Jo3f3v+bZh1Y=
+
+Name: org/apache/commons/io/input/CloseShieldInputStream.class
+SHA-256-Digest: Tbavop/yowD9Psh4yPKtEG4K4Sf05bxQT2g/RTdfr6w=
+
+Name: org/apache/commons/io/ByteOrderParser.class
+SHA-256-Digest: 6szQDxBttKwoPfPDhfMDpDJTf+SaFv1QN+y9KuBd5LM=
+
+Name: org/apache/commons/io/filefilter/EmptyFileFilter.class
+SHA-256-Digest: dMr8hV3ikACS3Gp9aoFcC4RIGg90eCcyGxipPlLfj7g=
+
+Name: org/apache/commons/io/monitor/FileEntry.class
+SHA-256-Digest: LqgnD84clMfje5llCL5FTTdZLWh7HTejB95dd+uRNJM=
+
+Name: org/apache/commons/io/output/ThresholdingOutputStream.class
+SHA-256-Digest: qL/rulBHi9XsDjdoCp+HrW07IwDcVzZTKccdCYR/ffI=
+
+Name: org/apache/commons/io/input/TailerListener.class
+SHA-256-Digest: 6zAOQJxAqEnUzrPSffkQm2aSM6MG074pyiNf2pI2e7k=
+
+Name: org/apache/commons/io/IOExceptionWithCause.class
+SHA-256-Digest: oFd+83Du78IR3PYcZww07zQOAy89BXXbxGVKtH6v1W8=
+
+Name: org/apache/commons/io/comparator/PathFileComparator.class
+SHA-256-Digest: Y1Qs8nJGmZ6v2d4F7zIjvh3nXa9x7ShsLdYRZx76LjY=
+
+Name: org/apache/commons/io/filefilter/NotFileFilter.class
+SHA-256-Digest: LQuYDpfO82wqrmTHkXt/4S+OabqCUqBDNhcdMRA0jEY=
+
+Name: org/apache/commons/io/filefilter/NameFileFilter.class
+SHA-256-Digest: xxB7eDHmIIeEbXnykUWvtfnvrCi6pz9NgL+cLSIVTgk=
+
+Name: org/apache/commons/io/output/NullAppendable.class
+SHA-256-Digest: hWWUyaUmbYPxrgkvKmVeQEPM54KRXBq+5KzPvhLhfaM=
+
+Name: org/apache/commons/io/input/NullReader.class
+SHA-256-Digest: aiu1D64308z6J1TluzhX9ljQkzE36Y8Tb6jDVpiD27Y=
+
+Name: org/apache/commons/io/input/XmlStreamReaderException.class
+SHA-256-Digest: 2+oZD9VDnOU/5GntofFzUhi0wqeXg+fsOhq5zW+4q6U=
+
+Name: org/apache/commons/io/monitor/FileAlterationObserver.class
+SHA-256-Digest: eCRIM3NQ28HOvUtBWZccF/vplLenIbGuw+3SOv1olaw=
+
+Name: org/apache/commons/io/output/ChunkedOutputStream.class
+SHA-256-Digest: f3B6F/f8ZJELH39cS70GkwSu36SwYNK8n6VqfnkD3lk=
+
+Name: org/apache/commons/io/filefilter/WildcardFileFilter.class
+SHA-256-Digest: 4RbuH62hr4cAr6WK9ErhQT1Ji4v+qDK0FvklnmOH83Y=
+
+Name: org/apache/commons/io/input/CircularInputStream.class
+SHA-256-Digest: yb2AGlVCwHORcQRqkPWlwdR2iInSVEtZt7qyG/W3RXQ=
+
+Name: org/apache/commons/io/filefilter/AbstractFileFilter.class
+SHA-256-Digest: N3mrA0jk+tj5748vldx9tKaLCi8pfI7/ARneysl97I4=
+
+Name: org/apache/commons/io/comparator/DirectoryFileComparator.class
+SHA-256-Digest: 1pAf30O6Q/lDIJdsTMxOlNpTXz2Pv/HL4tcjzBpw/QA=
+
+Name: org/apache/commons/io/file/CopyDirectoryVisitor.class
+SHA-256-Digest: R0FTNXb6PzoXD3IE7tsQsnQS3bly+I691Y+KWhZzcIA=
+
+Name: org/apache/commons/io/filefilter/MagicNumberFileFilter.class
+SHA-256-Digest: +XURFTnGVMaf9eDtJtklwK5Itukpg834EKEDUeYo4CY=
+
+Name: org/apache/commons/io/file/PathUtils$RelativeSortedPaths.class
+SHA-256-Digest: tKtrkXy/2H/IMsq5nFlpCQ7XFi77IDEKpPY+naR3WxA=
+
+Name: org/apache/commons/io/input/ReversedLinesFileReader.class
+SHA-256-Digest: rB6oxoOlVq1cYtwiZTM5wER93G4qkI1bhUPgsZF3GPQ=
+
+Name: org/apache/commons/io/file/Counters$Counter.class
+SHA-256-Digest: F1bChQqQm4pDCdY1hC92cwdsXFcOZN4d8/d58dS7574=
+
+Name: org/apache/commons/io/Charsets.class
+SHA-256-Digest: rhinEa4RUdSE5ZxwdwE/C/Bf4/WVX94dkToXShy4/e8=
+
+Name: org/apache/commons/io/comparator/AbstractFileComparator.class
+SHA-256-Digest: o6EtmCU8OIyZUJzIL7KWJqVl/3Ccz7pA1L7/1SV2aJ4=
+
+Name: org/apache/commons/io/comparator/ReverseFileComparator.class
+SHA-256-Digest: auhT6JFRC+A+u5FMK0+VzougZuJHqO0mHzkjCCwtF1k=
+
+Name: org/apache/commons/io/HexDump.class
+SHA-256-Digest: Hf2Ru9c4mm8jb2sJfff7x6K6JR80K/Bj6QT5e2NeriM=
+
+Name: org/apache/commons/io/ThreadMonitor.class
+SHA-256-Digest: 2E0tAllwdLGNPuMY6OxzsZZPjVGd0YHEVBwxzAkuwtU=
+
+Name: org/apache/commons/io/input/InfiniteCircularInputStream.class
+SHA-256-Digest: NE75g46r+X4qmPvJrT40if/x+kGP9i4qwmZzeQVdnDU=
+
+Name: org/apache/commons/io/input/NullInputStream.class
+SHA-256-Digest: EoDRXAQQIxofwhTef4TmdRIb2WW9Lt+6UFx2Yf4eATk=
+
+Name: org/apache/commons/io/file/StandardDeleteOption.class
+SHA-256-Digest: cgUfpbDfBhvfeoIDKsk50QmGS999tc4iQEkJSxwtvdI=
+
+Name: org/apache/commons/io/input/ProxyReader.class
+SHA-256-Digest: D4caqLGyZKubuEbRGuH8U5o/rSQ65e7njrpwk3sVeKQ=
+
+Name: org/apache/commons/io/FileDeleteStrategy$ForceFileDeleteStrategy.c
+ lass
+SHA-256-Digest: IsLZfLavRG7WczAp6ipESTy+YcJulzo976JplaoY11A=
+
+Name: org/apache/commons/io/FileUtils.class
+SHA-256-Digest: vuv3+n8zAS18g1Jr0BcTFLs5HWZXFrq/TSSuBM92Sn0=
+
+Name: org/apache/commons/io/file/Counters$AbstractPathCounters.class
+SHA-256-Digest: +4xij6vBYhIdhKQHHn1kgfCt4jltEGEqx5jVdwz7xeo=
+
+Name: org/apache/commons/io/filefilter/AndFileFilter.class
+SHA-256-Digest: /VcOmNzF740UL3z5Ge187QT62yiFquUT6ApgAkvFQqk=
+
+Name: org/apache/commons/io/input/XmlStreamReader.class
+SHA-256-Digest: C7vxjrtbdST1Hxhmq9/ymtpmAQmlz5Z7RrOKOFtzRwA=
+
+Name: org/apache/commons/io/input/SequenceReader.class
+SHA-256-Digest: iv21klBhBwt2quUbQkKLG3nw/ugQGfiqUhrjTVEUGMg=
+
+Name: org/apache/commons/io/input/ReversedLinesFileReader$FilePart.class
+SHA-256-Digest: y0qcv7GfWaGBg77TLrxInJwq4AnDEj1EKEeObr0EYm8=
+
+Name: org/apache/commons/io/output/CloseShieldOutputStream.class
+SHA-256-Digest: jLgAn4yk/PxMH6+9cLI8L9DDxH8BUF0zE7XHGmjKhwI=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: HM1WU8Y8EcduECyQvA5GlNuhWT1wSqEB39wvrdugNL4=
+
+Name: org/apache/commons/io/function/IOConsumer.class
+SHA-256-Digest: nIOpkuoZ4bIk9j3Ck7bbl61MADkk5fKWGBEkQyYGAJg=
+
+Name: org/apache/commons/io/filefilter/FileFilterUtils.class
+SHA-256-Digest: 7x0NX+QdJJ1771FVPox4cnTngkZTd7f1gNEfAvPjyqA=
+
+Name: org/apache/commons/io/output/AppendableOutputStream.class
+SHA-256-Digest: IQ/Ex+IndAsRvAcf0l2KZi+KKz/0YJmsaFeJYB89Zg8=
+
+Name: org/apache/commons/io/filefilter/ConditionalFileFilter.class
+SHA-256-Digest: KtdxllQ8EktC024NXbS/58n8OidR6E4+73dB3GS3kDw=
+
+Name: org/apache/commons/io/filefilter/AgeFileFilter.class
+SHA-256-Digest: AnNB4d4UE703W7RmqKMjmOA0bRIZLebQLAe6MfDxgYA=
+
+Name: org/apache/commons/io/FileSystem.class
+SHA-256-Digest: eOjoZlsnHw3XVHCaNDUX/bZPv8NfSQbie5Hd/vD2bDY=
+
+Name: org/apache/commons/io/input/CloseShieldReader.class
+SHA-256-Digest: EAWaPtlhrLK7NnGXEKoX+5N1RJdeDLhPoEUlaORq2xE=
+
+Name: org/apache/commons/io/output/DeferredFileOutputStream.class
+SHA-256-Digest: w8vACnAO654ptUUVZZl73Aj68q9tm1BqZTLFJoyrepc=
+
+Name: org/apache/commons/io/input/CharacterSetFilterReader.class
+SHA-256-Digest: ytDyYSC/NqBFFZVgRIa94GZgBn5Ma8aw1GCneAQianM=
+
+Name: org/apache/commons/io/output/CloseShieldWriter.class
+SHA-256-Digest: Tgq2AHaUeDsrdoxB40hLUwYapz63fvsC+Uf7WevEuYQ=
+
+Name: org/apache/commons/io/DirectoryWalker.class
+SHA-256-Digest: JRCwW1VTg/UL49ffOJBV3oOAOGO5dgWsgXm0M5AkuBE=
+
+Name: org/apache/commons/io/file/Counters$1.class
+SHA-256-Digest: SJSteL6KW4EH4H0QHiexW+siyyPGiYegW+POkfU8MLI=
+
+Name: org/apache/commons/io/input/TaggedReader.class
+SHA-256-Digest: uOiSp33BIITRIZedJMYIRWz/pd7m6rv/AtN16EdYXb0=
+
+Name: org/apache/commons/io/filefilter/CanWriteFileFilter.class
+SHA-256-Digest: TFWyjwx93NV9K3Ge6g3gYCDWlsHTgJt5XTxRpsiyCvs=
+
+Name: org/apache/commons/io/file/Counters$LongCounter.class
+SHA-256-Digest: jc5fPMMm7EBzJaagsq4xexdGviyvfWasHH1zpgskOa0=
+
+Name: org/apache/commons/io/FilenameUtils.class
+SHA-256-Digest: 8QVXRSKpM2PgcEQa3RVrx9IuyYb5EHpZic0aTghDc9k=
+
+Name: org/apache/commons/io/output/TaggedWriter.class
+SHA-256-Digest: qBodmQCt+Qvvi8Hgbq84yeDB2fRCVGi6J5GJKGOZtCk=
+
+Name: org/apache/commons/io/input/ObservableInputStream.class
+SHA-256-Digest: 5OhTupNNKC5Nk95GIRtXPoC49KwDmK3/g7i63xYig94=
+
+Name: org/apache/commons/io/input/ProxyInputStream.class
+SHA-256-Digest: cC/QHIcE15NwK8s1G8fdnyHuNOTHPf1w7U0UlV/JNj4=
+
+Name: org/apache/commons/io/output/XmlStreamWriter.class
+SHA-256-Digest: HPnTra8nIwS61kSQAkKWCXmCkCnXSm6mMZ8IXZB0PP8=
+
+Name: org/apache/commons/io/IOExceptionList.class
+SHA-256-Digest: aSG9fMfLfw9CathUiKrycvr0Lip4ZqaV0hoIPO8z/vo=
+
+Name: org/apache/commons/io/file/Counters$LongPathCounters.class
+SHA-256-Digest: tcAP/5u9eUC6fd0O9RbqpD2BipWCn1E2X61dtwKQNvs=
+
+Name: org/apache/commons/io/input/UnsynchronizedByteArrayInputStream.cla
+ ss
+SHA-256-Digest: sMu08dGmdpkEKWtIEXL+DNmgdlfgKJn3gvjWCUfx9fo=
+
+Name: org/apache/commons/io/FileSystemUtils.class
+SHA-256-Digest: gzJDSmFB077Sc/ugG3+p74DQNA+4ahqHg2ARaITxVr8=
+
+Name: org/apache/commons/io/output/NullWriter.class
+SHA-256-Digest: a60HXF15Kf5oFXC0ygCQlPf/gRWK8NBqyJ4OBPYVJfE=
+
+Name: org/apache/commons/io/comparator/DefaultFileComparator.class
+SHA-256-Digest: eZ+kRqtCVhz0J8PIJ3IbLMUFMzdIx/8dFopXfLYPwcA=
+
+Name: org/apache/commons/io/TaggedIOException.class
+SHA-256-Digest: zAu8OnfLF6v0xnmFrElBgnCNnyJ5F+YI9ycEIV7VwUI=
+
+Name: org/apache/commons/io/comparator/ExtensionFileComparator.class
+SHA-256-Digest: h4xhKF9Sc7BA4IrZEBbyv2AZn6uH7AERjotItwdOgn0=
+
+Name: org/apache/commons/io/output/NullPrintStream.class
+SHA-256-Digest: P+kXk4o6Ov7QogSpkqIh0MnY6EA3fL/pQMl6aGWf24g=
+
+Name: org/apache/commons/io/DirectoryWalker$CancelException.class
+SHA-256-Digest: fPZosic+CkghGw+ARXANUMGLN09gEr7YBSWgtPtsShA=
+
+Name: org/apache/commons/io/input/WindowsLineEndingInputStream.class
+SHA-256-Digest: P8BDHp4vWywyPUbZA/NA42BB7AP+Iqq7uKwaQad+Zkc=
+
+Name: org/apache/commons/io/input/SwappedDataInputStream.class
+SHA-256-Digest: vszLXqHy9io9dpS0CCMNEsJ/d7ryJ6XubK18z7+aHdU=
+
+Name: org/apache/commons/io/output/TeeWriter.class
+SHA-256-Digest: MREdWDPJXlhaTJv3AEJKCHcxStzG7mibviIcvqB3vdc=
+
+Name: org/apache/commons/io/FileCleaner.class
+SHA-256-Digest: rVEm0jC1JWJ82O7ngIHtQXSwOB9G3zT1BG7jUePG5Bg=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.commons.io/pom
+ .properties
+SHA-256-Digest: AnON6AkPwi1lus3hzLHepRz/2C0S0cpMjxaX9mTsn9c=
+
+Name: org/apache/commons/io/input/TeeReader.class
+SHA-256-Digest: vN52H5YIloF/wvuftEZI0MuNZIJjg4W3EKi8NhLWCeI=
+
+Name: org/apache/commons/io/output/CountingOutputStream.class
+SHA-256-Digest: NmAruZnW00hD5VIToAnr0WO4Q3NIksDQACBfELFJrPM=
+
+Name: org/apache/commons/io/file/Counters$BigIntegerCounter.class
+SHA-256-Digest: iQj552dWjGip2yoXv0W2W0KfCr7dnBun3Idm9FYWpxU=
+
+Name: org/apache/commons/io/input/buffer/PeekableInputStream.class
+SHA-256-Digest: JpQLU8YrPQMWlH7ePCyIHnLmISyMvvetRJ7iU1Oqtcc=
+
+Name: org/apache/commons/io/file/CountingPathVisitor.class
+SHA-256-Digest: 6kdBiZ5cIhTHRcf/In97+TJQ+h1i/mNufe3jaWxITB8=
+
+Name: org/apache/commons/io/file/AccumulatorPathVisitor.class
+SHA-256-Digest: kuBKwmHvW6Y9THWIUDrOXPNqGe1RpKFgW+Jsfs4cJqQ=
+
+Name: org/apache/commons/io/monitor/FileAlterationMonitor.class
+SHA-256-Digest: 4u0gv+2n8haMcbrktcXRZjhAxQV4wYu43BPE3BqMUiA=
+
+Name: org/apache/commons/io/serialization/FullClassNameMatcher.class
+SHA-256-Digest: kfP2QluYWmObNnU4nL8MQdfQMx9+zSqZ+gV1SE1w/rI=
+
+Name: org/apache/commons/io/output/ProxyWriter.class
+SHA-256-Digest: fkhpWTs/EiOSHb42MCUX9eYu7juNsB8BtQXjuGnC0ms=
+
+Name: org/apache/commons/io/input/Tailer.class
+SHA-256-Digest: yrlier/FWYJiNACQYVoTdq29eOxy9DHS849j+g8PZ94=
+
+Name: org/apache/commons/io/output/WriterOutputStream.class
+SHA-256-Digest: BJk+/6Yd81RhTPK3T3iXsKcX/pgE8tgPtFt1wPq3Xzo=
+
+Name: about_files/APACHE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=
+
+Name: org/apache/commons/io/filefilter/CanExecuteFileFilter.class
+SHA-256-Digest: l8RrDGpRxUwjDOidUidCc1zv1OLAMv0Z2Cwze/8qINU=
+
+Name: org/apache/commons/io/FileCleaningTracker$Tracker.class
+SHA-256-Digest: vwjxatIClTC0mg6EGx5jz6D7gmMnUYRtndC96IHMkGM=
+
+Name: org/apache/commons/io/input/MarkShieldInputStream.class
+SHA-256-Digest: dcvzlek89N4IhgHkcT8VF6A/yggzIUmzeG3cW289YA0=
+
+Name: org/apache/commons/io/input/MessageDigestCalculatingInputStream$Me
+ ssageDigestMaintainingObserver.class
+SHA-256-Digest: FLbUq7C84PJ1Xm7Dj3SE2cVKvTufVkGVU/rhLj5zL9Q=
+
+Name: org/apache/commons/io/filefilter/RegexFileFilter.class
+SHA-256-Digest: WuRz6it0UG5wmlnJD+NSoRqsFJhNJcrp6TXF2VvR2tw=
+
+Name: org/apache/commons/io/input/BrokenInputStream.class
+SHA-256-Digest: AGOjxHaStX/cOHbZOJ47PTMdI18gydK1fsVQuTzQvdI=
+
+Name: org/apache/commons/io/function/IOSupplier.class
+SHA-256-Digest: eeaGdQuJpc7axXFyi1qwGNzghWKc3uiqjnSE0jMpDQk=
+
+Name: org/apache/commons/io/input/BrokenReader.class
+SHA-256-Digest: xdEFi5X06BTTMK4yT8Kim6Cs4EOBGjhN4iDtIhOI/Zw=
+
+Name: org/apache/commons/io/EndianUtils.class
+SHA-256-Digest: QWohH7y/fRK7jCkxaqHMhi1xihDz+InSDmaAiQ8FTh0=
+
+Name: org/apache/commons/io/file/DeletingPathVisitor.class
+SHA-256-Digest: 9RZGe0LcrsTGESIE0+SEA2g8JMcBxQlmqbbta7yVgxI=
+
+Name: org/apache/commons/io/serialization/RegexpClassNameMatcher.class
+SHA-256-Digest: p0dzv+4/LA7MnifTI6F4CTF7Mmk1owghhXffP7I+TAU=
+
+Name: org/apache/commons/io/input/UnixLineEndingInputStream.class
+SHA-256-Digest: wbV9KTpj7m1EcSJOZBN0I61O2FIMkhfemKTZdsgqUvM=
+
+Name: org/apache/commons/io/monitor/FileAlterationListenerAdaptor.class
+SHA-256-Digest: Kwhr4FtpLQV4qoh2eNcT/xGN+yuKNOwDS1SmB/20Nd0=
+
+Name: org/apache/commons/io/filefilter/IOFileFilter.class
+SHA-256-Digest: jMUKE6PryIbI1mG4/vr0DPJ6zpuBy4QIyD0JlrqIYLQ=
+
+Name: org/apache/commons/io/file/PathUtils.class
+SHA-256-Digest: lRFQugIaP3KWprPH/V/I0/IE23wfXF8+37STosg8wtk=
+
+Name: org/apache/commons/io/output/BrokenOutputStream.class
+SHA-256-Digest: 0uJBmUN6wsYGHnvxEfhbgCCOkjWPOgu+Sw/sgWfqZ84=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.commons.io/pom
+ .xml
+SHA-256-Digest: K8V5eRtKjJ7DkaYkSl/60gDHvwGhkVC5rSMDlECEi5c=
+
+Name: org/apache/commons/io/input/DemuxInputStream.class
+SHA-256-Digest: 4kyFf/iw42uN2+KpOeUmSFAHXVVmXTd6XiEoiCXvkw8=
+
+Name: org/apache/commons/io/output/ProxyCollectionWriter.class
+SHA-256-Digest: 3UKa9DcX1+MCG8vZyibUEgAsH9poaBY5L1tGg8UMFv0=
+
+Name: org/apache/commons/io/input/BOMInputStream.class
+SHA-256-Digest: SJzWss+gecbuh7e31QHbEt1F1k/t8R/hO5WUG8KftMQ=
+
+Name: org/apache/commons/io/serialization/WildcardClassNameMatcher.class
+SHA-256-Digest: KzQBZ1ELhPnNMkjjUYVCnuLYS4NObLKHnugpEvh7Vbw=
+
+Name: org/apache/commons/io/filefilter/PrefixFileFilter.class
+SHA-256-Digest: dpaMKMOkpJtrVGdRpSh9jfAX2nPDo3qAGIX4t3GIGBU=
+
+Name: org/apache/commons/io/IOUtils.class
+SHA-256-Digest: mFG/er4QNLxO1Ic95YqVlD7peENcnd4krCXcmiODjNU=
+
+Name: org/apache/commons/io/output/AppendableWriter.class
+SHA-256-Digest: zO6xoR0+wSgLWMW+WEUQoFZfMN5CQms4vch9AZmExag=
+
+Name: org/apache/commons/io/comparator/CompositeFileComparator.class
+SHA-256-Digest: UvhrmZIg1yPnp0AGzMcHc8PTUSyQ1i/rarOtnjuCgtk=
+
+Name: org/apache/commons/io/file/SimplePathVisitor.class
+SHA-256-Digest: duUkEvREWQIDDNSj1BrH7sj4hfMp1buT1FmJNrD5BdI=
+
+Name: org/apache/commons/io/filefilter/DirectoryFileFilter.class
+SHA-256-Digest: x3dIJ+nO9ew/wKdNFij4514CkqkWsw/5Zi5WxvGmGHE=
+
+Name: org/apache/commons/io/input/ClosedInputStream.class
+SHA-256-Digest: d+lMZeN6O89iC2hxwZz1J3LrO1Hv/MO/YBAezzf9+Y4=
+
+Name: org/apache/commons/io/input/ObservableInputStream$Observer.class
+SHA-256-Digest: t6K6U9u/oMMeAQH33HO9yxBBI+NN1hgGykc4ACp2HHA=
+
+Name: org/apache/commons/io/input/AutoCloseInputStream.class
+SHA-256-Digest: Ns+7gHvgZ0Ht6uWKeszbZ9cnDhdQznJNjO5qhArZdvk=
+
+Name: org/apache/commons/io/output/TaggedOutputStream.class
+SHA-256-Digest: 03hLjbAxhtg6iZt1rSQynkugG7cWJpPU5UcSrBnFYo0=
+
+Name: org/apache/commons/io/output/UnsynchronizedByteArrayOutputStream.c
+ lass
+SHA-256-Digest: hW+NdK9rx0pudScmlfaaovx5vz8UEYitVtBpYd63PSw=
+
+Name: org/apache/commons/io/comparator/LastModifiedFileComparator.class
+SHA-256-Digest: aKHWUQFOQWVq6guowUrxkKFOs/N+Q1mIwlgxDypHIIQ=
+
+Name: org/apache/commons/io/output/ChunkedWriter.class
+SHA-256-Digest: iadIKrFU7uGSqtYbKXZKmd2FkHq6WPZOhv5fCr+90t0=
+
+Name: org/apache/commons/io/filefilter/CanReadFileFilter.class
+SHA-256-Digest: LYU9mxS00ebMSJ4m5+EhoYlDvf4OoXTey13aFl6LtWw=
+
+Name: org/apache/commons/io/IOIndexedException.class
+SHA-256-Digest: Ki67Dyf2JpUVSLVl2WUeWc0nKvHVXEMRhvqRY1Nq0l4=
+
+Name: org/apache/commons/io/filefilter/DelegateFileFilter.class
+SHA-256-Digest: V+xuI1o3/sc1ukfjFdHROK3vYN5vs3sFBfDLUTS5Auo=
+
+Name: org/apache/commons/io/filefilter/FalseFileFilter.class
+SHA-256-Digest: 4UfFYJ+6x99d7pl99MJZb43z8TXctrBxB+18BuruqqE=
+
+Name: org/apache/commons/io/input/BoundedInputStream.class
+SHA-256-Digest: i8mU7Cl3iOZcPza5QL9l8JO7CeZ3NkfqmOpkAg71eNQ=
+
+Name: org/apache/commons/io/input/CharSequenceInputStream.class
+SHA-256-Digest: sov5+AMy8dvoJ2yHz0MUiOh6iEE8F+pCHotv57itZhU=
+
+Name: org/apache/commons/io/input/ReaderInputStream.class
+SHA-256-Digest: iiOXv/6xd2+q4jNVj1fXifvgJSiYAiSjw3sYiUSEDOU=
+
+Name: org/apache/commons/io/input/ReversedLinesFileReader$1.class
+SHA-256-Digest: NuviMBa2eg85R7OnG0SftOQBbxPEl+VNVec/nqn9HHw=
+
+Name: org/apache/commons/io/file/CleaningPathVisitor.class
+SHA-256-Digest: teq+9QPHSOkb5KG9CXDYBlWV87EtRUEFOLwsKNRjZRE=
+
+Name: org/apache/commons/io/CopyUtils.class
+SHA-256-Digest: tQClkA1I+zb1RA9iBWF9GwbPBV0Ldzq907Z0j/irHL4=
+
+Name: org/apache/commons/io/filefilter/SizeFileFilter.class
+SHA-256-Digest: cmPuIeEYkBDDRWX0MXY6ZjYOA8HcUizEGPzvUx4h8go=
+
+Name: org/apache/commons/io/input/MessageDigestCalculatingInputStream.cl
+ ass
+SHA-256-Digest: hSQq07wjReFX4ZmoXAyjaYVjMFEIV6Y2DZlhBGF+dB0=
+
+Name: org/apache/commons/io/input/RandomAccessFileInputStream.class
+SHA-256-Digest: x7k64bCbeppxoHqE4Wxnv28g2thlKfmtcKnqzBpvHbg=
+
+Name: org/apache/commons/io/filefilter/WildcardFilter.class
+SHA-256-Digest: QHXaLzz2kmJgKwGb8eaU0WcoM50vkBvi9UsziH1wg5Q=
+
+Name: org/apache/commons/io/output/NullOutputStream.class
+SHA-256-Digest: ZwCgRWm4zDcw/FGkhrPfwIGZaXas0tO3AOk/eLri0ao=
+
+Name: org/apache/commons/io/output/ClosedWriter.class
+SHA-256-Digest: Ukfi8i9QJ3BMZL1NfuVo5NDufCVoKVb90/F17RDQVws=
+
+Name: org/apache/commons/io/input/CharSequenceReader.class
+SHA-256-Digest: MnyEBK/M0MTZ8EjHtLKyl/bzLjsZgT1X11Zet2nvA0E=
+
+Name: org/apache/commons/io/output/AbstractByteArrayOutputStream$InputSt
+ reamConstructor.class
+SHA-256-Digest: SGVt3qVWMLBhk3ic8hy8GKAfYf8Mw9s7dUmRxzhTd98=
+
+Name: org/apache/commons/io/file/Counters.class
+SHA-256-Digest: vOf0Nc7+/hWjkYCXvliPi3Emm5zbUG3MDw5Aa98TXrU=
+
+Name: org/apache/commons/io/FileExistsException.class
+SHA-256-Digest: I5SV4xiGZmD4+bi5n0OJIAYWBy+lEkzlJp6FUiI+NrU=
+
+Name: org/apache/commons/io/input/TaggedInputStream.class
+SHA-256-Digest: vJ5WGsnNGPHpUyCTjQN7Y8sWR8ThtE37Prb+j5xNMoA=
+
+Name: org/apache/commons/io/output/ClosedOutputStream.class
+SHA-256-Digest: nvCx3X7/hbo9az96NY2j5njL8898QU4RAFcTE20MmEk=
+
+Name: org/apache/commons/io/IOCase.class
+SHA-256-Digest: 0a9BIaHYQHg+x5wgmhn60QRCYQ0GEoWve6YPQejUlQM=
+
+Name: org/apache/commons/io/file/DeleteOption.class
+SHA-256-Digest: Etls5sguNb+06mitT729SJ/xcUc4I0hExzwMljLs6Pk=
+
+Name: org/apache/commons/io/filefilter/FileFileFilter.class
+SHA-256-Digest: cmctaAPZaV25/8PckfWSyedpZRCT5JWszBv9WwJFx2w=
+
+Name: org/apache/commons/io/file/Counters$PathCounters.class
+SHA-256-Digest: bL9KBms0GoH3bRCM/r4hwHWqSv48E/sO3NETObZGgwY=
+
+Name: META-INF/NOTICE.txt
+SHA-256-Digest: DFntZRvmQD5VZcZ6jVAORWc3F+3yNhsLX3bp6eCJU3A=
+
+Name: org/apache/commons/io/output/LockableFileWriter.class
+SHA-256-Digest: gfxBVIQjgcpSNZhemnoLKS6XlZ/Ap83foCyxu9IaYzU=
+
+Name: org/apache/commons/io/function/IOFunction.class
+SHA-256-Digest: MpoQJIll8x9SyUqHQqHSxuw0oCSiBbYOGwUdr+b7Muk=
+
+Name: org/apache/commons/io/input/ClassLoaderObjectInputStream.class
+SHA-256-Digest: ufznXs/acUODpyfT38cBH9OlKjmXyzsXRTV1mFqtCv0=
+
+Name: org/apache/commons/io/serialization/ValidatingObjectInputStream.cl
+ ass
+SHA-256-Digest: JW6ajxqgpMS81JxOsPotHOUXwK6elRID54M+a6DF+xM=
+
+Name: org/apache/commons/io/FileDeleteStrategy.class
+SHA-256-Digest: Btv/DQ6feJxHdrNxUTEXnPqklAoMH3MuvWjZ5Y5OnxI=
+
+Name: org/apache/commons/io/filefilter/OrFileFilter.class
+SHA-256-Digest: l0Jfw0FUQudoewu46Z0vQynmBCjmH5ByySMcuIW8HDo=
+
+Name: org/apache/commons/io/input/buffer/CircularBufferInputStream.class
+SHA-256-Digest: MUOBhKJgk2BGjjY4c5K+UTOK+949bYzizTKUPQ1/CBw=
+
+Name: org/apache/commons/io/input/ClosedReader.class
+SHA-256-Digest: d0B0ILJN/6AYRCu0xz+hJYyi2XzjMPJSIsxWhYSCKjI=
+
+Name: org/apache/commons/io/output/TeeOutputStream.class
+SHA-256-Digest: 5u/SAMHbpqP95kBp3YTqQPDz7l0ETkRGAPUz27EOKJk=
+
+Name: org/apache/commons/io/output/DemuxOutputStream.class
+SHA-256-Digest: nob9gbgCcAHPUNQLh6c1MjOKXTJBvtJOs4er3RaNCL4=
+
+Name: org/apache/commons/io/input/CharacterFilterReader.class
+SHA-256-Digest: 0ecWTJ65AEUA9j0QG83OLXrZY1CAI4yYARMNc7JXaeQ=
+
+Name: org/apache/commons/io/input/BoundedReader.class
+SHA-256-Digest: FqTqtyLyJz97lNbr5Sj3iEM7SGBZdtMXm6ScHCWV6EQ=
+
+Name: org/apache/commons/io/input/CountingInputStream.class
+SHA-256-Digest: oAITgi1xhWZof1g+cR0DNMqziDNxpA3a+DvjR2Qy5Ww=
+
+Name: org/apache/commons/io/LineIterator.class
+SHA-256-Digest: 0Iz+sXcsgSvtEe9lxEIiEovSYPEacf43cUAmJVRgO5I=
+
+Name: about.html
+SHA-256-Digest: ouJV+YBcKrAVDxIFKSvF+ieSGTBTGQFOVvrPVGE/DuI=
+
+Name: META-INF/LICENSE.txt
+SHA-256-Digest: jG2zQEdRNt88EgHUWPpXVWmOrOduUQRx7MnYV9YIPaw=
+
+Name: org/apache/commons/io/filefilter/SuffixFileFilter.class
+SHA-256-Digest: vmXVH9E4HSEVPk6Zi2i/rPuucQAyeuTa8I03hLEoVXw=
+
+Name: org/apache/commons/io/input/TailerListenerAdapter.class
+SHA-256-Digest: 5MkGWpnRnu9UCkrDlCgiHGflIDQyT2zxgNpKfxWPPLE=
+
+Name: org/apache/commons/io/output/FilterCollectionWriter.class
+SHA-256-Digest: yCs+h5FKJPGFb/O5UnqlryZ9MP/T36R7y52KyzelfWg=
+
+Name: org/apache/commons/io/filefilter/TrueFileFilter.class
+SHA-256-Digest: igmoaegn6FvhTUfCr3YruCthsK2aw4X/XYyyYl1eEME=
+
+Name: org/apache/commons/io/output/ByteArrayOutputStream.class
+SHA-256-Digest: sixfeiMydObcFqAqPY4bcdd7+aR9yzWhdTvZkvb5Q+I=
+
+Name: org/apache/commons/io/output/StringBuilderWriter.class
+SHA-256-Digest: pEMaio4RsIdio0K6Whyseqm77J/q/LakzPqtNuiG9Kk=
+
+Name: org/apache/commons/io/input/TeeInputStream.class
+SHA-256-Digest: SUWjIVVlUma4SQj3f2ESz/SWl/5Kl7+juGVgzvIS9Yw=
+
+Name: org/apache/commons/io/monitor/FileAlterationListener.class
+SHA-256-Digest: QirES2O4nOGC47eRiJTicqM0CcHnx/0Q1HS+Ds+DLUQ=
+
+Name: org/apache/commons/io/FileCleaningTracker$Reaper.class
+SHA-256-Digest: KKjswZBNm5Jjk/UfKk1ggxmBkUO2hiw5vKCiH8kztA0=
+
+Name: org/apache/commons/io/input/AbstractCharacterFilterReader.class
+SHA-256-Digest: YfO1f0rrm+dzoIwCzZiaCK54htg112BI55bHOAWG7jc=
+
+Name: org/apache/commons/io/file/PathUtils$1.class
+SHA-256-Digest: klk+I2gWyUx0lChZAwR1t+lHmo2YBXDB+bWifvcmCgc=
+
+Name: org/apache/commons/io/output/ProxyOutputStream.class
+SHA-256-Digest: PuA8tTXdNFhNs/UKBOVgoIHvJ6x0EHn5DcC5RFVAA3o=
+
+Name: org/apache/commons/io/input/buffer/CircularByteBuffer.class
+SHA-256-Digest: BkMRw84AA/mWyyYG1bSLy70DoWG4klS8qvyd6oX3Phs=
+
+Name: org/apache/commons/io/file/Counters$BigIntegerPathCounters.class
+SHA-256-Digest: LmqE4gDgxngxWbBw6vhy8PRU/+rzVxcCE2agbG4hEkA=
+
+Name: org/apache/commons/io/output/FileWriterWithEncoding.class
+SHA-256-Digest: brWGBKax+p0lVHKHsbz11sScWPyjToxIHG9REj5jNKE=
+
+Name: org/apache/commons/io/comparator/NameFileComparator.class
+SHA-256-Digest: duZNyzHCnHRfwhJiWPJJFF2q/TBUVeiPujEIzfMQmtg=
+
+Name: org/apache/commons/io/filefilter/HiddenFileFilter.class
+SHA-256-Digest: 6illzMuolCwryMC51PqqjsRiLSYW0uSuxJ0Ht/nw5xE=
+
+Name: org/apache/commons/io/ByteOrderMark.class
+SHA-256-Digest: ke1nOrLJLOCZp4UDJe8JC9vYUu7YQKaXgxkSw7hPvG0=
+
+Name: org/apache/commons/io/output/AbstractByteArrayOutputStream.class
+SHA-256-Digest: xXR9n2frjul5/ZeE7kcxT7tnYyY83jbc3Mlxl5rGyHM=
+
+Name: org/apache/commons/io/serialization/ClassNameMatcher.class
+SHA-256-Digest: x/O56r/SwCMX8GjI4r/NmzEFG8NA/PLlEyqm7RhVB6o=
+

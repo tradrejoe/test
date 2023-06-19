@@ -1,0 +1,164 @@
+Manifest-Version: 1.0
+Created-By: Eclipse Bundle Recipe Maven Plug-in
+Build-Jdk-Spec: 11
+Ant-Version: Apache Ant 1.6.5
+Automatic-Module-Name: org.apache.xml.resolver
+Bundle-ManifestVersion: 2
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.apache.xml.resolver
+Bundle-Vendor: %bundleVendor
+Bundle-Version: 1.2.0.v20220715-1206
+Export-Package: org.apache.env;version="1.2.0",org.apache.xml.resolver;v
+ ersion="1.2.0";uses:="org.apache.xml.resolver.helpers,org.apache.xml.re
+ solver.readers",org.apache.xml.resolver.apps;version="1.2.0";uses:="org
+ .xml.sax",org.apache.xml.resolver.etc;version="1.2.0",org.apache.xml.re
+ solver.helpers;version="1.2.0";uses:="javax.xml.transform,org.w3c.dom,o
+ rg.xml.sax",org.apache.xml.resolver.readers;version="1.2.0";uses:="java
+ x.xml.parsers,org.apache.xml.resolver,org.apache.xml.resolver.helpers,o
+ rg.w3c.dom,org.xml.sax,org.xml.sax.helpers",org.apache.xml.resolver.too
+ ls;version="1.2.0";uses:="javax.xml.transform,org.apache.xml.resolver,o
+ rg.xml.sax,org.xml.sax.helpers"
+Import-Package: javax.xml.parsers,javax.xml.transform,javax.xml.transfor
+ m.sax,org.apache.xml.resolver;version="[1.2,2)",org.apache.xml.resolver
+ .helpers;version="[1.2,2)",org.apache.xml.resolver.readers;version="[1.
+ 2,2)",org.apache.xml.resolver.tools;version="[1.2,2)",org.w3c.dom,org.x
+ ml.sax,org.xml.sax.helpers
+Main-Class: org.apache.xml.resolver.apps.resolver
+Originally-Created-By: 1.3.1 (IBM Corporation)
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JRE)(version=1.1))"
+
+Name: org/apache/xml/resolver/etc/catalog.xsd
+SHA-256-Digest: KU8gkwl5zn3Heml2I7smXqpdq9lhjiuczcliOp9gORQ=
+
+Name: org/apache/xml/resolver/helpers/FileURL.class
+SHA-256-Digest: /wiPQPrbE99W/WBskWivS6swb/LVVpOeNSIQPHb7uvY=
+
+Name: org/apache/xml/resolver/helpers/Namespaces.class
+SHA-256-Digest: ++49gkxWdZDUxs1jCJZDNnFXaWsXkYx3DCnCGYpzBKk=
+
+Name: org/apache/xml/resolver/readers/XCatalogReader.class
+SHA-256-Digest: 1755QrdepI9VS5aYpYOXFjjpkhMkUDiv4jgG31LldWA=
+
+Name: org/apache/xml/resolver/tools/ResolvingXMLFilter.class
+SHA-256-Digest: /E/ZV0bh+UGTOkUyAv0SdxJqrhtSZqEZLSIg9QjOQ/I=
+
+Name: org/apache/xml/resolver/readers/SAXCatalogParser.class
+SHA-256-Digest: QoQ/06WirbQ16Dq6mgVGlV3SxQlgNkHURYJ5lzGUIz0=
+
+Name: org/apache/xml/resolver/readers/TextCatalogReader.class
+SHA-256-Digest: wG+4srho6rue5U1uiUwvUows4UX7mE7jy/jM8y3UR3M=
+
+Name: org/apache/xml/resolver/readers/SAXParserHandler.class
+SHA-256-Digest: bR34ARpoIBY++jQY+rJgmFjyr1IqFLFEgqR/CStRzBo=
+
+Name: org/apache/xml/resolver/readers/ExtendedXMLCatalogReader.class
+SHA-256-Digest: Q+8Ztl/wdS+X51qrMogelg3SYzSp0VIC3sOYEx4i9hw=
+
+Name: org/apache/xml/resolver/readers/TR9401CatalogReader.class
+SHA-256-Digest: zoH6G7vtazvMG169fdIjfrtdlLkabEFxfNRG7SEI7IQ=
+
+Name: org/apache/xml/resolver/CatalogManager.class
+SHA-256-Digest: Hm6AeLeMtSDR2z8DpQTf1hV6qM7hCfZusEka6fUnGwc=
+
+Name: org/apache/xml/resolver/readers/OASISXMLCatalogReader.class
+SHA-256-Digest: RuH8UTXwLvXZJuE0ZDU7u0+nxITB+MxR/4BAbcVps+4=
+
+Name: org/apache/xml/resolver/Catalog.class
+SHA-256-Digest: Pl0OP4CpQOnXZ2WsaimXXVR1ZGnNwezRKb19CB0iCIU=
+
+Name: org/apache/xml/resolver/CatalogException.class
+SHA-256-Digest: hzJzMXjM9NlDIi2mBN4BwXZP+hNs1bVsRlI4lBo4+nU=
+
+Name: META-INF/INDEX.LIST
+SHA-256-Digest: tu1bvZhPyXgGKoNTwnVM06TjespOZJZ22SLOUBQiNrM=
+
+Name: org/apache/xml/resolver/readers/SAXCatalogReader.class
+SHA-256-Digest: LjsEmAb8iDsAcxeeihC5wR5RNEvFJzKZlpE4KQxtaFY=
+
+Name: org/apache/env/WhichJar.properties
+SHA-256-Digest: g1l/DWdf/QRuA+nTgvufKvgOVrU3IYcyGfuw0EUromo=
+
+Name: org/apache/xml/resolver/tools/ResolvingXMLReader.class
+SHA-256-Digest: NhfPjBLwPS9YDJ7E2jKH1Dr7M5TexqzacMB/vXSwMVc=
+
+Name: org/apache/xml/resolver/readers/DOMCatalogParser.class
+SHA-256-Digest: EFPpSJOOjBvw6udBHmLlJOKcQnsl2E9qQzM4FAj81P8=
+
+Name: org/apache/xml/resolver/etc/xcatalog.dtd
+SHA-256-Digest: agU0tAkzThjEeMapsZ4Q3xKmCLlB8ftRmZwX0G0nT8Q=
+
+Name: org/apache/xml/resolver/helpers/Debug.class
+SHA-256-Digest: B3k/2xS6PSMCYEmhe1GUL10ZwaNLg3E3hyS9hAUDNzo=
+
+Name: org/apache/xml/resolver/etc/catalog.rng
+SHA-256-Digest: 9J4S4gs9vFC68dtFeQyELdE6VTrwu4pn8l79RC9f9OQ=
+
+Name: org/apache/xml/resolver/apps/resolver.class
+SHA-256-Digest: N6IavPPbroXyZVA+LCGrutDBpNiHCt7PBPCgc8bos1o=
+
+Name: about.html
+SHA-256-Digest: 6yOeH+j08FsTmopnM/cLouHEOluvKZ4taq8xEMtqahE=
+
+Name: org/apache/xml/resolver/apps/xparse.class
+SHA-256-Digest: Gt0GdpLsLhTw7DoendA60e/Yr9nmFM3ukahyRQnpba4=
+
+Name: org/apache/xml/resolver/tools/CatalogResolver.class
+SHA-256-Digest: zc9H9iOlVwr4KhSjvroFz2pWeUJ94KAAZFLxdu+gGxo=
+
+Name: about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=
+
+Name: org/apache/xml/resolver/readers/CatalogReader.class
+SHA-256-Digest: tvP8Bk399cBQckGbEiUBzAtXq7VXghWQ2N1n57ZWmxs=
+
+Name: org/apache/xml/resolver/readers/DOMCatalogReader.class
+SHA-256-Digest: WSlzJ8uVevug8ovDuQkfCx/HsYwcmIMU7yDvNJ5B8qE=
+
+Name: org/apache/xml/resolver/apps/xread.class
+SHA-256-Digest: ppR5vXKlAW8lbe0PfI6GVLw8eee+lJpNJwF2y+FwXpU=
+
+Name: org/apache/xml/resolver/CatalogEntry.class
+SHA-256-Digest: 99OZzi7fF57jy3t59/kqUH1FZYqyDRdACgmiDnm7vwI=
+
+Name: org/apache/xml/resolver/Version.class
+SHA-256-Digest: 6l40JFP3NtGKn/tQTIo6amR94QyumJyNa5hUubEXdMI=
+
+Name: org/apache/xml/resolver/tools/ResolvingParser.class
+SHA-256-Digest: f/qcXA2zoLUGPYGP8dj1tEdSPw4rF2c+M9WJMdiaztA=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.xml.resolver/p
+ om.properties
+SHA-256-Digest: OcYgUJfp241w3SV/6wOCxK5bA3HcTgBbqtkXJHv/WNs=
+
+Name: org/apache/xml/resolver/apps/XParseError.class
+SHA-256-Digest: YjLI+KZ+2ujDicaOvj1fD5iC3PUnIdm99l0BTQi/XKs=
+
+Name: org/apache/xml/resolver
+Comment: xml-commons Resolver code
+Implementation-Title: org.apache.xml.resolver.Catalog
+Implementation-URL: http://xml.apache.org/commons/
+Implementation-Vendor: Apache Software Foundation
+Implementation-Version: 1.2
+
+Name: org/apache/xml/resolver/etc/catalog.dtd
+SHA-256-Digest: wwljM4DdH9Lb0Nx8w3VGMghlpiQ5SuwUk3uuAjNdnQ8=
+
+Name: org/apache/xml/resolver/helpers/PublicId.class
+SHA-256-Digest: gowTM5Kyr1dcktZ6u60dy4kSmWdTEhk2eYlU1o9hNWo=
+
+Name: org/apache/env/WhichFactory.properties
+SHA-256-Digest: M3z+1jS7Y1kidwhNXmCmscQmvtapwiKVk8eMBjbDIS0=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.xml.resolver/p
+ om.xml
+SHA-256-Digest: H2Sy+M6jjlpa+ljlh5uWS/3Gbi9Q/oQJKQ4Jrgv9rFU=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: UqFSqE9o8j7nuH/clG5vWJXLtRkFgBEEiuItCuZ/n4s=
+
+Name: org/apache/xml/resolver/Resolver.class
+SHA-256-Digest: +h+B1aoupT2chzsrd1GpJRy7wc6CQA5n3k6SgCHhK/k=
+
+Name: org/apache/xml/resolver/helpers/BootstrapResolver.class
+SHA-256-Digest: uQRqn5YLHhZrtU3Cl/GnmTD92R8e1I9ghgWYEZA9mro=
+

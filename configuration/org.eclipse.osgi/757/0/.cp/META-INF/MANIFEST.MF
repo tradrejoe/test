@@ -1,0 +1,253 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.ui.views; singleton:=true
+Bundle-Version: 3.11.200.v20220817-1444
+Bundle-ClassPath: .
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.ui.internal.views.contentoutline;x-internal:
+ =true,org.eclipse.ui.internal.views.properties; ui.views="split"; manda
+ tory:="ui.views"; x-internal:=true,org.eclipse.ui.views.contentoutline,
+ org.eclipse.ui.views.properties; ui.views="split"; mandatory:="ui.views
+ "
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.11.0,4.0.0)"
+ ,org.eclipse.help;bundle-version="[3.2.0,4.0.0)",org.eclipse.ui;bundle-
+ version="[3.5.0,4.0.0)",org.eclipse.jface;bundle-version="[3.18.0,4.0.0
+ )"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: org.eclipse.ui.views
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.ui.git;path="bundles/org.eclipse.ui.views";tag="I2022081
+ 7-1800";commitId=08c480b6f7aa3276bac6d1de4c262eade5ec73fb
+
+Name: org/eclipse/ui/views/properties/PropertySheetViewer$6.class
+SHA-256-Digest: 7K9Ur1TUUic0rTl3mVS9Ei4/vM8gnmAwIPERrvUluUM=
+
+Name: icons/full/elcl16/new@2x.png
+SHA-256-Digest: WER46wmP+Q+QJc0rGRi1AWb2c7LC0j+tvL05rkt8cwg=
+
+Name: plugin.xml
+SHA-256-Digest: g20at76NToNbt3n3t13+MhJfPvqhnmy9TRLEWParTLs=
+
+Name: org/eclipse/ui/views/properties/TextPropertyDescriptor.class
+SHA-256-Digest: 1t+PXBsLxk+h2zYRzkEZ+gqDdB5zQZrnicIZc262j5s=
+
+Name: icons/full/dlcl16/filter_ps@2x.png
+SHA-256-Digest: 77jL7WzSYyk6JDXLgacWoTJshnxV8Cz/nxgHmRAs0Nc=
+
+Name: org/eclipse/ui/views/contentoutline/ContentOutlinePage$1.class
+SHA-256-Digest: o8A7gU2jlTL5+Ej6ISkWU8vSFIOx8h7UE7CXR3FZwLc=
+
+Name: org/eclipse/ui/views/properties/DefaultsAction.class
+SHA-256-Digest: B4QLP2U0XnRy4jARAxR/dQ2nYd9ie7VBsGNqZQSSKWM=
+
+Name: org/eclipse/ui/views/properties/PropertySheetViewer$3.class
+SHA-256-Digest: RqI89Unuq+Z1k0Unwf0QKErhTu3DXAMRRqLYH47W1XM=
+
+Name: org/eclipse/ui/views/properties/PropertySheet$SaveablesTracker.cla
+ ss
+SHA-256-Digest: k+8n1i96qXrP6h1XN1Nts/BCl5BA0kExyB1HAsLh/NM=
+
+Name: plugin.properties
+SHA-256-Digest: izLbsahonGC4a2DFGbAKcqK0rpu2QTa5h2ve1znbdmo=
+
+Name: org/eclipse/ui/internal/views/properties/messages.properties
+SHA-256-Digest: 4rxcc8Z2hmu7omar64lgbr2o8js3maaXqscVUUBREos=
+
+Name: icons/full/elcl16/tree_mode@2x.png
+SHA-256-Digest: c8gHCwTAUaAIzigf4XUfDHJTy8/YTop+FGe7WwFl+Es=
+
+Name: icons/full/dlcl16/new.png
+SHA-256-Digest: i2TcJfVGGzQtyas0Oj6J4E6GvZ4BBkRmyJFR3WnQqDQ=
+
+Name: org/eclipse/ui/views/properties/CategoriesAction.class
+SHA-256-Digest: PhXEaBvJ23w7+9zMMEa9PwK1xa0qm+ifataU1FiKQ78=
+
+Name: icons/full/elcl16/filter_ps.png
+SHA-256-Digest: 6M9DArtphXvwmabFe4Z0b42LbMmXO8Hj1U/AvyuU6No=
+
+Name: org/eclipse/ui/views/properties/PropertySheetPage$2.class
+SHA-256-Digest: Pwv3xHeWFysE2B+6oqucJiZGs9IRcK60UKDUOyhWrLQ=
+
+Name: icons/full/dlcl16/tree_mode.png
+SHA-256-Digest: SJ+dbSylQxwLcHKdkzCbxvz4CreCWsR38iz9H6UhPxA=
+
+Name: icons/full/dlcl16/filter_ps.png
+SHA-256-Digest: 7McJW2+laNnKmq0eh7sK/IDCGX3OocXp971qP/CWCDk=
+
+Name: icons/full/elcl16/tree_mode.png
+SHA-256-Digest: z0o8F/IV3ZR59vkO//VkbWMCt2HUdvmh17wVWdaFx50=
+
+Name: org/eclipse/ui/views/properties/PropertySheetPage$4.class
+SHA-256-Digest: yF/hDITi3GSiiY83vBwyAUzUfbd58QUAeDJoJM6b7W4=
+
+Name: icons/full/elcl16/defaults_ps@2x.png
+SHA-256-Digest: 46JbENVimXKXykZ+wmGaLE0ttLLuNDDYKRPITmZVhR8=
+
+Name: .api_description
+SHA-256-Digest: RAgXB9xNEu4PqvpPUHEBF5Q+X1bJ3r2ZCotaAXbW6ho=
+
+Name: org/eclipse/ui/views/properties/PropertySheetViewer$7.class
+SHA-256-Digest: vrkrugXAfFx0F6wzg/MxI6iWPdffTBBGefBAY9vsbOQ=
+
+Name: org/eclipse/ui/internal/views/properties/PropertiesMessages.class
+SHA-256-Digest: 8dy5AJq+o8lfr3qb/1iXBUnNvzlVxQTDDN3WVacJ9Hg=
+
+Name: org/eclipse/ui/views/properties/PropertySheet.class
+SHA-256-Digest: bRQagYZ00AKXK1Z3KHwb+QsWA20ljMA6d4ArmvW0L74=
+
+Name: icons/full/eview16/outline_co.png
+SHA-256-Digest: 9s2XShAOyh2Vz1dO7UMJvdtJP6TVBG7ULOyJgncFCGs=
+
+Name: org/eclipse/ui/views/properties/IPropertiesHelpContextIds.class
+SHA-256-Digest: absHKEdIMoJWkLC64yGFJxU8dhLCfY4vEZJb2sbnov8=
+
+Name: icons/full/dlcl16/tree_mode@2x.png
+SHA-256-Digest: +DSbWMH/wPl39oXUGwmx8edurRzWsLrOGqkiO3CVrEA=
+
+Name: org/eclipse/ui/views/properties/PropertySheetCategory.class
+SHA-256-Digest: B4bXOCA0R4UxC/ApRonEPcLx+D0rPt8zdr6rvtt+hho=
+
+Name: org/eclipse/ui/views/properties/PropertySheetSorter.class
+SHA-256-Digest: URqGWJwyMduflSML+H1omCfXCBbLz4hTwyZpIR9O0RA=
+
+Name: org/eclipse/ui/views/properties/PropertySheetViewer$4.class
+SHA-256-Digest: XS+kOqebJ1ae4IdPeinkRTfiIF+JpMgGRDjkhFA08fQ=
+
+Name: org/eclipse/ui/views/properties/IPropertySourceProvider.class
+SHA-256-Digest: e2Bm1DqaOZlG2oafcXi+pjYab1luoJhJJS07isau4o0=
+
+Name: org/eclipse/ui/views/properties/ICellEditorActivationListener.clas
+ s
+SHA-256-Digest: gFDdc4KG1zXYOc8t2dSSpb7fHc//DW87u/WeK4uaLQQ=
+
+Name: icons/full/eview16/prop_ps@2x.png
+SHA-256-Digest: AUqdkEtsldofkAlNtu8rM5s7cqCAaJn1sSskVELgnHM=
+
+Name: icons/full/elcl16/new.png
+SHA-256-Digest: bcqmvSzZZe/h++Tl7RBu/7Ed0tNJu8/eVWGRgdL3Tgo=
+
+Name: org/eclipse/ui/views/properties/PropertySheetViewer$1.class
+SHA-256-Digest: Ajv+NnyIVQPUCjxq5DFuw1mkxVAV5xJClu7F6uKNv9k=
+
+Name: icons/full/dlcl16/defaults_ps@2x.png
+SHA-256-Digest: OlKuND3RKSDa/qyUWh3bx+yHUy8a+C0/rpI/jzDDrT8=
+
+Name: org/eclipse/ui/views/properties/FilterAction.class
+SHA-256-Digest: SzQDmg+e7ucINHP3yDCRCf3i1kB9qHEZrr1wCHpNx2U=
+
+Name: org/eclipse/ui/views/properties/PropertyEditingSupport.class
+SHA-256-Digest: 3Yi1JsoieQXrPmO347aJ/JTBBKLa3iRJlV62cZko4ec=
+
+Name: icons/full/elcl16/defaults_ps.png
+SHA-256-Digest: rRIHI3s+rms/cPJADg1fAc7DjKcNZfD1oMn0rB/vekw=
+
+Name: org/eclipse/ui/views/properties/PropertySheetPage$1.class
+SHA-256-Digest: MNWhFigxNcZ8NLDDjdrfk4GX/tOCXi1UNhOrBkLhmp8=
+
+Name: org/eclipse/ui/internal/views/contentoutline/messages.properties
+SHA-256-Digest: IlvAClOTAekZM7IgbviEEXAR6Vimgx40atLFqV3Im+o=
+
+Name: org/eclipse/ui/views/properties/IPropertySheetPage.class
+SHA-256-Digest: rU2purYIOHhQwxE7cVHOvaH2j1lBrsR6sctYNFUdai8=
+
+Name: org/eclipse/ui/views/properties/PropertySheetPage.class
+SHA-256-Digest: dh906Xiu5hsA2GtROQxVkMcjUtHHmEVsSUhUzK//yb0=
+
+Name: org/eclipse/ui/views/properties/ComboBoxPropertyDescriptor.class
+SHA-256-Digest: jfCsmXsjDqce4/k6w6jaTK6DcvNqx/0MkfwixA4+KmA=
+
+Name: org/eclipse/ui/views/properties/PropertySheetViewer.class
+SHA-256-Digest: K8FtX0VEtZ689x/tw+DBjnBX3KLcDBZpZN3yRWYj6gI=
+
+Name: org/eclipse/ui/views/properties/PropertySheetViewer$5.class
+SHA-256-Digest: THBRY+UzF2O1v3T5cBK3w6TBHluWggqvJ3bjNo/qUok=
+
+Name: org/eclipse/ui/views/properties/NewPropertySheetHandler.class
+SHA-256-Digest: J7s77/7JUMvANpe76KisC43RE8E2gmT5YIJ5lpwI1G4=
+
+Name: org/eclipse/ui/views/properties/IPropertySheetEntry.class
+SHA-256-Digest: 9ndVPfywLpHVvnp7DR5MpEEvt9Z/K6i8gqbaql5aON8=
+
+Name: org/eclipse/ui/views/properties/PropertySheetAction.class
+SHA-256-Digest: /gves+7W95/oTrp4629OFlFsn2U+2c7kPxJ7nhBX39I=
+
+Name: icons/full/eview16/prop_ps.png
+SHA-256-Digest: vj6900YEUuMWHV2TumAc7ZAkC1YV8UkgLl1yayefYQY=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/ui/views/contentoutline/ContentOutlinePage.class
+SHA-256-Digest: MODBajzP5mHf1SRLSvIWCZzEK0BM5Kn6vFTJs5vH4dU=
+
+Name: org/eclipse/ui/internal/views/contentoutline/ContentOutlineMessage
+ s.class
+SHA-256-Digest: 0KUBJ0CysTMsG5x7ZvyWNBjgZ4v1QV1OnH7ZVC0Pzxc=
+
+Name: icons/full/dlcl16/new@2x.png
+SHA-256-Digest: +m6clEmJ41lChp27gOeIMhcVqkKp2QHqfMMIQY12lHY=
+
+Name: org/eclipse/ui/views/properties/PropertyShowInContext.class
+SHA-256-Digest: Chnyln9O7nUD2hUfgdG3KfebMAhFZEYsVEEGq6y5/x0=
+
+Name: org/eclipse/ui/views/properties/IPropertyDescriptor.class
+SHA-256-Digest: hcmzCxPl53i637dKGeYU8j8M4/KBSNVO4Vyf2H5FJ40=
+
+Name: org/eclipse/ui/views/contentoutline/IContentOutlinePage.class
+SHA-256-Digest: C7gnemJF/FOYTr6Nv4ERxLl4e07Waf6jVinsHCQH5Sw=
+
+Name: org/eclipse/ui/views/properties/IPropertySource2.class
+SHA-256-Digest: xU6/4GWB2lM3cSr+MRlhDxVkdYqu/iM7C+O0OfYSClE=
+
+Name: org/eclipse/ui/views/contentoutline/ContentOutline.class
+SHA-256-Digest: 7AP/e3DnaoIWBKvGaE/HKA2wF/JXpEdc6+IEUgmXjR0=
+
+Name: org/eclipse/ui/views/properties/PropertySheetViewer$2.class
+SHA-256-Digest: yNN65yFCS/43bfODXGHhKroA/nIKEB/b0cor/88IcRg=
+
+Name: icons/full/dlcl16/defaults_ps.png
+SHA-256-Digest: KTeGlbxRt2WiG3zzQSRsztnykDBzHdycA73fTNR0+yk=
+
+Name: org/eclipse/ui/views/properties/PropertyColumnLabelProvider.class
+SHA-256-Digest: TZAmrs1xoGGzTEjD+8f4YWtHMGNHSq9E3VpAGlT+hIc=
+
+Name: org/eclipse/ui/views/properties/CopyPropertyAction.class
+SHA-256-Digest: fTZCoO169QSrAXWXSK1jFtELB21gJQKSFYAj9K/ep3c=
+
+Name: org/eclipse/ui/views/properties/IPropertySource.class
+SHA-256-Digest: OtqKsgGvrSpcgRO0S/eJE4djeNNAYhrwgVi/AG0mPGc=
+
+Name: org/eclipse/ui/views/properties/PropertySheetEntry$1.class
+SHA-256-Digest: EDpqm8iuYp80OVPE1Zzqv4ufc0+VdxFg1IR2jAUT3mk=
+
+Name: org/eclipse/ui/views/properties/PinPropertySheetAction.class
+SHA-256-Digest: nh4lHY0qnlN23Q6lkPLe0z7BY1O4It2DL9NmP87KQDw=
+
+Name: icons/full/elcl16/filter_ps@2x.png
+SHA-256-Digest: FpcdlP/AO2mPBo/CdrSdReMA3kCuwmLlrHLyY+NWVZo=
+
+Name: org/eclipse/ui/views/properties/PropertySheetEntry.class
+SHA-256-Digest: Zhptikd+D4TfL22zDthxYUwO8ExwzTp86lANAwIgGqU=
+
+Name: org/eclipse/ui/views/properties/PropertyDescriptor.class
+SHA-256-Digest: oZASAJo8fN/X+M9mcMWYRY8Gv1ZCAoL62oHqWZ69HUE=
+
+Name: org/eclipse/ui/views/properties/ColorPropertyDescriptor.class
+SHA-256-Digest: BSm56f53dMFxXWLvq7r54VWShSeuEkx1MUvguiI3tsw=
+
+Name: org/eclipse/ui/views/properties/ComboBoxLabelProvider.class
+SHA-256-Digest: R+IKtrjCrAQNtVK6eFm1fDgI/UlP+OP0NzI4WZzito0=
+
+Name: org/eclipse/ui/views/properties/PropertySheetPage$3.class
+SHA-256-Digest: 55GJ9KfWqSqqK9A9w/keRKg0IwmMDBHHprge1B0pdE8=
+
+Name: org/eclipse/ui/views/properties/IPropertySheetEntryListener.class
+SHA-256-Digest: lBcZULltm5ngYdLncRIC+XQFcwaLiJdVtKxdDIdqISw=
+
+Name: icons/full/eview16/outline_co@2x.png
+SHA-256-Digest: VYpk7f6gAphKwYHs+pAemIjQ0zs7TKQK6VLF6AMlaE0=
+

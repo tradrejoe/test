@@ -1,0 +1,111 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.e4.ui.dialogs
+Bundle-Version: 1.3.300.v20220815-1831
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.e4.ui.dialogs.filteredtree,org.eclipse.e4.ui
+ .dialogs.textbundles;x-internal:=true,org.eclipse.e4.ui.internal.dialog
+ s.about;x-internal:=true
+Require-Bundle: org.eclipse.jface;bundle-version="3.11.0",org.eclipse.co
+ re.runtime;bundle-version="3.18.0"
+Automatic-Module-Name: org.eclipse.e4.ui.dialogs
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.ui.git;path="bundles/org.eclipse.e4.ui.dialogs";tag="I20
+ 220815-1800";commitId=3c41cbc1c0e3dbf2d50700917df96a9e26e0f1eb
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/UnavailableProduct.class
+SHA-256-Digest: Bo1eFEGEn/ajV8rGhMKLrsoAb4pj/rCzoiUz5OC0TMw=
+
+Name: org/eclipse/e4/ui/dialogs/textbundles/E4DialogMessages.class
+SHA-256-Digest: Rl9Ssq43jQ7ecV8yqUhRh3zHShjalb2AdQjJ1y5XNO8=
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/AboutText$2.class
+SHA-256-Digest: yRXFUQ+SBICYzeJtjAVWxuosbyoVCK8k7pfzN+9UtYk=
+
+Name: org/eclipse/e4/ui/dialogs/filteredtree/FilteredTree$3.class
+SHA-256-Digest: /2kcBb0JG5Y1Dbw9JfOyZR2mmgd6ePXHEK354oX0VgI=
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/IProductConstants.class
+SHA-256-Digest: QaA/YZUdzaUr2wlTPFNrDcAOm1YWNgXjXyX9JNoCIgg=
+
+Name: org/eclipse/e4/ui/dialogs/textbundles/messages.properties
+SHA-256-Digest: pQruI7OJ1/Me/9eYWy9ER2YxFcDqdL58OcIU9+ZncJ0=
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/AboutText$1.class
+SHA-256-Digest: 8NSYB1jYUPxwM620WtxNNtsAjl3BZP9Rex8K3DV53tM=
+
+Name: org/eclipse/e4/ui/dialogs/filteredtree/FilteredTree$1.class
+SHA-256-Digest: iZxVWpkRFnZwYEzVftVwK4oDz0OL8W+0OT4nnMDH/Zc=
+
+Name: icons/full/dtool16/clear_co.png
+SHA-256-Digest: 8r91elUfiCBxHN0UxBFMZ3bK0v08vIPAGB81MjHxlRQ=
+
+Name: plugin.properties
+SHA-256-Digest: M+POz56oBWqomKa0ChfectJJZh5Dl3Nh7N1Y74Eq9Ew=
+
+Name: org/eclipse/e4/ui/dialogs/filteredtree/FilteredTree.class
+SHA-256-Digest: 0agFkn5weDcWCzEE2cP8GJAbWVqS+T+ovLZsCVOT9Ww=
+
+Name: icons/full/etool16/clear_co.png
+SHA-256-Digest: r0gldxwLdrQaJvsC5VBZRMkUSZOZ6kATuJJTis8aCXc=
+
+Name: icons/full/etool16/clear_co@2x.png
+SHA-256-Digest: KzZufXsut1NxvAx8wzDrncuhWyPn5WyCHEkbpGG7R34=
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/AboutDialogE4.class
+SHA-256-Digest: 2nclPmQIZjdk4o28jB55OsKmf9Pkl1z6KzZf+dng0vc=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/AboutText.class
+SHA-256-Digest: ZfgFz6C7kbQNoOyxT9Wc95vPpccH65aTBulWenqEnuE=
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/ProductProperties.class
+SHA-256-Digest: PuLX72zeSW0Ra2Fb4ifajvFE3oZEZBDA/pgEGpcyJiA=
+
+Name: org/eclipse/e4/ui/dialogs/filteredtree/FilteredTree$2.class
+SHA-256-Digest: uiyqX7NdehRCnElu7SpVvq28y+mTZ9aJmsiRSWGEPYs=
+
+Name: org/eclipse/e4/ui/dialogs/filteredtree/FilteredTree$4.class
+SHA-256-Digest: VXnj+bFDw0agCaZ1ESSoysJ8xRyHqang0bPdG4fYjDk=
+
+Name: icons/full/dtool16/clear_co@2x.png
+SHA-256-Digest: Rk0ZMfpM2cN76aKt5qOa+3QHIsuTli3FIAnzfUw4mFY=
+
+Name: .api_description
+SHA-256-Digest: 4anquUb0Nxa5JGrh+p7Db9Bfd8ENOBfmZfR/5QH9kDI=
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/ParsedAbout.class
+SHA-256-Digest: NSFtcyloPVilnFsYTR21Cu6IAaHg9VmxTV2uMeaj73w=
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/BrandingProperties.class
+SHA-256-Digest: s3z1hDmn2NttjLgieRq9x9FVQE9nxDIbPcVslU+MA1c=
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/ProductInformation.class
+SHA-256-Digest: 6Dmu0sLIuIf4jeBmZhiqQXI4NCsTbKN/mGRNDVnzQC0=
+
+Name: org/eclipse/e4/ui/dialogs/filteredtree/BasicUIJob.class
+SHA-256-Digest: zntqhHmBYvd485dOo4zGaD0kwm2fFx83CtKCx7gvkuA=
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/HyperlinkRange.class
+SHA-256-Digest: AXwUg8zRJJyAqEXCAo5kHR5lcTwprxIRtASJxCHwT+4=
+
+Name: org/eclipse/e4/ui/internal/dialogs/about/HyperlinkExtractor.class
+SHA-256-Digest: 4eSvoBVpU4EAY4IOG4O1BmWYmTlN7fRslM+2QuOQ24g=
+
+Name: org/eclipse/e4/ui/dialogs/filteredtree/PatternFilter.class
+SHA-256-Digest: VtQP1wUQY6+Cw+kdsh6KK8XXRgNPJojPJy2mFQRi5dA=
+
+Name: org/eclipse/e4/ui/dialogs/filteredtree/FilteredTree$NotifyingTreeV
+ iewer.class
+SHA-256-Digest: oO0z1I/FhJWvJLO9uESFJoUw8zE57dpxY2EbaGnqFcw=
+
+Name: org/eclipse/e4/ui/dialogs/filteredtree/FilteredTree$5.class
+SHA-256-Digest: RpAwaRA6xOEFUwSFSOmm+T4u8EF2dIutZRFXzQFMvKM=
+

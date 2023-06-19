@@ -1,0 +1,97 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: IANEJvmwygFVzX8DG872o8if1pmwAxRYuirOedHl6Lg=
+SHA-256-Digest-Manifest-Main-Attributes: BYiyEalsXofT9HFZ8X/E3F8RJJabCJI
+ bvS1ZfZv+wUo=
+
+Name: plugin.xml
+SHA-256-Digest: HRLzTU/MGnCTLMm1DNaK6kG6P61uOzCYgk6AE3HHoeg=
+
+Name: org/eclipse/core/runtime/Plugin.class
+SHA-256-Digest: drnmGOc0da1/EVA4iB0/0dVOJfwUyNBOs1kG9nLIS+Y=
+
+Name: org/eclipse/core/internal/preferences/legacy/ProductPreferencesSer
+ vice.class
+SHA-256-Digest: iir/F3Av7O3eXDMldljiw4sIKDG7prJN/mwQhELF99s=
+
+Name: org/eclipse/core/internal/runtime/Log.class
+SHA-256-Digest: 9Dl2tIMNzoL0Dckk4p18ZsXSu3+iEeihY6JM7hrXeSc=
+
+Name: .options
+SHA-256-Digest: M6gcpDf39VOi0f5aHtZRkbtFime9Pj4vw3GBYmFwxbU=
+
+Name: org/eclipse/core/internal/runtime/Product.class
+SHA-256-Digest: A0xAB5QF+ifs0G2HmeRaYjhjDrrVsJ5L0CZv+gsryeg=
+
+Name: org/eclipse/core/runtime/PerformanceStats.class
+SHA-256-Digest: 8CWV5Fk4EyTzGLrYSiZ00MbzZTFlyzQ8q8AV/0G2vm8=
+
+Name: org/eclipse/core/internal/runtime/InternalPlatform.class
+SHA-256-Digest: pm7C9HeTvr/ER5NlVZDdiABgAoGaUU7mEB8S/BmS4cM=
+
+Name: org/eclipse/core/runtime/Platform.class
+SHA-256-Digest: jAvW/kw0H4LswLH1RN6Tl2zcFUZP3Hzc3Qd32PTUgDs=
+
+Name: org/eclipse/core/internal/runtime/LogServiceFactory.class
+SHA-256-Digest: C0OQ25lkifuD+zjUHQTNVb2XWFcpV/zTti/ewtRYKVc=
+
+Name: plugin.properties
+SHA-256-Digest: wfLHRNHgJvl4EmjJso6S3vbPFMgUWZAWhLcOSwL+KxY=
+
+Name: org/eclipse/core/internal/runtime/AuthorizationHandler.class
+SHA-256-Digest: 2DWIpwt8Lgg1Ej6GszhnuLijfVArhligy2zjUnjXpZU=
+
+Name: org/eclipse/core/runtime/IProductProvider.class
+SHA-256-Digest: ClYJz3ummtQ2F9Ifnckec7vgXXLxT2z8dAf2F+Egd24=
+
+Name: org/eclipse/core/internal/runtime/Log$1.class
+SHA-256-Digest: NvjkIZHYp5uW/FZi8YkZ/xmP+CH4claqicEkg7xLA+A=
+
+Name: org/eclipse/core/internal/runtime/Messages.class
+SHA-256-Digest: gNWKJN6nRES0YSyX8lsPgmzqmSe07xvTSsKKNhJq6g4=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/core/runtime/Preferences.class
+SHA-256-Digest: 9wXBhWufoorwtiKVOWNyQ005SImyI7IQqjpH8uZDbcM=
+
+Name: org/eclipse/core/internal/preferences/legacy/PreferenceForwarder.c
+ lass
+SHA-256-Digest: 4I92uddK29Jg80ppBeGU6V/pMrk/BxMWjs5D1XT1lOc=
+
+Name: org/eclipse/core/internal/preferences/legacy/InitLegacyPreferences
+ .class
+SHA-256-Digest: 0TiMOczzK+0S9L/8KhpxrhZq6Lu5ql/ZSXbYGEPFvMM=
+
+Name: .api_description
+SHA-256-Digest: eK5qQ/f8n14IJ2CGvF0V4BPpbMTab1KkvxDwuTzhKFI=
+
+Name: org/eclipse/core/runtime/PerformanceStats$PerformanceListener.clas
+ s
+SHA-256-Digest: kRaYU/LMb9xPjjWLipo6Iaf/bVhtzYEl9mO843IYw4w=
+
+Name: org/eclipse/core/runtime/Preferences$PropertyChangeEvent.class
+SHA-256-Digest: cvA2jKaHIFmW4KmoUqnzTc81x4V/pUIRCqYZ7EzUcT0=
+
+Name: org/eclipse/core/internal/runtime/PerformanceStatsProcessor.class
+SHA-256-Digest: fvveMwGIvgzfY/h0VYah6gOfqhiC/pd6j1LTPZNWk0c=
+
+Name: org/eclipse/core/runtime/Preferences$IPropertyChangeListener.class
+SHA-256-Digest: RQ429q2+KlECFCUuSEonI839+JyWXhVMkpd8eSASlcU=
+
+Name: org/eclipse/core/internal/runtime/PlatformActivator.class
+SHA-256-Digest: qpJ6L2gpNprABS3m073ToktqA2BTnkYEo9+Ui8kuMHg=
+
+Name: org/eclipse/core/internal/runtime/messages.properties
+SHA-256-Digest: I2MiE0T3MGR2yM35Gtzw8OHqOqEykiDnRBOo7hYqM/M=
+
+Name: org/eclipse/core/runtime/ILog.class
+SHA-256-Digest: efqLjMv0lx6IV/LFCstyIBph3y2o9xGXdcFjCi3C5lc=
+
+Name: org/eclipse/core/runtime/IProduct.class
+SHA-256-Digest: RSvIFHYWy2qo25TQyr/1AeueDTMGIfQrpIWqgqtqzxo=
+
+Name: org/eclipse/core/runtime/Preferences$1.class
+SHA-256-Digest: 7/hOF4i13kyPJ/Ex7LXzeop/78YjLsP6TChamxc2M/A=
+

@@ -1,0 +1,60 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: YklJWiAZ5TxbJTIWuAnVQAvvDqs4Vvp4zFuGtSXmyzs=
+SHA-256-Digest-Manifest-Main-Attributes: VxZwZ3VnuSfPY/9MblBKmhmq7YGCd1o
+ XpWCCXwrCdWQ=
+
+Name: org/eclipse/e4/core/commands/EHandlerService.class
+SHA-256-Digest: whIWaG9X6U6PARH99YLtsZOEO3WGJPdaKJ2dvdH6AnQ=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/e4/core/commands/internal/SetEnabled.class
+SHA-256-Digest: BQi1aZxmUFSyPc8Brh/VTEvDIAfoDboTptseCLr6c3k=
+
+Name: org/eclipse/e4/core/commands/CommandServiceAddon.class
+SHA-256-Digest: ZbuIjIji65nU0pNEWX5YCKHYOvjlCgFycHdjcJiSuKw=
+
+Name: org/eclipse/e4/core/commands/ECommandService.class
+SHA-256-Digest: /powroRjbbaJwUz8h/e9f/H/VG2cbtixii0XMwCX0LY=
+
+Name: org/eclipse/e4/core/commands/internal/HandlerServiceCreationFuncti
+ on.class
+SHA-256-Digest: Vt6r8EeLwDYjHmZhpIGb7x00hmXPU7EkQXOrdXu4tGE=
+
+Name: org/eclipse/e4/core/commands/internal/CommandServiceCreationFuncti
+ on.class
+SHA-256-Digest: mGyEEm2X2vdBgNrfEmXcfqw1bqMtUvNg+mNU1nAs5M4=
+
+Name: org/eclipse/e4/core/commands/internal/ICommandHelpService.class
+SHA-256-Digest: OoSQctxJV0aEVXkfo7kylBZZRvVoeNIOM4r1bXcGpHc=
+
+Name: .api_description
+SHA-256-Digest: dRlcIwN91y3VNaKPhTcTXmoVrX4qMIQESSA6MAjSUZQ=
+
+Name: OSGI-INF/handlers.xml
+SHA-256-Digest: XfQ8S4htuGIw/wUZFd8ffh27fcNx2ZCHmjuSdQtWQNQ=
+
+Name: org/eclipse/e4/core/commands/internal/HandlerServiceHandler.class
+SHA-256-Digest: s6gQsNd5CHb8WD4SS2iRT2v3yTlpwThPhQHyygKi0Wo=
+
+Name: org/eclipse/e4/core/commands/internal/CommandServiceImpl.class
+SHA-256-Digest: cCa2u9lV7kJBt4+3mnRuU3L6g71oCUfF/JM2PrXr7LM=
+
+Name: org/eclipse/e4/core/commands/ExpressionContext.class
+SHA-256-Digest: xcUFUipoAuqBsKG5kRByfABmj1y5HjQRXe3d5bFA0lI=
+
+Name: plugin.properties
+SHA-256-Digest: cE0Uh6a0kvRcNYtr03VUfEgHUghLAUyFRkpJQ2kMtKs=
+
+Name: OSGI-INF/commands.xml
+SHA-256-Digest: bUNVZldVEBZcutnD/KCqCcuJD4NZ8Sl3nVgHR/CnAhw=
+
+Name: org/eclipse/e4/core/commands/internal/HandlerServiceImpl$Execution
+ Contexts.class
+SHA-256-Digest: w+GLyiSULjsXykZ1oPaAjDzJCX8fMWLVeTd8dGwmNY0=
+
+Name: org/eclipse/e4/core/commands/internal/HandlerServiceImpl.class
+SHA-256-Digest: 4nmdgip2u2f2a/mB7nLAtgwyKd6gCwBI2wPiM8oO2fY=
+

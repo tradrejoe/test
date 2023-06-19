@@ -1,0 +1,106 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: kDBBpfj2Fe/lmxggrM5Ac9bH40P6F5BINRbxR0TH84Y=
+SHA-256-Digest-Manifest-Main-Attributes: Yu++2lEhzgGIyerqreDwpFBmfyHThgf
+ 162eIvbbucU0=
+
+Name: org/eclipse/compare/patch/PatchBuilder.class
+SHA-256-Digest: Y2nWyrbnVDrTOOfSCg/PJBsjssiwr0DZQDyAQaQ4A7w=
+
+Name: org/eclipse/compare/rangedifferencer/RangeDifferencer.class
+SHA-256-Digest: ruk/iLdv8t2l6D0NJTa5zRltoIuq0b6+xn5GocV19bs=
+
+Name: org/eclipse/compare/rangedifferencer/RangeDifferencer$1.class
+SHA-256-Digest: YCbRbS7dM0xhcLhaHaF4ouJWRe4EieOsPP7IICtd0a4=
+
+Name: org/eclipse/compare/internal/core/patch/Hunk.class
+SHA-256-Digest: kEK3ji/C+TU566Eakmsu38u4MXzTbvVTmo5hqLnV2ic=
+
+Name: org/eclipse/compare/internal/core/patch/FilePatch2.class
+SHA-256-Digest: 254Y2qfS3SqJBzQRfOyqqIyNPCFjXiV9RteyXMfpBpQ=
+
+Name: org/eclipse/compare/patch/PatchBuilder$HunkComparator.class
+SHA-256-Digest: 6wLjgjmCGE3AF0SNb7oXAqa5CWcoUh4fm+UZeeHEXAY=
+
+Name: org/eclipse/compare/patch/PatchParser.class
+SHA-256-Digest: YC+oszKykYYt1SB6Cw1VoZcCSC1qSPVYK7hidnQ/cwo=
+
+Name: org/eclipse/compare/internal/core/LCS.class
+SHA-256-Digest: Si3u9qqISWILKHbeKLaVSx2lxFx2NP7a0IqwnOkOb5c=
+
+Name: org/eclipse/compare/rangedifferencer/DifferencesIterator.class
+SHA-256-Digest: FPe552sFcQeDeOUUYOo1UiKTzMZXZbFxuxHcZ+gC48g=
+
+Name: org/eclipse/compare/internal/core/patch/FileDiffResult.class
+SHA-256-Digest: Ze5o34x2/GlfEW4L6Y1aZPYvoww9+wjHBglPMiOLSiM=
+
+Name: org/eclipse/compare/internal/core/patch/LineReader.class
+SHA-256-Digest: FUW6ZM03ovEIZh43Q/4vmrAjL2GuuHt/4qvfUKXO73k=
+
+Name: org/eclipse/compare/patch/IHunkFilter.class
+SHA-256-Digest: ZgFdnpxZyKxboQGbxc2DzC/a03EE54EYBfBzWZhtEwU=
+
+Name: plugin.properties
+SHA-256-Digest: bTrSQtFCG3PzxEuBT7TWI/tTXvI8q07ER6fVEpre03I=
+
+Name: org/eclipse/compare/patch/IFilePatch2.class
+SHA-256-Digest: tybMrMwu+5VWYHHfrR9lp8yuEcGSCRaOYkXxWMgyExQ=
+
+Name: org/eclipse/compare/rangedifferencer/AbstractRangeDifferenceFactor
+ y.class
+SHA-256-Digest: p7vfryirSX5Oubfg/8BNdninjkj/6uV+8jmBE56cBQc=
+
+Name: org/eclipse/compare/patch/ReaderCreator.class
+SHA-256-Digest: WvubCD35SMC7CECLzs0DMnMLa8NIZZfHIhzKxlx9vNo=
+
+Name: org/eclipse/compare/rangedifferencer/IRangeComparator.class
+SHA-256-Digest: nZPl7C+cRAVPE+kjhoRgl1v2GWNVeD8lTi1erM6YwbI=
+
+Name: org/eclipse/compare/patch/IFilePatchResult.class
+SHA-256-Digest: qIHLLOb+nYRt3teGqeF6oedB5g1KzkCVozWI+We7Sao=
+
+Name: org/eclipse/compare/internal/core/Messages.class
+SHA-256-Digest: 70A2nPQcy56oEhTMqi5X7sHw6LssK+oAKqch/H3SMV8=
+
+Name: org/eclipse/compare/internal/core/patch/HunkResult.class
+SHA-256-Digest: 6inXDKyaKs6mQ/TLUhmKMtK65DnxndfValeP1gS9s6E=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/compare/rangedifferencer/RangeComparatorLCS.class
+SHA-256-Digest: S+nGtZ7RL1Z0MnXw6ED2y5upNNqA9yK6SmsNOdNZoaU=
+
+Name: org/eclipse/compare/internal/core/patch/DiffProject.class
+SHA-256-Digest: q7t1G8U1ioUsfNUlQTHOgVJJYGRxfSlF8f/e67xafOA=
+
+Name: org/eclipse/compare/rangedifferencer/RangeDifference.class
+SHA-256-Digest: VhBygmuzEUWDraE/h8Xj/TNjY/vHS9m5QQtegaU1+rA=
+
+Name: .api_description
+SHA-256-Digest: Wz5LXoiXgCPm3zH8q7t6V3G+4pB8tc44KRuHB4E17Ys=
+
+Name: org/eclipse/compare/internal/core/CompareSettings.class
+SHA-256-Digest: ZD0YlTiPChGz4l5Ibr7iyKzmQu7KXIEKkxf51tZ0UnY=
+
+Name: org/eclipse/compare/internal/core/patch/Utilities.class
+SHA-256-Digest: Mp/Krl4Z9RDmvSE3nUCzhYtOtd4DiVydRjpp4Vf9+4Y=
+
+Name: org/eclipse/compare/internal/core/TextLineLCS.class
+SHA-256-Digest: 6yk9BxzQuoMaBfn3alD+eu0e75qwZuhtdEYwM+ss3NY=
+
+Name: org/eclipse/compare/patch/PatchConfiguration.class
+SHA-256-Digest: 2ux4JSBMdC75A+GzAWe0kUidnIpn2Lh0HTjtF1O0z9o=
+
+Name: org/eclipse/compare/internal/core/TextLineLCS$TextLine.class
+SHA-256-Digest: DO6mAv9GPe0zcrPN91whQQ//n3RDTKBb5hnDCOugz2A=
+
+Name: org/eclipse/compare/internal/core/messages.properties
+SHA-256-Digest: 4Cy0j2P8LUNLVWMwqWMZh/LnRnNr/v1f43hd4Y0uLe8=
+
+Name: org/eclipse/compare/internal/core/patch/PatchReader.class
+SHA-256-Digest: kg8uuwIU6iS11JHbJDvr4Y051tALF6FHK5gRYan/zJM=
+
+Name: org/eclipse/compare/patch/IHunk.class
+SHA-256-Digest: CwqwHCc8SoLAuMKTG1eicfzXK8dwAeTIqChGxMFnjfQ=
+

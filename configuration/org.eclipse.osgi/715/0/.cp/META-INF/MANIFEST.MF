@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-SymbolicName: org.eclipse.swt; singleton:=true
+Bundle-Version: 3.121.0.v20220829-1402
+Bundle-ManifestVersion: 2
+Bundle-Localization: plugin
+DynamicImport-Package: org.eclipse.swt.accessibility2
+Export-Package: org.eclipse.swt,org.eclipse.swt.accessibility,org.eclips
+ e.swt.awt,org.eclipse.swt.browser,org.eclipse.swt.custom,org.eclipse.sw
+ t.dnd,org.eclipse.swt.events,org.eclipse.swt.graphics,org.eclipse.swt.i
+ nternal;x-friends:="org.eclipse.ui,org.eclipse.swt.tools.spies",org.ecl
+ ipse.swt.internal.image;x-internal:=true,org.eclipse.swt.layout,org.ecl
+ ipse.swt.opengl,org.eclipse.swt.printing,org.eclipse.swt.program,org.ec
+ lipse.swt.widgets
+Eclipse-ExtensibleAPI: true
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: org.eclipse.swt
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.swt.git;path="bundles/org.eclipse.swt";tag="I20220829-18
+ 00";commitId=a658db7c012f0bb66e00e376f9c4bf460902611d
+
+Name: META-INF/p2.inf
+SHA-256-Digest: 4MDm1MUlpHFuJ2ipz7RUWIdO+wDqDswdmgSTWrIpisg=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: about_files/IJG_README
+SHA-256-Digest: TPnBkPGEAZthw2vMSdSiT/6yqDjG8WkNbE2xTPstBHg=
+
+Name: plugin.properties
+SHA-256-Digest: FUFSgXLQ839ZxDIyvw8Qjt6uki/bySnMVuvZh+6lOko=
+
+Name: .api_description
+SHA-256-Digest: KRwC2rCXoRUW008KgUo6pg7y5IJe1hc+1j339knyP98=
+

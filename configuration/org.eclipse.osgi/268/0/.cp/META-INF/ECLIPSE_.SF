@@ -1,0 +1,33 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: 73COOQ0dQbzhKUvWYWyYJDZFwIm2TFffSpnj9qJfQ6E=
+SHA-256-Digest-Manifest-Main-Attributes: vUsqvu5RTO5UPbH9+F0dKD9OZy3fUcu
+ oSHdVRh6OZ1o=
+
+Name: org/eclipse/e4/core/di/annotations/GroupUpdates.class
+SHA-256-Digest: lGkMmpUfzlcnkToCtzFcOmJkgM4s583vrd5uhIVg+J8=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/e4/core/di/annotations/Optional.class
+SHA-256-Digest: +GDTtQsd3cE43lsfysanGKgLgRqZB2eTi4u4wmdBFxo=
+
+Name: org/eclipse/e4/core/di/annotations/Execute.class
+SHA-256-Digest: lw6EGZEbWj0L/IoxVWt78x8ZEvt62qmXnrjMj05n6Us=
+
+Name: org/eclipse/e4/core/di/annotations/CanExecute.class
+SHA-256-Digest: GTUk+v68s8C8iRlYsmNCe3I0ITmN+fJiYDmhxLXurog=
+
+Name: .api_description
+SHA-256-Digest: YashyLHDiHeeIgbkC+xYoMp+JuPTLQL4lDk4Lp0XEWA=
+
+Name: org/eclipse/e4/core/di/annotations/Creatable.class
+SHA-256-Digest: 5c4quymtTqz/79JkcyjcwEnbGcXmMZR1ux1QF9JHPN4=
+
+Name: org/eclipse/e4/core/di/annotations/Evaluate.class
+SHA-256-Digest: yL376dFH9B0bw5ShEOEFUiRz9gc5dDbHk25Y9BMflqU=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: ASv5TGKRzrkh7WLgbM9pHzUERquAyfxDDMD0NAYXvY4=
+

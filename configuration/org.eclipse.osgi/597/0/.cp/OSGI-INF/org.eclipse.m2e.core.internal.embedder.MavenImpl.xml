@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="org.eclipse.m2e.core.internal.embedder.MavenImpl">
+  <service>
+    <provide interface="org.eclipse.m2e.core.embedder.IMaven"/>
+    <provide interface="org.eclipse.m2e.core.embedder.IMavenConfigurationChangeListener"/>
+  </service>
+  <reference name="containerManager" interface="org.eclipse.m2e.core.internal.embedder.PlexusContainerManager" field="containerManager"/>
+  <reference name="mavenConfiguration" interface="org.eclipse.m2e.core.embedder.IMavenConfiguration" field="mavenConfiguration"/>
+  <reference name="settingsListeners" cardinality="0..n" policy="dynamic" interface="org.eclipse.m2e.core.embedder.ISettingsChangeListener" field="settingsListeners" field-option="update" field-collection-type="service"/>
+  <implementation class="org.eclipse.m2e.core.internal.embedder.MavenImpl"/>
+</scr:component>

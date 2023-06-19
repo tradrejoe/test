@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="org.eclipse.m2e.core.internal.project.ProjectConfigurationManager">
+  <property name="event.mask" type="Integer" value="4"/>
+  <service>
+    <provide interface="org.eclipse.m2e.core.project.IProjectConfigurationManager"/>
+    <provide interface="org.eclipse.m2e.core.project.IMavenProjectChangedListener"/>
+    <provide interface="org.eclipse.core.resources.IResourceChangeListener"/>
+  </service>
+  <reference name="containerManager" interface="org.eclipse.m2e.core.internal.embedder.PlexusContainerManager" field="containerManager"/>
+  <reference name="maven" interface="org.eclipse.m2e.core.embedder.IMaven" field="maven"/>
+  <reference name="mavenConfiguration" interface="org.eclipse.m2e.core.embedder.IMavenConfiguration" field="mavenConfiguration"/>
+  <reference name="mavenMarkerManager" interface="org.eclipse.m2e.core.internal.markers.IMavenMarkerManager" field="mavenMarkerManager"/>
+  <reference name="mavenModelManager" interface="org.eclipse.m2e.core.embedder.MavenModelManager" field="mavenModelManager"/>
+  <reference name="projectManager" interface="org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager" field="projectManager"/>
+  <implementation class="org.eclipse.m2e.core.internal.project.ProjectConfigurationManager"/>
+</scr:component>

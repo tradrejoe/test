@@ -1,0 +1,3110 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: bZgwwWqkt28R4SU95kH7VTTM/hz17jDE0R0jv197Rjg=
+SHA-256-Digest-Manifest-Main-Attributes: 4yOJBjN2QgY+QV+sv+5kvKISdsfLIhA
+ nZG+cmPPbLcI=
+
+Name: org/apache/xerces/parsers/AbstractSAXParser.class
+SHA-256-Digest: NKt2V3AhEZtgK/6stTbP4Qfvr31op8HVWoPzZTO7dpk=
+
+Name: org/apache/xerces/xni/grammars/XMLGrammarDescription.class
+SHA-256-Digest: qSos3urcocEpINVR+5DhsnsbWX/y6PEkRJq2PpqQcSo=
+
+Name: org/apache/xml/serialize/SerializerFactoryImpl.class
+SHA-256-Digest: Yp08HavXCDgU5npKPhg1lKG8M+u2Gg+0W7Np/nm73Ig=
+
+Name: org/apache/wml/WMLTdElement.class
+SHA-256-Digest: M4j9tailuKGNGkBCzwolpP3+ACmyHt91vPBxDWM93oY=
+
+Name: org/apache/xerces/impl/io/Latin1Reader.class
+SHA-256-Digest: nLi93U8pncVYeyCvQySbO5lKyilpcPsCUP5gFeHYLNU=
+
+Name: org/apache/xerces/dom/DOMXSImplementationSourceImpl.class
+SHA-256-Digest: 9/Au1afQHUm+9enz78q6UygxLTg8ey0ubAJy80uc/+U=
+
+Name: org/apache/xerces/impl/dv/xs/Base64BinaryDV.class
+SHA-256-Digest: NZq0BKk9/EfRcwnIttrlriZERXhS9qVnQ+G4My0KuIk=
+
+Name: org/apache/xerces/parsers/XIncludeAwareParserConfiguration.class
+SHA-256-Digest: 3YOQ3niWq+DB0TkVPxVC2n/oEX58O0AOWaQl3W6mdPg=
+
+Name: org/apache/xml/serialize/HTMLdtd.class
+SHA-256-Digest: ekkxLwdnt03SRBzycxDJ1DhjQWcq5SRIEcRX1ms6rDg=
+
+Name: org/apache/xerces/dom/ElementDefinitionImpl.class
+SHA-256-Digest: my5RtjCrGTZOnr0EE0CHuHc1z4yyngQRw6lDWba9ueg=
+
+Name: org/w3c/dom/html/HTMLDOMImplementation.class
+SHA-256-Digest: MHOqlX5tyJmIldDD5uo+WBpGC7JD+T7tuyEUzIe/c6E=
+
+Name: org/apache/xerces/xs/datatypes/XSDateTime.class
+SHA-256-Digest: q+PhRtJ1xrLigxMmDSOvZ+8OmRvLW2hXn+PhBP0p5Zw=
+
+Name: org/apache/xerces/dom/DOMConfigurationImpl.class
+SHA-256-Digest: Wh9b4GPKpkaYGFn9T99TSj6khC9ivPmgK620G8+sN4s=
+
+Name: org/apache/xerces/impl/xpath/regex/RegexParser$ReferencePosition.c
+ lass
+SHA-256-Digest: PTrcu1lLRqhfUALK101p+nXLC40ubQbcPcT7iXQtUkM=
+
+Name: org/apache/xerces/impl/xs/ElementPSVImpl.class
+SHA-256-Digest: FI7LH/abyBUiOr5iVLSapYe9aIg+5JV4Hdb8oBxbxic=
+
+Name: org/apache/xerces/jaxp/validation/Util.class
+SHA-256-Digest: TafEIiSEbSBQcFDhGcb3hTw6g7kundY/HVryCK9vZkU=
+
+Name: org/apache/xerces/jaxp/DefaultValidationErrorHandler.class
+SHA-256-Digest: b2M0PHT8JdjZHF/JReAyilY2WWIDkKRCU1oRbhvM7gc=
+
+Name: org/apache/xerces/impl/xs/util/XInt.class
+SHA-256-Digest: +x+M+oRX+92DusNSymRJ8kCSzlXMzO91uMopEbVHIPE=
+
+Name: org/apache/xerces/jaxp/JAXPValidatorComponent$XNI2SAX.class
+SHA-256-Digest: KCSRUEmV7L+0hMbHoUzef4Ccbtut86He6CDZjOCnWg8=
+
+Name: org/apache/xerces/impl/xs/traversers/XSAttributeChecker.class
+SHA-256-Digest: /K/SAwSIg/kI/IPDGFHsCFA8PTNcIakXsrIlPgrd1Ho=
+
+Name: org/apache/wml/WMLGoElement.class
+SHA-256-Digest: X9ccna6K8YekpKPwwGmn/r7F6OEN3YR2Ro/doqXMLOQ=
+
+Name: org/apache/xml/serialize/IndentPrinter.class
+SHA-256-Digest: qW0TlM02/Y6H7cLM3a9lcJ4m2XOs3NojW12tJj46qeI=
+
+Name: org/apache/xerces/stax/events/StartElementImpl$1.class
+SHA-256-Digest: NwC4/na2y5XLNvwScCLoZRfkTYybKMzRliGL7e4Wkxg=
+
+Name: org/apache/xml/serialize/SecuritySupport$5.class
+SHA-256-Digest: IDzc2xlJLbhjFVW20lVdjC/ddliX9wtC28wvszsLGhs=
+
+Name: org/apache/xerces/impl/dv/dtd/StringDatatypeValidator.class
+SHA-256-Digest: 5Dnm1KVo9WK+AZE9BU/eA0G+e4P/KoAsprX8uSzt8co=
+
+Name: org/apache/xerces/parsers/XMLParser.class
+SHA-256-Digest: bJuCkScVNOoDc2aXVy8cvHdm3+r8FWgLreYkN9uw+sU=
+
+Name: org/apache/xerces/xs/XSParticle.class
+SHA-256-Digest: wc3LKhqeAKw2A8GwDPnwPgKeJ9go4UiioIvYpadNU9Y=
+
+Name: org/apache/xerces/impl/xs/traversers/OneAttr.class
+SHA-256-Digest: zLT1rZg9b/2b4bDCqfK/T/cyDWPFpNDvBSa0ZPTkbZ0=
+
+Name: org/apache/xerces/impl/xpath/regex/RegularExpression$ClosureContex
+ t.class
+SHA-256-Digest: 3L/5x7IFNplcH74QKNfk48aPRrQJdPURCFV1K9cbGQg=
+
+Name: org/apache/html/dom/HTMLTableColElementImpl.class
+SHA-256-Digest: j850uYeFbG2ofKEF9nKNBzi48zCcAXynnp1RrN0uyuQ=
+
+Name: org/apache/xerces/impl/dv/xs/PrecisionDecimalDV$XPrecisionDecimal.
+ class
+SHA-256-Digest: ZYfOuEUHRJxjNmsDz+kk5wP33MlD//LvhtQ71WwyEN8=
+
+Name: org/apache/html/dom/HTMLLinkElementImpl.class
+SHA-256-Digest: 47iiksjjZ6F8sQIAZxtQ4V8ECIG7aEK4g9TG+dA8BQY=
+
+Name: org/apache/xerces/impl/dtd/models/ContentModelValidator.class
+SHA-256-Digest: ly9TsWyErKc/gV/FxykWRXh/P58LoDmqQvf+H78djQw=
+
+Name: org/apache/xerces/dom/CDATASectionImpl.class
+SHA-256-Digest: PSYTKt6D1rFP18UKuWQ3nmgDkcr4wXbPSRMN6jJzfEQ=
+
+Name: org/apache/xerces/jaxp/JAXPValidatorComponent$2.class
+SHA-256-Digest: rNJxhME29/9edlukuzbXW3zwhsBDRytuVmH+3y3xkXo=
+
+Name: org/apache/xerces/jaxp/validation/StAXValidatorHelper$XMLStreamRea
+ derLocation.class
+SHA-256-Digest: yAGcTjwlcxd3i5MLFMVy6gQpKmMsaZU5WVpjZn6rvTw=
+
+Name: org/apache/xml/serialize/OutputFormat$Defaults.class
+SHA-256-Digest: HoZKhhbX9pkGcafux9ifoyCUQJ+6zIQUwYVQqCPtesA=
+
+Name: org/apache/wml/WMLFieldsetElement.class
+SHA-256-Digest: jnsMlrrcJPEKA/IvDf/JxyjDzJH7k0FrCC0Bo92jldw=
+
+Name: org/apache/xerces/impl/xpath/XPathException.class
+SHA-256-Digest: IBhQHFuaWRbAXRxTNYda1ktRB5c1cjUSoPvwVaJ3qMU=
+
+Name: org/apache/xerces/impl/xs/util/XSObjectListImpl$XSObjectListIterat
+ or.class
+SHA-256-Digest: +vusNguwvBvq50vxhDei1mHFLUe39RZFQx+99qIA+w8=
+
+Name: org/apache/xerces/impl/xpath/regex/RegularExpression$CharArrayTarg
+ et.class
+SHA-256-Digest: nwhEDY3kMLkiv/yCV0RXu7CCNrbQXYh6ZTIc5gu0VUA=
+
+Name: org/apache/xerces/dom/CoreDOMImplementationImpl.class
+SHA-256-Digest: TRzyMLc7oXE/q9e4VmxGdt8BeejuB0wWEtBA8TiB/50=
+
+Name: org/apache/xerces/jaxp/validation/XSGrammarPoolContainer.class
+SHA-256-Digest: pjStMpUTk9yGYJZUtgvyHzmnB2xllURFMkHMijbCBJE=
+
+Name: org/apache/xerces/parsers/DOMParserImpl$1.class
+SHA-256-Digest: t9RMl4dzdzZWeT7dIlpfHvz2h0MtuI7vUY+BBgbzgr0=
+
+Name: org/apache/xerces/util/NamespaceSupport$Prefixes.class
+SHA-256-Digest: lAmpLSwqpbLM6Ex6rbTrLGvPHXva7B6QKx7jP6a2xLw=
+
+Name: org/apache/xerces/jaxp/validation/StAXValidatorHelper.class
+SHA-256-Digest: /dgkO4/3Nx1MPx+3jNkNFBTXDiEhoPot5u+yqoZj4Ac=
+
+Name: org/apache/xerces/impl/io/MalformedByteSequenceException.class
+SHA-256-Digest: teH/VD+PeBhoN5VYniO7ePJ/CDwdrM210oTzuH0svp0=
+
+Name: org/apache/xerces/impl/dv/xs/AnySimpleDV.class
+SHA-256-Digest: SWPcGkw0HeisqLzgd5crGRwOeMWqhGKkbaU6aVCs1OM=
+
+Name: org/apache/xerces/impl/dv/xs/TimeDV.class
+SHA-256-Digest: EHeFLdGglbAxyXBwBz/UxfzwqVN5ej9QHlzO2m9gESY=
+
+Name: org/apache/xerces/impl/xpath/regex/ParseException.class
+SHA-256-Digest: VZA/VoxUmiJiomrVKNZcFCNShSND7UtQt7gh/Ke8qIw=
+
+Name: org/apache/xerces/dom/EntityImpl.class
+SHA-256-Digest: 7/+KsY6gvAnBUSlST6UQg/gaI9sBJKzt6mgRZu9snNY=
+
+Name: org/apache/xerces/impl/xpath/regex/Op$CharOp.class
+SHA-256-Digest: BbSPj8T0Dw3YX3wpbeeVJ7YK2J7GT870VQzjz4LC394=
+
+Name: org/apache/xerces/impl/xs/util/XSGrammarPool.class
+SHA-256-Digest: T1jK07ysjVuLJjxF5uIMFXNmA1WPT0Wml4Or+EUN1Kw=
+
+Name: org/apache/xerces/jaxp/TeeXMLDocumentFilterImpl.class
+SHA-256-Digest: VYS/Q93y4iQP35GYYpQE7Rbv1DtkX1zBB2Ft/7XAyyQ=
+
+Name: org/apache/xerces/dom3/as/DOMASException.class
+SHA-256-Digest: NfCJVwV3FdSPV/U0dxo/tF0I25hVrNaCbFFmvD/11nQ=
+
+Name: org/apache/xml/serialize/HTMLEntities.res
+SHA-256-Digest: YjBBtxlk765I7a3L+LhMaxrecgbxdjI9ag5DVCV9sTw=
+
+Name: org/apache/html/dom/HTMLBRElementImpl.class
+SHA-256-Digest: Uxj2cMfTJduckMWsJ0f/OqrHm5wjw7bzVHtfC5cU19U=
+
+Name: org/apache/xerces/xs/XSException.class
+SHA-256-Digest: 7enrgGXu4kHE+v9Z+VDZx/3q0F+LrJDFkiroQifSGLc=
+
+Name: org/apache/xerces/parsers/SecureProcessingConfiguration$InternalEn
+ tityMonitor.class
+SHA-256-Digest: nTKIX0EjftCDSsI6fxMaN9RnBQhgCr7TVhwXJwVlzLo=
+
+Name: org/apache/html/dom/HTMLFormControl.class
+SHA-256-Digest: OpMI6orCrNeRd9hN0pW+dA/Xs06NIu/Yvx6H0KlDesM=
+
+Name: org/apache/wml/WMLDocument.class
+SHA-256-Digest: xqUSp0MY7/VuI52ESFmGu5SoPxSGdykKoWS8gSgpFWg=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDAbstractParticleTraverser.
+ class
+SHA-256-Digest: BwCOyyFkPqr1uUqXeVlX7y3g+1m12I5VfOmWhFNdKXI=
+
+Name: org/apache/xerces/impl/xs/util/XSInputSource.class
+SHA-256-Digest: 9ZClOX6EMTAql6fex1gpAhGle1K7Ab8RaIV9M8w6D/E=
+
+Name: org/apache/xerces/impl/dv/xs/IDDV.class
+SHA-256-Digest: wSSAVUn9kGeBrFaVTSXgNWeRmArn8rulKvC9vIzk/8I=
+
+Name: org/apache/xml/serialize/SerializerFactory.class
+SHA-256-Digest: Wy9sho/7tZBVxZHvQjsjOYoIjlmL9x8r5OCXAEvtoIc=
+
+Name: org/apache/xerces/dom/DOMOutputImpl.class
+SHA-256-Digest: 85Eqj+/kh4e8mHQXsgLG+Og/h4d6uT0ecrjSCqI6RNU=
+
+Name: org/apache/xerces/impl/xpath/XPath$Scanner.class
+SHA-256-Digest: e58UwBJv7ryscv8WV566jpSGf/7SgSOizzTyhtae0k8=
+
+Name: org/apache/xerces/impl/XMLEntityManager.class
+SHA-256-Digest: XZ0c3Recp4K972ImBt25r57JRd/EJcj7lV0gVD3+BSg=
+
+Name: org/apache/xerces/parsers/SecuritySupport$4.class
+SHA-256-Digest: kJTcP1kfSUZzcak6PGiaAzomx0BfH/FphwlC52ABhmc=
+
+Name: org/apache/xerces/xs/datatypes/XSFloat.class
+SHA-256-Digest: ssT2toy/L+hFij6rvQCnAE6zduS+lxBGowZkJpY6rtw=
+
+Name: org/apache/wml/dom/WMLTemplateElementImpl.class
+SHA-256-Digest: joPAGp+gjDHbY+g46ZKj5femVS9I/jqx0C/AeUl3YR8=
+
+Name: org/apache/xerces/dom/DOMImplementationListImpl.class
+SHA-256-Digest: hyfKsnb9FZBmd9IRYR+Y5RY+ETCOtKbdmS94fuE3QdE=
+
+Name: org/apache/xerces/impl/dtd/DTDGrammarBucket.class
+SHA-256-Digest: QaJKdSsYnJdcxLBNlBt18dhYnz0qcLzrRabw6Ov11U4=
+
+Name: org/apache/xerces/parsers/XMLGrammarParser.class
+SHA-256-Digest: Xfb39XjzUumWyHMZKAppVYbbqkHCQOQ4tpaL4pGHaxU=
+
+Name: org/apache/xerces/xpointer/XPointerMessageFormatter.class
+SHA-256-Digest: O7a/N9hsTyyvSUbkTTb/0SEZd+oHL848pNzAQLxvZ/Q=
+
+Name: org/apache/wml/dom/WMLCardElementImpl.class
+SHA-256-Digest: 9Bi3lL7fevTFenwxmGxwgOe8TyEnGRNcym9W/j2DPf4=
+
+Name: org/apache/xerces/xs/XSSimpleTypeDefinition.class
+SHA-256-Digest: lUtszp1aJ+9zNu44/fYUclwS/hE5ElpBIAG8mQVodg0=
+
+Name: org/apache/html/dom/HTMLMapElementImpl.class
+SHA-256-Digest: VPIcZGC8+Te3JpHz05vNZc3eeUoO5/H9NgyWddF3Rio=
+
+Name: org/apache/xerces/impl/dv/xs/DayTimeDurationDV.class
+SHA-256-Digest: PA2V42umReeG5wKR8tCi8KWhSmAhUA6jVSHyg++PAII=
+
+Name: META-INF/services/javax.xml.validation.SchemaFactory
+SHA-256-Digest: LJ50701lngDAZAlshWByvHvSnywFsqTmm1k7YRdKzz4=
+
+Name: org/apache/xerces/impl/XML11NSDocumentScannerImpl.class
+SHA-256-Digest: OjCHwKaqvbZWIRjnoAy+RVAr0Gx4qAflWgR1IhlHHRI=
+
+Name: org/apache/xerces/dom/DOMMessageFormatter.class
+SHA-256-Digest: M9qu3+QsULUPhnYY6k2w/4WDBBE+ee7ZRKntkJ3L9c4=
+
+Name: org/apache/xerces/jaxp/validation/StAXValidatorHelper$StreamHelper
+ .class
+SHA-256-Digest: lXY4SNe+6BJrFHa3d9B+OoukaRRNJti/WyECR1uo1co=
+
+Name: org/apache/xerces/util/AugmentationsImpl.class
+SHA-256-Digest: /VLYXGwrtAvQ2kerz0+YMP4Wd3ABFU+St81aGz+0V84=
+
+Name: org/apache/xerces/parsers/XML11Configuration.class
+SHA-256-Digest: viPqB4tGyxFm/v0POVQV8sINkAG75PDw6TjN3vMPIk8=
+
+Name: org/apache/xerces/impl/dv/SecuritySupport$3.class
+SHA-256-Digest: GvuhLfHSND3RhVeSRXWzLiZWAXfleSvgE7HUmmmAE6o=
+
+Name: org/apache/xerces/impl/xs/PSVIErrorList.class
+SHA-256-Digest: djdQX5I+Z3WvIqNJHYzGDtbINhABH4aUuNbTlrJ45sI=
+
+Name: org/apache/xerces/parsers/DOMASBuilderImpl.class
+SHA-256-Digest: NFpMxfmeKwVwa6HSSl9/y4vxDujncKSYgiigDQEfKqA=
+
+Name: org/apache/xerces/stax/events/ElementImpl.class
+SHA-256-Digest: PGeg6DARyATXEZ83Y/ChfYF24nqMf8kY8rqUwlwaQso=
+
+Name: org/apache/xerces/impl/xs/opti/DefaultDocument.class
+SHA-256-Digest: Bx5yOSsSheiN1Utez7DPB89OLPV0kqbKtBbYy+2XDIw=
+
+Name: org/apache/xerces/impl/XMLErrorReporter.class
+SHA-256-Digest: CkXxZm/VcK4uCafQ80+nLRw12oGur4oS+tDP21odVjQ=
+
+Name: org/apache/xerces/jaxp/validation/SimpleXMLSchema.class
+SHA-256-Digest: /fgrOWRuGc59sv+gLtMfW1tmZQYNItdpmDtHfyadXys=
+
+Name: org/apache/xerces/util/SoftReferenceSymbolTable$SREntryData.class
+SHA-256-Digest: Lw6pz6ZqF8tYI/b+/qgMsdRoGHEooY7J7DouuQCD5Qg=
+
+Name: org/apache/xerces/dom/PSVIDOMImplementationImpl.class
+SHA-256-Digest: PmwtLfAIsqGWNlWj2CWFarRfDf+kGpx3jvLufV8U5qU=
+
+Name: org/apache/html/dom/HTMLInputElementImpl.class
+SHA-256-Digest: ws0RTcFQjA+p+9qe2ocigPk+K+wmN3sxHp3j5K03LUQ=
+
+Name: org/apache/xerces/xs/AttributePSVI.class
+SHA-256-Digest: XZIlupktoeeOr+hLZJe/z62KrxLHBCBnSlA6DIm8G3M=
+
+Name: org/apache/html/dom/HTMLHeadingElementImpl.class
+SHA-256-Digest: rBJIxfuuILE9gMTBSohtwbZ3vpi6aWJF2ntX2yD8Pb8=
+
+Name: org/apache/xerces/impl/io/UTF16Reader.class
+SHA-256-Digest: KZNaVKKJDMUVcjDw9yT8lnJ0nM5UxKt1pC7bqzPdOpA=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser.class
+SHA-256-Digest: ZQaFaAMnCn40XIP32ye/mrIRH8Suj8UjVtlLQJ0O3zM=
+
+Name: org/apache/xerces/impl/dtd/DTDGrammar$ChildrenList.class
+SHA-256-Digest: JqPqnMiEVzy4gK5MqxNK/Yd6gGFi1zGEFKIAaLTFkF8=
+
+Name: org/apache/html/dom/HTMLModElementImpl.class
+SHA-256-Digest: AgGwhL7/kXjH0d3n/Mged+7mrtZZPtpHzAlEA/8uzcM=
+
+Name: org/apache/wml/WMLEmElement.class
+SHA-256-Digest: MGbd/p6slWAKUme990S/cR7tNB1d3AI6lIiglZv6Z3A=
+
+Name: org/apache/xerces/impl/XMLEntityManager$ByteBufferPool.class
+SHA-256-Digest: 6sQBFhOy5QI61GZarXcjaLtphjchm8DSXbICp0z9GcU=
+
+Name: org/apache/xml/serialize/EncodingInfo$CharsetMethods.class
+SHA-256-Digest: YQewWZlrHFNgJOjo80SFYnCR2HpIcyQBuXcRq1i7kFc=
+
+Name: org/apache/xerces/impl/xs/XSWildcardDecl.class
+SHA-256-Digest: q6LW5Oi6Td5rI1ATLrqwG5oNhlZu6JaH6Ndsn6eS8tE=
+
+Name: org/apache/wml/dom/WMLBrElementImpl.class
+SHA-256-Digest: mb4mj/kWbe3zanhIwTZsvZfaXX0oyJZLF3Zk0+2TSwQ=
+
+Name: org/apache/wml/WMLTemplateElement.class
+SHA-256-Digest: XUU38gqiKZYQ/WeTA74CEoQEtiF2b0leHLEf7mYRIuI=
+
+Name: org/apache/xerces/xpointer/XPointerHandler.class
+SHA-256-Digest: zY0tJrreMkaZY1NI/kMGPx/+jtPt9IJRY2zq2SktAJc=
+
+Name: org/apache/xerces/dom/DOMStringListImpl.class
+SHA-256-Digest: 0IIxQwU+72lNoLxo6o8FuuNSXZw8cio7LzxCqtDDyOI=
+
+Name: org/apache/xerces/impl/xs/opti/ElementImpl.class
+SHA-256-Digest: mCVO3YhVGJpF1Jo+yePX4JrP4LmCExuEsVoGunyaUAE=
+
+Name: org/apache/xerces/dom3/as/ASDataType.class
+SHA-256-Digest: hxhvEOmPPCqvu1rpDYresSCXYnCn5yjeGfAXH6vYWgk=
+
+Name: org/apache/xerces/impl/XMLDocumentScannerImpl$TrailingMiscDispatch
+ er.class
+SHA-256-Digest: HCCEq7GLShnS6uRBMVgtIng30k40J3MCjRCxkeA743c=
+
+Name: org/apache/xerces/impl/validation/ValidationState.class
+SHA-256-Digest: X2++eEgiBgvxPbLTjopfzQpJxUineF7xuyjamU2w85Q=
+
+Name: org/apache/xerces/impl/dtd/XMLAttributeDecl.class
+SHA-256-Digest: HPNABkx84Wk9joGJSHwDgmqVGzoHHVAcp1HySTsKGSg=
+
+Name: org/apache/xerces/parsers/SAXParser.class
+SHA-256-Digest: guCYKfzWblywStFRQeVQXXYbLGRDAbcwzYijXtzUZi0=
+
+Name: org/apache/xerces/util/XMLSymbols.class
+SHA-256-Digest: W0sWdZGPz8XKeG5WzlVRMFcF9ENFvRnWvtIkha04YqI=
+
+Name: org/apache/xerces/impl/dv/xs/DateTimeDV.class
+SHA-256-Digest: SmJeIsxP0g9Q8wigIR2ZnEqniAXubVyFhA6h7yGY+Aw=
+
+Name: org/apache/xerces/impl/xs/identity/Selector.class
+SHA-256-Digest: C/K9hMF9B6mKQPV51kmYwPxzFpBqYklOwgPiUkDatbs=
+
+Name: org/apache/xerces/dom/DOMNormalizer.class
+SHA-256-Digest: vUrs/oKfozUFxRj2x+mfAwXcB7LuCWrnVaYgM7+87N0=
+
+Name: org/apache/xerces/stax/ImmutableLocation.class
+SHA-256-Digest: VfKpAyWQmvHMwuUqC7Pa/sQsO9rtLs4931pPl6putIQ=
+
+Name: org/apache/xerces/jaxp/validation/WeakReferenceXMLSchema.class
+SHA-256-Digest: ZxJfLyGM2RC0XT/HHc01cQLRw99QNfercsQE9WPHmc8=
+
+Name: org/w3c/dom/
+SHA-256-Digest: qxpiAC/Klmomwi+X/lEKHMuEZzRjYJdqZyPKlC3wz6c=
+
+Name: org/apache/xerces/xni/parser/XMLDTDFilter.class
+SHA-256-Digest: kVoLHwV3KvsOsHSrwCm9hAYYj064LoYrYKVeLnhpbA8=
+
+Name: org/apache/xerces/parsers/DOMParser.class
+SHA-256-Digest: SS5s5Ekr7XT4sappD8SVoSjPfBjxhYgUc3mcXBhc1lM=
+
+Name: org/apache/xerces/impl/dtd/BalancedDTDGrammar.class
+SHA-256-Digest: vSzOaNc791h8UUDHwbn1kqVCvAAsGwboesAD5gpB/YQ=
+
+Name: org/apache/xml/serialize/XHTMLSerializer.class
+SHA-256-Digest: FSpUnXB3OjIKtQxTt1TxW7hAMHfdpe7H/MIjYPp/efY=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDAbstractParticleTraverser$
+ ParticleArray.class
+SHA-256-Digest: pMDPgaXF1UriygkaZMNvy8p00TBDYLgfnJFG2FwaXXc=
+
+Name: org/apache/wml/WMLDoElement.class
+SHA-256-Digest: MJSQ1OU2Exs7nUn6nLH3njcDb2wqeUOW7pygStZl3ug=
+
+Name: org/apache/xerces/util/DefaultErrorHandler.class
+SHA-256-Digest: wq0MOZj/3tHbSjmHLEpvKFukphFuItsHutzl+fJF7dg=
+
+Name: org/apache/xerces/impl/dv/xs/ListDV.class
+SHA-256-Digest: 2S6TAI1M+W9AsPzsXyB67TDOgKh1PHZzLaSYWoi9j4I=
+
+Name: org/apache/wml/WMLSmallElement.class
+SHA-256-Digest: mzB+Fk+eGk+TnUKtQElw11oiGDGyiJ+l2/hwfgKD+Ak=
+
+Name: org/apache/xerces/impl/dtd/XMLDTDValidatorFilter.class
+SHA-256-Digest: Rs3QDfVsCqxtSYAQp6tFDJ0Vbl4XYXhQ84eRnGCaaRE=
+
+Name: org/apache/xerces/jaxp/datatype/XMLGregorianCalendarImpl$1.class
+SHA-256-Digest: tpa8UspYGN8NT1b88ixpqxhOb7RL06xxK4zOUjm3+6U=
+
+Name: org/apache/xerces/impl/xs/models/CMNodeFactory.class
+SHA-256-Digest: YELat7q3X2ZjKBtAfrQdXlpJ+Mdfrh0O0wObPG/vvlQ=
+
+Name: org/apache/wml/WMLAElement.class
+SHA-256-Digest: 4TQDzz7uZMOEfr9OJM5d3x46tP5S2ScPWuzMkmFjLBA=
+
+Name: org/apache/wml/WMLInputElement.class
+SHA-256-Digest: RK7sc1+q0KldfbMFKoQFWfB6PgUO8xSUISZriMRS/rM=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDAttributeGroupTraverser.cl
+ ass
+SHA-256-Digest: 7Af5Z6lkgwdwJ9TroLL9O0j29y+7wdQ0JSLRAKJjOtc=
+
+Name: org/apache/xerces/impl/XMLEntityManager$CharacterBuffer.class
+SHA-256-Digest: rwn0r043xFX/edGVvhOYWze9XuWwYZHZvbqXJFogcmE=
+
+Name: org/apache/xerces/jaxp/SchemaValidatorConfiguration.class
+SHA-256-Digest: mvG++YfT+I601Yx8iJdnnJtQssB2ji5jcW+hDuwnWnE=
+
+Name: org/apache/xerces/impl/dv/SchemaDVFactory.class
+SHA-256-Digest: qkCORzllpmhhTHqTn/ocVFUL/KAvbWPwKfAHjmFMfaU=
+
+Name: org/apache/wml/WMLBigElement.class
+SHA-256-Digest: x5pMd1Nl+QECGXoY9UTR71C6LQb7sHPHnx0B2rPWwtc=
+
+Name: org/apache/xerces/util/AugmentationsImpl$LargeContainer.class
+SHA-256-Digest: nwdeE8OJW9nAVEzsueg7BS0IM5mph1sOLZdNCk50qk8=
+
+Name: org/apache/html/dom/HTMLOptGroupElementImpl.class
+SHA-256-Digest: GGERfo/AlBiWwtoCeUGxB6ECGX0szns6eTuScHLRK0k=
+
+Name: org/apache/xerces/impl/xs/util/XSNamedMapImpl$XSNamedMapEntry.clas
+ s
+SHA-256-Digest: ydJsX2Kqu8FIM/94OY/WOJzvc2X+FCVGyQNXzPQp9NU=
+
+Name: org/apache/xerces/xs/XSModel.class
+SHA-256-Digest: +4qByfx2XC40T4wb6B9zb97PAlrLFu0P/ehsce2RE+0=
+
+Name: org/apache/xerces/dom/SecuritySupport$8.class
+SHA-256-Digest: gET21VX5kredkken3Nl6iFzQT7EWjeZWHuTVM7U204g=
+
+Name: org/apache/wml/dom/WMLSelectElementImpl.class
+SHA-256-Digest: B5/aW4pvkCfcNlSsaj7AxEZuHKZDSIIkpnvEVUomf/M=
+
+Name: org/apache/xerces/util/SymbolHash$Entry.class
+SHA-256-Digest: C+X4WDUA33fsXc6anaUi7ozSWOslZ7RckNL/g7yLYt8=
+
+Name: org/apache/xerces/parsers/SecuritySupport$8.class
+SHA-256-Digest: WEplQW2XDwzVe+y/dW06+XgTwzDRpsD2Q0O0Qe8WFE4=
+
+Name: org/apache/xerces/impl/dv/SecuritySupport$7.class
+SHA-256-Digest: SqtAkccsmsZss7/5KBt1VjMKtmECXHmZ9CEu0ap1dIY=
+
+Name: org/apache/xerces/impl/msg/DatatypeMessages.properties
+SHA-256-Digest: e1Ppb1fgMmneK61kKeZ/0ahq4kADOa0Lp9yRdmz/T0Q=
+
+Name: org/apache/xerces/xni/XMLDocumentFragmentHandler.class
+SHA-256-Digest: NXKaizrEkrgCUB63WaAYEhZ7t32m5/RAa4hWkhVTWKo=
+
+Name: org/apache/xerces/impl/msg/XMLMessages_en.properties
+SHA-256-Digest: a04jraVE+fzi4FijYSBbmSXTR8FKtSja8XntWOKUrKc=
+
+Name: org/apache/xerces/parsers/AbstractDOMParser$Abort.class
+SHA-256-Digest: uf4NFtfazmvprhRGJOkxBMVRHFOg54NZCoMftghLsW4=
+
+Name: org/apache/xerces/util/JAXPNamespaceContextWrapper.class
+SHA-256-Digest: uELRezH+s6Uez9APSELah+D9Us55z6lIjwM6biJo2Tk=
+
+Name: org/apache/xerces/xni/parser/XMLComponentManager.class
+SHA-256-Digest: RN82kBSpDIqfsc0TFqVPD2BlAzLkPJm3CIXJl9JJ+FU=
+
+Name: org/apache/wml/WMLStrongElement.class
+SHA-256-Digest: oMTkCDBJ6rr6mTLNia0wmdxwcWI11WCGy94Qmm+zKPg=
+
+Name: org/apache/xerces/impl/dv/dtd/XML11IDDatatypeValidator.class
+SHA-256-Digest: /Yv85Hj1UWhAild2vL4HjfFxA+m/65nOAVn1VK8j1jk=
+
+Name: org/apache/xerces/impl/xpath/regex/Token$UnionToken.class
+SHA-256-Digest: NLdN58fm2JYnHKyhfmHuwbPuKJO+pk4DzpnzfViyvu0=
+
+Name: org/apache/xerces/impl/XML11NSDocumentScannerImpl$NS11ContentDispa
+ tcher.class
+SHA-256-Digest: 9a95jajLwB0Mn2xuysDc5wUoIwFGf5VIkjVPnrGBVfw=
+
+Name: org/apache/xerces/impl/dv/xs/YearMonthDurationDV.class
+SHA-256-Digest: DYw0RrT/7Jbs58rt9Ty4uR5paOCJKK8f8BnwcZCefNM=
+
+Name: org/apache/xerces/util/StAXLocationWrapper.class
+SHA-256-Digest: X5CC7q0dFK4X6OIDRG6dhngjKcK5tZDy1xFSFB8drTY=
+
+Name: org/apache/xerces/impl/xs/SchemaGrammar$BuiltinSchemaGrammar.class
+SHA-256-Digest: Q2Smiaq4jUlcQSO67YMTeHYzqjGvMmMy0JGuZ+7Nwa0=
+
+Name: org/apache/wml/dom/WMLFieldsetElementImpl.class
+SHA-256-Digest: kHPykMistYQXxxYSMy7hRPp3Qtq6d+2OdZ5M13CcPSI=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDGroupTraverser.class
+SHA-256-Digest: /9DlrilULJgzRePBv6DHETBd8bZqTETtj1bz6J398aU=
+
+Name: org/apache/xerces/util/XMLStringBuffer.class
+SHA-256-Digest: 1OZMKz8LjsIq5tAgPGhtl6hjz1vX13sFzpUi8GjCFQc=
+
+Name: org/apache/xerces/impl/dv/xs/YearMonthDV.class
+SHA-256-Digest: XvCO8l4ijYyu9AVx+th8KHhSzLNtMB1ykpbEwJwM88w=
+
+Name: org/apache/xerces/parsers/SecureProcessingConfiguration$ExternalEn
+ tityMonitor$InputStreamMonitor.class
+SHA-256-Digest: IW20ITDDlWw7O1AC6+Y9U2PDQWWxsGcMnN8HQQVqBeo=
+
+Name: org/apache/xerces/impl/dv/xs/DurationDV.class
+SHA-256-Digest: mcG1ihdEQdOrJG3tje4jhqBXCzujhcmp/rFu+V5Dpxg=
+
+Name: org/apache/xerces/impl/xpath/regex/Token$ConditionToken.class
+SHA-256-Digest: E5NkJN4xNf9pgg3Q6zqtVz+WWjK1Ar5QsUPh3WPV1/U=
+
+Name: org/apache/xerces/impl/msg/XMLMessageFormatter.class
+SHA-256-Digest: 3L0cR2rxBOjZ6JBkCTXSqLZrfvxUmF5sXl2LiEeXLS4=
+
+Name: org/apache/xerces/impl/xs/XSImplementationImpl.class
+SHA-256-Digest: rAJysRUmjjugG8D4ubSU7TC8+rjOhUUvMsndirp5IoM=
+
+Name: org/apache/xerces/impl/xs/identity/Selector$Matcher.class
+SHA-256-Digest: co0KYH7jIvkGU8HAasl7KegjMK1uiPWwjO6RT5+CZyY=
+
+Name: org/apache/xerces/impl/xs/XSDeclarationPool.class
+SHA-256-Digest: mRCrzJyX09owc+zANaN1SRWRTc9A8fkO+R/MlYVhnlY=
+
+Name: org/apache/xerces/jaxp/validation/StAXEventResultBuilder$Attribute
+ Iterator.class
+SHA-256-Digest: la8zSk9hWDLPLkHKp6oiWk50YbVdNUQtIxLi4RCFUqQ=
+
+Name: org/apache/xerces/util/EntityResolver2Wrapper.class
+SHA-256-Digest: Johx5M6DGFaRb3W3RJ6oEDNnl1dIhb78TfaspbEXtWw=
+
+Name: org/apache/xerces/dom/SecuritySupport$3.class
+SHA-256-Digest: RgGgIGJp5RScZRXt4Kra2S2y9gttM3qpacvCFZoDza0=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDocumentInfo.class
+SHA-256-Digest: g7tgbb6H5VvhgwA/v+mYe3R7zm+EQinPT7CQ4B69Knw=
+
+Name: org/apache/xerces/dom/PSVIDocumentImpl.class
+SHA-256-Digest: gGZtESBdENouuCDVGna3Ky1QzdSim+oMcxwYrjvQMpE=
+
+Name: org/apache/xerces/dom/RangeImpl.class
+SHA-256-Digest: Wd+vT2pMDfmAb/xjMfTqF8j2wIYzF4gpWOjG1x6/7FM=
+
+Name: org/apache/xerces/impl/dtd/XMLContentSpec.class
+SHA-256-Digest: ZMOVkA6MrnBG+9X1/rK+0/r20HX/KQWhtP5lWfkRvmU=
+
+Name: org/apache/xerces/impl/xs/XSGroupDecl.class
+SHA-256-Digest: AVheT2u1KbIzFQdUXkPPt2woH1iob5U4tKk1CKnrGIQ=
+
+Name: org/apache/xerces/impl/dv/xs/DecimalDV$XDecimal.class
+SHA-256-Digest: R+klt/yeObMTOX8O3aMIcJkUSGcEJkH1LzT1h0LnxxE=
+
+Name: org/apache/xerces/impl/xpath/regex/Op$RangeOp.class
+SHA-256-Digest: U/k7c58YK/nKCXFbLReXZbVVp52VkrOynXvGPdiJoJk=
+
+Name: org/apache/xml/serialize/Method.class
+SHA-256-Digest: XXgGDvn1Gc4/NdZn2CyFtj6wgqqUOZneIln9MLIz+38=
+
+Name: org/apache/xerces/impl/xs/opti/NamedNodeMapImpl.class
+SHA-256-Digest: aZjuWKo283ypn+TkmDdgjFAOqiXfPLdUShR2JKQ+c00=
+
+Name: org/apache/xerces/stax/events/EndDocumentImpl.class
+SHA-256-Digest: 0Ak90aHc11IhfJP8VHlUtA1leApjkK1whgGZm7bjyns=
+
+Name: javax/xml/namespace/
+SHA-256-Digest: 7rVqV73+LEyjoWyFhYSxZghqx0xocTwts4e5u4HCIPs=
+
+Name: org/apache/xerces/jaxp/datatype/DurationImpl.class
+SHA-256-Digest: djgFtYPofjsu4qwOd3Nu/OYa1TwRO8qT242wWk9jhvo=
+
+Name: org/apache/xerces/impl/XMLDocumentScannerImpl$DTDDispatcher.class
+SHA-256-Digest: 5+O+9HIG35A+FCEgi9VKHc2xusyiU7YLMWqlS27y1AY=
+
+Name: org/apache/html/dom/NameNodeListImpl.class
+SHA-256-Digest: miiirWiKHbjjK2PH7Nca5C7/TUD7GlEH2RI2W8XLyvA=
+
+Name: org/apache/wml/dom/WMLEmElementImpl.class
+SHA-256-Digest: tEVYl4OEOFxHSeLditJu3RAylg9uynRB8V71Lhfz390=
+
+Name: org/apache/xerces/util/AttributesProxy.class
+SHA-256-Digest: x/RqumQlYk3exgH2cEmGovkGKEiMigiuP5kH+MlAcK4=
+
+Name: org/apache/xerces/impl/dv/SecuritySupport$8.class
+SHA-256-Digest: s1z34OQTLbJEftjCoq6iQ0MwDJs6PeGT3eOfCR/A8hs=
+
+Name: org/apache/xerces/impl/dv/InvalidDatatypeFacetException.class
+SHA-256-Digest: 2gZFB6gv6WWWbPT8yeJbkUJ3mPo5QLPLdxZ1vqYP6NE=
+
+Name: org/apache/html/dom/ObjectFactory.class
+SHA-256-Digest: CdGnMb2tfMinz1PbK1nBbvYwO05AAJmYBYXfzpaRWEw=
+
+Name: org/apache/wml/dom/WMLDocumentImpl.class
+SHA-256-Digest: 3wHQv+KBACMzrlqfeHu6FZ51DXYccESkSx4XCodUF3s=
+
+Name: org/apache/xerces/jaxp/validation/XMLSchemaFactory$XMLGrammarPoolI
+ mplExtension.class
+SHA-256-Digest: thaNbI75rA2U8Txr8m96GjMpA1o0gGbV6Ip8bNNefCU=
+
+Name: org/apache/xerces/xs/XSAttributeGroupDefinition.class
+SHA-256-Digest: 9z+xfrJcuv4rPU21xbddY1282Eiz3K7Ql2DyEqfockc=
+
+Name: org/apache/xerces/util/ErrorHandlerWrapper.class
+SHA-256-Digest: m33MG5fWugWgP+VGWWs9mN7bWjARJ41fSJhQspHTGC4=
+
+Name: org/apache/xerces/xni/XMLString.class
+SHA-256-Digest: 1PMC2SKVXPEUIKfQpHb0WFCBXPDQ3xyVubmGhkLxkc0=
+
+Name: org/apache/xerces/dom/SecuritySupport$4.class
+SHA-256-Digest: EbZQO6gD08cG0fUw1BJDZYW5dtC3CrN0FIm/JmhLBVo=
+
+Name: org/apache/html/dom/HTMLParamElementImpl.class
+SHA-256-Digest: ITibNTjvCukLaQqPTuHOsloxyv+RZTz/ONlSHO92ZR0=
+
+Name: org/apache/wml/dom/WMLOptionElementImpl.class
+SHA-256-Digest: U1eXS5Z16axcYPotkwAol5DmK5eko+MM2l+hw3ea1co=
+
+Name: org/apache/xerces/impl/XMLDTDScannerImpl.class
+SHA-256-Digest: 8j/dDg/Brh2RjTmb4FeHNOJAyeGOoGJowHvHPuxTit0=
+
+Name: org/apache/xerces/impl/ExternalSubsetResolver.class
+SHA-256-Digest: oPS5dk3KspmjwkG5P+H4tPsCJ18j10eBRJrWB79rEeU=
+
+Name: org/apache/xerces/impl/xs/XSDDescription.class
+SHA-256-Digest: VynHzBTSvYXvu8daneEHHpdbW+7rh9jP4CVkOfX1Kn8=
+
+Name: org/apache/xerces/dom/ASModelImpl.class
+SHA-256-Digest: CoENqwUEyy+b+HkzH+14vD2dzxlf6LbVExWSrPu2Ehk=
+
+Name: org/apache/xerces/dom/ParentNode.class
+SHA-256-Digest: m/suDIHN0FGXnQXk4Zeh3p/2U9d/EAti2uU331Vxvag=
+
+Name: org/apache/xerces/stax/DefaultNamespaceContext$2.class
+SHA-256-Digest: jEtttq9gBY3DF0wLFY129Vn1YXPq7VR308DgTFJGhc0=
+
+Name: org/apache/xerces/dom/ObjectFactory.class
+SHA-256-Digest: jG8yZsc3TIJSg7K9Ngnvwbp8+FcZNuKy0aIHitF20pY=
+
+Name: org/apache/xerces/impl/xpath/regex/RegularExpression$StringTarget.
+ class
+SHA-256-Digest: MEe7Uz8StAAfpp8HP3il3dP8HGEXEkfhQVoqAEcLxEQ=
+
+Name: org/apache/xerces/stax/events/AttributeImpl.class
+SHA-256-Digest: zB7A5nsLy4k/fs+xo6MAF4Eq82KNhSuLsEp5cAK+8V8=
+
+Name: org/apache/xerces/util/SecurityManager.class
+SHA-256-Digest: BTV2E1PXPPYSrkidtTbSwRdk4cGeolgYMJzcKxn5BN8=
+
+Name: org/apache/xerces/dom/DeferredDOMImplementationImpl.class
+SHA-256-Digest: tnseN9xwdQgqSNMxI7f1/sG+2IGQR76Pfk+9km4ScyU=
+
+Name: org/apache/xerces/impl/xs/util/XS10TypeHelper.class
+SHA-256-Digest: 5PQKzJmnYo/U2PDnWBFLSrT1GQvYyOwp8iGAZHkni9U=
+
+Name: org/apache/xerces/stax/events/StartDocumentImpl.class
+SHA-256-Digest: uIWGyt28TXNKHTjGiRpWj8Vsn4WLFxNRUDQ+xCxFTwg=
+
+Name: org/apache/xerces/impl/xs/util/XSObjectListImpl$1.class
+SHA-256-Digest: TcxzJ5PebJXRCzLPnd6ImPSq7tZ4dQx5CAPgJYEgR+o=
+
+Name: org/apache/xerces/impl/dv/xs/TypeValidator$1.class
+SHA-256-Digest: chAQL3LeGEdmREK2z6rMb0i8Riq0B4CEGnWyFhLewn8=
+
+Name: org/apache/xerces/impl/xpath/regex/ParserForXMLSchema.class
+SHA-256-Digest: AGwkCbKeMucueF072/i/f4KppWGKCc7Pqc+1vJlz4gQ=
+
+Name: org/apache/xerces/impl/xs/models/XSCMBinOp.class
+SHA-256-Digest: 9CYRdo3r82v5vQW6YJFrW/LE3hAVY+KA3njECP2taAA=
+
+Name: org/apache/xerces/stax/DefaultNamespaceContext$1.class
+SHA-256-Digest: Of6laYfyXP2elBCVuMIzde5p4K5Qg10byMP/qXixV30=
+
+Name: org/apache/xerces/impl/xs/models/XSCMLeaf.class
+SHA-256-Digest: 8YfaUTaRMYJrOFdezkioGfwfv8+oJRtEMqc7gE+lc3g=
+
+Name: org/apache/xerces/impl/xpath/XPath$Axis.class
+SHA-256-Digest: e+bGCQRBnRSYPJ57fnwaX6id/XWKeYzMn2JkWdMU3J0=
+
+Name: org/apache/xerces/impl/msg/JAXPValidationMessages.properties
+SHA-256-Digest: 3L7/EhFeehUcl/Pk5eBI6dWERxkj7Ozhf71vH4+P7rM=
+
+Name: org/apache/xerces/parsers/AbstractSAXParser$AttributesProxy.class
+SHA-256-Digest: 9mVeGGJ7g34fTPRwnvtahPQDGnTmhjikWaUwWTbAdH8=
+
+Name: org/apache/xerces/impl/xs/XSLoaderImpl$XSGrammarMerger.class
+SHA-256-Digest: UJV8gkD8dl30+HUev1MbptWmyeQD3Y8FT8ds3znvwsM=
+
+Name: org/apache/wml/WMLBElement.class
+SHA-256-Digest: VASyb32XkPhqaFHluB1iGVGEd83/lCoLMZK5oMVhTH0=
+
+Name: org/apache/xerces/xni/parser/XMLDTDContentModelSource.class
+SHA-256-Digest: UB8iFovN9d19mlKtS8StMWy+lOSyCA0sqAMELhmpZAY=
+
+Name: org/apache/xerces/xs/XSMultiValueFacet.class
+SHA-256-Digest: +EKFnDuyeO+n/9+fFa0RUCx1cYI2ayYd65/vZoLR2zs=
+
+Name: org/apache/xerces/dom/RangeExceptionImpl.class
+SHA-256-Digest: L2cY8l7tW5d53r+OwqxnBPPE6+dSO80vDp7lII1tYX4=
+
+Name: org/apache/xerces/jaxp/validation/DOMResultBuilder.class
+SHA-256-Digest: 5vCdIrTIhwu/OyMsgULwh8cf1Wd0JvmISMVefdjLl4U=
+
+Name: org/apache/wml/WMLDOMImplementation.class
+SHA-256-Digest: XKtUCxvpw2J4yqOkFqtSfcvJSi1/3nL3MuIMiNJfrVo=
+
+Name: org/apache/xerces/jaxp/SAXParserImpl.class
+SHA-256-Digest: PFAABAACSlmCssEE1vfz3zzNds3LpGF7/OaHUduR/8M=
+
+Name: org/apache/xerces/impl/XMLDocumentScannerImpl$XMLDeclDispatcher.cl
+ ass
+SHA-256-Digest: jJmclwKwGAfhH9TQk9J8fjaM/vHBXx7lFMv3efMmF8E=
+
+Name: org/apache/xerces/dom/DOMErrorImpl.class
+SHA-256-Digest: mpffqrRwxBXLVJ2Crkc20duvPpvVqiYAlfJZScKY8Ko=
+
+Name: org/apache/xerces/xni/grammars/XMLGrammarLoader.class
+SHA-256-Digest: 2zzp2C6oSxeqU87EHbrvnYOa5SnGoeat1mTJkq6QpkI=
+
+Name: org/apache/xerces/dom/DocumentTypeImpl.class
+SHA-256-Digest: yQgECqQVWbXaqF5S4AnY9GmQVPtsmC4RgixEVU6A4yg=
+
+Name: org/apache/xerces/impl/xs/models/XSCMUniOp.class
+SHA-256-Digest: 2ePwQNH7cFkoKcl2kFDa3Ojc2N4Bcx1T5tb1vGJv2QA=
+
+Name: org/apache/wml/WMLCardElement.class
+SHA-256-Digest: 1VpbjGtGycK8eKklyq2wIYe4+u42tK3KOf5Zq4yYUaE=
+
+Name: org/apache/wml/dom/WMLNoopElementImpl.class
+SHA-256-Digest: aV5/TGqJHusMwZAACzzZvjw5QMOGSPw8s95mFBonSUI=
+
+Name: org/apache/xerces/util/MessageFormatter.class
+SHA-256-Digest: 8t/WNtJAGUD0Kx7yfbBh0PKTDoZaAFccWaDLhXuHd90=
+
+Name: org/apache/html/dom/HTMLHRElementImpl.class
+SHA-256-Digest: hTHi2VQsg9VBd/VUxwRKqYxNK1A4foxO2RD9iPbY8tA=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDHandler$1.class
+SHA-256-Digest: S/koA+EWZXxe4onvbXARIUo4nIzN+F+DH76Vog5wVU0=
+
+Name: org/apache/xerces/util/DOMEntityResolverWrapper.class
+SHA-256-Digest: zT7j+/Kk59mn6lCqC2znYN7kIuUBPmMjU+Zt5ncuKNk=
+
+Name: org/apache/xerces/impl/xs/opti/TextImpl.class
+SHA-256-Digest: YErnvxK9JLyeaXdzd2TkXPkrEsVPAgR5qJWkQa8b4p8=
+
+Name: org/apache/xerces/jaxp/validation/ValidatorHandlerImpl$1.class
+SHA-256-Digest: GtpgEC5TSirh+Oqq3OPgy14mANI6kgwxvAcOlDW98XM=
+
+Name: org/apache/html/dom/SecuritySupport$1.class
+SHA-256-Digest: PKMt+CN9DZUtkDCPc4PgEAVjKSo5T/UBtZJFk5hxatM=
+
+Name: org/apache/xerces/xs/ShortList.class
+SHA-256-Digest: U2r0y1mbc0eeABJz1lcFuFYXdLoCwzXNwaT3/04dlcg=
+
+Name: org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl$XSMVFacetImpl.class
+SHA-256-Digest: 7ErD59z7o+oKwtaUhBU7iZa9H3mg9OSaifDoq8RxmH8=
+
+Name: org/apache/wml/WMLUElement.class
+SHA-256-Digest: FNffuAuPGIJ8jC28c7wJkRxqklq/awjWGL63mIbZcCw=
+
+Name: org/apache/xerces/impl/dtd/XML11DTDProcessor.class
+SHA-256-Digest: Zjz2VrQYPw+FctvvqektO8mYNCRAEmCHcoX7IyTeOIM=
+
+Name: org/apache/xerces/impl/dv/dtd/DTDDVFactoryImpl.class
+SHA-256-Digest: +qRQpYTjRiDCcKeMNE0Y7Pl25fryCHufeHaDcxS81Iw=
+
+Name: org/apache/xerces/impl/XMLDocumentFragmentScannerImpl.class
+SHA-256-Digest: 2ctJNZ1NUC+3oDFXtq9tFR9VUz94Ah7tNCVYmu4EBaE=
+
+Name: org/apache/xerces/dom3/as/DOMImplementationAS.class
+SHA-256-Digest: UY5rz73ngnqgdNKqL/rVGuV5uQOGqgaFI/YcJ0VcJQM=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaValidator.class
+SHA-256-Digest: syyeggQqBA+0kJLchtclIC+zqABBPA7T5Kw3o+gGlcM=
+
+Name: org/apache/xerces/impl/xs/SchemaNamespaceSupport$SchemaRootContext
+ .class
+SHA-256-Digest: rQ03aKVCqGdXL/xAdAX3f+IWBLbrQrTr7rh6qOvtXLs=
+
+Name: org/apache/xerces/xpointer/ElementSchemePointer$Scanner.class
+SHA-256-Digest: ct+FbgCs+0oUfCMJ1bR0g+yr49wfbmaSXMg09LwvEEA=
+
+Name: org/apache/xerces/dom3/as/ASElementDeclaration.class
+SHA-256-Digest: tFzymc1NG0in78f0/VR/UxR5mS6XsLg904PCYFGe66c=
+
+Name: org/apache/xerces/util/SAXInputSource.class
+SHA-256-Digest: QomKCSUqXZTi+XOKXGlF4oo/hCA+O8XyzfNgk5e6cEQ=
+
+Name: org/apache/xerces/impl/xs/XSAttributeDecl.class
+SHA-256-Digest: 23tC4g8D8HkqquZU6mnYISH0rzCFpkNEWaBHElqCMds=
+
+Name: about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: 70sq4AoiKPmbnFMVhYi1e9oPczCS6WKy+maEqwyunWY=
+
+Name: org/apache/xerces/impl/dv/DatatypeValidator.class
+SHA-256-Digest: EDbtcg4Kqo8NL1E1siV3s/sHN1v/0AxcdhHQ5A8BkMw=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaValidator$ShortVector.class
+SHA-256-Digest: S7Q6tfwaR/w8byXaHXXspf1TVTeyLeBobP4lXh5WlOY=
+
+Name: org/apache/xerces/impl/xs/XSComplexTypeDecl.class
+SHA-256-Digest: gcB0BIg3RhmxztFX3qQWgTxeJfNjx3sArctXdcTkaJY=
+
+Name: org/apache/xerces/jaxp/validation/ValidatorHandlerImpl$ResolutionF
+ orwarder.class
+SHA-256-Digest: farSIMF7NoxU6x4awCg3EB8ImJrjLT8eAhMS5rowkfc=
+
+Name: org/apache/html/dom/HTMLFormElementImpl.class
+SHA-256-Digest: Hv1U1aehqF1Xrjg7p62F2siCucyJExf1FGP49X1TTzg=
+
+Name: org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl.class
+SHA-256-Digest: xz+E4Vdzm+Cq3nH0K81UZCmVqSks6NiY1DqvfL7L8cw=
+
+Name: org/apache/xerces/dom/DocumentFragmentImpl.class
+SHA-256-Digest: JSpRsohZu9dz9wdodoqKPeit6ouvC2JoXV5ktNZf4dk=
+
+Name: org/apache/xerces/impl/xs/traversers/SmallContainer.class
+SHA-256-Digest: zUrKqg1CSbNhr2L7lSk0LpLc/Tbk43+MwpK3DbpWYf4=
+
+Name: org/apache/html/dom/HTMLTableRowElementImpl.class
+SHA-256-Digest: EzcaUJfnzPxYqKhJPClvOuDh++xN6kzmT5ZTB4sCrEo=
+
+Name: org/apache/wml/dom/WMLStrongElementImpl.class
+SHA-256-Digest: wY+4FCHjLpY7r82XWIN5TZADJMMPkl8EqGfTD3/kk8M=
+
+Name: org/apache/xerces/impl/xs/opti/SchemaDOMParser.class
+SHA-256-Digest: 0o4nlPYPft0hk1DgEgwLQoawpKOMoEXcpRUZ1koQD0M=
+
+Name: org/apache/xerces/impl/XMLEntityManager$1.class
+SHA-256-Digest: utHfIQp1jrNTPA5gEq1h/2J/m80v3KyXDr7lJUrVOfE=
+
+Name: org/apache/xerces/impl/dtd/models/SimpleContentModel.class
+SHA-256-Digest: B5mehzM3D18uSiKVv4Ko98IyDXdz0EF7ymhe1MBYKT8=
+
+Name: META-INF/services/javax.xml.parsers.SAXParserFactory
+SHA-256-Digest: Q/V9sD3BFR4z74uoBsCpITf/mYl3bSkvBscgpKb4584=
+
+Name: org/apache/wml/dom/WMLOneventElementImpl.class
+SHA-256-Digest: Z2CFs4QRZyBjYMx8m6XIfBGO8mVtxLObDBh967A75UQ=
+
+Name: org/apache/xerces/impl/xpath/regex/Token$ConcatToken.class
+SHA-256-Digest: bMGlPujsWeczrs5rFhkX4nn6uW9GBRUdnYAERX40a5E=
+
+Name: org/apache/html/dom/HTMLButtonElementImpl.class
+SHA-256-Digest: Vx4uNq5DKNS0uEr5zaf9XMLgnBK+aw6RbDUnn585Hl4=
+
+Name: org/apache/xerces/parsers/XMLDocumentParser.class
+SHA-256-Digest: L9O6Iz//zHsiau6ODhVMscFWMZYmG4whves9i6tw87c=
+
+Name: org/apache/xerces/impl/dv/dtd/NOTATIONDatatypeValidator.class
+SHA-256-Digest: m4T4V+VBRZucjFqxP4oPHu5rRejnDkxPovuhyumeDiA=
+
+Name: org/apache/xerces/xs/PSVIProvider.class
+SHA-256-Digest: H7K9HrFr/8wLq1AzU7E/nz4qo+FBlexG/a9C1JbRo+w=
+
+Name: org/apache/xerces/impl/dv/xs/BaseDVFactory.class
+SHA-256-Digest: 5fpKJIwjUmMzY5xaI1L58WOs56z0Rsbk8hdxId5GXEA=
+
+Name: org/apache/xerces/impl/xs/XSMessageFormatter.class
+SHA-256-Digest: 5I4ivqS6S4/0SOndxNFcbbMPO1/tEIODVY1MSDDQYo4=
+
+Name: org/apache/xerces/impl/dv/DatatypeException.class
+SHA-256-Digest: WfOqmut0gXsCO2nFOvufrbN1/2c766l6L2ZxywUSbdY=
+
+Name: org/apache/xerces/impl/dv/dtd/NMTOKENDatatypeValidator.class
+SHA-256-Digest: XtPrfOyFEPvZ1f0waeuRrhzPp9+ZWkxB9Xbu2UXl7VI=
+
+Name: org/apache/xerces/impl/xs/AttributePSVImpl.class
+SHA-256-Digest: rsl5Yi0fQ+2o321AJ65Cm66ua1jadjMntLPwJR0aLmg=
+
+Name: org/apache/xerces/util/ShadowedSymbolTable.class
+SHA-256-Digest: e53u926Lah9kZ4d0TwP7LzkHgSH6fvDrFYXh+rpzkog=
+
+Name: org/apache/xerces/xs/XSConstants.class
+SHA-256-Digest: 9puyYfNcBRmucnACAek/iQiahKG2HIx5XMlAzR37Gfs=
+
+Name: org/apache/xerces/xni/XMLDTDContentModelHandler.class
+SHA-256-Digest: Uj+7mmE9FUVqbSC2cj755yhcX0ub3calN3q45mUthIs=
+
+Name: org/apache/xerces/xs/datatypes/XSDecimal.class
+SHA-256-Digest: gUSl3XXv/EEj/OdJYcjx25ECgyo3ZfOCeM0e1R2poXY=
+
+Name: org/apache/xerces/stax/events/NamespaceImpl.class
+SHA-256-Digest: ixQ7kznic0WpYHa6LAEv6V3aMKlbUKQyt8DS76UZQpw=
+
+Name: org/apache/xml/serialize/TextSerializer.class
+SHA-256-Digest: 4Fr7b0wiKd6BYFBFDBMr9gIxSBJrrCMqY7Gv1p+W9pU=
+
+Name: org/apache/xerces/impl/xs/identity/Field$Matcher.class
+SHA-256-Digest: oRd/l/gn8bJOrEBxmCRIOIUhw1gnhOpn8vsClfJppk8=
+
+Name: org/apache/xerces/util/XMLAttributesImpl.class
+SHA-256-Digest: CNNgIEsJTLXJ3Vw5Me7xmj2iu6RCwWCi2EVh9VbBicE=
+
+Name: org/apache/html/dom/SecuritySupport$6.class
+SHA-256-Digest: Mi7+I5IUQIIwu0zIarLARk54Ha8f494YQrt9y330c/8=
+
+Name: org/apache/xerces/impl/xs/identity/KeyRef.class
+SHA-256-Digest: L7MtBSWtu/ws66NDpG9YjoeTzuj8SLvhiy8rXdg7KlU=
+
+Name: org/apache/xerces/util/URI$MalformedURIException.class
+SHA-256-Digest: ZGdfVWqQ/bCDF4d4CVcYxiVVJByU08pXNKUg8HoBY5w=
+
+Name: org/apache/xerces/impl/xs/traversers/SchemaContentHandler.class
+SHA-256-Digest: 0B4BcMTjzpqlml9+Khawe3mQovqekbQmmRuq1e3GNzw=
+
+Name: org/apache/html/dom/HTMLAreaElementImpl.class
+SHA-256-Digest: ZAsn+1kyzp6953iQMjZ8oI+oobqbfPfIrer5S7D0g/Y=
+
+Name: org/apache/xerces/impl/xs/opti/SchemaDOMImplementation.class
+SHA-256-Digest: f9Fh7tWgUXU19D4zWvA9Rk1kAdZ20AjIbBBW+DzBUV0=
+
+Name: org/apache/xerces/dom/AttrImpl.class
+SHA-256-Digest: wyD6WtlShLRR18l1DU+O4gPROSIo/6pmcuOaoQ4KguM=
+
+Name: org/apache/xerces/xs/LSInputList.class
+SHA-256-Digest: ksyOnax8RTmozHnJaR1bWeREiiBKo04xThQ7iMb0+8I=
+
+Name: org/apache/xerces/impl/validation/EntityState.class
+SHA-256-Digest: HinZi/0DTmC9MANH5nW1cY1yRDJZVqV0T0NZN6DMEfE=
+
+Name: org/apache/xerces/xni/grammars/XMLDTDDescription.class
+SHA-256-Digest: yil8eWKQYtKixhG2MCRQc7O3Qp52v589e1KXFeGysSQ=
+
+Name: org/apache/html/dom/HTMLImageElementImpl.class
+SHA-256-Digest: MuLuoSk3h2QHTlt+q9kKmO7/BmZLwr5RbKq1f5hB1nc=
+
+Name: org/apache/wml/dom/WMLDOMImplementationImpl.class
+SHA-256-Digest: srAJQLZQf/3ZUzYmqiaVcb8XYes/POB/kPvUWBrIbTc=
+
+Name: org/apache/xerces/impl/xpath/regex/Op$StringOp.class
+SHA-256-Digest: oFthd8eQDc804DW+xx9HuHKwS9qbJ/+sycLY49n1IPQ=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaException.class
+SHA-256-Digest: 9A1R2oi4mUWUk+WiiDLn4ICyGU3DshgjtyB4HeoJmb4=
+
+Name: org/apache/xerces/jaxp/validation/SoftReferenceGrammarPool$Entry.c
+ lass
+SHA-256-Digest: iwDG2ZqTK24+I6YEGLrRO3JGCcYG1jAaWHVUYAWDL+E=
+
+Name: org/apache/html/dom/HTMLTextAreaElementImpl.class
+SHA-256-Digest: Mwalk3lr8dyb4ZRkhy7yj87Ktr5WUL/27pdenbmT0+U=
+
+Name: org/apache/xerces/impl/dtd/XML11NSDTDValidator.class
+SHA-256-Digest: X74wuYlnrZ1hLsFsDQNflUIuYpmBRP7ptlgqR1fw9+s=
+
+Name: org/apache/xml/serialize/SecuritySupport$4.class
+SHA-256-Digest: XwFMIpGgyBJwS6iG9YFW+JiulTBSTmyhOL0CfICjV6M=
+
+Name: org/apache/xerces/dom/CoreDOMImplementationImpl$RevalidationHandle
+ rHolder.class
+SHA-256-Digest: MxYyIwZa869r0Xt552Da184ZcYP+AnbpmV2GVqSSf4k=
+
+Name: org/apache/xerces/dom/DeferredDocumentImpl.class
+SHA-256-Digest: tP4A2R2PSqhht0Riht15ovUEHVSxMHgHR8y4H5MKwSI=
+
+Name: org/apache/xml/serialize/ObjectFactory$ConfigurationError.class
+SHA-256-Digest: ZpBcNqJCCseW9+81XDjFJsFR7ipcQ0Y3XJ/D7ihTeqY=
+
+Name: org/apache/wml/WMLElement.class
+SHA-256-Digest: 5WZxXCQ5qs+u511Ks5YlCUOvJd+zJNLugawgIYlNH2Q=
+
+Name: org/apache/xml/serialize/XMLSerializer.class
+SHA-256-Digest: 2xhJe+c764TPrNNIfxmUeY/FQ9cRs/W7PH3aVm9FwKs=
+
+Name: org/apache/xerces/impl/xs/identity/UniqueOrKey.class
+SHA-256-Digest: nKeGb/jYxy1aDJaKn6l/Lctp5wqZNorW+EnASdLuGQo=
+
+Name: org/apache/html/dom/HTMLScriptElementImpl.class
+SHA-256-Digest: N0aNmIf7ldZYLQws4hvYiyc7GRDEfAnSO6ipJOSJhrQ=
+
+Name: org/apache/xerces/impl/dtd/XMLElementDecl.class
+SHA-256-Digest: Q3q44L4AR9YDOO7rr6EDWWRQ05/fnIby2xfR52ppNz4=
+
+Name: org/apache/xerces/impl/xs/traversers/XSAnnotationInfo.class
+SHA-256-Digest: xa2u20+a1Jp41B3LKnbiohs9YZSFefeJ5JgP2CEq2lY=
+
+Name: org/apache/html/dom/HTMLFrameSetElementImpl.class
+SHA-256-Digest: ajfAaE+Huh2ItaXH9O9xYWn97O0g6bmKWAYHChGBTYk=
+
+Name: org/apache/xerces/parsers/DOMParserImpl$NullLSParserFilter.class
+SHA-256-Digest: jfBQIsWXrnzW35EN2DWnojKOacUqx6zg+vPKhVu8fAE=
+
+Name: META-INF/services/javax.xml.parsers.DocumentBuilderFactory
+SHA-256-Digest: WTXzAGQV6e/LtYzTvgQd4NLQe0IypOrGrdVqWzUGGMc=
+
+Name: org/apache/html/dom/HTMLIFrameElementImpl.class
+SHA-256-Digest: bBT7z/TVufBtt1h1SiI6J3wYEE1hAztfZbPw+gsxcLM=
+
+Name: org/apache/wml/dom/WMLAnchorElementImpl.class
+SHA-256-Digest: q6SY9u3Sw4YBVgu/490LjK59O4ToUc+hvMhABsdCvQM=
+
+Name: org/apache/wml/dom/WMLHeadElementImpl.class
+SHA-256-Digest: yE8vl3Obof+TkHNqlTaCFYVOc7yXatDS34zLIwqu10Q=
+
+Name: org/apache/xerces/impl/xpath/XPath.class
+SHA-256-Digest: S2JApoA3PM6YPz7gTePuyEET2eFg/L0+h4AO0tuT+SQ=
+
+Name: org/apache/xerces/impl/xs/identity/FieldActivator.class
+SHA-256-Digest: R17wfIFnt574sUVIUwRwRaYTPkWDlbTbnJJHApQhmOc=
+
+Name: org/apache/xerces/impl/dv/xs/XSSimpleTypeDelegate.class
+SHA-256-Digest: 0RrzGDR/u0PSnq+MZ6LSWyCmzvtshE3n9/IkmorAOIU=
+
+Name: org/apache/xerces/stax/EmptyLocation.class
+SHA-256-Digest: BrPLAP9MNEFAVntXmNF3bI2Cm9VVevvvkELit/ZNS/0=
+
+Name: org/apache/wml/dom/WMLPElementImpl.class
+SHA-256-Digest: zuptElFHy2oGPp1nmP5bOv81E98ThDFtaNW1gN0Xz0o=
+
+Name: org/apache/xerces/xni/grammars/XSGrammar.class
+SHA-256-Digest: DW8v8594SLxh/mSEXCFd3pglCs1EhV6xDkelKPw7/b0=
+
+Name: org/apache/xerces/jaxp/validation/AbstractXMLSchema.class
+SHA-256-Digest: HJLxzo9KPD4kbYw7SzPBz5bHvjf6RC6pY8CzTFHhluM=
+
+Name: org/apache/xerces/parsers/XML11NonValidatingConfiguration.class
+SHA-256-Digest: EyRR36bJuP6jnJePAHn4bIjuCDCVyh13YtEVFiWyLrU=
+
+Name: org/apache/xerces/dom3/as/ASAttributeDeclaration.class
+SHA-256-Digest: LIOFBOsKiXfs1/cr6/Jd3OX5YgRDSm2BNMsUjDtnGKU=
+
+Name: org/apache/xerces/dom/DocumentImpl$LEntry.class
+SHA-256-Digest: 2ndyBdRQWwyq95GxglFbrLZ71GOZBNmjFgxkdyM3So0=
+
+Name: org/apache/html/dom/ObjectFactory$ConfigurationError.class
+SHA-256-Digest: B6u2AhDnlG/z5f9kVR4646Rwp98WErYnyM7lLTU76mU=
+
+Name: org/apache/wml/WMLWmlElement.class
+SHA-256-Digest: VpZxRdT9ErZga0pNLCOBMH/pxzQMsdnsrFmb2RFzjvU=
+
+Name: org/apache/xerces/xni/NamespaceContext.class
+SHA-256-Digest: saYAjTP1+HQcc5oZT78Yl+IWx8CLO965vvtNzGgJfao=
+
+Name: org/apache/xerces/impl/dtd/XMLNotationDecl.class
+SHA-256-Digest: XabSAqQZQKs/F83OPviGmXsIaIvfigtRi5Aj4tjPBpY=
+
+Name: org/apache/html/dom/HTMLQuoteElementImpl.class
+SHA-256-Digest: uoVltbRZasCk4zeiFEn8zB7roo7IJr3luLktoxsc3y8=
+
+Name: org/apache/xerces/parsers/AbstractDOMParser.class
+SHA-256-Digest: MtPfnuijYpsjq7Tr6EiaVpR8Cw1Txv/q+AHV7HjjHwM=
+
+Name: org/apache/xml/serialize/DOMSerializer.class
+SHA-256-Digest: l3KL7t0s6HNs5jHiHtHvtmFbmP29EG9p++l2tyD7fS4=
+
+Name: org/apache/xerces/xpointer/ElementSchemePointer$1.class
+SHA-256-Digest: /ELOUDabCG1FPPUFksfokuPUnNwFWHFfcVdESijSYT8=
+
+Name: org/apache/wml/WMLImgElement.class
+SHA-256-Digest: nC8W4OgWJyGMAWm4JWS5mrLZ5mpWRcvi+pzO2m/4zeM=
+
+Name: org/apache/xerces/jaxp/validation/SoftReferenceGrammarPool$SoftGra
+ mmarReference.class
+SHA-256-Digest: O1mFXkfvAaS6oZeY5/hne7TuxQtzckN66xweIx2w4zE=
+
+Name: org/apache/xerces/impl/xs/XSConstraints$1.class
+SHA-256-Digest: 2x3gWjKCrGXMgcG6nS1BWyCSr0PCAnS0e+TqSigOcGI=
+
+Name: org/apache/xml/serialize/SecuritySupport$6.class
+SHA-256-Digest: KzLuABgGV3i118Qtnj8YbkawC5ny/grcWcUFVC6Oeec=
+
+Name: org/apache/html/dom/SecuritySupport$3.class
+SHA-256-Digest: /CcsyNUKzhmTd3k4RJxf2XVYyCH0C2kz+MZaGStC3Qk=
+
+Name: org/apache/xerces/xni/parser/XMLParseException.class
+SHA-256-Digest: FOmnJ22kgpMqHI/GhcXCjKC2wxrmZEpElVVl2bzxANY=
+
+Name: org/apache/xerces/util/DOMErrorHandlerWrapper.class
+SHA-256-Digest: 9Y/DhFkhDDBDDx+thG/Ao4fT7LFIImHKHhtodWAcFmU=
+
+Name: org/apache/xerces/impl/xpath/XPath$Step.class
+SHA-256-Digest: bShQ+r5gtlNu0tWaROP5C501BqKdG9JJtcW3mEY8bSc=
+
+Name: org/apache/xerces/impl/XMLDocumentScannerImpl$ContentDispatcher.cl
+ ass
+SHA-256-Digest: 98aM2asXJvhiKwHkCtUVw6Bz2ddvDSaDb1kXgXIuywk=
+
+Name: org/apache/xerces/jaxp/datatype/XMLGregorianCalendarImpl.class
+SHA-256-Digest: ooxxB35a8qNc5lZ9VAErDKH9MHtXEYMGStIqYlg/Vd8=
+
+Name: org/apache/xerces/impl/xs/identity/Field.class
+SHA-256-Digest: 6604VqIN0GxH4a/3HDh+iVw3RVncaZuqqseB6AdQU28=
+
+Name: org/apache/xerces/xni/parser/XMLConfigurationException.class
+SHA-256-Digest: x+w/21KaBJQoPoFcDrXWDx7zleRd8fL+YPgFTrPIQuo=
+
+Name: org/apache/html/dom/HTMLObjectElementImpl.class
+SHA-256-Digest: 5mfaEfWfFRyVS/IoAyCbCbSVLm6YjNeJx1e+yWPumQw=
+
+Name: org/apache/xerces/xpointer/XPointerHandler$Tokens.class
+SHA-256-Digest: 3jGwGC+dIhPKaloRcaVWb98wuy4VIWG0AyzjftFiWtc=
+
+Name: org/apache/xerces/xs/ElementPSVI.class
+SHA-256-Digest: C9zdJlVCFNDpUAC635GCE/4tRIqQY9fRv2slcuVAX44=
+
+Name: org/apache/wml/dom/WMLSmallElementImpl.class
+SHA-256-Digest: S4Exjm2dVa5/cmc9ltPumRfgcteEJ6u8vWBxEk8e+48=
+
+Name: org/apache/xerces/xni/parser/XMLDTDScanner.class
+SHA-256-Digest: qshS8Dg67mboexesRn13Z1wFdWvld7AWr8TUM3Pkhno=
+
+Name: org/apache/xerces/dom/NodeListCache.class
+SHA-256-Digest: p1nhICYYOuVu8fEu9+H0Gm/XLUAxiyaBvIW1fi5W3t8=
+
+Name: org/apache/xerces/util/ParserConfigurationSettings.class
+SHA-256-Digest: zWlb5HwvYNYHqqAGDviQ6v3PqEaV7me2ye77qqgd0NM=
+
+Name: org/apache/xerces/dom/DeferredElementNSImpl.class
+SHA-256-Digest: yGPHXw/SiBoZPJSbScmde72xpKa8tb70HXdnHhA35WQ=
+
+Name: org/apache/xerces/util/ErrorHandlerWrapper$1.class
+SHA-256-Digest: NiCoHk2iVoH8f21acyDTjc0ctad0c1m9w0fv3uUYpGw=
+
+Name: org/apache/xerces/impl/dv/InvalidDatatypeValueException.class
+SHA-256-Digest: 2Pyd2nyg7Xkq4KMrk9fOBnnSzKOVbmm4L75sfw/V6Fc=
+
+Name: org/apache/xerces/jaxp/validation/SoftReferenceGrammarPool.class
+SHA-256-Digest: oOrFf8uOxhnsrSK4diiKdGXTqgmp6Ck8/b6iweXfXKc=
+
+Name: org/apache/xerces/dom/DeferredElementDefinitionImpl.class
+SHA-256-Digest: o9BAi5JixKQqsE07X7Yo3I6s/PvwMfsXIT1RIqci11g=
+
+Name: org/apache/xerces/impl/dv/xs/SchemaDateTimeException.class
+SHA-256-Digest: 9gI4vBsvFTmcGjIBh7QS326qhPPeq/OAEi5b73uEjMU=
+
+Name: org/apache/xerces/util/XMLChar.class
+SHA-256-Digest: kUiZSCbK8LJmsNFj/pPC+KGOQJk7z2qaiM/Iiox8sQU=
+
+Name: org/apache/xerces/impl/dtd/DTDGrammar$QNameHashtable.class
+SHA-256-Digest: uRwDrMD/SscWY71zrXuz6uAmBsMhNa8PReRaOQoQi34=
+
+Name: org/apache/xerces/util/DatatypeMessageFormatter.class
+SHA-256-Digest: 6URQEKBbkcpehEXcfeI6mYnTqTaLCTe4LbrDfgBu+b8=
+
+Name: org/apache/html/dom/HTMLDirectoryElementImpl.class
+SHA-256-Digest: Ptn9xZ70WwIxJoYshJMnVLs5U5fH9bb9jCzy/QBDvb8=
+
+Name: org/apache/xerces/impl/dtd/models/CMAny.class
+SHA-256-Digest: AE3+7rQQ+tBUIu5JDXhCKu9poBz4SHNIDp6mKEcmTm4=
+
+Name: org/apache/html/dom/HTMLLabelElementImpl.class
+SHA-256-Digest: 1iBaw6+NSUx6d7BiY6Tk5K1W4K3SakSrCItqed0EMkY=
+
+Name: org/apache/xerces/util/PrimeNumberSequenceGenerator.class
+SHA-256-Digest: Xr+mp8Q1OAJ8fm7acn85xztrSWiAAcRjHbrgJIh6BDI=
+
+Name: org/apache/html/dom/SecuritySupport$4.class
+SHA-256-Digest: dtvBoiu38VQUBQraXTeA0BLwwwu21gdAthufbFK3Qjo=
+
+Name: org/apache/xerces/xs/XSNamedMap.class
+SHA-256-Digest: nYCtih+ZnX6k57BJLe9BnoLS3CXSS7dq0z1gzd+C12M=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaValidator$ValueStoreBase.class
+SHA-256-Digest: BGbyPgmS/t1hIZ3X46+TFkze6/mRDQHH7b86YNT71CY=
+
+Name: org/apache/xerces/dom3/as/DOMASWriter.class
+SHA-256-Digest: OgGqIKgAv4gz2WKSqhVYmAoNxEH6pAavqr4Cg+em+Gs=
+
+Name: org/apache/xerces/jaxp/validation/StAXDocumentHandler.class
+SHA-256-Digest: kh6Vodli9AWkJnMa5tOojINXxqOWlMdCwo/ucDejUlg=
+
+Name: org/apache/xerces/util/XML11Char.class
+SHA-256-Digest: ns3bPKqlVoEfjwvOke5HbwE/btxqbe6pySzocoOj13U=
+
+Name: org/apache/xerces/xs/XSAttributeUse.class
+SHA-256-Digest: juxVP80TWmRPZQQdbrcHllLxHhz2x3o7N/RITRp+aOs=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.xerces/pom.xml
+SHA-256-Digest: 5belmTxomCsosPnuZYkjd5ZosC+cMG7DLLlVKBgKA4c=
+
+Name: org/apache/xerces/impl/dtd/XMLDTDValidator.class
+SHA-256-Digest: dhx2nsj/WaCRqtLzwgsiOBvbOK5vB8SajvAAi3Te5yc=
+
+Name: org/apache/xerces/impl/msg/XMLSerializerMessages_en.properties
+SHA-256-Digest: D0h5dTZCbPBRUVe2vUj+Mv/KteyYEqg2msun1BZB+UQ=
+
+Name: org/apache/xerces/impl/validation/ConfigurableValidationState.clas
+ s
+SHA-256-Digest: AGuLdibcGJaepToThxmP/80KrUDavpG7Ng4CxGpxU4c=
+
+Name: org/apache/html/dom/HTMLOListElementImpl.class
+SHA-256-Digest: yS7kP05vqL39D9DUDQr35rfQlpNqIpqIjOnNPE2iVHw=
+
+Name: org/apache/xerces/xinclude/XIncludeHandler$UnparsedEntity.class
+SHA-256-Digest: zhjEJbc4dR3QbBgJiCcjhZQDqA6stwuwDMJDY37NYbY=
+
+Name: org/apache/xerces/impl/xs/identity/Field$XPath.class
+SHA-256-Digest: SGnIrsz90VKtobDblqG0ZYbvuFUIehUgQnor8buZjvI=
+
+Name: org/apache/xerces/impl/xs/XSModelImpl.class
+SHA-256-Digest: OX4uNe1otBR6ahd45Zw7/lohSlRWQxW5zTYDYYUA7jE=
+
+Name: org/apache/xerces/stax/DefaultNamespaceContext.class
+SHA-256-Digest: yC5dSuuORO2QROwJR7Pz+4fR5vWm4Z8qtzDZRu9tjGs=
+
+Name: org/apache/xerces/impl/dv/xs/PrecisionDecimalDV.class
+SHA-256-Digest: lNGSO4DX48r7A5RYJR1ZR0i8jPh7x4tXbXSRduSSOTE=
+
+Name: org/apache/xerces/impl/dtd/XMLNSDTDValidator.class
+SHA-256-Digest: UZoGEe3WX5IhEEZKvXuvJwbLNubdRluhXs1iCBCD2E0=
+
+Name: org/apache/xerces/dom/CharacterDataImpl.class
+SHA-256-Digest: lfnwihaQOR8m1OGYuyMsUIlg6wFlkfcCmU6bWI16WBE=
+
+Name: org/apache/xerces/impl/xs/XSLoaderImpl.class
+SHA-256-Digest: kkBw1CDHwh2Aispak8ALXUIfaIuT83qdgcAUVALADo8=
+
+Name: org/apache/xerces/jaxp/validation/XMLSchemaFactory$XMLGrammarPoolW
+ rapper.class
+SHA-256-Digest: X//k18hok5FKwzP11Dx9RhEeCq1QTLSIX8KXJow2fhg=
+
+Name: org/apache/xerces/parsers/NonValidatingConfiguration.class
+SHA-256-Digest: WzEfhqbaeOpu5Xv8WKuwdzNVrkIHb+4XU193bYKjwEc=
+
+Name: org/apache/xerces/impl/dtd/DTDGrammar.class
+SHA-256-Digest: j8+s5qC13H/NG8gk+1b+dUdghZ1a0Ir8+5Puznf+/QM=
+
+Name: org/apache/xerces/jaxp/datatype/XMLGregorianCalendarImpl$Parser.cl
+ ass
+SHA-256-Digest: MkXBTvWAG93USFtUkBDyEJHyjK/CqzBmP7hiSGi2cUw=
+
+Name: org/apache/wml/dom/WMLUElementImpl.class
+SHA-256-Digest: PfSTe86YSbpNymdMQOqIo/3nGGGaYqrtmeIqWVK/UoQ=
+
+Name: org/apache/xerces/impl/dv/xs/StringDV.class
+SHA-256-Digest: wT/pEtpLra4dMwGttL6IWWpOJY8olZdjuaFXh0IsO+I=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: yNPwOnHzacP+fQisxDRFPFnRiHITrk2v8L6TY/wd0mA=
+
+Name: org/apache/xerces/impl/xs/SubstitutionGroupHandler$OneSubGroup.cla
+ ss
+SHA-256-Digest: 7+2apVGyK37ZRCmpFfx3JMB31HTFQX8N8ft1eeus6fk=
+
+Name: org/apache/xerces/impl/XMLEntityManager$RewindableInputStream.clas
+ s
+SHA-256-Digest: x8AKVvxQisjOBE3RPwD8Flt18qxXygbHCFpNhfZ9+QI=
+
+Name: org/apache/xerces/impl/xpath/regex/Token$CharToken.class
+SHA-256-Digest: qT8MJ+nYFXhgcjxrzlEV/RXpuge1qR7/e/10HysEiR0=
+
+Name: org/apache/xerces/impl/xs/XSModelGroupImpl.class
+SHA-256-Digest: 5XhCKE3aiKaCsD2uKsCf/bkGfzZe/64xPqW2dpA6JTk=
+
+Name: org/apache/xerces/impl/dv/dtd/ENTITYDatatypeValidator.class
+SHA-256-Digest: pgrUWP9iaSX0T+GGFR0ehUoS79evkSXxHqKD/gZxJUU=
+
+Name: org/apache/xerces/impl/xpath/regex/Match.class
+SHA-256-Digest: Hc/geT95whTOx2PS6k1tBvscGuyBixlELXAZdZNmZPc=
+
+Name: org/apache/xml/serialize/SecuritySupport$2.class
+SHA-256-Digest: kJh2NAc3dSOukSxYG4s5TO0Zk+YmfYL9Ma4J6uM7ivo=
+
+Name: org/apache/xerces/impl/xs/identity/ValueStore.class
+SHA-256-Digest: /dBHxWuLj0hCxh5LwpxCRP6EuP03+3OKqq7yQOvhseY=
+
+Name: org/apache/xerces/impl/xs/identity/IdentityConstraint.class
+SHA-256-Digest: KbycPIzGo3yysB/UEuaZ01VcvJjBU+RAFOXoBPW7VC0=
+
+Name: org/apache/xerces/util/SoftReferenceSymbolTable$SREntry.class
+SHA-256-Digest: Je1wkN1KlJKg5rw2XoNmODDfephvV2hECztypnu9itQ=
+
+Name: org/apache/xerces/impl/dv/SecuritySupport.class
+SHA-256-Digest: l9BEl3lXnE2N1CEPDu7bqCGi9cdUrQ6qPxXz0Bpb7nU=
+
+Name: org/apache/xerces/jaxp/SAXParserFactoryImpl.class
+SHA-256-Digest: y/bh9bQApdhlXPFtCs8Jzp7NHDohhLjON88ePrMTYRE=
+
+Name: org/apache/html/dom/HTMLHeadElementImpl.class
+SHA-256-Digest: rqg6g6SA8WqK1kD8M080WnU0OilUYKJC00fIbR4Q1hs=
+
+Name: org/apache/xerces/dom/DeferredEntityImpl.class
+SHA-256-Digest: sfWEaqmj9ByGlTKDNZ2gUl1XNgDTg9cGKgdeT/eD4z0=
+
+Name: org/apache/xerces/jaxp/validation/ReadOnlyGrammarPool.class
+SHA-256-Digest: 41LdxDR9+lwosSqKHMg+C+6WIBOZiPgpA3WkEYLEJfg=
+
+Name: org/apache/xerces/stax/events/ProcessingInstructionImpl.class
+SHA-256-Digest: g1a4HwT4dr01JKJaDtvQUtRVT0WkzB7Yuhfam6C4kSQ=
+
+Name: org/apache/xml/serialize/SecuritySupport$3.class
+SHA-256-Digest: uwoMjoqRo0NV1uYtMEMk7L3NRsR9BkNawEKCEmhRnSA=
+
+Name: org/apache/xerces/impl/xs/XSElementDeclHelper.class
+SHA-256-Digest: QJRlQHbjT+1LkNAPTu7yh3ObJvAI3u9AxeulZDjdXOQ=
+
+Name: org/apache/xerces/impl/xs/XSConstraints.class
+SHA-256-Digest: J/ldmdVl5mk4LqamfGHHNjbfqQFMJpW2w+K8QLaag8E=
+
+Name: org/apache/xerces/parsers/DOMParserImpl$AbortHandler.class
+SHA-256-Digest: 6wqEB34WaKafWaTXjreeKHcGwVJBWhqtcqha3Zb6O4s=
+
+Name: org/apache/html/dom/SecuritySupport$5.class
+SHA-256-Digest: cK8sNDAPR7xUtF2/hZFYDSTlDiodhYD2ncPikhA5oco=
+
+Name: org/apache/wml/WMLPrevElement.class
+SHA-256-Digest: xtpT2qdGvZ2DLtApfKTiz6vfq7ES82euU9BkLJfrgYk=
+
+Name: org/apache/xml/serialize/Serializer.class
+SHA-256-Digest: s52A0rh2m09k28eiVRLABb370Q0vuEJQsHvKgDlsyiI=
+
+Name: org/apache/xml/serialize/ObjectFactory.class
+SHA-256-Digest: KnozmT5HOrPDzmhECEBm1jP4wvD8Z8RS3DIGn8rYicQ=
+
+Name: org/apache/xerces/xni/Augmentations.class
+SHA-256-Digest: gexTwYpI4ZkvBC6FPbgXxaqRqM/U3XdRRhSifBMfUSE=
+
+Name: org/apache/xerces/impl/xs/util/XSNamedMapImpl$1$1.class
+SHA-256-Digest: 8xwxshXBTz6pCnedA+UzYtiP/iNUU4FotETBIL4dkzs=
+
+Name: org/apache/xerces/impl/msg/DOMMessages.properties
+SHA-256-Digest: 1S3P981MQkKtDIQLFpaLtqz+MWzmWDZSYFjJv7EQcM8=
+
+Name: org/apache/xerces/impl/xs/models/XSDFACM$Occurence.class
+SHA-256-Digest: IaQa6qlRTYKwvvsSNlrjj6FAI67dVC4AihCywDccIjg=
+
+Name: org/apache/xerces/util/SAXLocatorWrapper.class
+SHA-256-Digest: SciDQVchDoit3Ht5aAso5+Zyc7vtaKqvANVjA2tftMk=
+
+Name: org/apache/html/dom/HTMLFieldSetElementImpl.class
+SHA-256-Digest: g/8tJrS1Gb6qDg1tsE+bBJdWgM1adR6vB6YJzlX3G/w=
+
+Name: org/apache/html/dom/HTMLLIElementImpl.class
+SHA-256-Digest: LVMM+1EJxqfLZO5QkJVlDE4eKgNatCok/pOF0mGy9Mo=
+
+Name: org/apache/xerces/impl/xs/util/LSInputListImpl.class
+SHA-256-Digest: uPakUGrIStY0fdwALjXj5HjyNzwCdip8A4NY28+kwEg=
+
+Name: org/apache/xml/serialize/HTMLSerializer.class
+SHA-256-Digest: YK3pejYgPa2XkjuL1hAcRUJmvSTROpu27M7SutzUx+A=
+
+Name: org/apache/xerces/jaxp/DocumentBuilderFactoryImpl.class
+SHA-256-Digest: OEPxtNsr/MzN+iuF8ZkgCdbImLAKZRvJzc23/Xa6cn4=
+
+Name: org/apache/html/dom/SecuritySupport$8.class
+SHA-256-Digest: l31JEOrbL5h/lITX8UGjCjmrVMSmmprYBPtlqtKAyj8=
+
+Name: org/apache/wml/dom/WMLIElementImpl.class
+SHA-256-Digest: J1C4d5rYMuIJNZofJWngh+1ADeaykBMcw3reb3UV3Bo=
+
+Name: org/apache/xerces/impl/xpath/regex/Token$ModifierToken.class
+SHA-256-Digest: aJptRSDJPZngUcPjwm+rji7jtuq+zEyeEzd/AYLf0F0=
+
+Name: org/apache/xerces/xni/XMLDocumentHandler.class
+SHA-256-Digest: +6zypZ7mRAM+4JFWiaeMkWN1v/FZ1FxPI+RD86pQv5M=
+
+Name: org/apache/xerces/impl/dv/xs/DateDV.class
+SHA-256-Digest: rV+sVUybH5gqEtSCM0XmAZ2NCX1vldB+PzmXCXL3JeU=
+
+Name: org/apache/xerces/impl/dv/ValidatedInfo.class
+SHA-256-Digest: YfOYCKmhnFp9OCOul8eCzUP/E4Td6MRYxRbql4wzDwc=
+
+Name: org/apache/wml/dom/WMLOptgroupElementImpl.class
+SHA-256-Digest: bM4cj76KniAGH90A86YkyBehoQQzYNFmAWtqxLu059c=
+
+Name: org/apache/xerces/impl/dv/DVFactoryException.class
+SHA-256-Digest: kqCsA0liQZw6lrPTPZKJOo5dEbTf64UiNeGOGzoLnik=
+
+Name: org/apache/xerces/xni/parser/XMLDocumentFilter.class
+SHA-256-Digest: h8JeQbV/gk6frYHQe5wN1KhNjUGj5tVA7AkfTPWtOJM=
+
+Name: org/apache/xml/serialize/SecuritySupport$1.class
+SHA-256-Digest: y1Kj62hEO2C+3Syu1bcPB7t+kOJd8O9PrqZnFO6NCG0=
+
+Name: org/apache/xerces/impl/msg/XMLSchemaMessages.properties
+SHA-256-Digest: yptiTPLUZHRyjo/SHhzv3FIUDVJ36dwKlVpug8Bv910=
+
+Name: org/apache/wml/WMLBrElement.class
+SHA-256-Digest: 8PXW5OSdpZ4UhYeUAT37RmXkTY3DKfl2zTeHeGjPI8Q=
+
+Name: org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl$ValidationContextImp
+ l.class
+SHA-256-Digest: U3saOWFDRrnwk4rfSZ9Gde9gXx7knTBwTF/Turvs+QI=
+
+Name: org/apache/xerces/jaxp/validation/StAXEventResultBuilder$Namespace
+ Iterator.class
+SHA-256-Digest: 6l+S48Dp3vqKno8YUuGWH/EF7i0k0nzExt0Hpru2Wro=
+
+Name: org/apache/xerces/impl/dtd/models/CMStateSet.class
+SHA-256-Digest: SIqhazrxx3u4w+NyCpGLVGlGhgm8KTZTIpsOh/lCA68=
+
+Name: org/apache/xerces/impl/dv/xs/AbstractDateTimeDV.class
+SHA-256-Digest: 89VBapos9h2e6NTeOTmvl53owSh2eIrRldvqiHiuBzo=
+
+Name: org/apache/wml/dom/WMLDoElementImpl.class
+SHA-256-Digest: g2a2NsXqqV40Z2UraEAekt36At3tqdcr5yxrFbRLZcM=
+
+Name: org/apache/xerces/stax/events/StartElementImpl.class
+SHA-256-Digest: OtlEAaTDEc3gC21IDBxA3GI45irPeKTiXSunGDd337Y=
+
+Name: org/apache/xerces/impl/xs/models/XSAllCM.class
+SHA-256-Digest: 06D3Xu0vfGYUwH1KfJDtvvBxJ3W5VFErwpQjW7S+sZg=
+
+Name: org/apache/xerces/parsers/SecureProcessingConfiguration.class
+SHA-256-Digest: kNWwuvor70VGlKZNoahYjvI0tQ06YUEQOJQmyxl6qCs=
+
+Name: org/apache/xml/serialize/XML11Serializer.class
+SHA-256-Digest: XXqi/ZcWEt3B5pp7Dq/1dg/a+BxSOo4CRu7KjqHzm1o=
+
+Name: org/apache/wml/WMLRefreshElement.class
+SHA-256-Digest: G1muJhgSknTTyKU/Uvh6b3DHr96aoZRD+UzMAsJ2r40=
+
+Name: org/apache/xerces/xs/XSComplexTypeDefinition.class
+SHA-256-Digest: PjR13q80RdiAmmaa6PfpnWJJGo545jsz2FiwAs7I//E=
+
+Name: org/apache/xerces/impl/msg/XIncludeMessages_en.properties
+SHA-256-Digest: D1nO7Dm11yBaFxk9h6ithc9/9++cYEuKVImyNzolDrs=
+
+Name: org/apache/xerces/impl/xs/util/XSNamedMapImpl$1.class
+SHA-256-Digest: nCnw7OxGe7JIoDhLdudbmfER3gAvjJB0i8Z9g/oZPgU=
+
+Name: org/apache/html/dom/HTMLHtmlElementImpl.class
+SHA-256-Digest: /xgV5aBJVpAa78f1x6nK8ceJC3sz6Ci/u12nR7bmy3k=
+
+Name: META-INF/services/org.xml.sax.driver
+SHA-256-Digest: UaZxWg9J/k0bZmY6oZF2ffEbavWAZx+CPDgmzXoMVuE=
+
+Name: org/apache/html/dom/HTMLStyleElementImpl.class
+SHA-256-Digest: ANR+dw208+U8DFLSPF8v1GA+3/drdg5D6FNLJDO/EQE=
+
+Name: org/apache/xerces/xni/XMLDTDHandler.class
+SHA-256-Digest: 1biA6UPcd9Q4yTh8GXIl65xxVE7QnEQ8expc75d7nEU=
+
+Name: org/apache/html/dom/HTMLLegendElementImpl.class
+SHA-256-Digest: UWTJzd5HpHVluSaC5h1+04e623WENBJ/pmAG/l1DXbA=
+
+Name: org/apache/xerces/impl/XMLNSDocumentScannerImpl$NSContentDispatche
+ r.class
+SHA-256-Digest: X/KektRLKNhCokpOqjpjBT8co9AcsLl6XdrbE8DUgrI=
+
+Name: org/apache/xerces/stax/XMLEventFactoryImpl.class
+SHA-256-Digest: SCJ5f8DwGLlhs/4RL2T2VZeFP7bGanwQpoTEvu84Hks=
+
+Name: org/apache/xerces/util/EntityResolverWrapper.class
+SHA-256-Digest: Sut494gI1D4Orur5dtrAIrGDvFHjhZCHuuYiTJa524s=
+
+Name: org/apache/html/dom/HTMLTableCaptionElementImpl.class
+SHA-256-Digest: N5lQT3ir0tNbjtihVVz7oz5N73J2248e+hZQ5ZYVuZs=
+
+Name: org/apache/xerces/impl/xs/SchemaGrammar$BuiltinAttrDecl.class
+SHA-256-Digest: 1gQeskfYFzyxDiIdhyfyFubAQmRg/URhc+Dhf18f5Os=
+
+Name: org/apache/xerces/dom/DeferredElementImpl.class
+SHA-256-Digest: Pt7deLgniglIsfhS3cMw/T2uwItXfGqMvlj/vL496io=
+
+Name: org/apache/xerces/dom/events/MouseEventImpl.class
+SHA-256-Digest: d7qrGR/RnkbvEsnPRZ4+Z5lHfK8+PEPR1aHLesNKW+c=
+
+Name: org/apache/xerces/dom/DocumentImpl.class
+SHA-256-Digest: NFE1LGykB4wzwkOrUfKcKhl6rW0Zg28OuBzompvX9Tg=
+
+Name: org/apache/wml/WMLMetaElement.class
+SHA-256-Digest: m0eZ38nVE6UtIk5wg9GvRHkiFJelkdd7Bc4L0n/nyV0=
+
+Name: org/apache/html/dom/HTMLBaseFontElementImpl.class
+SHA-256-Digest: b5DlfhXdtqObrKNyAHWVBHyp05IDoS+9CYd5qP7iHTA=
+
+Name: org/apache/xerces/impl/XMLEntityHandler.class
+SHA-256-Digest: h1JMKYGfiznKxxCmdKbonSHcEp9vMO0eWdB09QpGtpI=
+
+Name: org/apache/xerces/jaxp/validation/DOMValidatorHelper$DOMNamespaceC
+ ontext.class
+SHA-256-Digest: GoyUIWt2CvXmWP5xR8dvrMfP0O8SuKvueocLqWKue4U=
+
+Name: org/apache/xerces/parsers/XIncludeParserConfiguration.class
+SHA-256-Digest: oG9bfGEb2AGd5WIxVPRz/gEPHI8tcm3wAALz+GGDaVk=
+
+Name: org/apache/xml/serialize/SecuritySupport.class
+SHA-256-Digest: 4J0uLMeT48DQbowXbhuXSnKC7nqBxJo6y7BUheJVmSI=
+
+Name: org/apache/wml/dom/WMLTableElementImpl.class
+SHA-256-Digest: WoT7qVvbk/LAIRF14Q2RddnOomLgXviA20O0PY/4OWE=
+
+Name: org/apache/xerces/dom/DOMInputImpl.class
+SHA-256-Digest: 0Wy5S5wbdMt4enszK1WlS8Pgh+z28sDVDhtSl0PBRfM=
+
+Name: org/apache/xerces/impl/dtd/XMLDTDDescription.class
+SHA-256-Digest: mJtxLWnAarkf0+wkdBOV9zVhAo8ynvlvBAf0tj8qQzw=
+
+Name: org/apache/xerces/impl/xs/SchemaSymbols.class
+SHA-256-Digest: sKCFKprKH+EdOOWMoLBN8ezYJoV4XJjdctFchlgmAu0=
+
+Name: org/apache/xerces/xs/XSNotationDeclaration.class
+SHA-256-Digest: VCPGcmBUzr6EpphhXWJEhK6UdS/As5OYWso6XXTLleA=
+
+Name: org/apache/xerces/jaxp/validation/DOMDocumentHandler.class
+SHA-256-Digest: iuC0s9v4QiR5oYq/9Bn90BhORBaYD0Eh4qbiPX8f4gM=
+
+Name: org/apache/xerces/dom3/as/ASObjectList.class
+SHA-256-Digest: w8maqOkTs1cmqCdTavu/j6rXhZPTUbVEwpZQLLUT4S0=
+
+Name: org/apache/xerces/xs/XSTypeDefinition.class
+SHA-256-Digest: Tp474KpTv3DuB22J9A/TG41q+VJ+BW/eWQ38vDbWp6E=
+
+Name: org/apache/xerces/impl/xpath/XPath$LocationPath.class
+SHA-256-Digest: 41NnXVdw1df/eHDG5MucXI/qIYQLPs3AhLDd06zOzE0=
+
+Name: org/apache/xerces/xpointer/ShortHandPointer.class
+SHA-256-Digest: kn9aHa/7i+qVa69an0N7kpJLBZJbKIk9w2icqByrn70=
+
+Name: org/apache/xerces/impl/XMLNSDocumentScannerImpl.class
+SHA-256-Digest: gET77ZYqPXMCtB1T4izGL1ur6iGiLkYl/5E6d25FPa4=
+
+Name: org/apache/xerces/impl/xs/traversers/LargeContainer.class
+SHA-256-Digest: LxTH0DMsnUNVB7t0gK4EjXZmlOHShS++ecNOMbtEH1o=
+
+Name: org/xml/sax/
+SHA-256-Digest: qtVvlzqjWvr5s25cf6MQOL2C9maj7LFMUtNoMFDJ9/M=
+
+Name: org/apache/xerces/dom/DeferredAttrImpl.class
+SHA-256-Digest: pGYSh7IWcyCfzdjq0y7EXdHELDnYW0+YqI9UB/yqt5A=
+
+Name: org/apache/html/dom/HTMLParagraphElementImpl.class
+SHA-256-Digest: +z5kBZBlYKjaWqEntH8Mxu3Ll0kornkOdgESYg33L+s=
+
+Name: META-INF/services/org.w3c.dom.DOMImplementationSourceList
+SHA-256-Digest: jsI2+YNJLHTlq11oC3cQWUFDHrGaY4bYB7rA8f04kwY=
+
+Name: org/apache/xerces/dom/DeferredNotationImpl.class
+SHA-256-Digest: 8AW/sy6nEhFo0ExuR0P4QlObZmBBbl978tYMNFds0lM=
+
+Name: org/apache/xerces/impl/xpath/regex/Token$ParenToken.class
+SHA-256-Digest: cf2Vew6jixXm/fgKMdnwm2Jn/s94wloET0I33v31b+s=
+
+Name: org/apache/xerces/impl/xpath/regex/Op.class
+SHA-256-Digest: gEyDuhW9/2ONv5Dk0nUPhqOSg0QLLqXtvbkNjKiBu3o=
+
+Name: org/apache/xerces/impl/dv/dtd/ListDatatypeValidator.class
+SHA-256-Digest: ew01KObUKppoaH0ohRyAfvKJP/YTxN3ddh+FKZ6ZPjw=
+
+Name: org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl$4.class
+SHA-256-Digest: CFXnJ+QZvIrdHYTpmMxHANqJFNmwv5QMXmC9SFJeTog=
+
+Name: org/apache/xerces/impl/xs/models/XSEmptyCM.class
+SHA-256-Digest: Gbl5ijOdroepv8Q2SiPQvkQAl4X+TEoSjkGOAzzbvPI=
+
+Name: org/apache/xerces/impl/XMLDocumentFragmentScannerImpl$FragmentCont
+ entDispatcher.class
+SHA-256-Digest: uw3M7zSFNex9Gd1j26NyjXVUkxgrwRaKiRkXUHkoyFE=
+
+Name: org/apache/html/dom/HTMLAnchorElementImpl.class
+SHA-256-Digest: I/+/ER16avLFBfN9TsevvmSDMQggoGMSpkdOnFsTLY4=
+
+Name: org/apache/xerces/util/StAXInputSource.class
+SHA-256-Digest: nLunK9JbwjQrhz9AuMuMLdsPWtwfZsLXV5fX10UlEHI=
+
+Name: org/apache/xerces/xni/parser/XMLComponent.class
+SHA-256-Digest: JRX4E+pcmTasaosbVdNCsQWE6Ps2v4mxO1RRTBY0urc=
+
+Name: org/apache/xerces/impl/dtd/models/CMBinOp.class
+SHA-256-Digest: gpfnWE4ZoBCibUsqyX8FlhWTVDL2NyzDGm97OKh/A1M=
+
+Name: org/apache/xerces/stax/events/EntityReferenceImpl.class
+SHA-256-Digest: Vk5dcXKlqmHxc+e3fWtP08ApwUOmzTdkr6nWQ/e0t0A=
+
+Name: org/apache/xerces/impl/dv/ValidationContext.class
+SHA-256-Digest: QYbG4ajVVYVHVvvHJxxfr346e7MS9UqRrViGYYl42Rg=
+
+Name: org/apache/xerces/util/XMLCatalogResolver.class
+SHA-256-Digest: eyF3NtIZODQtXiybuJmgW3MwqKRULA4SdNOqp2P8c5Y=
+
+Name: org/apache/xerces/xinclude/XIncludeNamespaceSupport.class
+SHA-256-Digest: ihkkzYlweA1ndUBirDYf2db0SqlEfa5GL+EhClNNiqY=
+
+Name: org/apache/xerces/impl/xpath/regex/Op$ConditionOp.class
+SHA-256-Digest: kWmPU7hanRQRlznRE2Fd9PPu1fnc5cj9PjMq+9G9qM0=
+
+Name: org/apache/xerces/xni/parser/XMLParserConfiguration.class
+SHA-256-Digest: C/hLcJ/P1Mo4d02TTOiEIfaOUMIW2iCxFrV7/mMO72M=
+
+Name: org/apache/xerces/impl/xpath/XPath$1.class
+SHA-256-Digest: u3EGZCHk36u6G47Ai+yqTARKOgk/qoAXcgBMgPJWApQ=
+
+Name: org/apache/xerces/util/LocatorProxy.class
+SHA-256-Digest: luEWtfzjKwiDwedMJr+BPUetRaT/PeZYrCzV4Bo0LsU=
+
+Name: org/apache/xerces/dom/DeferredDocumentTypeImpl.class
+SHA-256-Digest: fW7qAMMi656ZQpFF1MCw7HLArc1VIXmaQZNo2RZVSkE=
+
+Name: org/apache/html/dom/HTMLBaseElementImpl.class
+SHA-256-Digest: dMH73pCuInneY//RUjB1i7toVPw/UhPMenj44s+S4Ws=
+
+Name: org/apache/xerces/impl/xpath/regex/message_ja.properties
+SHA-256-Digest: xg1P6XmX2H/fxZ9lOIi69GGyrn18qOgaifo9dvQ3nhE=
+
+Name: org/apache/xerces/impl/xs/opti/AttrImpl.class
+SHA-256-Digest: reyDqKpqUpP5Cgul+ceDwnhdJvt8imDo8RCy912qmTQ=
+
+Name: org/apache/xerces/parsers/StandardParserConfiguration.class
+SHA-256-Digest: BZQJeOgrVLiwG0toNTS5jR0VsAh5uMP6ZXFjPxBdnpo=
+
+Name: org/apache/html/dom/SecuritySupport$7.class
+SHA-256-Digest: xljSsl+W98q+oUhQ9lsH5WsThBamhFNA4OEygw6vFRA=
+
+Name: org/apache/html/dom/HTMLTitleElementImpl.class
+SHA-256-Digest: dQcr+zuLA3z63PbBh+uM4CBw3yeTYxsV9iY0zZBU1M8=
+
+Name: org/apache/xerces/impl/dv/xs/QNameDV$XQName.class
+SHA-256-Digest: yLoYdIQIQXjDKL3UT2OJlx2yUBQVgd9BUT71etWDGMo=
+
+Name: org/apache/xerces/dom/CharacterDataImpl$1.class
+SHA-256-Digest: 1pgSFzzYfcQ4BXzsxwmiFrRAFSenvZdixJdLrIgwltI=
+
+Name: org/apache/xerces/impl/XML11NamespaceBinder.class
+SHA-256-Digest: thCVVs+UBLX5QiF8qHW6w+0rkv9M4pnmLtoSsuYcX/E=
+
+Name: org/apache/html/dom/HTMLTableCellElementImpl.class
+SHA-256-Digest: OuFPw+YZn9ty/cJXW1wTDx4ltlA3Tx/JrDEEjzpJ2dU=
+
+Name: org/apache/html/dom/HTMLBodyElementImpl.class
+SHA-256-Digest: y8MVnVHFM2rTgzjnnOzIPZE6Qo8mIkzQDcs3Z3IH2iI=
+
+Name: org/apache/xerces/impl/dv/xs/EntityDV.class
+SHA-256-Digest: lMEjOocVSTDd6tEr+ULmd22yNPRo4GmPD1FMOf1E+D8=
+
+Name: org/apache/xerces/dom/ObjectFactory$ConfigurationError.class
+SHA-256-Digest: JQOLEQjwZpeoqotIPPwSh9y3zQC6RX9UkEyKiPv7wJ4=
+
+Name: org/apache/xerces/xni/parser/XMLErrorHandler.class
+SHA-256-Digest: 9H3mcRpPCz3fYZDzXe8+MdyjNa8PQY1NxeYCTS2gYZk=
+
+Name: org/apache/xerces/xs/XSElementDeclaration.class
+SHA-256-Digest: XWQCRmPFzvNlUlkSQ13meDO2GCO1AVOEd5qkJfyOrMg=
+
+Name: org/apache/xerces/xinclude/SecuritySupport$3.class
+SHA-256-Digest: uVVuUkz99mLHIRsAXeCF8pOE2coh7YB9tmypUjrO/ts=
+
+Name: org/apache/xerces/jaxp/validation/StAXEventResultBuilder.class
+SHA-256-Digest: ar6QcLtRG3i/E2KOgJAbv8I3FdviKmqJqOjtzoJmhO8=
+
+Name: org/apache/xerces/util/URI.class
+SHA-256-Digest: ptCNf4S/c8roHFN2kB0DN90ZwUBue74JRCCuCGDL1IA=
+
+Name: org/apache/xerces/dom/events/EventImpl.class
+SHA-256-Digest: TpYaz07yD8vF/cwDsa67zn55AOfWBCR5Cz9dZrfD0ME=
+
+Name: org/apache/xerces/xs/XSLoader.class
+SHA-256-Digest: nKZPWflofPkWTP3FcbH1xX88CEJIpHil7WsjB0PGUA0=
+
+Name: org/apache/xerces/impl/XMLEntityManager$Entity.class
+SHA-256-Digest: nSuky60AlmYgpYijbw0Tbs4H5DZwZC+mdghqgbkTzVo=
+
+Name: org/apache/wml/WMLPostfieldElement.class
+SHA-256-Digest: /U6kELjwL23Kna6AFqC23xox59czkLBV7fLnbsskzuw=
+
+Name: org/apache/xerces/impl/xs/traversers/Container.class
+SHA-256-Digest: uwbdQASlz3K5rdQXtmBfWnsPCYSDPqdvFJegffSEtIY=
+
+Name: org/apache/html/dom/HTMLSelectElementImpl.class
+SHA-256-Digest: HLz6P0/Dc2w4L8EypM3Y3nuy6bgnN+pCHG/Tr+YhvZE=
+
+Name: org/apache/xerces/dom/NodeIteratorImpl.class
+SHA-256-Digest: nnoh6dQ8ElZqbTUTeqkSMwobqDE4b+6/y6c9ZIWzOsE=
+
+Name: org/apache/xerces/dom3/as/ASNotationDeclaration.class
+SHA-256-Digest: J/Vu9qOr/KUOn6sRcO0VHrF7YCz26MbTDxwFCtyR/sY=
+
+Name: org/apache/xerces/util/HTTPInputSource.class
+SHA-256-Digest: uU3lJBuoeJjqNSDc1YCfFC4U+OYPSJAabwv4yzQBskA=
+
+Name: org/apache/xerces/dom/ElementImpl.class
+SHA-256-Digest: LMr6mhKzDBtWFTjY3f/N/nKp2Er5lAvPChavDObwRSI=
+
+Name: org/apache/xerces/parsers/XPointerParserConfiguration.class
+SHA-256-Digest: qe0ymUiC1QD/UFDh+XsavGltGfIIn0WIj047A4MlBno=
+
+Name: org/apache/xerces/dom/NodeImpl.class
+SHA-256-Digest: nlCypc2Cr4Ehk8UYvD5nHKS8A/KuPClRKZRfW0gTvyM=
+
+Name: org/apache/xerces/xpointer/XPointerErrorHandler.class
+SHA-256-Digest: uFSRffMsY311TX7EXDdfPoToePHx4XbI1K+wneFN2T0=
+
+Name: org/apache/wml/dom/WMLBElementImpl.class
+SHA-256-Digest: 1TMNK9otCvLWiSrZp+HSbg41lG4Io9XHOKbiSNAU2H0=
+
+Name: org/apache/wml/dom/WMLWmlElementImpl.class
+SHA-256-Digest: eDJQUc9mG9dI/HYW7Z7G6N/r3KLGn8eA+LzqO3k6TU4=
+
+Name: org/apache/xerces/impl/xs/util/ObjectListImpl.class
+SHA-256-Digest: OA5g740h+BR8U/ZJAMG0diu+gkV+8Sy8R+6Tv/MXfP8=
+
+Name: org/apache/xerces/parsers/CachingParserPool$ShadowedGrammarPool.cl
+ ass
+SHA-256-Digest: p/nmiacJVO9dgMfs+ZbTa93S68jb4Wv7mgF5hRDGeIQ=
+
+Name: org/apache/xerces/xs/XSObjectList.class
+SHA-256-Digest: nYS1+jR5+yMfY80Plo1rlyBQcib1ALN8zCqbVaC1W2c=
+
+Name: org/apache/xml/serialize/OutputFormat.class
+SHA-256-Digest: 8T4Pxc1Wfpj0urpt3rtBd0ptwqjEcai9HYMREcB8eUE=
+
+Name: org/apache/xerces/xs/datatypes/ObjectList.class
+SHA-256-Digest: QR4NldSgkFiMvajALWqLJhY4o4+4Xw8EKJE5K4Y2xoc=
+
+Name: org/apache/xerces/impl/xs/identity/Selector$XPath.class
+SHA-256-Digest: QEZtv0W0Q9cbk/b2EnLZFyLk9g6zq6CRrm4RHSuNiMw=
+
+Name: org/apache/xerces/impl/xpath/regex/Token$FixedStringContainer.clas
+ s
+SHA-256-Digest: Npch6XT/4USGzLh7YYkH29tcDcq3AImjkWTNngDEo18=
+
+Name: org/apache/xerces/stax/events/EndElementImpl.class
+SHA-256-Digest: 6WTqtmJcs6SZVDtAtan8KS/VVLZEyPSuKd+GFxq3LZc=
+
+Name: org/apache/xerces/xs/XSTerm.class
+SHA-256-Digest: dVwUCvRnuGqf5fJJ9aiMLXLw1oRw48a8PeWglERuLXw=
+
+Name: org/apache/xerces/xs/XSFacet.class
+SHA-256-Digest: Z9I0vDxTg3pzL+sv3gzZrmq38T/0g3t4KbPrnoQK9iE=
+
+Name: org/apache/xerces/impl/XMLEntityManager$InternalEntity.class
+SHA-256-Digest: 2z6QuxmJi8o4xASQovFY+JVLgTaBgnMv/aIAZowKJag=
+
+Name: org/apache/xerces/jaxp/validation/XMLSchemaFactory.class
+SHA-256-Digest: TCGhtBvbba3WWI1INWxTNhA05Aw28q82mUpbIPflH5I=
+
+Name: org/apache/xerces/impl/xs/traversers/StAXSchemaParser.class
+SHA-256-Digest: 5OKhRI+BLa/yqHPZtH32irgZM3T4+JPjTYrL/gVgdTM=
+
+Name: org/apache/html/dom/HTMLIsIndexElementImpl.class
+SHA-256-Digest: HHXMXdF40EkN4TF9r7c6UrKNQRy7T+wGRG0nJ80MYQ4=
+
+Name: org/apache/xerces/util/IntStack.class
+SHA-256-Digest: 8kMeZM/qDEOzZvvEixTAQmv1hGdUlDOSv4pd+XARPEg=
+
+Name: org/apache/wml/WMLNoopElement.class
+SHA-256-Digest: 17EPGVvhikiWzI4KSJjVuT60cIbnoYmu8qR0YoJaOs4=
+
+Name: org/apache/xerces/impl/dv/xs/HexBinaryDV.class
+SHA-256-Digest: HLJiUvzB5abE+6V7GuUFjVHyZYxIvkKar90sg0nKfV4=
+
+Name: org/apache/xerces/impl/dtd/XML11DTDValidator.class
+SHA-256-Digest: 0ATJ7YEyrBmeRno4s0NpFAACid2ZXwzMldbyMFCLs10=
+
+Name: org/apache/xerces/impl/xs/XSElementDecl.class
+SHA-256-Digest: tSzJRLvGzwF4sWp3c0krah87Q4rQdXehwjcmmq8FDqY=
+
+Name: org/apache/xerces/impl/dv/xs/MonthDayDV.class
+SHA-256-Digest: D29ZjFvpPaYf8YpYUFhoRzjJ54B7BA0EoIYkv+AYF58=
+
+Name: org/apache/xerces/impl/dv/xs/SchemaDVFactoryImpl.class
+SHA-256-Digest: UvW3OgO/rQ7QmDgAvHAkFrJjagsBUzz6QaywmSxIELQ=
+
+Name: org/apache/xerces/util/XMLLocatorWrapper.class
+SHA-256-Digest: jTt+7Myut2eUhmmyQOHoyUVy4+lR6FbhfHPztdST53U=
+
+Name: org/apache/html/dom/SecuritySupport.class
+SHA-256-Digest: JE4TUJfMzSAWfEzWqJrKhERriVTmbLUDyfDbduAmwaU=
+
+Name: org/apache/xml/serialize/SecuritySupport$7.class
+SHA-256-Digest: jkY6JhW4IScF9EmvNxCfGbHw9GiPUTdmyZDLDrJ4grw=
+
+Name: org/apache/html/dom/HTMLTableElementImpl.class
+SHA-256-Digest: yYJKEnK/OP8uYehYeWCXWOCNJ6DBbmrgFExfXtsCOxY=
+
+Name: org/apache/xerces/impl/msg/DOMMessages_en.properties
+SHA-256-Digest: Mec/lWlMWy3Z+U+yjRUSC259vRnLhcHbYzdp17hGp0c=
+
+Name: org/apache/xerces/dom/DeferredEntityReferenceImpl.class
+SHA-256-Digest: xdEnPuFg2lDQnhAjx13RQeCxLg5t+tzTTlMmaf2moEc=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaValidator$XPathMatcherStack.cla
+ ss
+SHA-256-Digest: OXzJHShZbXgkoDptqsDctEnL9vF/YZisjupNq8dY0dY=
+
+Name: org/apache/xerces/impl/xs/XSGrammarBucket.class
+SHA-256-Digest: ohKZGMo8U6H6bftwTji344B//3/Gk67SQaI1KwrQ05M=
+
+Name: org/apache/xerces/impl/xs/util/XSNamedMapImpl.class
+SHA-256-Digest: LtHkIanDEgkimxJTlLZEw+qQclvb4aslQTEI413KyjA=
+
+Name: org/apache/xerces/impl/dv/SecuritySupport$5.class
+SHA-256-Digest: Sr/MR4WoeViJqH97KlvYglQxDqIh+lsVDo9Tsa+DCds=
+
+Name: org/apache/xerces/impl/xpath/regex/message_fr.properties
+SHA-256-Digest: eQ5/AL+JG3cTnTvfi/1m58m9j7+GectuMAPXtuWEqt4=
+
+Name: org/apache/xerces/impl/dtd/XMLDTDProcessor.class
+SHA-256-Digest: UJXF2KPp/NCBqe7VxA7fqUiaIRAe7QqcTT2yk/5HJvI=
+
+Name: org/apache/xerces/impl/xs/SchemaGrammar.class
+SHA-256-Digest: uLPUPYg6uV6t1MQ4AniGeA2Oef9odvw7BfOm4A1pVvA=
+
+Name: org/apache/xerces/impl/xs/models/XSCMRepeatingLeaf.class
+SHA-256-Digest: iO4hwAktwLusVlafBj8va6o3H3Zw81F3DX8eB2Rgb10=
+
+Name: org/apache/html/dom/HTMLDocumentImpl.class
+SHA-256-Digest: 0APusS+RnswvwIT4KJdcqJKGxNLypKHBA/kZDaVEO24=
+
+Name: META-INF/LICENSE
+SHA-256-Digest: xVI8TFGWLnlvOOXlsn1zeWfyxX8OjDPSeP7jyjmxaFA=
+
+Name: org/apache/xerces/impl/XMLScanner.class
+SHA-256-Digest: LqyYqLu5Ds3Be1Wwp+9cJece4GlP2BqITtpEwMls3ow=
+
+Name: org/apache/xerces/dom/SecuritySupport$1.class
+SHA-256-Digest: UjlRvA+T+YIgyLEJG94rGeeYtYrTB336FA+zKwiynWw=
+
+Name: org/apache/xerces/impl/io/UCSReader.class
+SHA-256-Digest: Sq4+t8SS1BxNZE+sEOTAR4fh6Yi1GGEq5zHncIm9KhI=
+
+Name: org/apache/xerces/impl/Version.class
+SHA-256-Digest: WQFjHD+z2YU2eEd7ihf7vAPwE0xJ1vdyaMAsW3KFl64=
+
+Name: org/apache/xerces/impl/dv/xs/DoubleDV.class
+SHA-256-Digest: C0b1VHroyK6x2xSYJwZtkZUCSS8yrraHVcDQguUTRAg=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaValidator$UniqueValueStore.clas
+ s
+SHA-256-Digest: +0g8/rLOCGB+t9kOhUk/10JrzaPIHQVPxt8o1GOVXcU=
+
+Name: org/apache/xerces/dom3/as/ASNamedObjectMap.class
+SHA-256-Digest: NcKzPYCigmagH/BHsUR2niBlN0b3ZZRISP6zGOSLTws=
+
+Name: org/apache/xerces/impl/dv/dtd/IDDatatypeValidator.class
+SHA-256-Digest: FyEInIjQNesPRCMLqxvwnoElAB1UXuLnpZZ70tG0QRg=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser$FacetInf
+ o.class
+SHA-256-Digest: xVePmiBucqjkaeMTrC0JzzZKnGd+8Hnk3uxTP0QePxE=
+
+Name: org/apache/xerces/xs/XSIDCDefinition.class
+SHA-256-Digest: NGV3bYPHiwZZs473aVaeQo2Szr5A57tFlnOU/pLJGiU=
+
+Name: org/apache/xerces/impl/dv/xs/QNameDV.class
+SHA-256-Digest: NeA8pMIDF3g9g/zZTWlq3HSdIa0bwKTXX4eF/O5s0Fs=
+
+Name: org/apache/xerces/xni/grammars/Grammar.class
+SHA-256-Digest: lQlh72a7iqaQSU2q+FUOlx6smRQKU871YVHEf2A8Xuw=
+
+Name: org/apache/xerces/dom/DeepNodeListImpl.class
+SHA-256-Digest: ssyVWWeLACIVpMe4P9UEkDq2kIgeMo4QMqLeqZHyrpA=
+
+Name: org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl$XSFacetImpl.class
+SHA-256-Digest: oXkQTGQ+jpMNipVJJlBLsRsuUyNtZ1Av35Y9ch7m8FE=
+
+Name: org/apache/xerces/impl/xs/XSNotationDecl.class
+SHA-256-Digest: zmarX2ZpY2qTfyWqvnB5izi2RJQYL4HJVz3Dqz6yWgk=
+
+Name: org/apache/xerces/xni/XNIException.class
+SHA-256-Digest: 3oA7otLCW/vDIrNdgh31RnQCB351C29uCVDEOyG9ShA=
+
+Name: org/apache/xerces/xs/XSWildcard.class
+SHA-256-Digest: /8kGj47CQUk+ECOmvVDFOgOIN6byXhc8gguCp1zmtRw=
+
+Name: org/apache/wml/WMLPElement.class
+SHA-256-Digest: Z/rvI+tIaSVdlh8BNnExPOoWvpJ0cmdI9eEzCWeGWyY=
+
+Name: org/apache/xerces/dom/NotationImpl.class
+SHA-256-Digest: Y7gc45A1XmH+pn7i4xS96NXlJPob9W4wEBLOgu//BFI=
+
+Name: org/apache/wml/dom/WMLTdElementImpl.class
+SHA-256-Digest: BIjhBnOirpq868e4/oqKwc2YJV0yvHJs7OMjSxxCsTM=
+
+Name: org/apache/xerces/impl/xpath/XPath$NodeTest.class
+SHA-256-Digest: 1vfXcgkM7SCMrjk6oScDUyn2qE2nHfbQdRld6IYed8I=
+
+Name: org/apache/xerces/impl/xs/XSAnnotationImpl.class
+SHA-256-Digest: Z8z6bLq6bnuq/8n2qLMQOv7mD545+6NEAeJ/E4bnFPY=
+
+Name: org/apache/xerces/jaxp/validation/JAXPValidationMessageFormatter.c
+ lass
+SHA-256-Digest: MHPRPU4TxBzYgCmhln8QkLibStQYgfHn85Wzl07vx3s=
+
+Name: org/apache/xerces/impl/XML11EntityScanner.class
+SHA-256-Digest: u3Gq552Dd08khwJdO9l6eDk4NNzY3J3k+rFWbXCfKK4=
+
+Name: org/apache/xerces/jaxp/validation/DOMResultAugmentor.class
+SHA-256-Digest: 98IbZqOpHanZXkUIP9ZpR1vAvv3f0M5aw0yB3NgO/Q0=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDHandler$SAX2XNIUtil.class
+SHA-256-Digest: 7fUxD2QQNnR45oSTdpMBDq8DJIXIImHvPdvnYDs6flU=
+
+Name: org/apache/xerces/impl/dv/dtd/IDREFDatatypeValidator.class
+SHA-256-Digest: jGVtt7X3Zo4dygPYObkyQCj20bH7uct1I9NGfoYj+Xc=
+
+Name: org/apache/xerces/util/XMLGrammarPoolImpl.class
+SHA-256-Digest: EkHvxZx97ObPohAMBW1H1MRW73FWLWjmkEIte1iga8s=
+
+Name: org/apache/xerces/xs/XSImplementation.class
+SHA-256-Digest: kiEtrRXE+BteBrvBePtfIuqnfkaGE6EkEwmmUNY8AOY=
+
+Name: org/apache/xerces/impl/dv/XSFacets.class
+SHA-256-Digest: 6vb7XFOECTzy5LX/wJ39yhLQx09xfW703VhzmCQ8zRc=
+
+Name: org/apache/xerces/dom/ParentNode$1.class
+SHA-256-Digest: 5okzgF3eAi5NK3MB4wUE/xS0Uieuf/WXXYbbLqia5nM=
+
+Name: org/apache/xerces/impl/RevalidationHandler.class
+SHA-256-Digest: HYl8R2nAlGxSTQUNnjXALwfhMdwUiEv++PrbMwwVAQ8=
+
+Name: org/apache/xerces/parsers/SecuritySupport.class
+SHA-256-Digest: xsyk+78lbTupj6qJr8Msho3XzfdGJQv3gXgpB/M6Ytc=
+
+Name: org/apache/xerces/dom/DeferredDocumentImpl$RefCount.class
+SHA-256-Digest: 9ayuTf5wDngnw/xDwVZM49R+fQVsFZ2tprRSH3cM0+c=
+
+Name: org/apache/xerces/xs/XSAnnotation.class
+SHA-256-Digest: lGiDh1w3gd7tPuy7qTsRTLP4vXjrOr+DRvSH93rvpZ8=
+
+Name: org/apache/html/dom/HTMLBuilder.class
+SHA-256-Digest: iwEmTG3GgsEibbE/l225AdaqVgkqN8y6fSA7VrM80tw=
+
+Name: org/apache/xerces/impl/msg/JAXPValidationMessages_en.properties
+SHA-256-Digest: HVKssie2DzN/Ak9XJYELvW0Ce0mOgEcc2GA3VSv+wPo=
+
+Name: org/apache/xerces/parsers/DOMParserImpl.class
+SHA-256-Digest: 5g/6cf7RNmVd/z7P35rYqKOAJhj61rBMI807EiJXpy4=
+
+Name: org/apache/xerces/dom/DOMNormalizer$1.class
+SHA-256-Digest: F6cviJm0EXto3lD1tP+fjxSNjj1rBmKZcT79O4VlqhM=
+
+Name: org/apache/xerces/parsers/SecuritySupport$6.class
+SHA-256-Digest: ocHGYhYNDWuA8SXRKCsr8fACPHY1uIkmUftyUvubbi8=
+
+Name: org/apache/xerces/util/XMLResourceIdentifierImpl.class
+SHA-256-Digest: EeGDWiFWzIG8G0yKSQv3rbnCMPcg/7enJTWyKL8nTCU=
+
+Name: org/apache/xerces/impl/dv/ObjectFactory.class
+SHA-256-Digest: uP4mIIytq1diVhIP9wMInwYE+unAjgRj7TP2wyQ34n0=
+
+Name: javax/xml/validation/
+SHA-256-Digest: Pp3B325v5Ut3vjDb+pvQF+uBG8Im+w1NfkKB0v+zX9A=
+
+Name: org/apache/xerces/stax/events/CommentImpl.class
+SHA-256-Digest: oSeUV1Rwg5IaDdwswj4QzhtW7jMnZQN+Bl8bmg1W5nU=
+
+Name: org/apache/xerces/stax/events/CharactersImpl.class
+SHA-256-Digest: RV9ABb/F581rPs9aCnMWQXb9wVV+nqW7DqiZxlrgS0g=
+
+Name: org/apache/wml/WMLSelectElement.class
+SHA-256-Digest: Ni04yiR8HXsIR8a1qmUrlIaMaaq978uuYekmblsB8Qo=
+
+Name: org/apache/xerces/jaxp/datatype/SerializedXMLGregorianCalendar.cla
+ ss
+SHA-256-Digest: 84wVStgox2J5rDRDTLLXlYi5Ll/VlXIMMLXV3vTyWy4=
+
+Name: org/apache/html/dom/HTMLFontElementImpl.class
+SHA-256-Digest: 7Ph0nSCOOoneuOb+1+aSVvCKgGLbMn7+QgGSFslHrYE=
+
+Name: org/apache/xerces/impl/xs/XSAttributeUseImpl.class
+SHA-256-Digest: BCfVPyBFDg2XWRStkmIqS1C+TcVPCkMtyRPjEIoI/7I=
+
+Name: org/apache/xerces/xs/XSValue.class
+SHA-256-Digest: YQqLS0vxpGttsCYQID6oCatqfpTDZSPSLAgWTKRSK0Q=
+
+Name: org/apache/xerces/impl/XML11DocumentScannerImpl.class
+SHA-256-Digest: HCQ481UyleDrGgLLaed5pITc1XmteoQT2zYT7ydpYpc=
+
+Name: org/apache/xerces/impl/xs/models/XSDFACM.class
+SHA-256-Digest: hjVAYfJSO63T8pJpQnFLKlpkBKaXipLT9gPOV9BmoO8=
+
+Name: org/apache/xerces/impl/dv/xs/IntegerDV.class
+SHA-256-Digest: D0yVTcBOqyXNVM6yXaA2n3Bb0P+/E3Bj5FmVV2ZDvBw=
+
+Name: org/apache/xerces/xinclude/SecuritySupport$8.class
+SHA-256-Digest: kezte/yOl0g5cOgKruHG370MIyVd6Y9/jZZgfnhPg0w=
+
+Name: org/apache/xerces/impl/dtd/models/CMNode.class
+SHA-256-Digest: 2u6ltqzECH852iy2jtDMBpY3NZB2LKj+nE1E51WnSc0=
+
+Name: org/apache/html/dom/SecuritySupport$2.class
+SHA-256-Digest: of+0DjcA2fv2t/nkoiIP1YS07RLE4CmIlLBjrLbUyU0=
+
+Name: org/apache/xerces/dom/DeferredProcessingInstructionImpl.class
+SHA-256-Digest: JfrEfGNklomzaA24WcBr+yQ9GOUb4oLHfDGWGt2UvMA=
+
+Name: org/apache/xerces/impl/dtd/XMLSimpleType.class
+SHA-256-Digest: f3CNadVWnw8eSbGw1fpdwWfPaTCHnnYMWtekDOKRh9A=
+
+Name: org/apache/xerces/jaxp/UnparsedEntityHandler.class
+SHA-256-Digest: XtfyzKgf2ef7D35up+UY8CZaHQCCrtpz7qcjBF1DrMw=
+
+Name: org/apache/wml/WMLIElement.class
+SHA-256-Digest: Em0sQWV7hg6V2S05n8GVPS7KpYKG6iliacmkqtotkCY=
+
+Name: org/apache/xerces/dom3/as/ASModel.class
+SHA-256-Digest: Dt23hOF3AwSmCNAfiAWr/6YmkA1Dipvk4cPyPW7tTQA=
+
+Name: org/apache/xerces/impl/xs/util/XSObjectListImpl.class
+SHA-256-Digest: ANjGSNFi77I0QpGmUYsOcy0wVIYRSSetpE/DvIYJBL0=
+
+Name: org/apache/xerces/impl/xpath/regex/Token.class
+SHA-256-Digest: cnyaxvH8KunmauZsqUOrz2vBVZbUpbPgubb3hWhtocE=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaLoader$LocationArray.class
+SHA-256-Digest: nl79KM/R2mm2u/+crba3Kvvm+rCX7UtjNxjKr2x6zcQ=
+
+Name: org/apache/xerces/stax/events/EntityDeclarationImpl.class
+SHA-256-Digest: 9gM78zMsx06aL1h2PIHxJYjjWkkZgRela//8Jnr0T1o=
+
+Name: org/apache/xerces/util/XMLGrammarPoolImpl$Entry.class
+SHA-256-Digest: 8DCaNt0+xaiVZdcxpSEWHYHJNrnPhULO6ZcxwlWs0HA=
+
+Name: org/apache/xerces/impl/dtd/DTDGrammar$QNameHashtable$PrimeNumberSe
+ quenceGenerator.class
+SHA-256-Digest: UWQR2Bnz75cThkIyB5IgsIH4UoJu44rjRax+bxuxWSc=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDComplexTypeTraverser$Compl
+ exTypeRecoverableError.class
+SHA-256-Digest: vmUfFQe/j13K7MvR+t64xd3CiaZAMr82fr1Lu4pYo+c=
+
+Name: org/apache/xerces/xni/parser/XMLDocumentSource.class
+SHA-256-Digest: bBnM8hEHrkBq82TDAvEIgH/dlKMQxpn6PX0Rz57Lx0s=
+
+Name: org/apache/xerces/impl/xs/FilePathToURI.class
+SHA-256-Digest: HoQusU+IY+sqdGoCNQPGZXsxzqB0yrp6muPhruRCbcU=
+
+Name: org/apache/wml/WMLAccessElement.class
+SHA-256-Digest: hiGAroJKxsjYCt2LrhJ3lMe7bwkDaGY/iQxL39JOyhU=
+
+Name: org/apache/xml/serialize/SecuritySupport$8.class
+SHA-256-Digest: FlTc1rF936xSVLOn040DzWD4S+FNe+OK5jqBn0c//A0=
+
+Name: org/apache/xerces/xs/XSAttributeDeclaration.class
+SHA-256-Digest: yxPyU7CQDeq9m90u8+9u94IJ7PXnoy9weK9uZ1uXBuo=
+
+Name: org/apache/xerces/xinclude/MultipleScopeNamespaceSupport.class
+SHA-256-Digest: 9Y4pPZIDXvfBi/73Jc7HQUY3g3v4KD80V2x/eHJRCEY=
+
+Name: org/apache/xerces/parsers/ObjectFactory.class
+SHA-256-Digest: kZ/M/PIx+T3tKB2Zt1MY9AjlruV/vrLGFVcTZY8ZgVk=
+
+Name: org/apache/wml/dom/WMLAccessElementImpl.class
+SHA-256-Digest: qoFMzJM62gQYDhCaY9JT+dw9uy2CgPJqEAbILsWGLaA=
+
+Name: org/apache/xerces/dom/DeferredTextImpl.class
+SHA-256-Digest: mKLg69f6EnWs3q85Nuj6ceJGGG4axf+8/moU+Oe3Kpg=
+
+Name: org/apache/xerces/xpointer/XPointerHandler$1.class
+SHA-256-Digest: ZbVmEDre+48AdVhpt3St6OnV24w2mZa8HK3L0gHrajU=
+
+Name: org/apache/xerces/util/NamespaceSupport.class
+SHA-256-Digest: ChAUuIxea5oE7PbjoOnTpjlSGERYYlFMEK1gnmcqGNA=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDHandler$XSAnnotationGramma
+ rPool.class
+SHA-256-Digest: XPLRa+W8m6n19pA/kA38DU3q7bRcGDGHTBkYIroNAWE=
+
+Name: org/apache/xerces/dom/ChildNode.class
+SHA-256-Digest: j1wKbQArVt7UXpo0D6xCYofC23Dq5d7ox/WHaAWlUP0=
+
+Name: org/apache/xerces/xs/XSNamespaceItemList.class
+SHA-256-Digest: maAqdhUVrplQFzVDfRoPuhwIMU6vZIdk9A+UBJcIYzE=
+
+Name: org/apache/xerces/impl/xpath/regex/RegularExpression$ExpressionTar
+ get.class
+SHA-256-Digest: Q6CsCItCGrhnDZKCKc2aRPF85YzcOHIFgZJYCagaAx0=
+
+Name: org/apache/xerces/jaxp/validation/XMLSchema.class
+SHA-256-Digest: OEpXdhuef2RB5BU/kmTjxHjj+6OPV7RvQ6+j/cwdnH4=
+
+Name: org/apache/xerces/impl/dv/SecuritySupport$6.class
+SHA-256-Digest: UrhEj5ck4RBKAwl2OttpH+1aoGdP8tDHsNAVD38FbIQ=
+
+Name: org/apache/html/dom/CollectionIndex.class
+SHA-256-Digest: 8zbIVfkgbTZdrxJUBfN4p8On/QdwxuIBXWvg6q0oz8s=
+
+Name: org/apache/html/dom/HTMLDOMImplementationImpl.class
+SHA-256-Digest: SgCU7YG2Q1qmVII9saWe1cU7JTMxt35aj6uTRCrJ90I=
+
+Name: org/apache/xerces/dom/SecuritySupport$2.class
+SHA-256-Digest: ynv/PhkDo8mSGDaprpJaP44WP28QWou2Ymi1e5FF+Ew=
+
+Name: org/apache/xerces/jaxp/validation/DOMValidatorHelper.class
+SHA-256-Digest: 5U11hUctswlDlNssGTA/2Xv+WUE0uVjlD7AmJ3OkJUU=
+
+Name: org/apache/xerces/impl/dv/util/ByteListImpl.class
+SHA-256-Digest: lCJEXHk5UndfWbdPNqybwCiw/+FKzbRIAMTNb51kGcw=
+
+Name: org/apache/xerces/jaxp/datatype/SerializedDuration.class
+SHA-256-Digest: GehQz6gqY/Ep0LhHNJZK+cnhW4K0y605EOlIekCwhrM=
+
+Name: org/apache/xerces/impl/XMLDocumentScannerImpl$PrologDispatcher.cla
+ ss
+SHA-256-Digest: NNYSgJ3+s46zsj8gI3QUckUswMmi5+OxvWnworsp6e8=
+
+Name: org/apache/xerces/xpointer/XPointerProcessor.class
+SHA-256-Digest: APmqAuP5k2/6dyvBKhYdN9QlaWSvYL5uG2OQ+WWL6Gw=
+
+Name: org/apache/xerces/dom/ElementNSImpl.class
+SHA-256-Digest: EoyG173b5Wk7qO0kzhWIaaQcNiq71Cy7jQ038ZGaj+8=
+
+Name: org/apache/xerces/dom/SecuritySupport.class
+SHA-256-Digest: /p5xcsqQT/hE3ALsLTIxScShW2WnwA+1h5q0KhoZEaw=
+
+Name: org/apache/wml/dom/WMLRefreshElementImpl.class
+SHA-256-Digest: y0TKmVZ62wUTo05qQr0C1apnJe3SxZHWGjms2Tes8cc=
+
+Name: org/apache/xerces/dom/DeferredAttrNSImpl.class
+SHA-256-Digest: ClXTWmn2CjSgkbCJ0EfwBwUEjfZAyDhh++EGNLZn7PA=
+
+Name: javax/xml/datatype/
+SHA-256-Digest: EAPaD2nd6Yz9+0rnEG/rndWgmhjGfK/BX3zFrLJQTn4=
+
+Name: org/apache/xerces/jaxp/validation/StreamValidatorHelper.class
+SHA-256-Digest: 52ibH6zXc37gOw+YnIf5mxkONOT9Td3cxvFgfAdokbA=
+
+Name: org/apache/xerces/impl/xs/util/StringListImpl.class
+SHA-256-Digest: EMV/UoeRexnGRrHQgKTe57TZYMFtWpnHpdezLNaDRYw=
+
+Name: org/apache/xerces/impl/xs/SchemaGrammar$Schema4Annotations.class
+SHA-256-Digest: 7wOqW+BCQNpWnNEYVcVjIUvEaA3CjhV4JTh97taHXVk=
+
+Name: org/apache/xerces/impl/dv/xs/MonthDV.class
+SHA-256-Digest: KegTlvJikJvLnLiz5FZs9Nfc2xH8SY6iqTJGPZesz/U=
+
+Name: org/apache/xerces/xs/datatypes/ByteList.class
+SHA-256-Digest: kUMn+KAaqvh10VKHzzHSpMrS3dNVkupcVGVIQAUheEE=
+
+Name: org/apache/xerces/jaxp/datatype/DatatypeFactoryImpl.class
+SHA-256-Digest: uUVFEG/PM7Vfyw+QPm6SMvMOagBqWuGD80xErm/sRn8=
+
+Name: org/apache/xerces/xni/
+SHA-256-Digest: Zm/+ZdaJ/L59BTQD+xV5J9PzRX3FIX5v1Q7G/yPO0VA=
+
+Name: org/apache/xerces/impl/XML11DTDScannerImpl.class
+SHA-256-Digest: Sa/OPzsyESfw2KcUnAqFXXfm4ZV8HTfBD2z11qMr6j8=
+
+Name: org/apache/xerces/dom/DOMNormalizer$XMLAttributesProxy.class
+SHA-256-Digest: RQMZrYJ1PVL60HLNpRoaGjTzlswmIggd2EsdRuvLctQ=
+
+Name: org/apache/xerces/xni/parser/XMLEntityResolver.class
+SHA-256-Digest: ut63+z6bWfldNLnS4H8gliywJarXtsjnrhn3kZHdRF0=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaValidator$XSIErrorReporter.clas
+ s
+SHA-256-Digest: A7dQhB4l1aQPjjVvsv8/iCjdjtJf4G5J2sCXgbhF8SQ=
+
+Name: org/apache/xerces/xinclude/XInclude11TextReader.class
+SHA-256-Digest: I4ONQFhf+jyRxfpmpDpa4+0q85ErpAfkeEcntmn+tLU=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaValidator$KeyRefValueStore.clas
+ s
+SHA-256-Digest: +S14BqqGHi8IuichJw+ufUZAsKFBorLHt71aa8kzYNE=
+
+Name: org/apache/xerces/dom/SecuritySupport$7.class
+SHA-256-Digest: nCT2wgdgdDmBMKXG6vM2qFV2iH/0dj8cqEHR2ZWZF1o=
+
+Name: org/apache/xerces/jaxp/validation/XMLSchemaValidatorComponentManag
+ er.class
+SHA-256-Digest: ag//oIPRYS6U8Swge7I9GApWDAF2+Qpgh+rrOrC+wiU=
+
+Name: org/apache/wml/dom/WMLElementImpl.class
+SHA-256-Digest: FtM+PXIFaxhjsX2sJTwUzOpBi7QnGKP6yvHScLVTVp8=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDAttributeTraverser.class
+SHA-256-Digest: 0Ly+AFiWON9R+JIYUwbawTpIkQc45AsXJlqAtMfLbRc=
+
+Name: org/apache/xerces/parsers/SecureProcessingConfiguration$ExternalEn
+ tityMonitor$ReaderMonitor.class
+SHA-256-Digest: PyXkEjj5Fio84hPY33vUKRG87CviFUY4z35bV2vF98Q=
+
+Name: org/apache/xerces/parsers/AbstractXMLDocumentParser.class
+SHA-256-Digest: boMMzSTU0IxJ4Jx+o5vSrEkUNHqMMj+mg2V5lAf/u94=
+
+Name: org/apache/xerces/xni/XMLAttributes.class
+SHA-256-Digest: TbU7FaKPrtkRCtSIBOV6jJqS7U3WEBhfj0+YZb/Jdrg=
+
+Name: org/apache/xml/serialize/EncodingInfo$CharToByteConverterMethods.c
+ lass
+SHA-256-Digest: ijQoe0xUmLYIQdlKxnS88o/9HbZyG7xNIZK+L/+a6fQ=
+
+Name: org/apache/xerces/dom/AttrNSImpl.class
+SHA-256-Digest: kJJCqq68t45H2bpbHgYDE1fAzY5srBIl5S3J2b5Vahw=
+
+Name: org/apache/xerces/dom/TreeWalkerImpl.class
+SHA-256-Digest: 64x6VWG+Ncp08CFMgpe9E2KRrPaY7IhF32EdAWWFrmg=
+
+Name: org/apache/xerces/impl/msg/XMLSchemaMessages_en.properties
+SHA-256-Digest: S+hBUeUReZ8vFvoTaxdvVIVxZJNZIYlTg+DAVkrIOGw=
+
+Name: org/apache/xerces/dom/ASDOMImplementationImpl.class
+SHA-256-Digest: AgthuliXYzNWXGhWADnbamFd2mt7TziZ0cVCKo+ipR8=
+
+Name: org/apache/xerces/impl/XMLEntityDescription.class
+SHA-256-Digest: L0f6J3IBQx0cFKU0bs5iV3PE0tQWqa4LSbcuxLNhNAs=
+
+Name: org/apache/xerces/parsers/XMLGrammarPreparser$XMLGrammarLoaderCont
+ ainer.class
+SHA-256-Digest: 1uAgzf1vq8aOX0TByyMXK9HhLzW11aqWOR3ce1BZd2U=
+
+Name: org/apache/xerces/impl/xs/util/ShortListImpl.class
+SHA-256-Digest: cZFgI1yZ/lpJ+WVgSGKK8HcNekrTJZvnHigybdD+Ui0=
+
+Name: org/apache/xerces/impl/xs/XSAttributeGroupDecl.class
+SHA-256-Digest: zABtrsXZJkQMZhfjKPGk2TyyvFdgBzHNbaFsKnhjufQ=
+
+Name: org/apache/xerces/util/ErrorHandlerProxy.class
+SHA-256-Digest: XRHnYnulIdrajpvQmrgzMGcN+KfSbPalry8QmDFrNOs=
+
+Name: org/apache/xerces/util/XMLErrorCode.class
+SHA-256-Digest: ghzv/Vcg+lMGNx1bDZMxo9SyPXQr9ctevSE+8K1jAEA=
+
+Name: org/apache/xerces/util/AugmentationsImpl$SmallContainer$SmallConta
+ inerKeyEnumeration.class
+SHA-256-Digest: Chom7C7BLj4jc/abmfDssEiCT6Oi0I+JwUuL3scR+aQ=
+
+Name: org/apache/xerces/parsers/SoftReferenceSymbolTableConfiguration.cl
+ ass
+SHA-256-Digest: rfrPggH+RrDwdqz4OdpRpIMwfs6MlLz+43LsT5BpV6g=
+
+Name: org/apache/wml/WMLTrElement.class
+SHA-256-Digest: O5qkD84evr3frGT6vczwtKJk3M8oLOfUwDGtx5t2hZw=
+
+Name: org/apache/xerces/jaxp/validation/ValidatorHelper.class
+SHA-256-Digest: 9bm+DIlp5NzTyvwGiE36IMAZ56DBes/Jt6BaxBUnXlI=
+
+Name: org/apache/xerces/impl/dtd/models/DFAContentModel.class
+SHA-256-Digest: vFNiWobxjq5tq+mAcIMYALC6B+tffM9Tl7/8r7BK5YI=
+
+Name: org/apache/xerces/impl/validation/ValidationManager.class
+SHA-256-Digest: PyWdCs2j3BBNH6fxUMhLXIo19O7ryLtlDGxZup7xZf0=
+
+Name: org/apache/xerces/parsers/XMLGrammarPreparser.class
+SHA-256-Digest: oWYtTr5SeT2SctkqkZSm0UEvQhYP/BJb5UHPnCeO/dU=
+
+Name: org/apache/xml/serialize/Printer.class
+SHA-256-Digest: n3UN2HQrvTb0QqTctb/dtQ3T+p3X2WtYVGSjgZY/CdY=
+
+Name: org/apache/html/dom/HTMLUListElementImpl.class
+SHA-256-Digest: 5lSCzIfp/ve7McxdI+oFLO8TM1CL51k0wZ0w4GqJYXE=
+
+Name: org/apache/xerces/dom/CoreDocumentImpl.class
+SHA-256-Digest: Y7YKl2UD3X/UVjFHvgseMAfoGfluHOou9NM+s0EdTmQ=
+
+Name: META-INF/services/javax.xml.datatype.DatatypeFactory
+SHA-256-Digest: b+yDeaTziQ3w6Atac6hUYTW0a+lvJuJH6tdit1Iqnj0=
+
+Name: org/apache/xerces/xni/parser/XMLDocumentScanner.class
+SHA-256-Digest: 8MLYC1hsL3qLIeSGId3wYlCaYtiW9hpZF8o43CcVXy4=
+
+Name: org/apache/xerces/impl/XMLDocumentScannerImpl.class
+SHA-256-Digest: z/fP9g1NkOs3Ddc+/lmCgF7a/yf5NqgsQ5urx0h4XbM=
+
+Name: org/apache/html/dom/HTMLCollectionImpl.class
+SHA-256-Digest: 2+9c1Nv2rg4SI/BBq1EeKdt3Gco8g5kh/QWv7z1Hdc0=
+
+Name: org/apache/xerces/impl/xpath/regex/Token$StringToken.class
+SHA-256-Digest: Bihjf2YSVM9enpqBOi7n2Ec1eeyoIo7S9dbtS42bTwc=
+
+Name: org/apache/xerces/xni/XMLResourceIdentifier.class
+SHA-256-Digest: +1zV72q3I4s5Ia8Ii5oC81W1B8JWX1TIij209zfGw64=
+
+Name: org/apache/xerces/impl/msg/XPointerMessages_en.properties
+SHA-256-Digest: u1D+G8GYmydiv82b1SKfHDCQZ5tGIqAwGbnGI4v5tCc=
+
+Name: org/apache/xerces/impl/xpath/XPath$Tokens.class
+SHA-256-Digest: mLL8KXplH1CSK4rZ+mGwpYgxLSmbIYMO/0EksTFb2+s=
+
+Name: org/apache/xerces/impl/msg/DatatypeMessages_en.properties
+SHA-256-Digest: fluvZItMyKe2zoLv6Q8YOh53uV8efxayIy7Xtp7Ju0Y=
+
+Name: org/apache/wml/dom/WMLPrevElementImpl.class
+SHA-256-Digest: x/02c3KzKkIW9GsJ3FKS5Xl+sMyJigLcqz/RYlNp+w4=
+
+Name: org/apache/xerces/util/SymbolHash.class
+SHA-256-Digest: dCc6WuKJzwCeOCYbw1fryQf35+X9uyl4pycjH7WBGWw=
+
+Name: org/apache/xerces/impl/dtd/XMLDTDLoader.class
+SHA-256-Digest: jwxZ0vXSb9cIQc5ILhdMQY2OqzyrZ4bNvt4Ui6jy4kU=
+
+Name: org/apache/wml/dom/WMLGoElementImpl.class
+SHA-256-Digest: Co6xBIOm6TfaBCt2R8FDqhViAutZhLqoKjxNg6ShWRw=
+
+Name: org/apache/xerces/impl/msg/XIncludeMessages.properties
+SHA-256-Digest: UQcaWUsr9L/UkkWVE2xMhOcLreHhiI9lKXyE5IvQ8UQ=
+
+Name: org/apache/xerces/dom/SecuritySupport$5.class
+SHA-256-Digest: 8BSaqW7gaO3RXsv4H1yJ9feIGeSHmbiShoP+syeB/Pk=
+
+Name: org/apache/xerces/impl/msg/SAXMessages_en.properties
+SHA-256-Digest: kalqIwxhn3IMl6kofh1A1BOJTrZgoReauAZPv55nJPw=
+
+Name: org/apache/xerces/impl/dv/xs/FloatDV$XFloat.class
+SHA-256-Digest: 89gM3SOXlUT7zg1kUk8afTeyk3KWRrXUNCzgYyYmoQw=
+
+Name: org/apache/xerces/impl/dv/dtd/XML11DTDDVFactoryImpl.class
+SHA-256-Digest: JbLUqcHkQAXYjKMEORA+c96W/gxzxo4JJhwv1GvPTp8=
+
+Name: org/apache/xml/serialize/EncodingInfo.class
+SHA-256-Digest: vFj2/nQVUaEpg0accGkWRb2aNE+uDKiy0WFesAEraAU=
+
+Name: META-INF/NOTICE
+SHA-256-Digest: BcuI5FLNIQ3l2xS44YpwpXjmyEvc4OKvsJhOxfEKf1s=
+
+Name: org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl$AbstractObjectList.c
+ lass
+SHA-256-Digest: AMSFf/me+niWArTvE/1B2pg1e4rrP1QjlUzzVPpmD4g=
+
+Name: org/apache/xerces/parsers/XMLGrammarCachingConfiguration.class
+SHA-256-Digest: bFn1wCqsMx+4WUCkEga5FNgjsKzMdcrPx6JtkIfrE1w=
+
+Name: org/apache/xerces/dom/AttributeMap.class
+SHA-256-Digest: /v48C5omoLK7bQJRZdYgPwYKdLu6SoJ2hEAgrppTC5Y=
+
+Name: org/apache/wml/dom/WMLInputElementImpl.class
+SHA-256-Digest: +VKN+O6OEEF+j8+xa6kL8xq0++7ymIT0932RDj5PmkI=
+
+Name: org/apache/wml/dom/WMLTimerElementImpl.class
+SHA-256-Digest: Vg0DxE1sOefAaO44wjrc5E/f+yzX5S8sJqp8DNv1xnM=
+
+Name: org/apache/xerces/dom/DeferredCommentImpl.class
+SHA-256-Digest: vOtNd0xliCaTJicjRDfsz0tg5QfbZSv3mZwST5OA47Y=
+
+Name: org/apache/xerces/impl/xpath/regex/message.properties
+SHA-256-Digest: OxH9aQU+ElledioCANxdA+4gk1fsUmFIdwJZYvtVG/Y=
+
+Name: org/apache/xerces/util/SoftReferenceSymbolTable.class
+SHA-256-Digest: NmEbbEltKpvlm/0aOMxDEK0oCpomkStcRBdOkB2lEYs=
+
+Name: org/apache/html/dom/HTMLElementImpl.class
+SHA-256-Digest: NrPYrB4HC+jy2b5MbamyxtLk2c1VyyLGTo+p8hbiDCY=
+
+Name: org/apache/xerces/impl/xs/SchemaNamespaceSupport.class
+SHA-256-Digest: 7CUu5hLrz9Uf5EL6Ior0fcgsNQyLzPhGUxxB5RQ/J5Y=
+
+Name: org/apache/xerces/dom/SecuritySupport$6.class
+SHA-256-Digest: ahiqDAjFazWjysAKeXQzo3yLav0vAwIyjKXoTnypAVQ=
+
+Name: org/apache/xerces/impl/xs/util/XIntPool.class
+SHA-256-Digest: sBjfA0EXJT2/L1kZCY2ccsi2uhRb/XqOT9mN0ahqmcY=
+
+Name: org/apache/xerces/dom/DOMImplementationSourceImpl.class
+SHA-256-Digest: X38H+1GzSReSMoUEf2xVJTpPcsre08vHfFntr7ICLU8=
+
+Name: org/apache/xerces/impl/msg/XMLSerializerMessages.properties
+SHA-256-Digest: NAUA7YV3QQgLJOGYXcFr82atFBXFUpeTHQKKLWyQMuQ=
+
+Name: org/apache/html/dom/HTMLDListElementImpl.class
+SHA-256-Digest: v0MlXwklF46okDww6JrerYCZ5N8/WmKWp9D+jo+BbNQ=
+
+Name: org/apache/xerces/util/SymbolTable.class
+SHA-256-Digest: Ag1ghkcgiEMqHgPqCuUq+f+S3mTD/Wp8Bzx65GJR85g=
+
+Name: org/apache/xerces/impl/xpath/regex/RegularExpression$CharacterIter
+ atorTarget.class
+SHA-256-Digest: qvbRcmoDB1RWHAWdInlPpnsYnM9hXmyFBJBHuoaqDnA=
+
+Name: org/apache/xerces/impl/dv/xs/DecimalDV.class
+SHA-256-Digest: N0yKuhEUoGqi6k9DD/qmXkHxTdNmLdx4q4loA0jxeHI=
+
+Name: org/apache/xerces/xs/XSModelGroup.class
+SHA-256-Digest: wakOAVw6vhuPy5djvKV6Zl70AjKt0dirQ6bhLyO6Asg=
+
+Name: org/apache/xerces/impl/dv/xs/Base64BinaryDV$XBase64.class
+SHA-256-Digest: Ijv6T+MsK6kUSv05rGGPxF7bqY90RPYSVT3Msvg4Mig=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDKeyrefTraverser.class
+SHA-256-Digest: bORIqaNL0sZ9XeAqVHBo8og7rRVPh3W7vFKjKabDPJs=
+
+Name: org/apache/xerces/xni/XMLLocator.class
+SHA-256-Digest: ei1XnhKtjurbZGZuXz6o4vhigm2v+l56G9qP+hkSn/I=
+
+Name: org/apache/xerces/util/DOMUtil.class
+SHA-256-Digest: qC/DeuCeCgM/jT9ZcCO+/tr1cGgIwcFf3Fq2Vu13lXU=
+
+Name: org/apache/xerces/jaxp/DocumentBuilderImpl.class
+SHA-256-Digest: tHi0sN8S2eRhLoWdzplrdONRilA/MeQBujkSHGuxwSk=
+
+Name: org/apache/xerces/xs/XSModelGroupDefinition.class
+SHA-256-Digest: 5Ql9Aw2E0XnKwqJRnG/nmNKzKXclzZh03eM6y9QzQZ8=
+
+Name: org/apache/wml/dom/WMLAElementImpl.class
+SHA-256-Digest: 5NJkBwWfDp3TPuvN9d5zP/rGtJ1S2t1fmO1BRvTwSsE=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaValidator$KeyValueStore.class
+SHA-256-Digest: knNSimjw8m6MMyJY8lu+ZzD41iyYmkgj2H+MrsvtiAA=
+
+Name: org/apache/xerces/impl/XMLVersionDetector.class
+SHA-256-Digest: 3obsd9sziT71W17XEZLQapl+vzhEjqDkeh1kAorv/IE=
+
+Name: org/apache/xerces/jaxp/validation/ValidatorImpl.class
+SHA-256-Digest: 9VHwoz60/HW+RXmqESmY9/Y9VrjoCP+qXLF7a2zDM1c=
+
+Name: org/apache/xerces/impl/dtd/models/CMLeaf.class
+SHA-256-Digest: 2LNA5+5ZVmOTBqwlAwlTIbJFRuXYgLRZ/SMFiY5gxL4=
+
+Name: org/apache/xerces/util/DOMErrorHandlerWrapper$DOMErrorTypeMap.clas
+ s
+SHA-256-Digest: u6qJ0oNyS8NKmcB3nS+fvKLXnHOrgEYgkVT5CISW1rA=
+
+Name: org/apache/xerces/xni/parser/XMLDTDSource.class
+SHA-256-Digest: ShAuwb8hRqTJdAKHhC7U5DMmX5AtBumowsnh3lc/s4c=
+
+Name: org/apache/xerces/impl/xpath/regex/BMPattern.class
+SHA-256-Digest: VyQI4e9NYK5uI7bpS3XfYkWh4iU9eu4Gf8jyCbwQIOk=
+
+Name: org/apache/xml/serialize/LineSeparator.class
+SHA-256-Digest: igG/t3T/7c5bNXxbcJZkCuQKJ9B/wkmVnrB897H5fQg=
+
+Name: org/apache/xerces/jaxp/JAXPValidatorComponent$1.class
+SHA-256-Digest: 9xgYU3lgx5qZsfcsdFo02ucRo9epID4R38wbFpONrSg=
+
+Name: org/apache/xerces/impl/dv/xs/FullDVFactory.class
+SHA-256-Digest: FY6soKZruA54mOVkV/zV6Qkozgt/RNxwQwM2FNmXv3w=
+
+Name: org/apache/xerces/impl/dv/util/Base64.class
+SHA-256-Digest: yYBIv7R96N1+xgos7D1ylv9KRtUGtfVcf9lfRYDv2jw=
+
+Name: org/apache/wml/WMLOneventElement.class
+SHA-256-Digest: /xRE3Vm5JbAcz8ofVtZdWWheR06NAZhSOUI05y69X38=
+
+Name: org/apache/xerces/impl/dv/xs/BaseSchemaDVFactory.class
+SHA-256-Digest: 5XFKSj8mEsDmkIe8OfECOMnPkyS4B8OtTMKPZ3KCLBs=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDSimpleTypeTraverser.class
+SHA-256-Digest: L++xnCkNzScjPbc51+cggR/8O4t2EB2sF6npWlo+ZQs=
+
+Name: org/apache/xerces/util/DOMUtil$ThrowableMethods.class
+SHA-256-Digest: YQLbHFJ+s3ofGvUQF3PuShVJRaQPXxJvaXagR3UUqmg=
+
+Name: org/apache/xerces/stax/events/DTDImpl.class
+SHA-256-Digest: In+3hVVMaTiv7KIbZo+fF1Jt/rrAGRygMbqJ/iNEMQQ=
+
+Name: org/apache/xerces/util/SAXMessageFormatter.class
+SHA-256-Digest: 6oJ9FwaxyWCSsA5dlJCLWbie/CmOPI69gfaKalaadE0=
+
+Name: org/apache/html/dom/HTMLDivElementImpl.class
+SHA-256-Digest: 2Zs1DMY4PB2hEdZlnWFX1nyYbIpJQ6pDls4mfa1zwPA=
+
+Name: org/apache/wml/WMLAnchorElement.class
+SHA-256-Digest: pBMOs6Id28z6qfnaJKiQNaghVK1BVqvze2vBWjm2iy4=
+
+Name: org/apache/xerces/xs/XSNamespaceItem.class
+SHA-256-Digest: MyT9soJXpnqzgVq3Mn2g7Z7lTagEEFEPKNkKVlhIwoE=
+
+Name: org/apache/xerces/impl/msg/XPointerMessages.properties
+SHA-256-Digest: RroauVuSPf/YPR7qfSZ6+E+yQ/coqpc3gqX58hjsMag=
+
+Name: org/apache/xerces/impl/xs/models/XSCMValidator.class
+SHA-256-Digest: XSwZ+9YPcBem+wm7W8TwlyicyLmXNv3Tb7CA9XgkTR4=
+
+Name: org/apache/xerces/parsers/XML11DTDConfiguration.class
+SHA-256-Digest: 93O2+nyOXUEc29U8b00Lmn8PuW/WkXp7MakB+PVOOzs=
+
+Name: org/apache/xerces/impl/dv/SecuritySupport$4.class
+SHA-256-Digest: jbzNx74+Hx9SL+WGEsnTk9NmWl8GJFUWGWh49go8VWE=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDElementTraverser.class
+SHA-256-Digest: EY2K4IQTRSZ1y5OrU1Pj8JAOfJlFxxYPPElnuUhTerQ=
+
+Name: org/apache/xerces/impl/xs/opti/DefaultXMLDocumentHandler.class
+SHA-256-Digest: 6hbWgsFcOSJVzcCmzxRflRtUplT66cXi2/4homTGAm0=
+
+Name: org/apache/xerces/impl/xpath/regex/Op$UnionOp.class
+SHA-256-Digest: Xi6v7ajtV17hEQ7ssMv0GZ6PcE8sLFhXkXcX+HG3J7s=
+
+Name: org/apache/xerces/impl/Constants$ArrayEnumeration.class
+SHA-256-Digest: RAm3v4bQK4XVXYY9LKQ96XASZabGD8LdQHUTAOOTJmo=
+
+Name: javax/xml/transform/
+SHA-256-Digest: ewy/jELw6L/UB2TtO9CCESUIh8SDgIFKZqG+A4qlIKs=
+
+Name: org/apache/xerces/impl/XMLEntityScanner.class
+SHA-256-Digest: ZM1dmXOicJdM4l9NzaIjdDgbjC+LwG3aZpF2bw3jVzs=
+
+Name: org/apache/xerces/impl/xpath/regex/message_en.properties
+SHA-256-Digest: +CfHK5TrcGM0SyP16mHAD7uyedfluUbsdNYRfgQZK4g=
+
+Name: org/apache/xerces/impl/XMLErrorReporter$1.class
+SHA-256-Digest: BItY4Lf/rbNmxrbr70EzCOi/17+LVLMYlQg7zufKpZk=
+
+Name: org/apache/xerces/impl/dtd/models/CMUniOp.class
+SHA-256-Digest: L2K8tw0RX9kIkLVo9jNBLoPWTlZAAv5zlTzGE/9Ixtk=
+
+Name: org/apache/xerces/impl/dv/xs/AbstractDateTimeDV$DateTimeData.class
+SHA-256-Digest: 2k3VUu8NKZiCCdPsbsRfHVa64PFFBv/l2v02SG48xno=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDUniqueOrKeyTraverser.class
+SHA-256-Digest: L8hA7l2qMLoO9zF/e9eG8/yhCb2ThTvbt1xIXUu0IaI=
+
+Name: org/apache/xerces/dom/ParentNode$UserDataRecord.class
+SHA-256-Digest: GqHtpNNP5iVOH5ahPBgegjhitn+D1amK0d5lJ9Wcthk=
+
+Name: org/apache/xerces/xinclude/ObjectFactory.class
+SHA-256-Digest: eK/vbvF92IHPgKSCyP2ji+dYqpTUFY0N+gWXUr0dH9E=
+
+Name: org/apache/xerces/xinclude/XIncludeMessageFormatter.class
+SHA-256-Digest: V/5BTBvLOqNU4pVmLTIZ/v7+/jrLrmEQNtcDA65F90s=
+
+Name: org/apache/wml/WMLOptionElement.class
+SHA-256-Digest: Vhv3TQ47nYPm3u3+YyqBGkBwukTgI897ihnfZKlXN28=
+
+Name: org/apache/wml/dom/WMLPostfieldElementImpl.class
+SHA-256-Digest: nT+je1cC/z+IxKL2WUllUt3oYooIKwt6dsmeVtcYWuQ=
+
+Name: org/apache/xerces/impl/xpath/regex/RangeToken.class
+SHA-256-Digest: w+LbRLv4yExIOYoC145sQwqkr/tikVQ5OCTL1KHaLsE=
+
+Name: org/apache/xerces/impl/xpath/regex/Token$ClosureToken.class
+SHA-256-Digest: YqxOVznnlYa5/RxaGuhRrsig0WIBzzOWQ3Jx0065k00=
+
+Name: org/apache/xerces/dom3/as/ASObject.class
+SHA-256-Digest: /Sd4rln15vzPQRIAYiSH9T5s4GwCdi5KNHkd3cz4w7s=
+
+Name: org/apache/xerces/dom/CoreDOMImplementationImpl$XMLDTDLoaderHolder
+ .class
+SHA-256-Digest: IkWTGnAYv4XOfuoWPg3B93djjC5JGRbgroz8ElIYp88=
+
+Name: org/apache/xerces/parsers/SecurityConfiguration.class
+SHA-256-Digest: hIKRa+ueG1S2Nwa76jm9Shct8nvqYmV794wFuKaygtM=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDAbstractIDConstraintTraver
+ ser.class
+SHA-256-Digest: TGeeYLcY2N4IhARJMTN24hrm6VGcTgbRWNZWKtOXxV0=
+
+Name: org/apache/xerces/jaxp/validation/EmptyXMLSchema.class
+SHA-256-Digest: hLscS6DY1SM85/n4AbsOSnfnA1ZhFRYFbLY+V+Rz+Dc=
+
+Name: org/apache/xerces/xni/grammars/XMLGrammarPool.class
+SHA-256-Digest: 5Mfs/VweZ2WVhzqQ3YwKmTSZfkNvvvjsBDTA247sXNA=
+
+Name: org/apache/xerces/dom/events/UIEventImpl.class
+SHA-256-Digest: yvnmZa+a5lSX65dwPxt4hx+vUOCHo9obMbmpkKPOp1I=
+
+Name: org/apache/xerces/xinclude/XIncludeHandler$Notation.class
+SHA-256-Digest: SpeSmmdaNqPzVpYIRB9dzl23e5tqtpQiPxe+oAQx0Kw=
+
+Name: org/apache/xerces/xs/datatypes/XSQName.class
+SHA-256-Digest: ygr5hpHsstx9ITx+BVglbuAKZ6bfeWjHzSx2Coi2mi0=
+
+Name: org/apache/xerces/impl/dv/ObjectFactory$ConfigurationError.class
+SHA-256-Digest: COn3oWtKlN4j4C3XUGOZ7NG135hqakfhmAA+OC1RYbY=
+
+Name: org/apache/xerces/impl/xs/SubstitutionGroupHandler.class
+SHA-256-Digest: +j3gdqedT3gmXQwtbMiUAnLQgGBwBcCRto/hgrVjr9o=
+
+Name: org/apache/xerces/impl/xs/opti/NodeImpl.class
+SHA-256-Digest: j6c11uDw050e8YG18xS+pBxHBF8ONuSoaW/Ku4PfCjs=
+
+Name: org/apache/wml/WMLTableElement.class
+SHA-256-Digest: j8AZZXeA2tPOdaMm13iIGM1m8WV7FWIXzAea0nno+iM=
+
+Name: org/apache/xerces/xni/parser/XMLPullParserConfiguration.class
+SHA-256-Digest: 5LLk/r1mowTfu2grSWFnmlE+RK+vGRrhDBLJliwaKJU=
+
+Name: org/apache/xerces/impl/
+SHA-256-Digest: DfJ+etjlihoVLwXMVgFfxJh8nnBT0WCAsNf8IeCZO1M=
+
+Name: org/apache/xerces/jaxp/validation/ValidatorHandlerImpl$XMLSchemaTy
+ peInfoProvider.class
+SHA-256-Digest: Cg3Pw9B59gJRaaltC5+BgzKRitkZ3ksCHye17CwZ5bQ=
+
+Name: org/apache/xerces/stax/events/ElementImpl$NoRemoveIterator.class
+SHA-256-Digest: 6ObDJaY/mBBWrUliMLM5PwhyEHDt1FD2QUD/ZX+r1QI=
+
+Name: org/apache/xerces/xni/parser/XMLInputSource.class
+SHA-256-Digest: 0zjMkoh5v46mls+T6oF8lJvLsr0DvdM1isR2MNzzq+U=
+
+Name: org/apache/xerces/impl/xs/opti/SchemaParsingConfig.class
+SHA-256-Digest: QzbYJMBeKCOy6vuupCnEAucEi6lk479nIMWP0D/tW2U=
+
+Name: org/apache/xerces/parsers/SecuritySupport$7.class
+SHA-256-Digest: LnlETevyxLtrf/qHKoQCBmoyouyzYdrBsH+2rzeUXrs=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDNotationTraverser.class
+SHA-256-Digest: T9Sv62H7W6NHvm1rFbppvsNkoaMYTdhI5wZ78Mvq35s=
+
+Name: org/apache/xerces/jaxp/JAXPValidatorComponent$SAX2XNI.class
+SHA-256-Digest: X5O/oDa9FsnacYBKJ5esWgy1vi3edNZ8bpkeMMWfrrE=
+
+Name: org/apache/xerces/jaxp/JAXPValidatorComponent$DraconianErrorHandle
+ r.class
+SHA-256-Digest: QqyElO3qjjHCYpfIuEXNaicdjWByYImVfjWfXmj5+jo=
+
+Name: org/apache/xml/serialize/DOMSerializerImpl$DocumentMethods.class
+SHA-256-Digest: bhCDvzt51WR5DFE6GcHSoEau22sl+9fX9PyUWP8h9so=
+
+Name: org/apache/wml/dom/WMLTrElementImpl.class
+SHA-256-Digest: I6QdJZb/1XhFHAczTJycJFtSRx09EpLryKy+1xnxrKI=
+
+Name: org/apache/xerces/xinclude/SecuritySupport$7.class
+SHA-256-Digest: 1yW/X4hY+JuSPqYoZjUMJPXQUJbW7sNGdo3tagH38YI=
+
+Name: org/apache/xerces/impl/XMLEntityManager$ExternalEntity.class
+SHA-256-Digest: 2qm4aEdpjD908gyt9wLcjkjWlINBHFr9RypDE6q/ofA=
+
+Name: org/apache/xerces/impl/dv/xs/DayDV.class
+SHA-256-Digest: s4tDR5vT+O3snVWlUFZU3Uu5HR12xgoqpm/al8Ld0Rg=
+
+Name: org/apache/xerces/util/XMLAttributesImpl$Attribute.class
+SHA-256-Digest: PFSi6cE4dz0m9rBjxrvtyY3lQEeKLu3BmccX/GQxq2A=
+
+Name: org/apache/xerces/impl/xs/opti/DefaultText.class
+SHA-256-Digest: fOlAKtq/73vJxio9YzOc5c3mIHz7EvIOXEvNSSOoO2w=
+
+Name: org/apache/xerces/parsers/BasicParserConfiguration.class
+SHA-256-Digest: 18wKZfSnjJXGQgWIXY2sLaRNUqe+6mZpj2uLAYv543I=
+
+Name: org/apache/xerces/impl/dv/xs/DoubleDV$XDouble.class
+SHA-256-Digest: sVxWy8K34LZiAGenRRnkwrdcKfNDqvW7Hksh0c+60v4=
+
+Name: org/apache/wml/WMLOptgroupElement.class
+SHA-256-Digest: Uy2UVRU2XMWImiazx35iWTZQCeysA2d81AXfgQ4W8JM=
+
+Name: org/apache/xerces/dom3/as/DocumentEditAS.class
+SHA-256-Digest: CIhGenItrsixGFmaamP1Bvi9XaUnLeRLXSkwN6DyZv0=
+
+Name: org/apache/xerces/parsers/DTDParser.class
+SHA-256-Digest: Ci9Nfw42px71pboNSPA/mKZXVE9Eouq866QTFxFdeEw=
+
+Name: org/apache/xml/serialize/BaseMarkupSerializer.class
+SHA-256-Digest: lT48KHOirFq/dG+T2ocM1kTtRNJJSgIBKPgAA/QD8TU=
+
+Name: org/apache/xerces/impl/XMLNamespaceBinder.class
+SHA-256-Digest: VjH0WJHeMcJoTi1d9UzMycjGtQzYSzhxq7qw+O1Re5w=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDComplexTypeTraverser.class
+SHA-256-Digest: 4ZVN7gmpG38W+h/sFjZyOAUA7oKtbNUVwWs8S6kgi78=
+
+Name: org/apache/wml/WMLTimerElement.class
+SHA-256-Digest: P3y5c9FYwGKrxg9sy0+sDH/gDdIYGj06N0YWHfm20qE=
+
+Name: org/apache/xerces/stax/events/XMLEventImpl.class
+SHA-256-Digest: CcDaGG32+cdNU1yoo5g22MnBobwuIoJu2428+lUHlEs=
+
+Name: org/apache/xerces/xinclude/ObjectFactory$ConfigurationError.class
+SHA-256-Digest: pkXt4LzNww7uxfCErrclSceWblIq2M1hovc2gyiqICw=
+
+Name: org/apache/xerces/dom/PSVIAttrNSImpl.class
+SHA-256-Digest: udUH6ZPKBOvs9znaZ42DgibD0nD2S3eP9XyIiuZDTQg=
+
+Name: org/apache/xerces/impl/dv/xs/AnyAtomicDV.class
+SHA-256-Digest: wldr0zfOPAXyMkfICXEJpZbMnf1NbJYyDtfLkNMMEqM=
+
+Name: org/apache/xerces/xs/XSObject.class
+SHA-256-Digest: VH55PIDwMwNKNWrz1mfjz2ATa1oVknf9tF9Wci4SS6M=
+
+Name: org/apache/xerces/parsers/SecuritySupport$5.class
+SHA-256-Digest: IIhsgb+GlPwonXN4zy1I4zLLXKT/d0J/NhcDedJ5uUQ=
+
+Name: org/apache/xerces/impl/msg/SAXMessages.properties
+SHA-256-Digest: 4SaPIGI5wHlglKvRVejIhZnn3QusYKX4mslyc9s/NOA=
+
+Name: org/apache/xerces/impl/xs/models/CMBuilder.class
+SHA-256-Digest: N98u4602ovDLuaQIdM5eMYWixNuMLQeoAlYGww7ZuCs=
+
+Name: org/apache/xerces/impl/xs/opti/DefaultElement.class
+SHA-256-Digest: 2uzdISGoyf8LH4XC/NtoLvs4ilRjuX8mT1k8aX1aQO8=
+
+Name: org/apache/xerces/impl/dv/xs/ExtendedSchemaDVFactoryImpl.class
+SHA-256-Digest: 7WZKrSoIFk7JNZJnZvDkCuH3FZb11EIcqd/UcZrOMoE=
+
+Name: org/apache/xerces/impl/dv/xs/HexBinaryDV$XHex.class
+SHA-256-Digest: DaM/e1Hl+LArOMT0Hih0jPnQ7ySdy1v6aOcFe2a3JzE=
+
+Name: org/apache/xerces/impl/dv/xs/UnionDV.class
+SHA-256-Digest: kyWVK2ldI5vegp1JeGSU0T5R5gU1zoRY+Y0X4wr25q4=
+
+Name: org/apache/wml/WMLHeadElement.class
+SHA-256-Digest: lmN2K1uf0IyGfJYgYYHBofdW2id/mXqrn2tTR7ozBeE=
+
+Name: org/apache/xerces/parsers/ObjectFactory$ConfigurationError.class
+SHA-256-Digest: QbxT++xGAIBO7WjnFuktII5T+AEadgp2jClMg7AWQrI=
+
+Name: javax/xml/xpath/
+SHA-256-Digest: ZKs0yY3p0AbwIMzxtmh+FszJjpF4ER/9qZgpwn1RujM=
+
+Name: org/apache/xerces/impl/dv/xs/TypeValidator.class
+SHA-256-Digest: BRjefCG67CTL8Sxn7wwee/jz4OUU3RmzoR2e1W/K6Tw=
+
+Name: org/apache/xerces/parsers/AbstractSAXParser$LocatorProxy.class
+SHA-256-Digest: ib72IPl14UpcGRa2vaD9hm/JmzVQHzJ/9DRlkDlBevo=
+
+Name: org/apache/xerces/impl/dv/SecuritySupport$2.class
+SHA-256-Digest: 2mp+3P7EXWuuT3iV1uTBshS1ZnpXyaLJvwZfFdVnteo=
+
+Name: org/apache/xerces/dom/DocumentImpl$EnclosingAttr.class
+SHA-256-Digest: 3h49vzOGlzEi+MPaYq0J1xdj3Wjj4LYlsPN6ZTGjtFw=
+
+Name: org/apache/xerces/impl/XMLEntityManager$CharacterBufferPool.class
+SHA-256-Digest: YFiYToOB476c8O2AfFaqZVsgUTByj+zbT5gf/NwaOas=
+
+Name: org/apache/html/dom/HTMLMetaElementImpl.class
+SHA-256-Digest: mRedlqEAwhGdOfL4qCKJSvFqiZvd8q87AXoTfRMkmAI=
+
+Name: org/apache/xerces/dom/events/MutationEventImpl.class
+SHA-256-Digest: JjazlDN9z4gHuXQTKZBz7JXI+3vyEaQak9/JAsXmOZU=
+
+Name: org/apache/xerces/impl/io/ASCIIReader.class
+SHA-256-Digest: uuddDdCqA1KVo/LWkoRtDGQbzWhTdc5DfpmbDIyNm1s=
+
+Name: org/apache/xerces/xinclude/XIncludeTextReader.class
+SHA-256-Digest: DbQ4f9kqTWCHQx8CmTpV5wElQInJRwig8OBweBXl2+4=
+
+Name: org/apache/xerces/dom/ProcessingInstructionImpl.class
+SHA-256-Digest: g3OTroyEdk6MP4GBRqBR8BwuUo6acST6UrzR98VWiJ8=
+
+Name: org/apache/xerces/impl/XMLDocumentFragmentScannerImpl$ElementStack
+ .class
+SHA-256-Digest: XK5JAbRQ4SkeYkbydA8fsjImUPt0wz1nk889LMaK0ug=
+
+Name: org/apache/html/dom/HTMLOptionElementImpl.class
+SHA-256-Digest: 5eNk3CcmbuzJyUaHseNcDmbohyT7JetfNWUrt9NuOYE=
+
+Name: org/apache/xerces/impl/dv/dtd/XML11NMTOKENDatatypeValidator.class
+SHA-256-Digest: TrLA6gFC2pPmtFT9MSK5hn1/8fniowYeZBUmjfDCnJg=
+
+Name: org/apache/xerces/util/DOMInputSource.class
+SHA-256-Digest: xYSwTkGfECrcJH9IFIh8yJ/h6NeZaJLRI1ph/SWj6Kk=
+
+Name: org/apache/xerces/impl/xpath/regex/RegularExpression$Context.class
+SHA-256-Digest: d7ZiiPt5m7zCnoOreb+SVaOXZRKPMeTqn9nlddD3LBY=
+
+Name: org/apache/html/dom/HTMLTableSectionElementImpl.class
+SHA-256-Digest: NJv4Q+gle2YGSCTP2vFgHbMGq9UrJLKCxq2cYn4tST0=
+
+Name: org/apache/xerces/impl/dv/SecuritySupport$1.class
+SHA-256-Digest: EfU2Apr9st+UehhZ0xkc7U10lj9ciwA9rbp1vyoEJpM=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaValidator$ValueStoreCache.class
+SHA-256-Digest: p3s/7LVfr6c3Key5r2/UmB8FPGUSkQRU1gpuXaNGOHE=
+
+Name: org/apache/xml/serialize/DOMSerializerImpl.class
+SHA-256-Digest: 6/MwO9ZefC4/C9d9E1wiO7GtgVvYZKBxjEGnZIIOZRk=
+
+Name: org/apache/xerces/impl/xs/XSParticleDecl.class
+SHA-256-Digest: PHIu1xVsQvHeyaSsb1trTrW3uxM91KAzkdj5Zj3NdQY=
+
+Name: org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl$1.class
+SHA-256-Digest: auILnbSCA/eL0Uu3e8ArcKyZF6aqLX3bcc/fWg2s+mA=
+
+Name: org/apache/xerces/impl/xpath/regex/RegularExpression.class
+SHA-256-Digest: S4IDwZl0P7maHWnL3IhqlPji/Gfu8E+UHUNhI5fZKh8=
+
+Name: org/apache/xerces/impl/xpath/regex/REUtil.class
+SHA-256-Digest: nz0PgANUXAYdrWjM1lTyezhEkYRo/IO7LLeKGD1xU3Q=
+
+Name: org/apache/xerces/xni/grammars/XMLSchemaDescription.class
+SHA-256-Digest: aPJ62VdhqSdwzN1HrSmF3Tye9JW6tzplmsjCIAIxbz4=
+
+Name: org/apache/xerces/impl/dv/xs/YearDV.class
+SHA-256-Digest: TfWziNBW/5nQfFKtfpKlCfYmVfq+NiYE775J87jg95M=
+
+Name: org/apache/xerces/xs/datatypes/XSDouble.class
+SHA-256-Digest: OB0J/R0tYQRc0TAJjoq00rkiM7cvXxKm2yiZRBhnT3g=
+
+Name: org/apache/xerces/impl/dtd/models/MixedContentModel.class
+SHA-256-Digest: e0tim6nvV+4avtosC6F5bjkp9CUN2rlapEPaLT1Zl/8=
+
+Name: org/apache/xerces/impl/io/UTF8Reader.class
+SHA-256-Digest: wtV5B+FUIlzHeGTGK5Fg4yTBW5i2BrX/a4d/8TmQl7c=
+
+Name: org/apache/xerces/impl/dv/xs/FloatDV.class
+SHA-256-Digest: WisNPT8rsqZMAPfdQOzHo/nFiUtL9ieFxfbwQRKpHLE=
+
+Name: org/apache/xerces/parsers/CachingParserPool.class
+SHA-256-Digest: B67yr3X+AA66i0NeteR3uQeCLRAE2LPQmSGddwC2Ifk=
+
+Name: org/apache/xerces/xinclude/SecuritySupport$6.class
+SHA-256-Digest: evJBPxQPozZOVmMphfR81hyD0u44UUuEGSGwzmFpHKI=
+
+Name: org/apache/xerces/impl/dv/dtd/XML11IDREFDatatypeValidator.class
+SHA-256-Digest: B02Qq2lNGPqlo779WSmXhsPrOYvUDNoGLyXvIXNLEQM=
+
+Name: org/apache/xerces/dom3/as/CharacterDataEditAS.class
+SHA-256-Digest: 2RfAjCPcMaPDaIztPo6JwmqDrBbVmSusM8Cm2emOncE=
+
+Name: org/apache/xerces/jaxp/validation/StAXStreamResultBuilder.class
+SHA-256-Digest: hSdtdNFgzFkXOjZF2eL4pC4lKVAXQcm6Z1/4KAWBxiw=
+
+Name: org/apache/xerces/stax/events/NotationDeclarationImpl.class
+SHA-256-Digest: Z1zmN2RE2U9pbX7SOWF0k7gNmDyQvGQYFuTCl1j0QuA=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDHandler$XSDKey.class
+SHA-256-Digest: aXrX+FNRCzT1HqrZVTnRmUuXooa8Z9jkzMN8fdK6Qxs=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDHandler.class
+SHA-256-Digest: /sc2GcWPrut/e2bOLoB00fp5tpC3tpPgP+1hxiBWaOg=
+
+Name: org/apache/xerces/xni/QName.class
+SHA-256-Digest: WAr+6aQ2wqLLuRUWXXOfxYiwprHCtq+raugowifZ99E=
+
+Name: org/apache/xerces/xinclude/SecuritySupport.class
+SHA-256-Digest: e3ibUO2DEW/RJcyY4GfEYVEsZLjJ4pJ7FW5UtrlX/dM=
+
+Name: org/apache/xerces/impl/dtd/XMLEntityDecl.class
+SHA-256-Digest: o1d4JU4V0Dc1HFUYUt5qfGzcMZFh5rvddhTRN+IWjVg=
+
+Name: org/apache/xerces/util/EncodingMap.class
+SHA-256-Digest: +Wtc7T5fiHYHJf/+2NQSY8kBqylrKsEFi/KXMETJVac=
+
+Name: org/apache/xerces/dom/DOMLocatorImpl.class
+SHA-256-Digest: HFtN9fvzayIFaq8VhJTZ5L6sGqhgMRn3ep1qIKDRdg0=
+
+Name: org/apache/xerces/impl/XMLDocumentFragmentScannerImpl$Dispatcher.c
+ lass
+SHA-256-Digest: ubD8F8UkJEox/pXSUb7mSWf+0hrdpYADCNpHSkG64hI=
+
+Name: org/apache/wml/dom/WMLMetaElementImpl.class
+SHA-256-Digest: zO0cOpzC/EyVsFoVN1ztnmnP2HMxebYXdrEVOVldOsg=
+
+Name: org/apache/html/dom/HTMLMenuElementImpl.class
+SHA-256-Digest: Pe3i46YiZJ06t08wWIrNYEONA46bkzQyAyOlE8WqgKU=
+
+Name: org/apache/xerces/impl/XMLEntityManager$EncodingInfo.class
+SHA-256-Digest: lJY9Dvo1hj9KD9h1yBwMsBOXLVg5MMXFz6ga7SMwYWU=
+
+Name: org/apache/xerces/xinclude/XIncludeHandler.class
+SHA-256-Digest: G1/pD54rpMJN8sHeBgULaGeUXIVzxT5uweFciwUBzQU=
+
+Name: org/apache/xerces/impl/xs/opti/SchemaDOMParser$BooleanStack.class
+SHA-256-Digest: 96MX+ABhz9Hcgf7/U8QJVwS1y7QLf85HQo4EDBlFBp8=
+
+Name: org/apache/xerces/impl/dv/xs/ListDV$ListData.class
+SHA-256-Digest: ERPMCpCJQffdNqfC0BrTqss8g3+ucl+CIs5+gtl+7G4=
+
+Name: org/apache/xerces/impl/xs/SchemaGrammar$XSAnyType.class
+SHA-256-Digest: aIfLTpenh0b4DQRV8CIBDAFhYu2T02iqwessIlVU98s=
+
+Name: org/apache/xerces/dom/DOMImplementationImpl.class
+SHA-256-Digest: RkD9OZDHmIrzXP0TK23DzuK/PwgM/WWEGFe0SLm9VFM=
+
+Name: org/apache/xerces/xinclude/SecuritySupport$5.class
+SHA-256-Digest: +Xu42xz6i3a+yyOl9pc3RP7PeLX7MA1tpKvXd19b+fU=
+
+Name: org/apache/wml/dom/WMLSetvarElementImpl.class
+SHA-256-Digest: oyvugVByxtax/Mh2bCX2IRFg1bij3WN0lCJjsCphNzk=
+
+Name: org/apache/xerces/jaxp/JAXPConstants.class
+SHA-256-Digest: aA2O2RjYHBOEFnFLMJUMml5UaLo/kffYjQveBZ1R+6g=
+
+Name: javax/xml/parsers/
+SHA-256-Digest: 0tHif1dat6PGP61Czo0IP3gzUV3fEwFGSF9Vf+yUVW8=
+
+Name: org/apache/xerces/impl/xs/util/XSNamedMap4Types.class
+SHA-256-Digest: BPnuB7pQ+SupRAFWx/qqnYgBfKmrHYix+ySZV7lniOs=
+
+Name: org/apache/wml/WMLSetvarElement.class
+SHA-256-Digest: aI3LJCO3g4svwh2/LX39s0EFGITdtqwVoSXHOG6zTb4=
+
+Name: org/apache/xerces/impl/xs/identity/XPathMatcher.class
+SHA-256-Digest: z3hJBvYBT8zDutJlE4ypv0sIaESRfasArEObX3jaCO8=
+
+Name: org/apache/xerces/dom/PSVIElementNSImpl.class
+SHA-256-Digest: 1dVl1rywQrXVGSnK6aUW6w6mgisuceG+BmNydSWW74U=
+
+Name: org/apache/xerces/parsers/SecuritySupport$3.class
+SHA-256-Digest: 01/MlrsIn/fp3U5Hj1FDFh7ema+5GX7pvGRFSnCR1L8=
+
+Name: org/apache/xerces/jaxp/JAXPValidatorComponent$3.class
+SHA-256-Digest: WMH0tDdX4OF/BG3gRLk6Xn6r7fLcGMsj5DTZ49hvl4o=
+
+Name: org/apache/xerces/dom3/as/NodeEditAS.class
+SHA-256-Digest: JfUl27liQ9h3IUFtN/nhqZhkrKkYJvj2iZREL8Xi7eY=
+
+Name: org/apache/xerces/xs/StringList.class
+SHA-256-Digest: gI3HF8CWm6RUAN9JxeKyht1FS6qLGq3nc3Z/Qjv1250=
+
+Name: org/apache/xerces/util/SymbolTable$Entry.class
+SHA-256-Digest: hJtrx4eoe7Z5hkvSzHMgP1XjkgmEnirjGyRSm8Xj9MI=
+
+Name: org/apache/xerces/xinclude/SecuritySupport$4.class
+SHA-256-Digest: +WImsaLdeI0bx2iv0wA1D5vngQmRwQyR6HoSg1D+6js=
+
+Name: org/apache/xml/serialize/ElementState.class
+SHA-256-Digest: 1L6AAC5S4o0NLrhw3izauVfXxV6E7CQDw43H/tN+a58=
+
+Name: org/apache/xerces/impl/xpath/regex/Op$ChildOp.class
+SHA-256-Digest: csQvI3zYfqQdKvoF3i+QJnnraCwfjj7b/r9JRvfULMc=
+
+Name: org/apache/xerces/xpointer/ElementSchemePointer$Tokens.class
+SHA-256-Digest: GPeIJIm/QnfyQ0vx1owypw+mzeaFqbw3ivTWaiT3hns=
+
+Name: org/apache/xerces/jaxp/validation/ValidatorHandlerImpl.class
+SHA-256-Digest: ObidnnF4KPxxvA/0pRObW+gUlBZMU2Qg3NfIzZza9co=
+
+Name: org/apache/xerces/impl/xs/opti/SchemaDOM.class
+SHA-256-Digest: uXLTC4IM4bW8oSa8m7hO4P4VqgeOzXVkvinryJtvC8k=
+
+Name: org/apache/xerces/impl/Constants.class
+SHA-256-Digest: jAsFGxdyL9UIEYQYdp2GSB2727kRkYyFmR+bF0oLk88=
+
+Name: org/apache/xerces/dom3/as/DOMASBuilder.class
+SHA-256-Digest: wZm9aKmQ5AvxO4Mmm/cYlaPazqAsuP8h8/r5ErOAb6c=
+
+Name: org/apache/xerces/xpointer/ElementSchemePointer.class
+SHA-256-Digest: OsnbmyMWmU7QSlC52c1iPseS1JXf9qWMiXLYPn92NmM=
+
+Name: org/apache/xerces/impl/dv/xs/AnyURIDV.class
+SHA-256-Digest: ShNnNdWeSGAzTtLa6b7CHUtihSjxE6SmBXP0DwJFot8=
+
+Name: org/apache/xerces/impl/dtd/XMLContentSpec$Provider.class
+SHA-256-Digest: TSLo5Nh0c/tPI8SMSijHohsWArKlIU6O33Bvgosw9eM=
+
+Name: org/apache/xerces/util/AugmentationsImpl$SmallContainer.class
+SHA-256-Digest: BxZD7Q72oYtvf8uN0yUZRz7kBDONqkeTEINEvgOgwbM=
+
+Name: org/apache/xerces/util/SynchronizedSymbolTable.class
+SHA-256-Digest: zZ2ue2WlkMRD1ALpL9C7BcWQYJPfVj2Ed189Pn/znG4=
+
+Name: org/apache/xerces/impl/XMLEntityManager$ScannedEntity.class
+SHA-256-Digest: /ZnAeZoXuJVNFM4jx1PFr7WHOI3bM2HBmpvNWUTO6C8=
+
+Name: org/apache/xerces/impl/xs/traversers/XSDWildcardTraverser.class
+SHA-256-Digest: kRv0h0mijHHG7NPbOjsKCI869Ux9mlhHwlo0opbMXmQ=
+
+Name: org/apache/xerces/parsers/CachingParserPool$SynchronizedGrammarPoo
+ l.class
+SHA-256-Digest: b4iu+zjTGm2f1UbKQXNFWZJir/S85viJojMN0fCZ6PI=
+
+Name: org/apache/xerces/xpointer/XPointerPart.class
+SHA-256-Digest: wZFaGs5KW1DhNgKE7C3ECfloGwJW7pBSQi4eTzhlVcI=
+
+Name: org/apache/xerces/dom3/as/ElementEditAS.class
+SHA-256-Digest: X1MEUBqRaM3D7PFUcUHqrkx0eHFja/6/Y3kJgcvKwUM=
+
+Name: META-INF/services/javax.xml.stream.XMLEventFactory
+SHA-256-Digest: L2qbpIpJKAwvkfxcFvGFD/tprYh4W+VsPzCppr6Goa4=
+
+Name: org/apache/xerces/dom3/as/DocumentAS.class
+SHA-256-Digest: iuDGcP7BBSUz5lWwwgY+VmCmOciVHO5UwMT3+NPbKEg=
+
+Name: org/apache/xerces/parsers/XML11Configurable.class
+SHA-256-Digest: f0fBzim/n1Jylv12KaONnp/5ve2inSGr+gSl65tokCE=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaValidator$LocalIDKey.class
+SHA-256-Digest: W/KOTOM4P/H+gYG/X7KusaQ/Iz19Oept7F8xV+u0GAA=
+
+Name: org/apache/xerces/jaxp/datatype/XMLGregorianCalendarImpl$DaysInMon
+ th.class
+SHA-256-Digest: pxb8io5L2tRiFGkYPzOf3nEYsUmE8s82bnXA3SxmxDA=
+
+Name: org/w3c/dom/ls/
+SHA-256-Digest: DDhWgh4TorT72Ow3103VDztsvfPBG6GFhhr4MjvZb38=
+
+Name: org/apache/xerces/impl/xs/util/SimpleLocator.class
+SHA-256-Digest: qtr5dYDXki0Xz52O5KEsJ+2INeHC2Dafu8NoP/1tw6c=
+
+Name: org/apache/xerces/impl/xs/XMLSchemaLoader.class
+SHA-256-Digest: BY+pVbGl6wDFomlZGwIuJzIK/4koyE78Cewk3Ql0cGw=
+
+Name: org/apache/xerces/jaxp/SAXParserImpl$JAXPSAXParser.class
+SHA-256-Digest: mvvo7ko8nlan9q1Q6K3iFKoumKp7B+rnrhDcm1d05AA=
+
+Name: org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl$3.class
+SHA-256-Digest: dZe/VrnxzG/RRbCQtutrdAKyD8tvADO+7Q1lLVtG61w=
+
+Name: org/apache/xerces/jaxp/validation/StAXEventResultBuilder$1.class
+SHA-256-Digest: /cWgk9p+7PrVSLiRohOsdxXXhSwO1Xp3F8yWZgUcwR0=
+
+Name: org/apache/xerces/parsers/SecuritySupport$2.class
+SHA-256-Digest: H4BIFfpmhF512QoLavYAQTYl9LDw59uyub6C9ogx+HU=
+
+Name: org/apache/xml/serialize/Encodings.class
+SHA-256-Digest: 6R3pKp06S/hdmPc6scGseFuarBi5mDUDJjD9c38R4Tc=
+
+Name: org/apache/xerces/xni/parser/XMLDTDContentModelFilter.class
+SHA-256-Digest: 97CbH1lsCPHwWWbriC11eqaecZ8+kb92iwHzQVnmPSk=
+
+Name: org/apache/xerces/jaxp/JAXPValidatorComponent.class
+SHA-256-Digest: Dj+YvYbz7iV04+ycrzBIoJjDUjFdfvgpEORbnnALAPs=
+
+Name: org/apache/xerces/impl/xs/opti/DefaultNode.class
+SHA-256-Digest: lhzz8xSldvxkPNSsKFFiVFKEH6H/bj/twKPKPFy7RG4=
+
+Name: org/apache/xerces/dom/NamedNodeMapImpl.class
+SHA-256-Digest: wQY/fL7ygzST/Rad8gUKRcPXsM33O5ppcHXdedzyBKc=
+
+Name: org/apache/xerces/impl/xpath/regex/RegexParser.class
+SHA-256-Digest: nYjmtsqrZJgb0y23tFEPIkbhSYS9K6mJv//bn717KGE=
+
+Name: org/apache/xerces/parsers/SecureProcessingConfiguration$ExternalEn
+ tityMonitor.class
+SHA-256-Digest: M4xFuKN1fQLNWMI92AbWeG0e1W4YGNXcHx9wWsFF3IM=
+
+Name: org/apache/xerces/parsers/IntegratedParserConfiguration.class
+SHA-256-Digest: S3UNSK1sMuUIfftplkRUk1kZSVnrydcYedNlvax+iVM=
+
+Name: org/apache/xerces/dom/LCount.class
+SHA-256-Digest: BK1//Etpx/3T+3nawY5IzsXkqbAyPtWsjD0zrijbpnE=
+
+Name: org/apache/xml/serialize/OutputFormat$DTD.class
+SHA-256-Digest: dadBprkgCtB1hfaoIztoYIVRilz8eUn+EreKhJ9E9Zo=
+
+Name: org/apache/xerces/dom/CommentImpl.class
+SHA-256-Digest: UKBhBz2V0b/D6J9g8mJtqpHcpDKOti3fzUYBnWsVmt4=
+
+Name: org/apache/wml/dom/WMLBigElementImpl.class
+SHA-256-Digest: ueRkbnXGzn5PYG4Ya7ebW8AHHqYB7K596WRExF6Mklg=
+
+Name: org/apache/xerces/dom/DeferredCDATASectionImpl.class
+SHA-256-Digest: yVGgPGKNWWgb2JzXSZr3OGTfKBXJJu4zBqax0Av1EHU=
+
+Name: org/apache/xerces/jaxp/validation/StAXValidatorHelper$EventHelper.
+ class
+SHA-256-Digest: mmfjLGiLJDaOA4yEig3L/W6Br9v68s2MIKVhLMkzwE0=
+
+Name: org/apache/xerces/xpointer/XPointerHandler$Scanner.class
+SHA-256-Digest: iP0xNyf1nV18gYah8RdE/0NezCYFU8jf1Qaxa9y5OQY=
+
+Name: org/apache/html/dom/HTMLPreElementImpl.class
+SHA-256-Digest: o4IyeTb23ywbTPurrLIXgTMrv6wynd5+S/rrQmcS6CY=
+
+Name: org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl$2.class
+SHA-256-Digest: i3IvFttjbOy97g+nf603JlknuxdjGXeFTaJCJN/W6uM=
+
+Name: org/apache/xerces/impl/dv/XSSimpleType.class
+SHA-256-Digest: Gg2PZYQp+1cxkQvSHShNibLNYLWpykDp79seTy25A3M=
+
+Name: org/apache/xerces/dom/TextImpl.class
+SHA-256-Digest: TeKWaUMBb1INXb8lt7chB9SrjQfLBmiNzQe3nNBzyWw=
+
+Name: org/apache/xerces/dom/EntityReferenceImpl.class
+SHA-256-Digest: kj46V8xvPKkqdCEx7hI8Tf+2W5n1vkwPMP0OSt8nixk=
+
+Name: org/apache/xerces/jaxp/validation/DraconianErrorHandler.class
+SHA-256-Digest: 6x2SeWzAvgwgu8ybkVeRg3IDjDeLTbyWj+OQxBUuAME=
+
+Name: org/apache/xerces/impl/dv/xs/BooleanDV.class
+SHA-256-Digest: +I2J/id9RSbpRKIhaly+RGgYlQU0nZq5O6nVRQXuWH4=
+
+Name: org/apache/wml/dom/WMLImgElementImpl.class
+SHA-256-Digest: NnP61MPblg8uM0FGKFGlzmESHpk20G3DCP8cQlnSTMs=
+
+Name: org/apache/xerces/xs/ItemPSVI.class
+SHA-256-Digest: qQ2hXLwoItBC4+boh+GBQKdW0qB9Z9mMNZBKK56d9QU=
+
+Name: org/apache/xerces/util/AugmentationsImpl$AugmentationsItemsContain
+ er.class
+SHA-256-Digest: yguTt3hSIzFLSTK5IS7AopsItOdQpojawToQtKY3aW8=
+
+Name: org/apache/xerces/parsers/SecuritySupport$1.class
+SHA-256-Digest: wRUqHPiK7saPmkO/KQQRYjp+FIRtetT144zE2hLJ3zk=
+
+Name: org/apache/xerces/impl/xs/XSModelImpl$XSNamespaceItemListIterator.
+ class
+SHA-256-Digest: M9/5vmMm8C4MeOGCzWaiDssEDJ67e9C/4B4gX/W3d2Q=
+
+Name: org/apache/xerces/util/XMLEntityDescriptionImpl.class
+SHA-256-Digest: uQSBU3O2/6t/Yvpii6GpNA3+TujInVFjNYlWBot/aqg=
+
+Name: org/apache/xerces/xinclude/SecuritySupport$2.class
+SHA-256-Digest: 9OiKalJ/iZEODnpOmfPoy7i+xT1+U+67D9HG4Y8c8v4=
+
+Name: org/apache/html/dom/HTMLAppletElementImpl.class
+SHA-256-Digest: qdQS9K8HffvDqZ6KqMV1skqTlraDBJXFdIZeG2mvu1k=
+
+Name: org/apache/xerces/impl/msg/XMLMessages.properties
+SHA-256-Digest: qKvE2R2d1rTjxC23kHTTJy16ElQETxFSZzlfXMoUd9Q=
+
+Name: about.html
+SHA-256-Digest: EpVmFNpEm0hUIxj84ahDok553n8TCMFn/WxhrACgmNI=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.xerces/pom.pro
+ perties
+SHA-256-Digest: 7ytL6oyDoo2hIgbunHLZ1mxlS2DO0CnmPdHjQ1QXFx0=
+
+Name: org/apache/xerces/impl/XMLEntityScanner$1.class
+SHA-256-Digest: CNqE8NbU5uiT0/LEEOpkkvBNxUGXcT6oCqZ+PBAubyg=
+
+Name: org/apache/xerces/dom3/as/ASContentModel.class
+SHA-256-Digest: hd5zlNa4Hn/inNejpSawcHGq5+SVouTikZKzSmsvQTY=
+
+Name: org/apache/xerces/impl/dv/xs/IDREFDV.class
+SHA-256-Digest: O391VatB/xqXiDda6N5Cr503ajTDkucYXjl+ECWztvo=
+
+Name: org/apache/xerces/dom3/as/ASEntityDeclaration.class
+SHA-256-Digest: zCtBGYPvoCsEXm/zhCyGOJx2FF+5Iv/PbYG0SgjwhiM=
+
+Name: org/apache/xerces/parsers/DTDConfiguration.class
+SHA-256-Digest: Gp5CJ3IVnUkbG6cLmDc6+QmEwOaqsVzBvm5V1vlWZWI=
+
+Name: javax/xml/stream/
+SHA-256-Digest: o49s+pAAWVE/XkV7D/Lcoz2tyVQvWGroyRoD2+r2fUo=
+
+Name: org/apache/xerces/impl/dv/util/HexBin.class
+SHA-256-Digest: 9HaORcvEDKY85F+V+UlPzaYnqkWWctBSVQ9K1qYLep4=
+
+Name: org/apache/html/dom/HTMLFrameElementImpl.class
+SHA-256-Digest: mx1UkuRbVOX28/LoFUWLqSjOmNqzS3HXiAuorbu1vgk=
+
+Name: org/apache/xerces/impl/xpath/regex/Op$ModifierOp.class
+SHA-256-Digest: 3OX49v4nGyAsBh5yp4x8OKUgMS3VRCtLqmU4DjtxWoo=
+
+Name: org/apache/xerces/xinclude/SecuritySupport$1.class
+SHA-256-Digest: B4JMF54eNSP5l6MWEXm2zikgEixt610JZGsQDLKJ8uA=
+
+Name: org/apache/xerces/impl/xpath/regex/CaseInsensitiveMap.class
+SHA-256-Digest: ccYKW+P5LQpgWpavxh4mjtakU75CGepIUWf4mtmia1g=
+
+Name: org/apache/xerces/impl/dv/DTDDVFactory.class
+SHA-256-Digest: nC3uIZb6JHFF3ha0fmbMdkyOo4Rx6MM6bNfllD2ydPA=
+
+Name: org/apache/xerces/dom/DeferredNode.class
+SHA-256-Digest: sDWtlPzgP76jw+O4VU/BTnTo/Oi+J0Y2B655OXaKIC0=
+
+Name: org/apache/xerces/dom/DeferredDocumentImpl$IntVector.class
+SHA-256-Digest: yfY9GEa4T6KjHe3QfWJqdCo5qWcrnWf53nhZsUNUyoc=
+

@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.epp.package.jee;singleton:=true
+Bundle-Version: 4.25.0.20220908-1200
+Bundle-Vendor: %providerName
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.eclipse.platform,org.eclipse.equinox.app
+Eclipse-BundleShape: dir
+Bundle-Localization: plugin
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/epp/org.
+ eclipse.epp.packages.git;path="packages/org.eclipse.epp.package.jee";co
+ mmitId=1ffbf82bfb15363bf60290861fc463ac58b09625
+
+Name: about.properties
+SHA-256-Digest: LOKFuvry3zuNRYLIbhP5DEiF71mchC6YdncoANHSnXc=
+
+Name: plugin_customization.ini
+SHA-256-Digest: +vhKJQstsaBvssCuhA11kAtcFJ6h7G41t08IlYCym+I=
+
+Name: about.html
+SHA-256-Digest: fOZwKO8Et7MJtFh0XZdYUTVdH79ttmK7A3UjoyBRrg4=
+
+Name: plugin.xml
+SHA-256-Digest: qb99MbIgZbwFXztk8ZKC/hsNriFnbdgS57N1w1EEbnQ=
+
+Name: javaee-ide_x48.png
+SHA-256-Digest: Idrb8sbzpriQP5HedJp7z36k3OviO7Nz/qaox3JzvTk=
+
+Name: wtp_logo_2010.png
+SHA-256-Digest: vs1kT1suFfOYvJDHf7DcYx0kne9M4xoFoEEkOP1PrYM=
+
+Name: helpData.xml
+SHA-256-Digest: KhrsA0KEFupnGg4+iUF7QZohnxID5wZyu/TMdV3M78g=
+
+Name: META-INF/maven/org.eclipse.epp/org.eclipse.epp.package.jee/pom.xml
+SHA-256-Digest: QSsmCxr2ayd4NvanhbVE/FeYueixOkVXmAn2V88z3pI=
+
+Name: about.mappings
+SHA-256-Digest: heF3yx0mwZRzCQIpTfcMW/IiUQv6LWmOeu9qUYsFLJ4=
+
+Name: javaee-ide_x16.png
+SHA-256-Digest: WmB7TkyQVStO5nWtuqddF8R8ehqPHOszV17PEIfmT9o=
+
+Name: eclipse_lg.png
+SHA-256-Digest: l0UvIqQfvqQmpSuM1RueGItvnHX3skA5l2yI/2W2iY0=
+
+Name: eclipse_lg@2x.png
+SHA-256-Digest: auUf9MO46NgCaJNsYbYg0pcnID6w4HLOSEfMHsEyIpA=
+
+Name: javaee-ide_x32.png
+SHA-256-Digest: GM8V+NJP7XHNxUS/jmzwiBbwZ3Ae5Gu3f1quns02m3I=
+
+Name: about.ini
+SHA-256-Digest: t0LKrkudefyHCBkg3Zlj6rtnsDUcVeOnNMU4AblT8hc=
+
+Name: plugin.properties
+SHA-256-Digest: GhiWd/H3DBflx62N0lvB923JeSIjTAE83hXJLT196Ic=
+
+Name: META-INF/maven/org.eclipse.epp/org.eclipse.epp.package.jee/pom.pro
+ perties
+SHA-256-Digest: DokiztUBzPSI4UE5gGWc44aNaV33pefDI4L9Z4n5LGc=
+
+Name: wtp_logo_96.png
+SHA-256-Digest: FvDLd3bBHpQj6+QAA3fKYWqahFzNc4dGbuYeXyo6fds=
+

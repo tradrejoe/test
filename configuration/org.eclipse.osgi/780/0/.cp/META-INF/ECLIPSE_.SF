@@ -1,0 +1,118 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: MQSxJYQgPlA6qDdjK5HUu29on+NuE6Sn1Fpc1DuYVMM=
+SHA-256-Digest-Manifest-Main-Attributes: oF1hcEUPT6v3REzi+IkfqU8zjU9nGnJ
+ 3dvokGTcaKcM=
+
+Name: org/eclipse/wst/common/environment/uri/IURI.class
+SHA-256-Digest: dQ0ppsumMg1hyv+c47CxoGl2ZYKWGfCiyxa+u7r8qvA=
+
+Name: org/eclipse/wst/common/internal/environment/eclipse/FileResourceOu
+ tputStream.class
+SHA-256-Digest: zuzvL0pAaTAWrRgtEv8FLAR3Abt305+pQoYulX5HQlA=
+
+Name: org/eclipse/wst/common/internal/environment/eclipse/FileResourceUt
+ ils.class
+SHA-256-Digest: 0gtmMof7hmHqBqNGBJFuTI1TMakSJCShRIaYRdI3vUI=
+
+Name: org/eclipse/wst/common/environment/uri/IURIFactory.class
+SHA-256-Digest: YupPZhX8W15x3avceeVAJLGpWlHK3miZmfX6LM0aUqE=
+
+Name: org/eclipse/wst/common/environment/ILog.class
+SHA-256-Digest: Qe3rsgluzzm14GC4bqy5amQ2l2ljfBwTs2yVMkTpTWk=
+
+Name: org/eclipse/wst/common/environment/EnvironmentException.class
+SHA-256-Digest: kShs8poWb/TkkBJavBoT1U3rKVBZJV1s+PnQqv7rh7M=
+
+Name: org/eclipse/wst/common/environment/IStatusHandler.class
+SHA-256-Digest: hPHZMKbfpVZbuQE4Q0s3/XaAkINCmyy5/AglzHfNW5o=
+
+Name: org/eclipse/wst/common/internal/environment/uri/file/FileScheme.cl
+ ass
+SHA-256-Digest: PXh7vs6KifJHX9JdWzlKsUI2gO3lpg0LgZ91nuQkmF8=
+
+Name: .options
+SHA-256-Digest: NY4l4qrfWowSRJmkxMpqU5VtKNC6Q57WHzPtH68AYh0=
+
+Name: org/eclipse/wst/common/environment/StatusException.class
+SHA-256-Digest: RYXgufXZbFG5dziNeMGchtzNVPh1MwO3ARn9cEeHbCI=
+
+Name: org/eclipse/wst/common/internal/environment/relative/RelativeSchem
+ e.class
+SHA-256-Digest: aoxtZFfrtzXHF5lBQoDHq1Cb9yKlx47wq6MvKmQg2/s=
+
+Name: org/eclipse/wst/common/environment/IEnvironment.class
+SHA-256-Digest: TGIcrbIf5Y4Ek2j54JKQ5RVgWqCmfGKd0cENa577DV4=
+
+Name: org/eclipse/wst/common/internal/environment/eclipse/EclipseLog.cla
+ ss
+SHA-256-Digest: l6NT/qt+WOGeHBzALOKHi41R06YTtbmcPPOnpg7bS6c=
+
+Name: org/eclipse/wst/common/environment/NullStatusHandler.class
+SHA-256-Digest: W2aXam+CVWn86yR+SgJs2IAnaWgxfc5kuGCeKzKQqDM=
+
+Name: org/eclipse/wst/common/internal/environment/eclipse/EclipseURI.cla
+ ss
+SHA-256-Digest: ufhGEdxBb546KJZGDk7Ast+pINq7mDG5KcCpS5CcmMA=
+
+Name: plugin.properties
+SHA-256-Digest: CEcnqJtTXTFOzzu3YZE/1/scyFCN8aQabQABTewJP0w=
+
+Name: org/eclipse/wst/common/environment/uri/URIException.class
+SHA-256-Digest: +Ej8zd5N7wYn52NNZCNMyqQsM0DFqZQ9efANrFsv6HQ=
+
+Name: org/eclipse/wst/common/environment/uri/IURIScheme.class
+SHA-256-Digest: G+4ty2u5hfPgG4cSMgEgsSZGxmXb3E7G556FaXpkUnk=
+
+Name: org/eclipse/wst/common/environment/EnvironmentService.class
+SHA-256-Digest: 6hOEkOPIjT169lPSopUUaftUgEoZEVPO87pYoHDbmTo=
+
+Name: org/eclipse/wst/common/environment/uri/IURIFilter.class
+SHA-256-Digest: FAh6Q198gu0UKxK6P9h6EgWiCF1YN3E3kAja2e+asLc=
+
+Name: org/eclipse/wst/common/internal/environment/eclipse/ConsoleEclipse
+ Environment.class
+SHA-256-Digest: 15qqhjs1A2SlUzf483X69UskEwaSY+LiE2pvnOV14JQ=
+
+Name: about.html
+SHA-256-Digest: rZdZdbJtFiw298EzlEydJC5gajKbkkBfRettUMDggmY=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ environment/pom.xml
+SHA-256-Digest: dk25VpNo/A3/QZtv579uO0JFULbV1NsloLNMDEd94BU=
+
+Name: org/eclipse/wst/common/internal/environment/eclipse/Messages.class
+SHA-256-Digest: TPixDOxztyjfYZzXpr4yK4C/nfJkZ3lWMKS7Rueqkpc=
+
+Name: org/eclipse/wst/common/environment/uri/IURIVisitor.class
+SHA-256-Digest: +6qJ2BKkIssl1LZoe3y4k3aVPXlhW1ZJ0+AY4z6uIsA=
+
+Name: org/eclipse/wst/common/environment/Choice.class
+SHA-256-Digest: t+8K0X6UG6F5GjPId4VGl4Rx3koK9nd4zrB11tswN3A=
+
+Name: org/eclipse/wst/common/internal/environment/plugin/EnvironmentPlug
+ in.class
+SHA-256-Digest: t4/Frn/lL0YAEQ2Klwdo6qmqg+z+dlhJkhgiwqjj6/0=
+
+Name: org/eclipse/wst/common/internal/environment/relative/RelativeURI.c
+ lass
+SHA-256-Digest: UPkQJjok4a1OKn63eWqbQteOu2LKN91l0RMVbVbzMaI=
+
+Name: org/eclipse/wst/common/internal/environment/eclipse/EclipseScheme.
+ class
+SHA-256-Digest: Reow/12ryUTQufZkaCRew9P7V3XSDFyuqvJR13LIOug=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ environment/pom.properties
+SHA-256-Digest: FH6hP0lwSt3Tb/ci6k2D+Y6riBUiIeom9PVQfoPWDN0=
+
+Name: org/eclipse/wst/common/environment/uri/SimpleURIFactory.class
+SHA-256-Digest: 8jZnz1g7vt7vdm8QyHxis/DqeE5xc/xvzw8diSQ4fN8=
+
+Name: org/eclipse/wst/common/internal/environment/eclipse/environment.pr
+ operties
+SHA-256-Digest: t72f8x/zjndfU9na3Sxn5SSMoc+QRjBZg5zHYkLhBE4=
+
+Name: org/eclipse/wst/common/internal/environment/uri/file/FileURI.class
+SHA-256-Digest: Xtc6ZUlXkkD2Wvz79Rq7sBjzefEEbV+kPfdpkVzW7v4=
+

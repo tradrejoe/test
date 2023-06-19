@@ -1,0 +1,260 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: iiWzu1WWqncBR+nsE26eHXaIw9GgI+CuqoezmCwE2zM=
+SHA-256-Digest-Manifest-Main-Attributes: YXXEL3AcPUuLH9q+Al7eFZU7VlS7WjJ
+ xjk8uYd9uFNM=
+
+Name: org/eclipse/core/filebuffers/manipulation/ConvertLineDelimitersOpe
+ ration.class
+SHA-256-Digest: qxcpKzF8mAL7dljiMeXr8oB1hPxq1nqyfQZxnTWESgY=
+
+Name: plugin.xml
+SHA-256-Digest: vJtjVa8qiiLilX+mayxmKMb92Vi2WV5/Dz2cg3X2Qu0=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceFileBuffer$FileSynch
+ ronizer$1.class
+SHA-256-Digest: UqcjpaRgUSPncqDEoF/iDHeccZhDR/dniBuq+PaJJgo=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$9.clas
+ s
+SHA-256-Digest: 24pQtpiG+3xpsAjsOXAuZlFPo+h7wagkvtCpUaD8gZM=
+
+Name: org/eclipse/core/filebuffers/manipulation/GenericFileBufferOperati
+ onRunner$1.class
+SHA-256-Digest: 08u3zXM37RbFLA6+fIF5xnbqGA9C0kgeOsF8B496DzY=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceTextFileBufferManage
+ r$2.class
+SHA-256-Digest: doKhRb4MG7kJxQ2dvuMye5/NamrbpT/+hEipFuY7Jmw=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$11.cla
+ ss
+SHA-256-Digest: fIeI2wXgRnw+GYCz6VjasBRZQn1VKgF6IfLe8YvLCdI=
+
+Name: org/eclipse/core/internal/filebuffers/FileStoreFileBuffer.class
+SHA-256-Digest: N45garCTGegYukHufHXlqhSYwgnTGu9D3tJp3/ZKl8A=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$5.clas
+ s
+SHA-256-Digest: Jb5GLplCuYS4fxru+DdLd6xCKooHMnsvRR9Y1ZMY8cg=
+
+Name: plugin.properties
+SHA-256-Digest: TzV7r88N1JbJE59RC0XehAD0AvHdYTFNWkVheZPwlRU=
+
+Name: org/eclipse/core/filebuffers/manipulation/IFileBufferOperation.cla
+ ss
+SHA-256-Digest: wBZuGGk0rjxsKTMDefr4o916XTFBYY0HPGd2ifkJTKY=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$2.clas
+ s
+SHA-256-Digest: llStPtnIZ/ZXV+ZvMDcCGomYLpNLf2mnHxTc1hSCSis=
+
+Name: org/eclipse/core/internal/filebuffers/DocumentReader$DocumentCharS
+ equence.class
+SHA-256-Digest: B2Dy20TEbRw+vGj6zLUCz0zA3b6D3usl3d0iYlb7Om8=
+
+Name: org/eclipse/core/internal/filebuffers/FileStoreTextFileBuffer.clas
+ s
+SHA-256-Digest: 3dgR4t/DAD4mtmNtN2+cUXFywy8EoRrhuPYB46ToTpQ=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceTextFileBufferManage
+ r.class
+SHA-256-Digest: ca7QNmb+893sbwo0uNbzDExJE2zm7FE/SrLHfWlyGJ8=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$10.cla
+ ss
+SHA-256-Digest: Nx+YqxqD44cmpdzNlMaZD21iCMuRQgMzLOjZaj8uoaw=
+
+Name: org/eclipse/core/internal/filebuffers/FileStoreTextFileBuffer$Docu
+ mentListener.class
+SHA-256-Digest: kXPdu/MwuyWLakI8nnKovS4pfi1QoMsHnGmoRQKxL6w=
+
+Name: org/eclipse/core/filebuffers/IStateValidationSupport.class
+SHA-256-Digest: c8FHyT+zmLTRcgjw8jWykLUZgn7ax/xCu62r8pL31z8=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceTextFileBufferManage
+ r$1.class
+SHA-256-Digest: Zsw+wiVPZtcR47Ri/LY/b5+ejoTapZSMSa6GMC4zWWo=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$3.clas
+ s
+SHA-256-Digest: 1amDOwGEK/a0rRzXmox2Qiut3OIwYts54Y8tqFVs428=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceFileBuffer$FileSynch
+ ronizer$2.class
+SHA-256-Digest: Xx+r7agJzOH9MxRWyDphlGcwklEwI2C9uIS1H9PdU7Y=
+
+Name: .api_description
+SHA-256-Digest: /uat50wNlHoHy5JxV9jR0/D5WVfT2P++ZMv65GjQytc=
+
+Name: org/eclipse/core/filebuffers/manipulation/ContainerCreator.class
+SHA-256-Digest: f2tTKckoMWFjiwBZbvS3vSPtc6rdfN3jpcacLKtLloM=
+
+Name: org/eclipse/core/filebuffers/ITextFileBuffer.class
+SHA-256-Digest: gxA479ZuvIgQyvTcLjj635SWtW+4XqM6aN4ad4hOc7k=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceFileBuffer$SafeFileC
+ hange.class
+SHA-256-Digest: FhRmLuxFuMh9bx9J6yjd04DDeITbEqkkI8UExsaxgb8=
+
+Name: org/eclipse/core/filebuffers/IPersistableAnnotationModel.class
+SHA-256-Digest: FpGjB4gh2BhR3nTnVtV3uIL3vMaLHlr/Ytr4JH9DNG4=
+
+Name: org/eclipse/core/filebuffers/manipulation/RemoveTrailingWhitespace
+ Operation.class
+SHA-256-Digest: GMkeJ4KaopVlGuFhHKmgMnJdIlgAu3VC5OZIFgXE3Es=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceFileBuffer$FileSynch
+ ronizer.class
+SHA-256-Digest: 6YF1Zi4qZgX1I+IEAf4FZCHZtVVcRen68d0pLMU7ghk=
+
+Name: org/eclipse/core/internal/filebuffers/FileBuffersPlugin.class
+SHA-256-Digest: tFgBL++gWze97I1bcHtYGT7d+N1zQ8PZXnaz7TYoEps=
+
+Name: org/eclipse/core/filebuffers/IAnnotationModelFactory.class
+SHA-256-Digest: DiBpF5+GnME8E+zlf9iae1bKuJ/eN7+t75dEY3bx2xo=
+
+Name: org/eclipse/core/filebuffers/LocationKind.class
+SHA-256-Digest: 1MAnvSq+oYUVHN3s0R/jSgumnhYSKJE+AAi9QHIlzE0=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager.class
+SHA-256-Digest: sMxjutdUP/fPc1fneyKmgZo2gDs9rLKP7cS7y5LN2jU=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$6.clas
+ s
+SHA-256-Digest: Y1S3QbihCiu2k+GC+vR7DhlA6c29bMyowDSjCqx0Gwk=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$7.clas
+ s
+SHA-256-Digest: 1WZrI0ykwD91tLZz+croyoPMgN/xfZ5CcEjMEmNqEzg=
+
+Name: org/eclipse/core/internal/filebuffers/SynchronizableDocument.class
+SHA-256-Digest: 5tgRXpldiBBfTj3BMW91glHE411lNGG4uEKMhUwag6o=
+
+Name: org/eclipse/core/internal/filebuffers/DocumentReader.class
+SHA-256-Digest: CCaZpdyQaGk7kpu2t/6/6JbdBXXZL6aAttXZ0AsVnFI=
+
+Name: org/eclipse/core/internal/filebuffers/ExtensionsRegistry$ContentTy
+ peAdapter.class
+SHA-256-Digest: cwlCDI5OMkCc6cza7FmRv+VVgHYo9vAcYcQ66ObEtWo=
+
+Name: org/eclipse/core/internal/filebuffers/FileBuffersMessages.class
+SHA-256-Digest: 5wp0BciksyVehQIvS1dd166TjvoxqRKm5fElWvnDrI8=
+
+Name: org/eclipse/core/filebuffers/IDocumentSetupParticipant.class
+SHA-256-Digest: 4/toyD3Nt0t0meW9/a3yOGPqAfhKLNE0ENx6bhp8E30=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceTextFileBuffer$Docum
+ entListener.class
+SHA-256-Digest: z63KNZrYL67bE4oqmK9DKP1Uk6nbnZNt2Cdw64C049g=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$4.clas
+ s
+SHA-256-Digest: qSzcfNzWBHMWFK0vP+tHCIh9MG8B7gAf5+F0Z5TC/mc=
+
+Name: org/eclipse/core/filebuffers/IFileBufferListener.class
+SHA-256-Digest: TV6th2yXJqTbI05G53/81g2fRiNp/SQjZ7Rqwo7pR4M=
+
+Name: org/eclipse/core/filebuffers/manipulation/FileBufferOperationRunne
+ r.class
+SHA-256-Digest: piqyJCK5CbfJqXCQcKPH5KmM2RA3rSFT8qqgfcavC6c=
+
+Name: org/eclipse/core/filebuffers/IDocumentSetupParticipantExtension.cl
+ ass
+SHA-256-Digest: IUL+Vem5fT8KVsjpUFVK35w6ycgO9UTI2EGKVE3yZoo=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceFileBuffer$FileSynch
+ ronizer$3.class
+SHA-256-Digest: lsSVmtdc6kIqYmmcFmbrUjxJI1cNUft8vCjcBdTIF7I=
+
+Name: org/eclipse/core/filebuffers/manipulation/MultiTextEditWithProgres
+ s.class
+SHA-256-Digest: /X2Spsoj7EZwJzhV3ICrVG1xMMmB+gzErb4fHceeZ4U=
+
+Name: org/eclipse/core/internal/filebuffers/FileBuffersMessages.properti
+ es
+SHA-256-Digest: kC20ldkf028HCKj4AK3CjN2VEG0aI0zArTc7TTixJXw=
+
+Name: org/eclipse/core/filebuffers/FileBuffers.class
+SHA-256-Digest: NM62zbckxccVXWgrSkBAgKdbIQlRDNfOo49Wm+Qju4k=
+
+Name: org/eclipse/core/filebuffers/manipulation/TextFileBufferOperation.
+ class
+SHA-256-Digest: r0mExZzELLkrdqTjKuisS1LHKbNX59NY2DLtoEpfmfA=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceTextFileBuffer.class
+SHA-256-Digest: JWzSqHnU0gS4IsURoyuZcos72JoC9BPk9u5rPfUZcqM=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$12.cla
+ ss
+SHA-256-Digest: d+K7IoRNcgMMajpi8dltcON+twqOk8p4R4Tsh/c6MvU=
+
+Name: org/eclipse/core/filebuffers/IFileBuffer.class
+SHA-256-Digest: Yn811zoGz0v+GOD4hXXhyMmP/Ejp4DJ5g7XHb651/dQ=
+
+Name: org/eclipse/core/filebuffers/IDocumentFactory.class
+SHA-256-Digest: cDIe3/RoPGk6NMk9RAf1Mchlt8y0GvwkiBK7EKK35fw=
+
+Name: org/eclipse/core/internal/filebuffers/DocumentReader$InternalDocum
+ entListener.class
+SHA-256-Digest: V/9KPJY67/qCifcrMGlxl/UzeB4vGu0/hxYof8noE0Q=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$1.clas
+ s
+SHA-256-Digest: g1QvKvjI4/R7UmTamyXnG9lBnWmRHfxp0vwz0PgKmXY=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceFileBuffer.class
+SHA-256-Digest: ZnMn1opPIKtpjf4nqooEsOOVXA4HbM63NUYEVN34rPI=
+
+Name: org/eclipse/core/internal/filebuffers/AbstractFileBuffer.class
+SHA-256-Digest: cdN6x/1JeQgt6sAt01/cFqiXQtFbIOe1eQzqh03USXs=
+
+Name: org/eclipse/core/filebuffers/ISynchronizationContext.class
+SHA-256-Digest: 8yh2aepU6m57mWLVMWb6uOfhp/rQWgPyWPGDsjbuSWA=
+
+Name: org/eclipse/core/filebuffers/ITextFileBufferManager.class
+SHA-256-Digest: gJFoPT8WZtiC+HBvnF/JrFs7LYqh3zpPSY+kqA1txYQ=
+
+Name: org/eclipse/core/filebuffers/IFileBufferStatusCodes.class
+SHA-256-Digest: +cwrAzp3fMJ+/BFpbHYX8bwpOOK3ddm61hGTe6+FL0s=
+
+Name: org/eclipse/core/filebuffers/manipulation/FileBuffersMessages.clas
+ s
+SHA-256-Digest: lQsqQoumuQBmFi2VaV8OqiBzidkZMchsNHwPSaAhWs8=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$8.clas
+ s
+SHA-256-Digest: 15Gfk58XZINskOTIQHINSLi4o2xJcs2trhMuUTJ2Fu4=
+
+Name: org/eclipse/core/filebuffers/IFileBufferManager.class
+SHA-256-Digest: TcRkuEU+CggDusdky8cbUFvHgyFDpwO/Q+4Tnzls5Ao=
+
+Name: org/eclipse/core/filebuffers/manipulation/FileBuffersMessages.prop
+ erties
+SHA-256-Digest: a0Ntabkh+MV8AqQDpLc5bdwCQGIF+96sLeN3oLTYBR8=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceFileBuffer$FileSynch
+ ronizer$4.class
+SHA-256-Digest: DTsiG0YXRWo83WG8gmmx2Z7LQnczAWIdGafYOsqt9ZQ=
+
+Name: org/eclipse/core/internal/filebuffers/ResourceExtensionRegistry.cl
+ ass
+SHA-256-Digest: 4oy6FBbpnKg56PblW3Zbg+djgXBNLz+qaPVlY0q9wCU=
+
+Name: org/eclipse/core/internal/filebuffers/ExtensionsRegistry.class
+SHA-256-Digest: J6ya2Kho6e7EM6EgEoT1HTKHfkwgJEfcjdpW/BRNakk=
+
+Name: org/eclipse/core/internal/filebuffers/NLSUtility.class
+SHA-256-Digest: w9rP+WpWwcEDWBjVGJJFtmbFfCES3ob7Y7LHC1RjZrc=
+
+Name: org/eclipse/core/internal/filebuffers/TextFileBufferManager$SafeNo
+ tifier.class
+SHA-256-Digest: lfFYJn/u6ebBW4DUVvOAGr/0NPc6yJHNBVOxMJnhLug=
+
+Name: org/eclipse/core/filebuffers/manipulation/GenericFileBufferOperati
+ onRunner.class
+SHA-256-Digest: RmSpKNvt96CRGonSdaF3pcz5MF65R1Q0Xm23iZsSD/I=
+

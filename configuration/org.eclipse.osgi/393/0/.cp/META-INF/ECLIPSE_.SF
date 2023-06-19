@@ -1,0 +1,230 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: +PFmo0W+diZvFNGha5ILr0KWPuJQ9Q7oxC+SPaJhF+w=
+SHA-256-Digest-Manifest-Main-Attributes: 4K5enbBJOuq0sRVb/n5+GCJ85a5qrnw
+ oz7c7kx83VO8=
+
+Name: org/eclipse/equinox/internal/security/storage/PasswordExt.class
+SHA-256-Digest: KC06t9QT7Iz9r3ciiEFB2WiL+sFiS/t4faPuLPtSGA8=
+
+Name: org/eclipse/equinox/internal/security/storage/PasswordProviderSele
+ ctor$ExtStorageModule.class
+SHA-256-Digest: VB9z+MxqqvVxeNnCoe7RaBydlmtMkYEkbQJv/HpfruI=
+
+Name: plugin.xml
+SHA-256-Digest: AiiGKcSxYmB79NP9zRs0smEj83VlnyaipX0xFhzwtts=
+
+Name: org/eclipse/equinox/security/storage/SecurePreferencesFactory.clas
+ s
+SHA-256-Digest: 6FMELsk0JU2l7wDkMRG64LdA7YlToPPH/ZpAtGn1k9g=
+
+Name: org/eclipse/equinox/internal/security/auth/SecurePlatformInternal.
+ class
+SHA-256-Digest: hZcIESoesTeFgaxoiEws0VQvc3plFhw0LFeSj1XvqJg=
+
+Name: org/eclipse/equinox/internal/security/storage/friends/ReEncrypter$
+ TmpElement.class
+SHA-256-Digest: lXW1CNaGnhs6UVbt/zWi4EsvxEnYO6LZ/SpbpkvLvzk=
+
+Name: org/eclipse/equinox/security/auth/module/ExtensionLoginModule.clas
+ s
+SHA-256-Digest: Bb61GCLsRSYmMJVxB3HyPLLlFyeBxsqn9o6fmCOTemA=
+
+Name: org/eclipse/equinox/internal/security/auth/nls/SecAuthMessages.cla
+ ss
+SHA-256-Digest: pbO/iBjM703YPP6lRuYsaniwiGp/3d89aXyK/DqRoJM=
+
+Name: org/eclipse/equinox/internal/security/storage/SecurePreferencesRoo
+ t.class
+SHA-256-Digest: ldOBdltdRNKp7ASw38K+F3n/rOJ61s2ywFx6w9E9sNc=
+
+Name: org/eclipse/equinox/internal/security/storage/SecurePreferencesCon
+ tainer.class
+SHA-256-Digest: UhqBsSG0b5Hho86ru2l87Pf7f+n4VPlC+6Q3YQueo2k=
+
+Name: org/eclipse/equinox/internal/security/storage/friends/IDeleteListe
+ ner.class
+SHA-256-Digest: M1NIZvY/d3vd/vpTjTVIdu1LXWGMsLHuR+MQGma4zfg=
+
+Name: schema/callbackHandler.exsd
+SHA-256-Digest: cReOZS8uULs/TllQgiFwaWrjes2cPKvnJYKD4M7qnKE=
+
+Name: org/eclipse/equinox/internal/security/auth/SecureContext.class
+SHA-256-Digest: TNq7c0sCHRSXjj8qEoQmdYKxX2aY6N9WCc+qOjH/tvM=
+
+Name: org/eclipse/equinox/security/auth/LoginContextFactory.class
+SHA-256-Digest: 1RLd8LUi+Gs5uVBt3mtiDlpQVUzQ5q+oThB39WKohPM=
+
+Name: org/eclipse/equinox/security/storage/StorageException.class
+SHA-256-Digest: BOaSVhawI5i/ma1s65W6qKVUljvlJRYnJQL/a1KBlfc=
+
+Name: plugin.properties
+SHA-256-Digest: hxS3RQT7AR133kdSZFdhjVYWykugvH2IY545h+iZBBk=
+
+Name: org/eclipse/equinox/internal/security/storage/friends/IStorageCons
+ tants.class
+SHA-256-Digest: DMwWOgAWRO7WchfkJKMh797njfAR3seRf0Rsw2SVnpA=
+
+Name: org/eclipse/equinox/internal/security/storage/PasswordManagement.c
+ lass
+SHA-256-Digest: BCvRPIVV7CCEey9GbrfNj48GPQYbCLDR0mAWOgbeZ0g=
+
+Name: org/eclipse/equinox/internal/security/storage/friends/IStorageTask
+ .class
+SHA-256-Digest: 4RIvZr4YrPalQjp8QZg0mDwKdKM+zuhm8Y8Uyp2XVhc=
+
+Name: org/eclipse/equinox/internal/security/storage/SlashEncode.class
+SHA-256-Digest: 61DpBgHfzmRZ02m5XVBb8QsaTVFyUPavU39/zdPTe3g=
+
+Name: org/eclipse/equinox/security/auth/ILoginContextListener.class
+SHA-256-Digest: K1nL+LMZeashnlb0PrAb3sAI3t0aELJSOnWhlvY8MMY=
+
+Name: org/eclipse/equinox/internal/security/auth/ConfigurationFederator.
+ class
+SHA-256-Digest: LRVFe2PX4r+Xq/UORgaOHI3+Thb8986ja/o2GKZMUVU=
+
+Name: schema/callbackHandlerMapping.exsd
+SHA-256-Digest: XcJ9WVfMgzIQQ3i/cSTfps23iSjH0R0qKOv7vQv3f3Q=
+
+Name: .api_description
+SHA-256-Digest: Q2dVM9x9B7NcAdE86ttit5BNlJeo3Tf+5I/RptoZJCY=
+
+Name: org/eclipse/equinox/security/auth/credentials/CredentialsFactory.c
+ lass
+SHA-256-Digest: Os4yY5JedbBLtC0J6YwuIpmP7akoV8jeffuFiOWhn5g=
+
+Name: schema/secureStorage.exsd
+SHA-256-Digest: zeEt9a/MDLc+v9jQbnbTO7KuonHE7d73fj+siR7ZtPk=
+
+Name: org/eclipse/equinox/security/auth/credentials/IPublicCredential.cl
+ ass
+SHA-256-Digest: DWOtuox54W+dCPAn2pfl7WkTNjs4A4wvXWO6IRS/zGI=
+
+Name: org/eclipse/equinox/internal/security/auth/events/SecurityEventsMa
+ nager.class
+SHA-256-Digest: 9jfnZF6mnFAkhyjz9FKYFTFOzfHiLsro8NfNkd0keWc=
+
+Name: org/eclipse/equinox/internal/security/storage/PasswordProviderModu
+ leExt.class
+SHA-256-Digest: 9pSLaTS9bGkTdxnKFF1KgGMXfDn6o7HkyilgEnv9zxM=
+
+Name: org/eclipse/equinox/security/storage/EncodingUtils.class
+SHA-256-Digest: hCUodMwRd86TNV0MdTFELZ/k8H/6haVrT+Futaa9dPg=
+
+Name: org/eclipse/equinox/internal/security/auth/ext/loader/ExtLoginModu
+ leLoader.class
+SHA-256-Digest: 1C/XCaQ+aWXV9gd10bJxMOObQdxUMe39yOB7wS7p0aQ=
+
+Name: org/eclipse/equinox/internal/security/storage/friends/PasswordProv
+ iderDescription.class
+SHA-256-Digest: ey/2ay5DZH6zTydu5U7vmbRC3oeKJcxAH7kQUyzG6ww=
+
+Name: org/eclipse/equinox/internal/security/storage/JavaEncryption.class
+SHA-256-Digest: QMog0cius/fHRcY/9OU4fdrysDPkQUuJjlG2ffRkhho=
+
+Name: org/eclipse/equinox/internal/security/storage/Base64.class
+SHA-256-Digest: utB8CLUPuX6LcSVemjYyVNVHR7heyzIUJzlg3Dz4CjU=
+
+Name: org/eclipse/equinox/internal/security/storage/CryptoData.class
+SHA-256-Digest: iYKYxqsIbABfv+Dcpn9oLZO/GIM+suKlEQThi2yy9JA=
+
+Name: org/eclipse/equinox/internal/security/auth/AuthPlugin.class
+SHA-256-Digest: 6peIARoVXLjeln8gL15/XQV1RgF8x05xAMHHWpISRxY=
+
+Name: org/eclipse/equinox/internal/security/auth/ConfigurationFactory.cl
+ ass
+SHA-256-Digest: EgSa+MoSikQokscnA9Q86Y/zkD9PDilAP/M51VIWBqs=
+
+Name: org/eclipse/equinox/internal/security/storage/friends/ReEncrypter.
+ class
+SHA-256-Digest: sCznyfmXB/hxHnReFTUBsBpIz8IO9P46B/z4bdmFc60=
+
+Name: org/eclipse/equinox/security/storage/provider/IPreferencesContaine
+ r.class
+SHA-256-Digest: LG3LCcl/edOsFxVNFb6ZnMaKvGeWvZb1FWqRBOWn9DU=
+
+Name: .options
+SHA-256-Digest: 1EMUdEaTGxNIcBzXd90SN+JOIhfSAK3dIAa9tdXwxTw=
+
+Name: org/eclipse/equinox/internal/security/storage/CallbacksProvider.cl
+ ass
+SHA-256-Digest: whvXqBCNNtm3JmlK9ESzVhZUn9jhBQNWZ82rsimN3eg=
+
+Name: org/eclipse/equinox/internal/security/auth/ext/loader/ExtCallbackH
+ andlerLoader.class
+SHA-256-Digest: lTbMRoVFSxV3nld+Pcg1WbX/lfwcIEOUMMQfv3DqxzM=
+
+Name: org/eclipse/equinox/security/storage/provider/PasswordProvider.cla
+ ss
+SHA-256-Digest: KPODgqp7+T6vagY7a5zHmvyAPvqgvtO3CbPw7nnXygs=
+
+Name: org/eclipse/equinox/internal/security/storage/StorageUtils.class
+SHA-256-Digest: AKzRdrFk58jxvo2WwYKw1YQOSy/Yd6lOnLq2H2mgn8w=
+
+Name: schema/internalUI.exsd
+SHA-256-Digest: lKyhZZrVv/peCaKhUnFx0SpfP6pIzuoPDhqgQ1SaRZE=
+
+Name: org/eclipse/equinox/security/storage/ISecurePreferences.class
+SHA-256-Digest: RiGhp9C1+5ug3hc+wXmjtUJJxICxkzrOy+gRcv9BCb4=
+
+Name: org/eclipse/equinox/security/auth/credentials/IPrivateCredential.c
+ lass
+SHA-256-Digest: P8YMlsFUPw80Mp4uFaeMZpdlrJPf4J64RnHq7wVSyDM=
+
+Name: org/eclipse/equinox/internal/security/storage/SecurePreferences.cl
+ ass
+SHA-256-Digest: QlBQyWhQ27dN+QyfS80J96egeD8/jL+wgWIRGXJlaN0=
+
+Name: org/eclipse/equinox/internal/security/storage/PersistedPath.class
+SHA-256-Digest: 0C/kLV4CclT0dA1LI/ARe0rEJs9YqpxyB33rsIw6dxc=
+
+Name: org/eclipse/equinox/internal/security/credentials/EquinoxPrivateCr
+ edential.class
+SHA-256-Digest: 9GbiZzKcEOw8C7e45hqxXtY8ac6jQ895ZuM1PSfGGO0=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/equinox/internal/security/auth/nls/messages.properties
+SHA-256-Digest: ArYCHnchpLuMdk24pcNaKWp6X48f9cZwFn4DBaKeZ7U=
+
+Name: org/eclipse/equinox/security/auth/ILoginContext.class
+SHA-256-Digest: hSRePnzQyeUy0CJhNqpHQGPVIOhh93IxyxCy/fd4hYw=
+
+Name: schema/loginConfigurationProvider.exsd
+SHA-256-Digest: g+Ymj1bTxXzz3jyWWinR+NbrEFaXYK5gzw/Hqg5xKd8=
+
+Name: org/eclipse/equinox/internal/security/storage/friends/InternalExch
+ angeUtils.class
+SHA-256-Digest: JUh1ET9zDHSItlNiQBXsUM5ULlW33JSWUg4rEdg69qA=
+
+Name: org/eclipse/equinox/internal/security/credentials/EquinoxPublicCre
+ dential.class
+SHA-256-Digest: SA/IBhAGOycadAtxxQ5REiBNf4mW+sMilRpUMMwq36A=
+
+Name: org/eclipse/equinox/internal/security/storage/provider/IValidating
+ PasswordProvider.class
+SHA-256-Digest: 3XJhuK+xPTQ9IvwPl1YHZjTxOudjRcfsohmjn2G6Y4g=
+
+Name: org/eclipse/equinox/internal/security/storage/PasswordProviderSele
+ ctor.class
+SHA-256-Digest: QQFcTgPuZaEDyjsHghUR7pMR/T0dfOG1OC43GVzkMzc=
+
+Name: org/eclipse/equinox/internal/security/storage/friends/IUICallbacks
+ .class
+SHA-256-Digest: FewbuQJcyL9JKUby2dXc7wxFNFSknDWEMKfHI9IvRxE=
+
+Name: org/eclipse/equinox/internal/security/storage/SecurePreferencesWra
+ pper.class
+SHA-256-Digest: AEv17aZ+5jxZOZmFIOc2WGa+ePoKx9Hlt0gAxYoTUrs=
+
+Name: schema/loginModule.exsd
+SHA-256-Digest: 6HtGP1SdS9NJYSuB95j2JRl1Nu1WjrTAr5qu2FygqUI=
+
+Name: org/eclipse/equinox/security/storage/provider/IProviderHints.class
+SHA-256-Digest: /kycTxannfV2Iu9/YBu+pmeO5I8f4ND6DMNIDY6IFkI=
+
+Name: org/eclipse/equinox/internal/security/storage/SecurePreferencesMap
+ per.class
+SHA-256-Digest: kKZ5LAna3z9nlNi+gb96o0ZmHdvGLao04iHauia7II0=
+

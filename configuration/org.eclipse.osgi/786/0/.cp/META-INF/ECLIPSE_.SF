@@ -1,0 +1,950 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: sa1cf7dtc6MkexSM1R65iKrtu/lP+n3idRfBuqzFj9s=
+SHA-256-Digest-Manifest-Main-Attributes: PTJcdxOfKI8NhmGSYc9DhfoH3ZRJOGI
+ HX4QPtudITrY=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectT
+ emplate.class
+SHA-256-Digest: XEsLshH9cB0t5q3uJ3iZ8HqrABmlTsZdu8hQszgN/MY=
+
+Name: plugin.xml
+SHA-256-Digest: BY2BJfYZnEzwBDTKM5r/iekPJs68qlNHJFzI+vdlW2E=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/LegacyLi
+ stenerAdapter.class
+SHA-256-Digest: PHjvT02pS7Br9vrHS5QRJOCNIp7TtFaN/771If2FjXI=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ActionDefinitio
+ n.class
+SHA-256-Digest: mkN+XLIta2dFcno2h/3PPA3vIvK2MwKzNTCVZg5aiKQ=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/Versionabl
+ e.class
+SHA-256-Digest: zb2y8R+mUnuqi036feKrWwwF//lOXjSO/WGMy6O8ZNk=
+
+Name: org/eclipse/wst/common/project/facet/core/events/IFacetedProjectEv
+ ent.class
+SHA-256-Digest: SyqZVUUoToWOQI1rpseeW0GblFBTuTPB9UGBsdJuYJc=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/IRuntimeComponen
+ tType.class
+SHA-256-Digest: hq3I9U6fikuEIeinY9UawAGh7AHQNmCP+aJWUROVKEQ=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/Constraint.clas
+ s
+SHA-256-Digest: 8SwiiMs+zXLrLrCMomgnYv4HYjNjVtLvh+fxk0KHJCY=
+
+Name: org/eclipse/wst/common/project/facet/core/MinimalConfigurationPres
+ etFactory.properties
+SHA-256-Digest: IXhm5fvh5H+Clzni+j9gXVyxhwK6eP29lLYuHsq8wVU=
+
+Name: org/eclipse/wst/common/project/facet/core/IFacetedProjectTemplate.
+ class
+SHA-256-Digest: 78gKbrIQJt8BMztJjd9FltgKoLYKjXzNFaFD7hcSd+s=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/events/IValidati
+ onStatusChangedEvent.class
+SHA-256-Digest: xBwGYcLDy3YKEQCjGIAcph8ZRob9aEJ2KX/paVi7084=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/XmlWriter.
+ class
+SHA-256-Digest: g5cPmsjyjaynIElRwTcjzQg89y+CqPPnJYLBQ52YlP8=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/Collection
+ sUtil.class
+SHA-256-Digest: ZX7l/TOm3qxWZTlhL4qnvKwF3Io0cZ5q2mBjKP8fZbU=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacet.pr
+ operties
+SHA-256-Digest: rgh7ImM4BJ6OVml6gA4/WAULsFolYoMCMo1QWUzqoAc=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/EventsEx
+ tensionPoint$Resources.class
+SHA-256-Digest: xDe41fW/pvHs6sHekjxvzFT3EtUHOlIfHeeUtNOZigs=
+
+Name: org/eclipse/wst/common/project/facet/core/util/IFilter$IFilterEven
+ t$Type.class
+SHA-256-Digest: jpotD8z7H/aG2mLk0G8ofYT10Gs+0tFl1ZHDd9Nteqs=
+
+Name: org/eclipse/wst/common/project/facet/core/IPreset$Type.class
+SHA-256-Digest: qogyBEgWw3XyI8e5jTMrhjicF3psQ4Ga8ZamBwPxMnA=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectW
+ orkingCopy$2.class
+SHA-256-Digest: aKe4ifNgvBDfZHo3V+Jzc40GfT5epJPw+hy7Va/Pp5w=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/DefaultFacetsEx
+ tensionPoint$DefaultFacetsExtension.class
+SHA-256-Digest: dMDdpW0PK5UNlqEzd8u9jS93rxoeW2ChawbdTc2mTNs=
+
+Name: org/eclipse/wst/common/project/facet/core/events/ITargetedRuntimes
+ ChangedEvent.class
+SHA-256-Digest: e7P1NFFdbIq+maZFN7DT8Y3uExMGjE4pHCvrwRGhnRo=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/VersionExp
+ r.properties
+SHA-256-Digest: 5o5KMA7qGQG7X85YQGSKoSguWTkCvUe3RX0YcHzbFCs=
+
+Name: about.ini
+SHA-256-Digest: POTpR2hbtzEzDx6SirbFDF2TgBR35gFuJJYKmII1s2U=
+
+Name: org/eclipse/wst/common/project/facet/core/IFacetedProjectBase.clas
+ s
+SHA-256-Digest: FasPP3e1Abpe6EcyscRS+S9DM2q6WbyRxopYD5PWtIU=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/PresetsExtensio
+ nPoint.class
+SHA-256-Digest: 8WwJEfcdNvc6HnvpPBNQrMVA9CkCS/yQRVd6tphtPas=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProject$
+ 2.class
+SHA-256-Digest: Yp8qUJGZJybS7a4bCGOCDPJsp/KCQLuVZjxLJxxYZaQ=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ ManagerImpl.class
+SHA-256-Digest: pq1dnloDDI6bHJGSB28pkg8Mk+VzBotuuv4ZHUQaW74=
+
+Name: org/eclipse/wst/common/project/facet/core/util/IFilter$IFilterEven
+ t.class
+SHA-256-Digest: 2lOuhM/xAmjOZWwE5fhkFD98+GtR/AinRIqqkWty260=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/FileUtil$1
+ .class
+SHA-256-Digest: IsNkPKgoTLhNO8Cmaq1J4jGneWYfU4pHY8GQ0kS4uyw=
+
+Name: org/eclipse/wst/common/project/facet/core/MinimalConfigurationPres
+ etFactory.class
+SHA-256-Digest: 4Dt+yRCl+uf1DRwI6islphgAQQOHE+Glm1MxmDVc/TM=
+
+Name: org/eclipse/wst/common/project/facet/core/events/IFacetedProjectFr
+ ameworkEvent.class
+SHA-256-Digest: zf0p9X5PFHxDJdMoe1d1oLzkc4IEcdKzZCqlTkuQfpM=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Abstrac
+ tRuntime.class
+SHA-256-Digest: yVvHyUlqlv80XtlCDWjbwQ6Gv5ulAQpumfCOWpDo5Sk=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/ZipUtil$Re
+ sources.class
+SHA-256-Digest: /YlY/Nh39fjESHXf73Ugu3+De+OKxnuwHfv274zy5g4=
+
+Name: schemas/defaultFacets.exsd
+SHA-256-Digest: ThroJslW/eUITjKzrs8j01XKCv1RyYNVRVsfks+1e6E=
+
+Name: org/eclipse/wst/common/project/facet/core/DefaultConfigurationPres
+ etFactory.class
+SHA-256-Digest: ml6EjUw55Km4uiumJNO02D6IO+wEO1sOJhgXL794kXk=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProblemLog$Reso
+ urces.class
+SHA-256-Digest: ZPSqyCCxbp1/PMIchz6zF28jQd9XU6G0JsBe2+KYhoI=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/FixedFac
+ etsChangedEvent$FacetComparator.class
+SHA-256-Digest: lmGnHynGT4ABUYQmK+AqtPKXPszvr+S1HgS2YyWJZnQ=
+
+Name: org/eclipse/wst/common/project/facet/core/util/IEventListener.clas
+ s
+SHA-256-Digest: FUfRTOQUgNPV37eaB5422O3F+r/NMXq0QTlh6iFXUR0=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ ManagerImpl.properties
+SHA-256-Digest: cYeZuw5G9KG03IOSzf2cyaSmKM3RHhuSdIkVkueNcfE=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/FileUtil.c
+ lass
+SHA-256-Digest: SDboTOqhUtGPpEuKVg8MPp602bz0ZovKtXUwv/cwnOo=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacet$Re
+ sources.class
+SHA-256-Digest: LzfS28IVfFnUwgSAWiLiEUpBwnrzCqoW09UMIVPeqZc=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/PresetsExtensio
+ nPoint$Resources.class
+SHA-256-Digest: PJ5SkGrVt0WhLL1chpz7JjyLIiGemTUhte97/lG6x+w=
+
+Name: org/eclipse/wst/common/project/facet/core/VersionFormatException$R
+ esources.class
+SHA-256-Digest: kpb0faia8QEwCdglMgIfCycb9AhbaMwqwZ23MPxdTkg=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacet.cl
+ ass
+SHA-256-Digest: P0Ory82k8RgZH86ohDUBoyCVFpGF+GuTH+VkTZ3iKSY=
+
+Name: org/eclipse/wst/common/project/facet/core/PresetDefinition.class
+SHA-256-Digest: U+DIc26lmkcMWbW9eUqCpGqfCCnbZ3nlcGuB9nVw1d0=
+
+Name: schemas/facets.exsd
+SHA-256-Digest: FlvbcNyMjjwRFk+0IQsIVI5/mn/CMHEBMWH3DzhZJW4=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/events/IRuntimeL
+ ifecycleEvent.class
+SHA-256-Digest: FOS8v49pvp1UCCEYlzLxf9dqLQfhjrUe2OTosxl/2f8=
+
+Name: images/wtp-32.png
+SHA-256-Digest: /lIQL3gTD9xP2eU0crcut67HXRzZvd/uIi8Q+lcYU2M=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProblemLog.prop
+ erties
+SHA-256-Digest: Bal02YMPlCaSZolLOCvQGrXk+knzM6yYJgaP0Nj2T3I=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectW
+ orkingCopy$1.class
+SHA-256-Digest: vyilg3IIR1wVOGT0XHIQmuuWLLSTXPLmZ3vA3YkAKVM=
+
+Name: org/eclipse/wst/common/project/facet/core/IVersionExpr.class
+SHA-256-Digest: WaocrOmQTbOgDlGhoPjwO/rkg1NhOenMNSKk0v6y/Tw=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/ZipUtil.cl
+ ass
+SHA-256-Digest: RJn1YMU/YUs1fsk5C+Wf25FY2Nl0mGKnJsw+iv3dtXQ=
+
+Name: org/eclipse/wst/common/project/facet/core/DefaultConfigurationPres
+ etFactory.properties
+SHA-256-Digest: 2NU0euOwol18n3hU/pmRo5YBswlJuaNHBYz7uPx3244=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/IRuntimeComponen
+ tVersion.class
+SHA-256-Digest: 7gBQVVYpQCZ9pkhLvNKNqo+xAPYCzERG+Yt5Et1Jkc8=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/AbstractLi
+ stenerRegistry.class
+SHA-256-Digest: XIubXSuP0uozMBHJTmbYTZACoeXwnBNoQ8W/qW4fqP8=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProblemLog.clas
+ s
+SHA-256-Digest: RiNVdwLpqkt22fanKcMyY8XYHnSQC5xiUe9/al3vD28=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/UnknownVer
+ sion.class
+SHA-256-Digest: meR+LvqjzWH6EQnZMrIy5uzlIGApIOOFIWxBEfcRp1w=
+
+Name: org/eclipse/wst/common/project/facet/core/events/IProjectFacetActi
+ onEvent.class
+SHA-256-Digest: QKDsomxf8QnDNdTPgv+CeaNau3yLjTRPduHxadpAinY=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/Group.class
+SHA-256-Digest: 34eLRPzvtw1etREY7lXkTOFn0FVEoxI4X8lMsQ1eGa0=
+
+Name: org/eclipse/wst/common/project/facet/core/events/IFacetedProjectLi
+ stener.class
+SHA-256-Digest: 1/v73UCc3L3hvs/0x8+9mNFyERC56RAE3ctVZ17A2iw=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectF
+ rameworkImpl$Resources.class
+SHA-256-Digest: g0OV6vcEmOHfW4/nVIOYs6mWEUwGq7dUcG10JZy/nVM=
+
+Name: org/eclipse/wst/common/project/facet/core/IFacetedProjectWorkingCo
+ py.class
+SHA-256-Digest: 1CPHSz8dNIWapUmf4PJbKviXqClVIzlnWaf81Dl+sto=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/PluginUtil
+ .properties
+SHA-256-Digest: jdU5O4QohjU8+zZcsl70bjWuMPacc/wqMhCpK9/5OCw=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProblemLog$Prob
+ lemCase.class
+SHA-256-Digest: casf87KWYnUqS6WmwoTLdFMijuuHSS9NmwfzIy4o7Tg=
+
+Name: org/eclipse/wst/common/project/facet/core/FacetedProjectFrameworkE
+ xception.class
+SHA-256-Digest: +g6MyxY8HiqHAS8c+dVk2F43OboAiFnLiUfxJ5zWb6M=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetGro
+ upsExtensionPoint$Resources.class
+SHA-256-Digest: 3umV0KlVHeQ4XDSWx6iCKm39itSEBzePxPbDchJqvGE=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetRef
+ .class
+SHA-256-Digest: xuJcFwdnyvKN6j2OCJ2F+BTF2MiYfcu/QkyFp9gJK24=
+
+Name: org/eclipse/wst/common/project/facet/core/DefaultConfigurationPres
+ etFactory$Resources.class
+SHA-256-Digest: zPjnkaEZb8zV6yUVjiTaem1T9l1kJy3x2i8E4u80jmo=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/PresetsExtensio
+ nPoint$StaticExtendingDynamicPreset.class
+SHA-256-Digest: kA1HNgtPlQcPv2N882rG/7f8N3pEuGuo/AUEPcdLDaQ=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectA
+ dapter.class
+SHA-256-Digest: 0sqWoVqE24YFEahRnnLvvV8LSJLVSGDIMWTU8Ssdp4I=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProblemLog$Poli
+ cy.class
+SHA-256-Digest: Fs0Z0hdNU9xOchvdJL5Ye6XVRXyczzVIMUzlxu3B0Bk=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProject$
+ 1.class
+SHA-256-Digest: nkUH2d7Z/uvS+2RYrpzLDgNruLfwuiFYI1GzQrxnVdI=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/XmlWriter$
+ Context.class
+SHA-256-Digest: WV5i3Vx0C124hT4Tqx/I/vaDqDBriM+KH97VTvTKkUo=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/ProjectM
+ odifiedEvent.class
+SHA-256-Digest: rXZGkzyGLVEm9WZof+gPmgTTZ87Xf64vhXpE7bB0MI8=
+
+Name: org/eclipse/wst/common/project/facet/core/IProjectFacet.class
+SHA-256-Digest: En0wTAQWFQuLsornJZ8q+AgCyGPMh8TrAdVy3C+G7+c=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/Versionabl
+ e$Resources.class
+SHA-256-Digest: EA5RzYxDxeVFldUUYFzIn8cns+fM9kL12Ui1QlUeigs=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/events/internal/
+ ValidationStatusChangedEvent.class
+SHA-256-Digest: 3ZC6VEp4G3lxRa4zFu8hICId8YO7snpNzLUJFqpmQYU=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/MiscUtil.c
+ lass
+SHA-256-Digest: O3lopofAMDfXKj1/vsLeJ640Jx3xxAH8N19kg42F6RQ=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectW
+ orkingCopy$6.class
+SHA-256-Digest: o5QHUmX9+G5ZdTSJBR8fsyEm9C3kYu3wGaFOx2Jxi1Q=
+
+Name: org/eclipse/wst/common/project/facet/core/IRuntimeChangedEvent.cla
+ ss
+SHA-256-Digest: sGjmjo9DtbpyO1MK5Rl4l0dkLiIgbYIw7znctoLTmew=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ ManagerImpl$Mapping.class
+SHA-256-Digest: kn3kWfXezM+vqixwsCSEg27GjmsafXOETyY9GNUlTf4=
+
+Name: schemas/runtimeBridges.exsd
+SHA-256-Digest: 1h67ahRm7WmIh0kXAsGaW37Hxepbn4HRV4opu3XBCv4=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/IRuntimeComponen
+ t.class
+SHA-256-Digest: o4acyIIzzUnoTR94PhZB+UTxPeG738jQQ6cYyEOOPAU=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ValidationProbl
+ em.properties
+SHA-256-Digest: ps+JDdUc2TWq67hfv1NGjqjbMu9LdzXPeTEyY3grFyc=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/UserPreset.clas
+ s
+SHA-256-Digest: BZ8v/li2N9A7PXavayiEGl29Na+MIraZaHKnYTooM+s=
+
+Name: org/eclipse/wst/common/project/facet/core/IDefaultVersionProvider.
+ class
+SHA-256-Digest: 2UNHNdoCnc54m58YDqGOZcpt6I/1NGuSdbpFmPQEsxo=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/Collection
+ sUtil$1.class
+SHA-256-Digest: znP4GhvKhIIhTCl1D9nVC1mtJEX2DEz6uSBM11YTZGU=
+
+Name: org/eclipse/wst/common/project/facet/core/IActionDefinition.class
+SHA-256-Digest: jJcAhXPG5ZXChAW7hTxB5KNG4B+aWS4+xasOmFi7NHk=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/DomUtil$1.
+ class
+SHA-256-Digest: q7UEap/iKbcCVPWUjNsi1Dqs6BrIsfEHfVrspUDF65s=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/LegacyEv
+ entHandlerAdapter$RuntimeChangedEvent.class
+SHA-256-Digest: 95KIVryn7d6XkW6Rdx/bsUDKs79eI61K8ux4M6b3Fxc=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/XmlParseEx
+ ception.class
+SHA-256-Digest: pPQ2/wxPL9sMyrl9L8OOnmlU6r5wISWj8NLe18woLoY=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/Category.class
+SHA-256-Digest: bebtxvOHrrZHEFvGEG/2pp8zTB0/99+9mIFkgiZ/jmk=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ .class
+SHA-256-Digest: 5sBBvGm2LVD3gnA1NeW92iH5zDArHng5Wt4v+lqdJqo=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/DefaultFacetsEx
+ tensionPoint.class
+SHA-256-Digest: p+aO+5q3L/3AvohHGhulcMkl6swmqv4hyYVUrIPeY00=
+
+Name: schemas/aliases.exsd
+SHA-256-Digest: Rg8UxkFcsXWra157uuvA4wWaddeezbkU5Tn2NVbFtPk=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/FixedFac
+ etsChangedEvent.class
+SHA-256-Digest: EPMpJ+P44M+NZOyzanTO3rvj2Rlr6tKdj4o4ZS5ooSQ=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/Versionabl
+ e.properties
+SHA-256-Digest: P3vHlJ0yGA/q3cctPwrA1e2MZsmY9dhbjzeZjgQAwZY=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/events/internal/
+ RuntimeLifecycleListenerRegistry.class
+SHA-256-Digest: RhSNmvFrK7lpLXzTk3Q6NnAVPOIPpNs3qrDrPXg6ULE=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/VersionExp
+ r$Wildcard.class
+SHA-256-Digest: SZfWbeOKl2aqhZYomn8AB69mvzTeV5Mn6zjGshlxsf0=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/ProjectF
+ acetActionEvent.class
+SHA-256-Digest: QKp/KBy+tq9XthoKO54bg0iJrUpsqZuzAqGmy6ANYkE=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/DomUtil.cl
+ ass
+SHA-256-Digest: NJlyGgq/nuFr1bIfJ0MCzCFAjCJQPzCAIMJWA4NjwrU=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ ManagerImpl$Resources.class
+SHA-256-Digest: 9X5KpE7at3x5qWuK2RtuqRwHRpM85E6RFMQ1OWjN6mg=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectF
+ rameworkImpl$ResourceChangeListener.class
+SHA-256-Digest: L64LjWzNieuaTMs+s+V7KHRQd28HKf7i2j6FvOpfkQ8=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/PresetsExtensio
+ nPoint$DynamicPreset.class
+SHA-256-Digest: AMCNE24s9ua5GqGx742wQnwJnsgnqXIQzesW+OlINpQ=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ ComponentVersion.class
+SHA-256-Digest: Db0fHQTLaraBs73S1YyjL3fyVMYYT4/uYiOv9UZGc3M=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetVer
+ sion.class
+SHA-256-Digest: SHEMO8Ef3pUGFamTuqnzm6Xuc3cd4k+g9ucqYrvuP/w=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/DomUtil$El
+ ementsIterator.class
+SHA-256-Digest: Kk8T/6whmg0Ywz30ue9s6Z0fTZKAOjBxxpTmnFedNLo=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/Versionabl
+ e$1.class
+SHA-256-Digest: oUYS0nwHt0U7iEiEinO2kF0fSTEbkCMVWNLuOanbcHw=
+
+Name: org/eclipse/wst/common/project/facet/core/ProjectFacetDetector.cla
+ ss
+SHA-256-Digest: ZO8Lnc831eatPESgiD7W423rHRyCzmwDD5DuDZD7lYo=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetRef
+ .properties
+SHA-256-Digest: PRJjw2q6Hd/3s2BkIIRpvetrQXT11Cw3bh3hPhzGjmg=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/Targeted
+ RuntimesChangedEvent.class
+SHA-256-Digest: d4IPC/Prw4+YQAOjCZSvDfm2opcmxtefPrsyxw5/SrQ=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectW
+ orkingCopy$4.class
+SHA-256-Digest: 80FF+UtPDudtkj3aOM5SsgTg0B70nheuFvGOoYnM8nQ=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetAli
+ asesExtensionPoint.class
+SHA-256-Digest: dLPkVflKLXDYuldkXtiEWVGdQTksDK3AdlaxlX8Q5Gw=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectP
+ ropertyTester.class
+SHA-256-Digest: Ze6uPXBeOHa/cTkkk59OFg3kHebNZf+RnQnBBIzdlUc=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/Constraint$Reso
+ urces.class
+SHA-256-Digest: FQiATPU9+BuhyjBzD/9iqD7kKvPQCNsa9b1IdKPxsUM=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/ProgressMo
+ nitorUtil.class
+SHA-256-Digest: tmqTCxU04H5Uo+zWFGWTpUS+EvYxul8No1lmFhI6Lis=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/PresetsExtensio
+ nPoint$StaticPreset.class
+SHA-256-Digest: XRQrpJJZqIVroht5B4vm00//NkHFA+ADt5RPnnnf7lA=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/IRuntimeBridge$I
+ Stub.class
+SHA-256-Digest: uTTzm4bm8xKcoiwWSk04ZbgxSvYvIqvzA6ngpYmbfl4=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/events/IRuntimeL
+ ifecycleListener.class
+SHA-256-Digest: 6f2yMHMpgkEcr6WWVDKPszrHkYoAu0ilrnYaZjuHOZ4=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/events/IRuntimeL
+ ifecycleEvent$Type.class
+SHA-256-Digest: rm1wcWZkHaSiZct6BpZuySK4FqsJxRJERsvzLVPOQJo=
+
+Name: org/eclipse/wst/common/project/facet/core/util/IFilter.class
+SHA-256-Digest: PYOJgpszyhF12vvn1cM0+3MHNfx2iNgymzO7TnXX7Qs=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProject.
+ properties
+SHA-256-Digest: EZmax1ocsFEES8QbQ3mHDqMyNO6RKGHy6WXOgAg5GO8=
+
+Name: org/eclipse/wst/common/project/facet/core/IFacetedProject.class
+SHA-256-Digest: VvlFrOVSGqkYYlnjE3qwjO+T6N8jvPhYaRumGszxnRk=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ ComponentVersion$Resources.class
+SHA-256-Digest: KhiGp6yvbWjTeYIk8kmYB5tzo7GcDis5nm9MSJhRBqQ=
+
+Name: org/eclipse/wst/common/project/facet/core/IFacetedProject$Action$T
+ ype.class
+SHA-256-Digest: PFoA6oXpxPeZS37M/hme942NAPOFwLl5Xv+xi9hAjg0=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/EventsEx
+ tensionPoint.properties
+SHA-256-Digest: TQwwoO1SzLjr774HglraxmjGcsK3Z/xqcNXkb1NCGb0=
+
+Name: org/eclipse/wst/common/project/facet/core/ActionConfig.class
+SHA-256-Digest: eeJLjdIfNn1z1XovGzmw4gojFY+cZLjtPvj2kWtobSQ=
+
+Name: schemas/validators.exsd
+SHA-256-Digest: P3RIvUNiD0V7tGSvjScU4mw8y5bKRVh39fVzyLLkfwk=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/IndexedSet
+ .class
+SHA-256-Digest: bivHXebNFHDQex8QH2Mu4wwGOwnvwQNGTNzatfbRsmo=
+
+Name: schemas/detectors.exsd
+SHA-256-Digest: WJ5S7puoXvqVOEdmn6K7M6SLtQutdApheT+Kpu7Ck4U=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/ProjectF
+ acetsChangedEvent.class
+SHA-256-Digest: jT+btmR+h2JxJ3rpZho39t3gg2EypOPpaDqqNmD485o=
+
+Name: org/eclipse/wst/common/project/facet/core/VersionFormatException.p
+ roperties
+SHA-256-Digest: Ch2LcuYK7lGTbfBpC/gAm/yCFnUU4WARDQZ3VYvpGgg=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectF
+ rameworkImpl.properties
+SHA-256-Digest: mMde+WDT67ik0CvE5cbpbymTNMpp4pH9MfOhIuMlLFE=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetPre
+ ferencesGroup.class
+SHA-256-Digest: MbZlVzoT/kwwePosVkJVYOaFWouCMFZ8dd6dq+NjNiM=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Bridged
+ Runtime.class
+SHA-256-Digest: H+SXYCAOBC5vpcbK8zIA/60ChQWzIPEKmsYCYspntYo=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/LegacyEv
+ entHandlerAdapter.class
+SHA-256-Digest: jCQ2V5BZbl62E5bo3i0J99okWpT4xTqba/rwR9bf8PY=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectW
+ orkingCopy$3.class
+SHA-256-Digest: dQXxqITpQP7sn9VNia8OQS8zghcPcm/Cr7V0332LWUQ=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/IRuntimeBridge$S
+ tub.class
+SHA-256-Digest: 7MF8egfLkJlv/KZ+KVj6vBb7GiwD0jVN5b1obrdDGP4=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectW
+ orkingCopy$Resources.class
+SHA-256-Digest: 5BMlk99fIt6NiADuyUtOi7p0pFIo92T2Xshzb+DP6bI=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectT
+ emplatesExtensionPoint$Resources.class
+SHA-256-Digest: qNfID5cklub+4STyW2wpk8nk8uF3bU07onO6XS/4TwE=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProject$
+ 5.class
+SHA-256-Digest: 4rkRTelvTWGbHd81RGtz9amNr1KBsa4ViRUohyQCgkA=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/PluginUtil
+ $Resources.class
+SHA-256-Digest: CEgwCTlY8jFoF7V3g/cDxr1eqT4hQyfvwed7YS1lnvc=
+
+Name: org/eclipse/wst/common/project/facet/core/ICategory.class
+SHA-256-Digest: Nmib8tcCIk+w3Caev2BYQJBZGPCv+fDT0kec0Nf42vc=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetDet
+ ectorsExtensionPoint.class
+SHA-256-Digest: 5WlF9KT+UzztkSNMUChdxPjICsMvNvzrC0ACrA4R4Mg=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectF
+ rameworkImpl.class
+SHA-256-Digest: DtysV42aVv8U5LK9jYppykeDcGDSYHEe/7FF7Zs4WBw=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/VersionExp
+ r$MutableInteger.class
+SHA-256-Digest: b0vAHHv+girkrFJ37QH0Xk+bBSqCL4+uk4RQgqWhTcs=
+
+Name: org/eclipse/wst/common/project/facet/core/IFacetedProjectListener.
+ class
+SHA-256-Digest: QotSSrpj9qxJ+LSDtcQzd+omcd1sy9SXs9kYYVB9yCU=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ ComponentType.class
+SHA-256-Digest: 2s61+int6bnqUyvLPY3zXUJA8bPnTximGVcPRGIR3GI=
+
+Name: org/eclipse/wst/common/project/facet/core/IListener.class
+SHA-256-Digest: QLJtMb/1AoLk5VvfHJtg2AVbE5NWhk1AtXnCPUZLVlg=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/Constraint.prop
+ erties
+SHA-256-Digest: F2cpraNR5+vQ19xgY7Dk0q2b7Btgck/P+j5sy3BisYU=
+
+Name: org/eclipse/wst/common/project/facet/core/events/IFixedFacetsChang
+ edEvent.class
+SHA-256-Digest: 5mR4lySOUMn4PPtpssElcReRKifZMoGBoBPkUqy5/SE=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectW
+ orkingCopy$5.class
+SHA-256-Digest: NG0h7so4IBEWPE+pSovvc1Fu5CeLRr+vI2S7zGEN8Vg=
+
+Name: org/eclipse/wst/common/project/facet/core/events/IProjectFacetsCha
+ ngedEvent.class
+SHA-256-Digest: s+fYPLi9Rvr7kXGzhA3KRyX5Rws3mNxBfu+fvaInAOo=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/DelayedC
+ lassLoadingListener.class
+SHA-256-Digest: qb8ZSIIqAlsBKuBnoLOmeNbqDGDNCVlFnOOUbouEg1A=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ Component.class
+SHA-256-Digest: Y2+qONpW1ChrqRS9VR1VkckIn6B9VPwTjs1rkPjC+w8=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/ZipUtil.pr
+ operties
+SHA-256-Digest: X2VoKLT5LPLsKOJstRokaueVqIa4aiTALP7iTrsXawI=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/RuntimeComponen
+ tTypeRef.class
+SHA-256-Digest: VELjI9VvaVkmcidp58B8gLxQW2ij9UkoXiT1PNh2e8U=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/PluginUtil
+ $InvalidExtensionException.class
+SHA-256-Digest: wnkuLihETotGwAJ6j7HC9sgUYKNaviGFW4SGOmdLSjM=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/XmlUtil.cl
+ ass
+SHA-256-Digest: SE2S56f6/i0M/k8TeY/H2eVU1Dz4Buw7sgMNpURZIMU=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetVer
+ sion$Resources.class
+SHA-256-Digest: PhM9KYs0GZkNAOvgz602cDS14lJAZga5h2gsXmmxnVg=
+
+Name: org/eclipse/wst/common/project/facet/core/events/IPrimaryRuntimeCh
+ angedEvent.class
+SHA-256-Digest: XVkkNVg8sFL2XNfs7gcQv9gR3oh6lEIHQPIawn6lP9w=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectV
+ alidationBuilder.properties
+SHA-256-Digest: JQvAg/5bdm9tg7bvT2UdHze8RT+AlcLjWhvU4PKfPHg=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ project.facet.core/pom.properties
+SHA-256-Digest: RNvkKvUN+YSh724U+x+CO8faFtG5m5LavHF2V3i2HGk=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/PluginUtil
+ .class
+SHA-256-Digest: ckiNNJvoYW7yf5XsmYmyYHyLtmNL+j1KT3+tk+DgnCE=
+
+Name: org/eclipse/wst/common/project/facet/core/IActionConfigFactory.cla
+ ss
+SHA-256-Digest: iQENfLhJgP0hJXT0U1kyrLa345Qivcq+Q5hEK7S1xmU=
+
+Name: org/eclipse/wst/common/project/facet/core/util/EventListenerRegist
+ ry.class
+SHA-256-Digest: 1XyoLORXTA4hlkKde/Xn4CjsTMKVtGMx3czjoAOxagg=
+
+Name: .options
+SHA-256-Digest: K0+wauR6ws3nveezupC+TdARVp6eKVdvq4QiOMMaVBM=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectV
+ alidationBuilder.class
+SHA-256-Digest: hIaqe8j+z4hL3Ihyv9jaEicL7G3RQXhMyPaGDrRiPZE=
+
+Name: schemas/presets.exsd
+SHA-256-Digest: BsWAMHA6TwAvzouvqfTtZr1Qjyk1ynyuRegg+KY8e1k=
+
+Name: org/eclipse/wst/common/project/facet/core/events/IFacetedProjectEv
+ ent$Type.class
+SHA-256-Digest: X6wCudtx0hkPGFU55dH06+Y1deM1W+kstBHUBwQ9Z0Y=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectW
+ orkingCopy.class
+SHA-256-Digest: M1wWaewL7e2aEdEsvt1T/hZ01E8SRN+rPfhjGJFEaaU=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProject.
+ class
+SHA-256-Digest: fvgawkgUJ9gKlzRNTw0WLCHtLOS3fz/HyMoWQJrNyNY=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ValidationProbl
+ em$Resources.class
+SHA-256-Digest: x02ONADDOf/DTx7KzWqkdh4CXZQqFrgV0qJgdVeA4OA=
+
+Name: org/eclipse/wst/common/project/facet/core/events/IFacetedProjectFr
+ ameworkEvent$Type.class
+SHA-256-Digest: rPdZEBW4owPIvWeOkkUHKGaePyj368RfHPQKyA8Y5+g=
+
+Name: org/eclipse/wst/common/project/facet/core/IVersion.class
+SHA-256-Digest: RDa4X+1RkVwGZG0/hMOLM65aSD/2JsTNH7YtioYLK7E=
+
+Name: org/eclipse/wst/common/project/facet/core/IFacetedProjectValidator
+ .class
+SHA-256-Digest: E0QXuCUGuCEl8vzOJ6cCaPsuNgFlpczc+kyLH2Fyuao=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/FacetedP
+ rojectEvent.class
+SHA-256-Digest: lkgmTrwrv184NEa/fwep2R9/crwmUGkJ7ikntxzq23Y=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ project.facet.core/pom.xml
+SHA-256-Digest: SmOLnPw7pRGbN1WJJNfcbNrao4uH3CJCSEjaXNkylG8=
+
+Name: org/eclipse/wst/common/project/facet/core/VersionFormatException.c
+ lass
+SHA-256-Digest: NH/d4OR0b76u8c/+gEueQYym2scGa3gdQ6tex1xM9G4=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ValidationProbl
+ em$Type.class
+SHA-256-Digest: zhP+LGbx6VoU/vTFU1wLsWYT3CbQet/yF++k3e7sixg=
+
+Name: org/eclipse/wst/common/project/facet/core/IPreset.class
+SHA-256-Digest: PxM5Agd/BHBatyI2JTHNCsm2yJCgs4fpISuEJhuodS0=
+
+Name: org/eclipse/wst/common/project/facet/core/util/IFilter$IFilterList
+ ener.class
+SHA-256-Digest: jHQFwfv4ZAi7ihLkYGJoPHWsC9u0CeY1YWWYVYsz6C0=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/VersionExp
+ r$Range.class
+SHA-256-Digest: Xude0+CPNf8svXP1BK9Wz1K2rFC+Lubk62HwGpGCWv0=
+
+Name: org/eclipse/wst/common/project/facet/core/DefaultVersionComparator
+ .class
+SHA-256-Digest: rEUMvCr1zCiOK9nRbeUGq7L6wBgpzBh81UGE2kNyQB0=
+
+Name: org/eclipse/wst/common/project/facet/core/ProjectFacetsManager.cla
+ ss
+SHA-256-Digest: sB87jUVo57Bz1mrmVpq/YyXunLShza258Ea4Yixgv8o=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ValidationProbl
+ em.class
+SHA-256-Digest: O+oodTuHuNVe2LGUGjxRhSCrbOJqYcHoWiZh6rJ+hXw=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/RuntimeManager.c
+ lass
+SHA-256-Digest: TvwqFvlrz/XhNj+LyDBtd4rg4qOXaDPdWg3G3dwuj3w=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetRef
+ $Resources.class
+SHA-256-Digest: tF9shyxt3XoKG1qbiO/ffClyOHTdkx9tU1fSnQOoSFU=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetCorePlugin
+ .class
+SHA-256-Digest: 8pQJY9ilZCn8gr9ld9opaYy6tvZsg8v9T38cMlvX4YI=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProject$
+ Resources.class
+SHA-256-Digest: gf35UYMMxaaBZuuenkAwwQmc2UvmLZAPoXJkd9b6Lgs=
+
+Name: about.properties
+SHA-256-Digest: 3UcRY7gRjTLuBSQSxdpBs0ubg07eIzwZzVu6Uh2NAmg=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/FileUtil.p
+ roperties
+SHA-256-Digest: 8x1l1QQEApK5t/lB09ETTX1e/T91recfllhUhs5NPBU=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/StatusWrap
+ per.class
+SHA-256-Digest: 1MpnCORDwHEgz4K8bbobsXB9ghShtiCiZF6tfajxy+8=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/VersionExp
+ r$ISubExpr.class
+SHA-256-Digest: VnyN0meQYGg3MlaLIMIiACW2x0IiYl5AFBPD2cmdhKc=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/VersionExp
+ r.class
+SHA-256-Digest: AjACK4OgFDrPVq/c9iaElcMdgh24CWzA15Pf/Jjo1k4=
+
+Name: org/eclipse/wst/common/project/facet/core/IDynamicPreset.class
+SHA-256-Digest: 9Vi2Bwa5StGOBPmMSKrFjS1cZQ3T+EwbAeN3CYIYUZ0=
+
+Name: plugin.properties
+SHA-256-Digest: Fg6A25c+efVRhsvMkFmVrKq2ZF7e/Y7o43AIR+AzsY8=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetVer
+ sion.properties
+SHA-256-Digest: S2rJjv5NLbeyo/2Tl4/mfA+NykXLu4ENXWVihY6qMZw=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectT
+ emplatesExtensionPoint.properties
+SHA-256-Digest: SwAHVb88gdk6x4F0FKwYm32mmozb6mrebwRts8uX0Zc=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/IRuntime.class
+SHA-256-Digest: m4Uk73jwbV8V8SOWisAGiZmf6MVEgy3bjo9G9cU2Wtk=
+
+Name: org/eclipse/wst/common/project/facet/core/util/AbstractFilter.clas
+ s
+SHA-256-Digest: DHbHT7/gb+LLHorLyNIX+/ySJL34jn66bdo0FcvMiJo=
+
+Name: schemas/runtimes.exsd
+SHA-256-Digest: JUTRDhdyMqvl+Q/rt3tpsXZy4oOyonQhEcNOh1Uvb4M=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/Targeted
+ RuntimesChangedEvent$RuntimeComparator.class
+SHA-256-Digest: UvzkWgVIf5gq7qZyEXg+a2g26YtSBg1SEquzMPm/4lA=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetPre
+ ferences.class
+SHA-256-Digest: 1FihFDXaGMHvdhlH4o/AG+Jk8cfxx5DGmYpM+APnCVI=
+
+Name: org/eclipse/wst/common/project/facet/core/IFacetedProject$Action.c
+ lass
+SHA-256-Digest: Na6fVpsZCvxZEMyvIxStspxSHSGyJiYMfUy1HPPTXvA=
+
+Name: org/eclipse/wst/common/project/facet/core/events/IFacetedProjectFr
+ ameworkListener.class
+SHA-256-Digest: z9AbcBe+WXQHsVdXsVv9hP7HU4Pd+64ja/QhKNX6kng=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/FileUtil$R
+ esources.class
+SHA-256-Digest: lKblJETm6dQDSD9iErW5m8WJZJDB0Qje/WdEv7Q1Q/g=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ Component$Resources.class
+SHA-256-Digest: Vi0QrHLbUQ+d3Mu1lIzptLMg2OMMl029ctEOPVu6cTY=
+
+Name: org/eclipse/wst/common/project/facet/core/IGroup.class
+SHA-256-Digest: GlsTWUv+lFIU56Qa/Yyn0J4P0MAruoy+jTPugP4k4H0=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectT
+ emplatesExtensionPoint.class
+SHA-256-Digest: Vr25hKDFwVUXJYatIzRC3uu4MxlkQ/I4K7vUnYdMRcA=
+
+Name: org/eclipse/wst/common/project/facet/core/util/AbstractFilter$Filt
+ erListenerRegistry.class
+SHA-256-Digest: hoDOOpLbY+eK10Ra1qtKUnG51OIyy6Rzfuf7II3ZjBw=
+
+Name: org/eclipse/wst/common/project/facet/core/IActionConfig.class
+SHA-256-Digest: GXHi0DqiGvIRVHcrTJOkK2ezAXQaU7Z71pVVMOkOhOw=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProject$
+ 6.class
+SHA-256-Digest: 2Gl1yxkUGCFLTUY60S/RbqteUL27ngkcg6V5cMgKRqo=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProject$
+ 3.class
+SHA-256-Digest: +E3olZxl1Wt+36GrFgn6Gw4fBjetun27JNWOIMWsOHk=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/EventsEx
+ tensionPoint.class
+SHA-256-Digest: c7vmMWZ5WxlMNJrfgB5vb5VRCR5mdZhx0Al4MFF0QmE=
+
+Name: org/eclipse/wst/common/project/facet/core/FacetedProjectFramework.
+ class
+SHA-256-Digest: MQKHXaIeJZbK5CJ7StgMbxhaga+QDn+7RC+nCCssauI=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectW
+ orkingCopy.properties
+SHA-256-Digest: hLWbKqSHGNqKF32HwxA1b3p5o4/5GiFzfMD2vlpkM/I=
+
+Name: schemas/listeners.exsd
+SHA-256-Digest: nMOPJNjy2vDZARLJT3o0Dzj/38FJ3VZNL35GJwx2cfY=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/PresetsExtensio
+ nPoint.properties
+SHA-256-Digest: yDjFLwka5SDjp2nIkHDT2iIPZQznTE2bEXC5XWBuAe4=
+
+Name: org/eclipse/wst/common/project/facet/core/MinimalConfigurationPres
+ etFactory$Resources.class
+SHA-256-Digest: TaX0fK0zJrjNc1KW0P+xfEOIZ9gAf/k6oTbuhO5cd7k=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/FacetedP
+ rojectFrameworkEvent.class
+SHA-256-Digest: J+hzEto+Rs5cPIbxwY0DKDQ2vVD6Po3vx3RHVLYgPwU=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetGro
+ upsExtensionPoint.class
+SHA-256-Digest: TKLsNX139P59f5ADxpdvb9nP2DDRSCDsAcWW/dOep4E=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/VersionExp
+ r$Resources.class
+SHA-256-Digest: t2ZihAPq97QhoQuZ4/49n/jgkF4gswpKSuloWF6ASgE=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/PrimaryR
+ untimeChangedEvent.class
+SHA-256-Digest: BRcENztXrjPiel/JojCP9OnYfPwVjHrSPBoMqeQ53j0=
+
+Name: org/eclipse/wst/common/project/facet/core/util/FilterEvent.class
+SHA-256-Digest: aU4yOAhIdLmnlgIB8Wue1vRCwYCoYKk/op7pa5+lIc4=
+
+Name: org/eclipse/wst/common/project/facet/core/IDelegate.class
+SHA-256-Digest: nzNKrony8G9sBm5com/GZmT+WEXPUIumtNon411lY1c=
+
+Name: org/eclipse/wst/common/project/facet/core/IConstraint$Type.class
+SHA-256-Digest: giTa9bCJqNZSacORymM0OfDAntZ00lT51T+4RvS4pFQ=
+
+Name: org/eclipse/wst/common/project/facet/core/IConstraint.class
+SHA-256-Digest: 77COO+bcMOMTEL+LHQ4SSZjb30p74JA4sL5eek3yeV4=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/IRuntimeBridge.c
+ lass
+SHA-256-Digest: k7+pTPDVtWSuk9q0yjsxf8FAyeEH5SgPUMLc6vYDdeo=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Unknown
+ Runtime.class
+SHA-256-Digest: R1TD+noQ5E9CS+gaOTaGi6DQFh/C0hxD3pG3haJu/78=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ ManagerImpl$RuntimeValidationThread.class
+SHA-256-Digest: WPyhbPkSJ+VMUV/5afjZzXzw9geZkDbMZPx+1JrqV6w=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/ProjectL
+ istenerRegistry.class
+SHA-256-Digest: PWFzRm5rIpx8MKY3RyQKec0vsllsc6eJAAZL6f1tbaA=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/ProjectFacetDet
+ ectorsExtensionPoint$DetectorExtension.class
+SHA-256-Digest: H82IplrmJGUepw4/fM4DLT2UKKw6TqooiyviLHpYN1k=
+
+Name: about.html
+SHA-256-Digest: rZdZdbJtFiw298EzlEydJC5gajKbkkBfRettUMDggmY=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProject$
+ 4.class
+SHA-256-Digest: FgghyQ6L12FGk/xfcv5ZmIWKrrh0Hm5qM/DNw2VMyy8=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ Component.properties
+SHA-256-Digest: KXe9MzjD6WOhqncN7LN18hyMniJBzuyq6+BMqWSA0VE=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectN
+ ature.class
+SHA-256-Digest: ZbkOU2zkKUkDzGzMiYkWPw1xKQnXME3wXAlAQe7DQlg=
+
+Name: org/eclipse/wst/common/project/facet/core/events/internal/Framewor
+ kListenerRegistry.class
+SHA-256-Digest: FYHsULKw5fDx3XDD56liW73o1WFzOcz7zqTY6ULYXf0=
+
+Name: org/eclipse/wst/common/project/facet/core/IProjectFacetVersion.cla
+ ss
+SHA-256-Digest: Qt26xEKse5XwpqjnODm8436DpHgz4BdmxjO71/CElNo=
+
+Name: schemas/groups.exsd
+SHA-256-Digest: tiOggx6adAFy8TZ/Nv/TNWvFTP2tmL6EaAqf8bqVgAE=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectF
+ rameworkImpl$1.class
+SHA-256-Digest: kdr1fi2YgIKuhGTq2UQU8yLoy0tHha9uVxJmb2q6khY=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ ComponentVersion.properties
+SHA-256-Digest: W0VGq7m8dRJyFkF50825KFBnHcazz4J4hvfm4o/Rd3c=
+
+Name: org/eclipse/wst/common/project/facet/core/IPresetFactory.class
+SHA-256-Digest: MNKjuZTVwMhk3DVgJqQ24ToEypQW3o7vjrTFO6vIO6U=
+
+Name: org/eclipse/wst/common/project/facet/core/util/internal/ObjectRefe
+ rence.class
+SHA-256-Digest: XNH87fJNbpB2r0Gwnw6C0SFnSKRh/7FCI5M43TAiSyw=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectV
+ alidationBuilder$Resources.class
+SHA-256-Digest: 305SfQOA48DX5OsTwQF3CCKEXzW2nn6v4CBK10uS8AQ=
+
+Name: org/eclipse/wst/common/project/facet/core/runtime/internal/Runtime
+ ComponentVersion$PluginAndClass.class
+SHA-256-Digest: YwYO3SJPpjnaKTxu6ei1my3zTza5qtdcwC36Vcsgats=
+
+Name: org/eclipse/wst/common/project/facet/core/internal/FacetedProjectV
+ alidationBuilder$ValidatorDefinition.class
+SHA-256-Digest: uimZk5yqY6qYKw1FBFwnEKl+K9ULegWtmzttg5/lKeo=
+

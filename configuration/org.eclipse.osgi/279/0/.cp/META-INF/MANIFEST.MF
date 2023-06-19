@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-SymbolicName: org.eclipse.e4.ui.di
+Bundle-Version: 1.4.0.v20210621-1133
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Import-Package: javax.inject;version="1.0.0",org.eclipse.e4.core.context
+ s;version="1.6.0",org.eclipse.e4.core.di.annotations;version="0.15.0",o
+ rg.eclipse.e4.core.di.internal.extensions;version="0.15.0",org.eclipse.
+ e4.core.di.suppliers,org.osgi.framework;version="1.8.0",org.osgi.servic
+ e.component.annotations;version="1.2.0";resolution:=optional,org.osgi.s
+ ervice.event;version="1.3.0"
+Export-Package: org.eclipse.e4.ui.di,org.eclipse.e4.ui.internal.di;x-int
+ ernal:=true
+Service-Component: OSGI-INF/org.eclipse.e4.ui.internal.di.UIEventObjectS
+ upplier.xml
+Require-Capability: osgi.extender; filter:="(&(osgi.extender=osgi.compon
+ ent)(version>=1.2)(!(version>=2.0)))"
+Automatic-Module-Name: org.eclipse.e4.ui.di
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platform
+ /eclipse.platform.ui.git;path="bundles/org.eclipse.e4.ui.di";tag="I2021
+ 0621-1800";commitId=b3963656a4d6c01d6f321a8f0f22b256507370a1
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/e4/ui/di/Focus.class
+SHA-256-Digest: HeTCspBN79LhcV2nAE1Feet0YGE/riOuO1Qhv7nts54=
+
+Name: org/eclipse/e4/ui/internal/di/UIEventObjectSupplier.class
+SHA-256-Digest: 5L19Ef5xDgv5U/1nM795bDxLkidSOgUW/sP38qlEhq4=
+
+Name: .api_description
+SHA-256-Digest: wswZS9S9voUL1TOZwyb7rGJBL+VTNIY4PW2qs6NCius=
+
+Name: org/eclipse/e4/ui/di/UIEventTopic.class
+SHA-256-Digest: TWs2wtI6kdnA1v9iHAwNpyK1MmEZNN+YIca1gnbSuks=
+
+Name: org/eclipse/e4/ui/di/PersistState.class
+SHA-256-Digest: 8aYp/MzmscKs280qsUXmE/NlNXjX2MmCunaiYJ+vMcI=
+
+Name: org/eclipse/e4/ui/di/AboutToShow.class
+SHA-256-Digest: 34qpZiJoaJ6hKdSF45BGgPbUf9l3ExfMc+vBIiCzAMo=
+
+Name: plugin.properties
+SHA-256-Digest: Q3kMviVEZSa+96ppndHhHz6uPiR6cs8IP2EWTjZ+MKM=
+
+Name: org/eclipse/e4/ui/di/UISynchronize.class
+SHA-256-Digest: DqFJg7s9Jv/y0ay9snzTriq4naSHlbUNSuS0j5VtlrY=
+
+Name: org/eclipse/e4/ui/internal/di/UIEventObjectSupplier$UIEventHandler
+ .class
+SHA-256-Digest: 6y8ejpIvmVcfIweQQ+z+PdrEUouiZGuqf6+DrJafMZE=
+
+Name: org/eclipse/e4/ui/di/AboutToHide.class
+SHA-256-Digest: 04amHqaws4V2X212mFglp8oYLabaQ9OVsQbBUsoCOFw=
+
+Name: org/eclipse/e4/ui/di/Persist.class
+SHA-256-Digest: fI08NKHOkbcOTpykWIs0JEi+zSR2InZ2kBZZoiMF3lk=
+
+Name: OSGI-INF/org.eclipse.e4.ui.internal.di.UIEventObjectSupplier.xml
+SHA-256-Digest: qFRAc8HuZ0URgu7sk5tOhM/vhaZuosR8V75hNPw3zp8=
+

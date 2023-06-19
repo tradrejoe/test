@@ -1,0 +1,560 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: MOJQpYNA+g54c25hmC5sIhq3nclMcE3WI7eSwgrjFIY=
+SHA-256-Digest-Manifest-Main-Attributes: 9g1GoCoJc2PIsK+hMEACiOigFNPk+TK
+ +2XvrLVOdU0s=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/converters/CSSValueConve
+ rterConfigColorImpl.class
+SHA-256-Digest: PfQg/W/znlgBq2qEbqmjbJBT7/7IQ1W+N5RfQ4lQ4SQ=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSComputedStyleImpl.class
+SHA-256-Digest: euS6T8TVel4NwUhkkuGXBKM8JIH3DC9v5O+Mjn1dXII=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSSelectorFactoryImpl.class
+SHA-256-Digest: Uq4ZCxhhLBnqvloKHv3NleBE8rF5FpOygbU5M3KAMMg=
+
+Name: plugin.xml
+SHA-256-Digest: mLEWHhsOsQ4jQxx4ZSHhcfazPjF0p/yt+ObpzZ6n34I=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSValueImpl.class
+SHA-256-Digest: m2dgNHHOPLV/czdmzL7+Kxvr/F7X8667qHc2+LLyAzY=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/converters/CSSValueBoole
+ anConverterImpl.class
+SHA-256-Digest: tGMcxXP/pgyZnfIXe1uCsC97FpcRarNnyXzwOW/M6O4=
+
+Name: org/eclipse/e4/ui/css/core/dom/ArrayNodeList.class
+SHA-256-Digest: rnvU+WuMcaxHu1afMSA1C+owwdruYzhJgd6U2vCX/wk=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSValueListImpl.class
+SHA-256-Digest: ++ffScIqWsND+6JTpAXX3p8xEgGHxLqfVNKhwgShuxo=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/AbstractCSSProperty
+ BackgroundCompositeHandler.class
+SHA-256-Digest: 3oByYtjutdd3JrsEBle+B5HMzkXlwblJI3zCiLf3/Hw=
+
+Name: org/eclipse/e4/ui/css/core/impl/engine/CSSEngineImpl.class
+SHA-256-Digest: Bcc3Z/nJMnzE5u55SXujAl+ncBOWYY+nRhm1ZNo1Xn0=
+
+Name: org/eclipse/e4/ui/css/core/dom/CSSStylableElement.class
+SHA-256-Digest: GDlgRfPzGfVHozXjr3z+fE0SsRG863rhkSJVfMJSoBU=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSValueFactory.class
+SHA-256-Digest: b+f3HexvLlIZXkvSXX4o2c0ggVC/7geczJuH4GCcoso=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSChildSelectorImpl.class
+SHA-256-Digest: Q0aG63RnlBbDED1aYMOdZFmvjIoiY9JZWtMooL7LCSo=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSRuleListImpl.class
+SHA-256-Digest: QQp8vzJIAJzerq7/OCD+Cj9cL058pCrgQJSGJeFbedc=
+
+Name: org/eclipse/e4/ui/css/core/exceptions/UnsupportedClassCSSPropertyE
+ xception.class
+SHA-256-Digest: UYOyTqZyre1AaNINkkx/cQoF+Q7RUE6f9ZOslUR6Yww=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/converters/ICSSValueConv
+ erter.class
+SHA-256-Digest: EzRokkHVIcIr3WFplbBqXgNZQSRX9sTVF40ZQw5bAM0=
+
+Name: org/eclipse/e4/ui/css/core/css2/CSS2FontHelper.class
+SHA-256-Digest: A2t/HTI3wrpAKLdWCzfk/khrdSPjv0OvYpYWpA7X28E=
+
+Name: org/eclipse/e4/ui/css/core/serializers/CSSHTMLSerializerConfigurat
+ ion.class
+SHA-256-Digest: DJ6TJ/PKWG4Fvh3s87qd6jRTpF0feYS7YKAjhiJiML0=
+
+Name: org/eclipse/e4/ui/css/core/sac/IDocumentHandlerFactory.class
+SHA-256-Digest: UKcdm1hzDQ3NfItevekE+b8I5ByHPudAD2oCD1qnH44=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/DocumentHandlerFactoryImpl.cla
+ ss
+SHA-256-Digest: wtjEPPZxAXpZow9HrsZOeQizM1jrV+2gT3whqoLLS7s=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSExtendedPropertiesImpl.clas
+ s
+SHA-256-Digest: WIouKobyX7hqbRACaCLaBaa7TWP2s8FC1gRa4eUQKKg=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/ICSSPropertyPadding
+ Handler.class
+SHA-256-Digest: PH1qCZO0dY1KcUUYdKjKtvjkACtsjipnnuNPzTvcQQo=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/AbstractCSSProperty
+ BackgroundHandler.class
+SHA-256-Digest: p9vTAnuHdJZ5NTfkoEBHKOMKq2w8HVIfaAYSAhBMRVY=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSLangConditionImpl.class
+SHA-256-Digest: 2cnwycdTVBRAkdsiXsqR1CJcb9HeSefXHD+iGxi5zPU=
+
+Name: org/eclipse/e4/ui/css/core/dom/ChildVisibilityAwareElement.class
+SHA-256-Digest: IFQhyYcZICibAA/r+v6ngZ2lU8y7dFGTC0wjicYLyEw=
+
+Name: org/eclipse/e4/ui/css/core/impl/engine/RegistryCSSElementProvider.
+ class
+SHA-256-Digest: ZpwLyOAjsF2CEFIIuKT0AZ/th/8bA0fm3Cjsh60hEAM=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/AbstractSiblingSelector.class
+SHA-256-Digest: saASBcHxCeqtdODf5qVKJV9T4wIVN2AYzi4G46TmlIA=
+
+Name: org/eclipse/e4/ui/css/core/resources/CSSResourcesHelpers.class
+SHA-256-Digest: sbzZqHAyXyXUFlLHJij9UEyMWUUH7uv77YqfHaQYAwo=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/Measure.class
+SHA-256-Digest: 1gjLrqKmgSBlfvyMPFu4vwYkNFy+xtKwNlOcgvVtpz4=
+
+Name: org/eclipse/e4/ui/css/core/dom/ExtendedDocumentCSS$StyleSheetChang
+ eListener.class
+SHA-256-Digest: xfpwaG5gqCFa/b3j8eMnN6r6DFgib24TnkBGXOUy5Jo=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/AbstractCSSProperty
+ PaddingHandler.class
+SHA-256-Digest: vDpK7eu1tBomOb9ixnXcDtfVR3ZwEJK9pRi6kjTQOZM=
+
+Name: .api_description
+SHA-256-Digest: rdGw0a3FKn2hlhm1edHTFHe/VmXzDyZ67u6LMJgRP7s=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/AbstractCSSProperty
+ BorderHandler.class
+SHA-256-Digest: pF8KfIpexJcL4VIUZYEx9VbQ7MwrDfuAQckOraDE1v0=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/AbstractCSSProperty
+ DimensionHandler.class
+SHA-256-Digest: yFb2QVTrD9f3cFJ9XlveyhzgVbVUnWveadpKXQJ3rPk=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/properties/CSSBorderProperties
+ Impl.class
+SHA-256-Digest: Dgn190UoOuD4y4QQ8G0nnH8/d2nrP88DYj5El701jyQ=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/ICSSPropertyCompositeHan
+ dler.class
+SHA-256-Digest: PkFo+eEiylgyKhrwqTZDUnsyK/iU7Cmu36UgsdRelM8=
+
+Name: org/eclipse/e4/ui/css/core/css2/CSS2RGBColorImpl.class
+SHA-256-Digest: KFNjGTLknfDdYgVc3qWkTGKTKUWFBmjiGsrcnl+B+dM=
+
+Name: org/eclipse/e4/ui/css/core/util/resources/IURIResolver.class
+SHA-256-Digest: Z9sxEmiQoh/9uh1As6yVEV0ucbqx4w8RWiggahKz0Rw=
+
+Name: org/eclipse/e4/ui/css/core/dom/parsers/CSSParser.class
+SHA-256-Digest: FLB7wpoxuicKR6ns48J27X2OjWq2AMY9nRV9/TEWMQ0=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/AbstractCSSProperty
+ FontCompositeHandler.class
+SHA-256-Digest: sn1yT6vYRagwX0fQerFc8TVCG+xxenHM//SU7Z/BwG0=
+
+Name: org/eclipse/e4/ui/css/core/sac/ParserNotFoundException.class
+SHA-256-Digest: +fhLjxbEMGmV/vUQQXc/mGV0BZ7VJakfwjThpJo1Rl4=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/MediaListImpl.class
+SHA-256-Digest: djfKp476v4fzB4UMtz5kOlqMXwnZU3sK6SSdmoat0pE=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/parsers/CSSParserFactoryImpl.c
+ lass
+SHA-256-Digest: cDmrZm/9fJqFJvOVe38mYj/g5lZ5VHDxjS9t789xYqY=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/Gradient.class
+SHA-256-Digest: hBwzyIWD6LbaO6ItUb2h318Jo1ewv/UTaJsnC6v4tLk=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSStyleRuleImpl.class
+SHA-256-Digest: 84jQcKrfSpXbKPbS0Dk3osSNMv2e+XVtGt9vaeJ3yjc=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/ICSSPropertyBackgro
+ undHandler.class
+SHA-256-Digest: csHGR+Azuk7AQcZIFu5hLp4zbZP73D23K+2rk1vj/qQ=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSStyleDeclarationImpl$1.clas
+ s
+SHA-256-Digest: Mi0uE0ZoCYCWQw275/2zS0whmh1PPuU5pBlIiBCK9QY=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/converters/ICSSValueConv
+ erterColorConfig.class
+SHA-256-Digest: RnpwGutFr6K1wKqtLQWwvHdTv3dvgEAq/j/Qi0E2wTo=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/AbstractCSSPropertyCompo
+ siteHandler.class
+SHA-256-Digest: UXP2+6tu3L7xf0JyFIrKNWMTTOq1yRcBwVgkSrJlI/c=
+
+Name: org/eclipse/e4/ui/css/core/exceptions/ExceptionResource.class
+SHA-256-Digest: aKu0cAimSmafL4zuYMAXYfwIT7nL9sVppGzfGSxS6Jk=
+
+Name: org/eclipse/e4/ui/css/core/impl/engine/CSSErrorHandlerImpl.class
+SHA-256-Digest: lpocZhcxnbuBjrJbpwLG17XKPKWo1F9iSNai+qu/Zh4=
+
+Name: org/eclipse/e4/ui/css/core/dom/ExtendedCSSRule.class
+SHA-256-Digest: pUzJty6qMjWfAyAcfpkHNCFTKy6RNcTe4c2WAzc6mM0=
+
+Name: org/eclipse/e4/ui/css/core/sac/ISACParserFactory.class
+SHA-256-Digest: 5pwEPEzJvCNodWkjSc43lsusDlNki7cRybvO9T/9Ro0=
+
+Name: org/eclipse/e4/ui/css/core/sac/ExtendedDocumentHandler.class
+SHA-256-Digest: JnXJcH1WSM6ZUIqh9KTp6kLK4iqi/A9vh/YOBQrGlCs=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/ICSSPropertyFontHan
+ dler.class
+SHA-256-Digest: azFpe275twAlsqKfb0RzOoO3PmtEJXS7K8+leoYf2w4=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSDocumentHandlerImpl.class
+SHA-256-Digest: gj5jgWQB2cOhAVMSpnrpA8T63VuLJPR40xJZxeolqJk=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/AbstractCombinatorCondition.cl
+ ass
+SHA-256-Digest: RNBcwSqeD4zRMOItJK6o8y7nN8/U9h1ofZEtBEzNBO8=
+
+Name: org/eclipse/e4/ui/css/core/dom/CSSExtendedProperties.class
+SHA-256-Digest: lv6oh9TII+i6QOgSVqEgKwDgbu3ZlqrGYOjFo9yUjF0=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSPropertyImpl.class
+SHA-256-Digest: nWm4CTnSe5CrvOcqZEizss+d9xqiW+79VymGs3KqXo4=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSIdConditionImpl.class
+SHA-256-Digest: QYMRRcUV4XmiGbGsvzoBqGvl+15aG80O3V5GLZIkWmI=
+
+Name: org/eclipse/e4/ui/css/core/css2/CSSBorderPropertiesHelpers.class
+SHA-256-Digest: /cvsyaVXvtZmia4jbtdp5JjPhwYFEX1CzbkuFopVa9I=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/AbstractCSSNode.class
+SHA-256-Digest: HI4lMr3vEmmeCkU5Tq5a/wOMQArP4YlnJzZxWM3GWXI=
+
+Name: org/eclipse/e4/ui/css/core/sac/SACParserFactory.class
+SHA-256-Digest: Q6jzDQEfH5g5IzikzLrG0hWuV+J4en8e9vi7Fnfg7Nk=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/ICSSPropertyHandler2Dele
+ gate.class
+SHA-256-Digest: QEIG9wf0jg1iORajp6BTSi0UEE2txtjavL2HoBN7kQ4=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/ICSSPropertyHandler.clas
+ s
+SHA-256-Digest: TacI7A3A/tZ/BYHr2Eh9ltmL2jZ65+bfrvWBNzU02CA=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSStyleSheetImpl.class
+SHA-256-Digest: 8ezaG4HQTzpFM7idapGOfdTeYsN9wvUErbkjMJHeAfQ=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSConditionalSelectorImpl.cla
+ ss
+SHA-256-Digest: Nc/Sf04p3mQ78G3NzzpeIOXku8ty20cceVTrnHJ9pE8=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/CSS2FontProperties.
+ class
+SHA-256-Digest: MzG58BIQzshtB63hy/Q/xaq0PO/g4hqRf2tsv1TaLJY=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSAttributeConditionImpl.clas
+ s
+SHA-256-Digest: GCclLGHqyyZZtx+x4t21gIzfUuKJSrI+h8podtWg0VE=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/ICSSPropertyTextHan
+ dler.class
+SHA-256-Digest: IAl62eUXIkinZVrv0MeG8ClSCiZtTMGmGGZgVj5hnFg=
+
+Name: org/eclipse/e4/ui/css/core/dom/CSSPropertyList.class
+SHA-256-Digest: +4F6KTTfGMalN7ZTfsOCoFQ9x0AaJ5aI3BsaicNYrmk=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/ViewCSSImpl.class
+SHA-256-Digest: IcJz7d7BpgXAj/l95QPuPeDW0QdaMGWvTRMf7IBBfjo=
+
+Name: org/eclipse/e4/ui/css/core/css2/CSS2ColorHelper.class
+SHA-256-Digest: 2iU1v/ImZKUJEzzO5MHwbXdYuH8/dpbx7UVfAgCbt7I=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/ICSSPropertyMarginH
+ andler.class
+SHA-256-Digest: 1tvdvInYXG/Dug5PFBzINHwvhuws8vrn4figAVNXApA=
+
+Name: org/eclipse/e4/ui/css/core/exceptions/DOMExceptionImpl.class
+SHA-256-Digest: WmjBmkqs2jxauv34yAAS6V5FMLcps54JwNjfim2i8oE=
+
+Name: org/eclipse/e4/ui/css/core/dom/IElementProvider.class
+SHA-256-Digest: 1zSa6ebCozNRs6JNWXSIJbLuVoKoycdoW3+17JSjt+U=
+
+Name: org/eclipse/e4/ui/css/core/exceptions/UnsupportedPropertyException
+ .class
+SHA-256-Digest: izbOHHFw+taSGEsmLlKWK5EC53Np7TMJG4uNcbQ5kVc=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSDescendantSelectorImpl.clas
+ s
+SHA-256-Digest: TbKUZEX8kS6B3UVhxuPIiptc8jMBQGdd6dgzi5RK6+Y=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/providers/CSSPropertyHan
+ dlerLazyProviderImpl.class
+SHA-256-Digest: 5KGCDHYWQTpwT+nmPgD2fY+G153UjL87UWb9VQoBpUk=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSStyleDeclarationImpl.class
+SHA-256-Digest: 11lBR1K6i3s6AROZilQ6CS3asfSI6vgORwOCM+XTfiA=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/AbstractDescendantSelector.cla
+ ss
+SHA-256-Digest: A31YolqG5OzN9vh2zOhVBzeFvL+xn5n0FOQjc3ZYIMI=
+
+Name: org/eclipse/e4/ui/css/core/dom/parsers/CSSParserFactory.class
+SHA-256-Digest: Dhvqlm1OyRhW1BwU/ModupynxxUavxKMWzqdcHmDMRo=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/converters/AbstractCSSVa
+ lueConverter.class
+SHA-256-Digest: WKaBGdh4EC+M5hiFaHlJkVOMMVcV8qDwSMj2gqY9EuE=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/StyleSheetListImpl.class
+SHA-256-Digest: 0fe1Hy2uVkbAx+w3wH476Ueb38QyhqCVT1JZuIzR2+I=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/StyleWrapper$StyleWrapperCompa
+ rator.class
+SHA-256-Digest: I/lIu2K1KvDEyBnuDRVOAPaeRIA9MDF7yySNNQZTZmI=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSAndConditionImpl.class
+SHA-256-Digest: TSdNWbWetqxZMScoK6kjCTAGjBBG3GoWwFnlVEUkp1g=
+
+Name: org/eclipse/e4/ui/css/core/impl/engine/CSSElementContextImpl.class
+SHA-256-Digest: qHiMLJr/T8USJCI4kikP05yRp8aOXQYc/4tkXsFirA8=
+
+Name: org/eclipse/e4/ui/css/core/SACConstants.class
+SHA-256-Digest: tNxdLMdkmZWgrFdh2Ost983MZqYA7YF90b/1d7Q1drk=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSElementSelectorImpl.class
+SHA-256-Digest: Aoj7SS9M8ns+XzxvsqOuG16qNSIulkiM07EqT78KQxg=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSConditionFactoryImpl.class
+SHA-256-Digest: X1oMqtpeTTzTG/kmJUnlgRB+of70FJ9DtzzRyMO1w84=
+
+Name: org/eclipse/e4/ui/css/core/util/resources/IResourceLocator.class
+SHA-256-Digest: tT0I1sYGj4NqULjVx1xCvw+kBpT7QfQB1x18DstO+N4=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/AbstractCSSProperty
+ BorderCompositeHandler.class
+SHA-256-Digest: mYHe8nsJTgoj8dJiH0x4AXPk7FiFBrQ9Vz2jEYLzXm8=
+
+Name: org/eclipse/e4/ui/css/core/resources/ResourceRegistryKeyFactory.cl
+ ass
+SHA-256-Digest: DuWNB2MXrRC1oAqj1wv1YIQ124CiqT9ePvjrJSPL+LE=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSFontFaceRuleImpl.class
+SHA-256-Digest: 6LHLpVdiIbAobc+XCHUs5c/MLYVElWGWfdU74sBPgZ0=
+
+Name: plugin.properties
+SHA-256-Digest: I7bLv3J0n8zFK37kdpBjEPRbMCWm4rQRTWIqjBLnedE=
+
+Name: org/eclipse/e4/ui/css/core/utils/StringUtils.class
+SHA-256-Digest: 6HtnWuDYP0dsNPXgNwPjyOqrxM7TUluilloD+SOv960=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/AbstractCSSProperty
+ TextHandler.class
+SHA-256-Digest: fY/9DgwtKPQ59WJB9skWf5VpUejnyMEmP5RPuXRip3Q=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/ExtendedSelector.class
+SHA-256-Digest: WavOMyIGGcnJcBjfEg/5CBiMP83iz1cKKrzYPDXKoKQ=
+
+Name: org/eclipse/e4/ui/css/core/engine/CSSElementContext.class
+SHA-256-Digest: lVPGUGls5QWxiZUzzQqGdBN+RB22fehvB3sLsytzIfk=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/ICSSPropertyHandlerProvi
+ der.class
+SHA-256-Digest: Hqb4ry5KTTdGWbXNzQXO6pqbJroRyR2IRMOoVWcNkG0=
+
+Name: org/eclipse/e4/ui/css/core/resources/AbstractResourcesRegistry.cla
+ ss
+SHA-256-Digest: F62DZAVdsrI6prAUeUHQExCdyK7bAQRgZl0cPI6hlEk=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSOneOfAttributeConditionImpl
+ .class
+SHA-256-Digest: gjEnf9ABEGwlMKdUmY9x5gRlriGPGsnppwrVNrfs2ls=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/ICSSPropertyBorderH
+ andler.class
+SHA-256-Digest: rP4ZMk1nGVLu6mHDR9wJ2REVI/S3VMNNr5LWZ52E5VI=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/SACParserFactoryImpl.class
+SHA-256-Digest: eLXHMy3uVAekz/WrfE5u8gnduqXgxnO97HKZzu/AP2I=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/ICSSPropertyClassif
+ icationHandler.class
+SHA-256-Digest: +QTKiylyQT4dW9wAs8B1FZkU1fatrAlpy3mpeackCTE=
+
+Name: org/eclipse/e4/ui/css/core/engine/CSSErrorHandler.class
+SHA-256-Digest: KM8KE3CHwzoTANxXY2UaFUYtOVnepWnyE0RXvBrlOgc=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/ICSSPropertyDimensi
+ onHandler.class
+SHA-256-Digest: VELzaSYbpcYqvH7DIjF7K/yf/+1zzMASZGT1SChlEgs=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/AbstractCSSProperty
+ FontHandler.class
+SHA-256-Digest: VXDItlU18XyepgRQnJcIG1pwqD1ZjS0tmrC/by/m2Es=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSPseudoClassConditionImpl.cl
+ ass
+SHA-256-Digest: pi0XBHTiAQMUlaNbQONOuV0j23BfE+/EvnCaAt9vsYA=
+
+Name: org/eclipse/e4/ui/css/core/css2/CSS2FontPropertiesHelpers.class
+SHA-256-Digest: kgrbvWVEXRhUwVIIbv7biDzX3WGTr0GQXpnp+179Xrk=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/CSSBorderProperties.clas
+ s
+SHA-256-Digest: 9tvBKw2bAhGsZ7sB6yRJJvhKE08pQc52RVu62f957Ig=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSPropertyListImpl.class
+SHA-256-Digest: ub7KxqJC4mfUeJevvatNiKg3Ay5EjHmJEpE72QW+wPc=
+
+Name: org/eclipse/e4/ui/css/core/impl/engine/RegistryCSSPropertyHandlerP
+ rovider.class
+SHA-256-Digest: UvDVR8Ld9LYY36MXVKZkWvrd0QDpzDKHJCT8WlKP4R0=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/parsers/AbstractCSSParser.clas
+ s
+SHA-256-Digest: hpTYrdtkFJvcpMorO5xprTKCVfAm2r0QYx4AgTy7eYk=
+
+Name: org/eclipse/e4/ui/css/core/dom/ExtendedDocumentCSS.class
+SHA-256-Digest: 6/l559isR4pCejy2/HKMsWe5mXwzr8aayF475fOdtyw=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSS2PropertiesImpl.class
+SHA-256-Digest: bVP1xkzVrk664lpPdCHD8bcXv1lLSFCMwqy4ByshpqI=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/ExtendedCondition.class
+SHA-256-Digest: VRs0F1LHmJFczcXQLk3Hgd/QAHUwHGWhckovKEMLhKY=
+
+Name: org/eclipse/e4/ui/css/core/serializers/CSSSerializer.class
+SHA-256-Digest: VX9FG0kFNwOWSZafTjsGKhttPYpeDT73a32lCCCVFH4=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/RectImpl.class
+SHA-256-Digest: 0TN+3EIvTxlwDKtAND3ROkuY6uoIKjk128Z1wO2xCBg=
+
+Name: org/eclipse/e4/ui/css/core/serializers/CSSSerializerConfiguration.
+ class
+SHA-256-Digest: tks18SXHxdydGK34i8iHrhIJl1W1qpsAjpdif+Bt1R4=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/ICSSPropertyHandler2.cla
+ ss
+SHA-256-Digest: alB+3tLIZQr2wmjA3Mb3Mr3I4p5oVYj0PRhmShpFDsk=
+
+Name: org/eclipse/e4/ui/css/core/util/impl/resources/OSGiResourceLocator
+ .class
+SHA-256-Digest: 5q4Q6HQcAxUha1OCUa/pTQgnf1AetiGjXaDEtA5yCuA=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/CSS2PaddingProperti
+ esImpl.class
+SHA-256-Digest: wRZerhZzxT+H7wkf8cqpHOd7qqZdAO0KBqGlkmu936w=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSClassConditionImpl.class
+SHA-256-Digest: 2noATZp8VsDaBULGltoIRPqQ8Cw0uRkzBs30ev+54e0=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/RGBColorImpl.class
+SHA-256-Digest: FHp36MeRvtNEQ0Y52r3pbon5bkgt95tu59thaV5/EQI=
+
+Name: org/eclipse/e4/ui/css/core/css2/CSS2PrimitiveValueImpl.class
+SHA-256-Digest: fGRNtWOVsGbyAr0BHygjQ89Q2qOAqMXi7YAzEPIFz48=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSMediaRuleImpl.class
+SHA-256-Digest: wbVKYBziKA9ugvap/YbYt0Yg9Ygmz3cMSvX/TX5pS6E=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CounterImpl.class
+SHA-256-Digest: 4676ojMGCi9NfrxB2O4WI5ueBGfc3ejYu8pxgRAANKk=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/AbstractElementSelector.class
+SHA-256-Digest: vON/Xgaz45DavIhDeqy+KSIwAR9mgZAXOFvubA8OicQ=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSImportRuleImpl.class
+SHA-256-Digest: MsBm5Bhihrk0TjKhnnK4foPJgIuDCGpCyqTmamb+N7Y=
+
+Name: org/eclipse/e4/ui/css/core/util/resources/IResourcesLocatorManager
+ .class
+SHA-256-Digest: uOFm2E3n4gGTlkI4zTIkvLoQC+Eta8zuSsFcC7uhkYw=
+
+Name: org/eclipse/e4/ui/css/core/dom/ElementAdapter.class
+SHA-256-Digest: LI//wf8v5fhKV4K9VkfYfNrpM5pftU+nuYwdeZCXAz0=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/AbstractCSSProperty
+ ClassificationHandler.class
+SHA-256-Digest: xaOWfMO8xP9FVy2YfXyT8jSjtEcD5S5iSkM52UwhPk0=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/providers/CSSPropertyHan
+ dlerSimpleProviderImpl.class
+SHA-256-Digest: Z4K/kKRxeVtkOuIGBZu7fsLJyE4uOHv5F5aIpejgass=
+
+Name: org/eclipse/e4/ui/css/core/util/impl/resources/HttpResourcesLocato
+ rImpl.class
+SHA-256-Digest: QA7sDU0pIAa+KuavWrNRcdcDKlg5ANClON300UDiFr0=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSPageRuleImpl.class
+SHA-256-Digest: 2iPeTxZB7TJzGtr+InYTKRUFJQv9s/d7olDfgM4InZs=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSRuleImpl.class
+SHA-256-Digest: xhXKyisgp4eUK9aReNduLPzob7ey9Oec4JNE4t7VYZI=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/providers/AbstractCSSPro
+ pertyHandlerProvider.class
+SHA-256-Digest: 2gXVLDEfoYz5ZkdWjSr7CiwImL0R9MlkRpIgEwQY5YA=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/AbstractAttributeCondition.cla
+ ss
+SHA-256-Digest: cdXqwPBw1CB2ivwUz7kvmQIeyE6bAYOPuFziVbrJV5Y=
+
+Name: org/eclipse/e4/ui/css/core/sac/DocumentHandlerFactory.class
+SHA-256-Digest: h+nc+ksz5ClAvjFl2y0SJyCXc01CGmnI3Fv//KmTm7Q=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/AbstractCSSProperty
+ MarginHandler.class
+SHA-256-Digest: hH4WS79yBhFzY5LPuW+HqTFamo+XJLxHbbmgTmq9Hbg=
+
+Name: org/eclipse/e4/ui/css/core/utils/ClassUtils.class
+SHA-256-Digest: BwSc2tS5dLRjArckTzOiJBRzCMrnwaGhLCF8nDvlVIk=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/e4/ui/css/core/resources/IResourcesRegistry.class
+SHA-256-Digest: Z6Knerxu2YJSsSatRaFlWZaw16EYa6SW6v6NeXGPKMk=
+
+Name: org/eclipse/e4/ui/css/core/util/impl/resources/ResourcesLocatorMan
+ ager.class
+SHA-256-Digest: L0fDGByheW8UifSEUSsvtPqNB1R5OpG12fS+8R4bpb8=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/DocumentCSSImpl.class
+SHA-256-Digest: baXNegp5sLELfH6nyJsrmGj2C1N0wiD5EWI7H12P4JM=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSDirectAdjacentSelectorImpl.
+ class
+SHA-256-Digest: qQqYHEItRGJK0EA475HsqBt+Ul91O5dI2UwWH+UaujM=
+
+Name: org/eclipse/e4/ui/css/core/dom/parsers/ICSSParserFactory.class
+SHA-256-Digest: 5jwlAXxU62qlIF7BXr75Z6bqhoPQd1ecCAy2worcqVw=
+
+Name: org/eclipse/e4/ui/css/core/util/impl/resources/FileResourcesLocato
+ rImpl.class
+SHA-256-Digest: HJfFaRyiis0ISHwxV/Emz6HZ1cqbnf3tqsfqM9fVArk=
+
+Name: org/eclipse/e4/ui/css/core/engine/CSSEngine.class
+SHA-256-Digest: GFayvuPnLSMjE5j/dbIZ0CcSp0JIXBEgTGZ8KZiPZsg=
+
+Name: org/eclipse/e4/ui/css/core/impl/engine/RegistryCSSPropertyHandlerP
+ rovider$DeprecatedPropertyHandlerWrapper.class
+SHA-256-Digest: J6qgIwYUpsQEwl7v3o2J8Ak8zINQNTNznvzDMSG4io0=
+
+Name: org/eclipse/e4/ui/css/core/impl/engine/AbstractCSSEngine.class
+SHA-256-Digest: GHIhrd9bBULz/n4xNqBzBemgyFKcvYtQIcS0OFDS/s4=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/css2/CSS2FontPropertiesI
+ mpl.class
+SHA-256-Digest: LAL9dSjr6fO9Y0GBFi0RcHQK5Lc2rZE8AqUQJj7estQ=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSBeginHyphenAttributeConditi
+ onImpl.class
+SHA-256-Digest: oCYe+39+KAvj3y45zH1xcYZ7NDTvyg+MvXCvaMxgKlM=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/CSSUnknownRuleImpl.class
+SHA-256-Digest: yEL55BEDeaJcItv8P71rhepbV2b+loUHasxDl0LotlE=
+
+Name: org/eclipse/e4/ui/css/core/dom/CSSProperty.class
+SHA-256-Digest: PQmHwIQzD0Ht3+/tB7HCvcOQb25zcWF07KPuYxXGow0=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/StyleWrapper.class
+SHA-256-Digest: WOVvpUA6pCju0liVPV5TZji2J72VHU3aWTAI74XjoKw=
+
+Name: org/eclipse/e4/ui/css/core/dom/IStreamingNodeList.class
+SHA-256-Digest: K5wdZIQFkh1L2W4gOLsuQym3jmST99AsutHlA/qyAa0=
+
+Name: org/eclipse/e4/ui/css/core/impl/dom/parsers/CSSParserImpl.class
+SHA-256-Digest: uaDTGj1Pj5+AUM6PQChOYtNGGF4IiYPMMMBA1Fn8Uso=
+
+Name: org/eclipse/e4/ui/css/core/impl/sac/CSSPseudoElementSelectorImpl.c
+ lass
+SHA-256-Digest: NBvX1HNUsAAseLGmGuKBp5eCevR+TcBjc2SsVQyvjD0=
+
+Name: org/eclipse/e4/ui/css/core/dom/properties/converters/ICSSValueConv
+ erterConfig.class
+SHA-256-Digest: w9Kw7hJ+fG3OWIMxjiMj44WPwFHiQ52uznjMSwSLNnw=
+

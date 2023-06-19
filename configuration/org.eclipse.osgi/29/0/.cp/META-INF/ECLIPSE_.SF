@@ -1,0 +1,77 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: rVxMygKU3yxv5okBP70/VRdfwxvF7
+ OnJ2XYj5aKfMxU=
+SHA-256-Digest-Manifest: gjRLUc3yKHQwbpfeB49lH3TEVpREF7HAcxyIhFm1rmU=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: javax/annotation/ManagedBean.class
+SHA-256-Digest: CGyQfUgCEn6iHl1ghlh48C8AqcE8f+CZPeLS80tQsDc=
+
+Name: javax/annotation/PreDestroy.class
+SHA-256-Digest: bwko+mfnzQf8wpKym065VKonp2PWbXOSC8UbV+S0nrQ=
+
+Name: about.html
+SHA-256-Digest: D3AqcJT9SDQtqt8PW0ki03Cye0pFaUIyX0PdsWPVuD4=
+
+Name: javax/annotation/Resource$AuthenticationType.class
+SHA-256-Digest: uj9zQ1cX+Tnq1vNL3ShOWPw13DGxBWQrSMd9rJLYG5w=
+
+Name: javax/annotation/Generated.class
+SHA-256-Digest: R07AnuFhQjilgupIDKmaC1yL8hkI54I1SZBvZOYstx8=
+
+Name: javax/annotation/security/DeclareRoles.class
+SHA-256-Digest: 1TzU/fBw12wc/CbQnewKCpckNVn3D/KtlnxTNQTfkPk=
+
+Name: META-INF/LICENSE.md
+SHA-256-Digest: ceEu6lyxoMAPvkD2+HGnT690pkftrXZ4j2ZDgl6TxAQ=
+
+Name: META-INF/NOTICE.md
+SHA-256-Digest: Xgwyr/rW2uU1Q2KiMVOGR/+ArdJN+entHMOWQhsJmwc=
+
+Name: about_files/EPL_2.0.html
+SHA-256-Digest: iDtlbBhozndyU+y7EJDl6ki08yd1sYaTI96pqrtIGAc=
+
+Name: javax/annotation/Priority.class
+SHA-256-Digest: ZeeY4N5bVHRoNNrcikhuKA2WZJNMlhDaA8VQaQZ4Vto=
+
+Name: javax/annotation/Resource.class
+SHA-256-Digest: 2S1YsZSn98JCqwhYOIyNMGWoDApialYmz3LWLtO2au8=
+
+Name: javax/annotation/security/DenyAll.class
+SHA-256-Digest: vwW70MT9lOecnjtlcFmhVR+7TONn/RsduwAKJel7Y0Y=
+
+Name: about_files/GPL2_W__CPE.html
+SHA-256-Digest: 9dtFoDRCx8P2Ev1ZWyG6b02WZAm+EYhxBa5+59XaWCw=
+
+Name: javax/annotation/security/RunAs.class
+SHA-256-Digest: 5QKTdXNAU/DVVL6KwYOeKGLT2Y0h//eUstpmqiwcJh8=
+
+Name: javax/annotation/sql/DataSourceDefinitions.class
+SHA-256-Digest: bd8oNf2QEQS/UVoVG3bKGvuMWT+quVTJlQBX5AtG9jY=
+
+Name: javax/annotation/security/PermitAll.class
+SHA-256-Digest: AOIkAwTqBGx1S1Q/+sA7G2fzITFwsGQyDoMJUIhTbp4=
+
+Name: javax/annotation/security/RolesAllowed.class
+SHA-256-Digest: TUw9CVjj2Wt5xN8cW6AZmHcLOLn3DeORrTYkGdI6GjY=
+
+Name: javax/annotation/Resources.class
+SHA-256-Digest: kql8xPZBJXz/oByeyApelvyBLh2PloSjWdPLB6Gt2V0=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/javax.annotation/pom.xm
+ l
+SHA-256-Digest: CxHyUyQnVm97KJ3JSDVhzhm2Yh7thVTbCZTRv8xN5kw=
+
+Name: javax/annotation/PostConstruct.class
+SHA-256-Digest: ptPLwBYw1nHuWG7+REpD8rnDUYi03J3UnPLNtvqUbiM=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: VCcI83kfHoro+W/0n/o3JxiCJ9tuD9+TqSgtnmzEi8I=
+
+Name: javax/annotation/sql/DataSourceDefinition.class
+SHA-256-Digest: jGVSM+dKi5jGgtJEZljupDmY1uyUXkUV6HI5lVrh26g=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/javax.annotation/pom.pr
+ operties
+SHA-256-Digest: bA/zRHvZNP3l8U7vQmAnx+Tpu2lFykTwcWgMrBR6JOA=
+

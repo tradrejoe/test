@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.equinox.p2.metadata_2.6.300.v20220817-1208" version="1.2">
+    <plugin id="org.eclipse.equinox.p2.metadata_2.6.300.v20220817-1208"/>
+    <package name="org.eclipse.equinox.p2.metadata" visibility="1">
+        <type name="IArtifactKey" restrictions="3"/>
+        <type name="ICopyright" restrictions="3"/>
+        <type name="IInstallableUnit" restrictions="3">
+            <method name="getFilter" restrictions="8" signature="()Lorg/eclipse/equinox/p2/metadata/expression/IMatchExpression;"/>
+            <method name="isSingleton" restrictions="8" signature="()Z"/>
+        </type>
+        <type name="IInstallableUnitFragment" restrictions="3"/>
+        <type name="IInstallableUnitPatch" restrictions="3">
+            <method name="getApplicabilityScope" restrictions="8" signature="()[[Lorg/eclipse/equinox/p2/metadata/IRequirement;"/>
+        </type>
+        <type name="ILicense" restrictions="3"/>
+        <type name="IProvidedCapability" restrictions="3">
+            <method name="getName" restrictions="8" signature="()Ljava/lang/String;"/>
+            <method name="getNamespace" restrictions="8" signature="()Ljava/lang/String;"/>
+            <method name="getProperties" restrictions="8" signature="()Ljava/util/Map;"/>
+            <method name="getVersion" restrictions="8" signature="()Lorg/eclipse/equinox/p2/metadata/Version;"/>
+        </type>
+        <type name="IRequirement" restrictions="3">
+            <method name="getFilter" restrictions="8" signature="()Lorg/eclipse/equinox/p2/metadata/expression/IMatchExpression;"/>
+        </type>
+        <type name="IRequirementChange" restrictions="3">
+            <method name="applyOn" restrictions="8" signature="()Lorg/eclipse/equinox/internal/p2/metadata/IRequiredCapability;"/>
+            <method name="equals" restrictions="8" signature="(Ljava/lang/Object;)Z"/>
+            <method name="matches" restrictions="8" signature="(Lorg/eclipse/equinox/internal/p2/metadata/IRequiredCapability;)Z"/>
+            <method name="newValue" restrictions="8" signature="()Lorg/eclipse/equinox/internal/p2/metadata/IRequiredCapability;"/>
+        </type>
+        <type name="ITouchpointData" restrictions="3"/>
+        <type name="ITouchpointInstruction" restrictions="3"/>
+        <type name="ITouchpointType" restrictions="3"/>
+        <type name="IUpdateDescriptor" restrictions="3"/>
+        <type name="IVersionFormat" restrictions="3"/>
+        <type name="Version" restrictions="2"/>
+        <type name="VersionFormatException" restrictions="2"/>
+        <type name="VersionRange" restrictions="2"/>
+        <type name="VersionedId" restrictions="2"/>
+    </package>
+    <package name="org.eclipse.equinox.p2.metadata.expression" visibility="1">
+        <type name="ExpressionParseException" restrictions="2"/>
+        <type name="ExpressionUtil" restrictions="4"/>
+        <type name="IExpression" restrictions="3"/>
+        <type name="IExpressionFactory" restrictions="3"/>
+    </package>
+    <package name="org.eclipse.equinox.p2.query" visibility="1">
+        <type name="IMatchQuery" restrictions="1">
+            <method name="isMatch" restrictions="8" signature="(Ljava/lang/Object;)Z"/>
+        </type>
+        <type name="IQuery" restrictions="3"/>
+        <type name="MatchQuery" restrictions="0">
+            <method name="isMatch" restrictions="8" signature="(Ljava/lang/Object;)Z"/>
+            <method name="postPerform" restrictions="8" signature="()V"/>
+            <method name="prePerform" restrictions="8" signature="()V"/>
+        </type>
+    </package>
+</component>

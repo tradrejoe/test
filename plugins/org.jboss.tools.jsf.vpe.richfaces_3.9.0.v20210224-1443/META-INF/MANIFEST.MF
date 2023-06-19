@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name.0
+Bundle-SymbolicName: org.jboss.tools.jsf.vpe.richfaces;singleton:=true
+Bundle-Activator: org.jboss.tools.jsf.vpe.richfaces.RichFacesTemplatesAc
+ tivator
+Bundle-Version: 3.9.0.v20210224-1443
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.ui;bundle-version="3.7.0",org.eclipse.core.r
+ untime;bundle-version="3.7.0",org.jboss.tools.vpe,org.jboss.tools.jst.w
+ eb.ui,org.jboss.tools.common.model,org.eclipse.wst.sse.ui;bundle-versio
+ n="1.3.0",org.eclipse.ui.workbench.texteditor;bundle-version="3.7.0",or
+ g.eclipse.ui.ide;bundle-version="3.7.0",org.eclipse.wst.sse.core;bundle
+ -version="1.1.600"
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %Bundle-Vendor.0
+Bundle-ClassPath: lib/jhighlight-1.0.jar,.
+Export-Package: org.jboss.tools.jsf.vpe.richfaces
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-BundleShape: dir
+Eclipse-SourceReferences: scm:git:https://github.com/jbosstools/jbosstoo
+ ls-javaee.git;path="jsf/plugins/org.jboss.tools.jsf.vpe.richfaces";comm
+ itId=0894e416b26464a8657d5ff341ec06d2d2fd1fbe
+

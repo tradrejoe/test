@@ -1,0 +1,39 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: DPMg8tHFaUQxRZqKCw6vU+GWVBB4j
+ VW6BFqhgP72Pw8=
+SHA-256-Digest-Manifest: QxVmPQskvM7qrtOLQ7NiCG92EMHNKPDP2M04xAbnm/k=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: about_files/README
+SHA-256-Digest: mww28Xb9FjhW9Cpzzbp1SlLm6XmBaeOl5rq4Mv83xbs=
+
+Name: about.html
+SHA-256-Digest: sqDKbODxNdZHcTAway4sMAjrut63WJj2vs5aD3ZD+aY=
+
+Name: about_files/README.dom.txt
+SHA-256-Digest: d9LCoNkZ9SPcZN67hfG1J3Ak+qAS0GvnH9awpg0BKrM=
+
+Name: about_files/LICENSE-2.0.txt
+SHA-256-Digest: cO3M3vJWa0LhzdOaTu6fBFjxsQTKjt53DPR9cd5vwwQ=
+
+Name: about_files/NOTICE
+SHA-256-Digest: YkrRJXbLJsN7hK50/hXn3BATiH/flRnx0M6d5Hi7mFU=
+
+Name: plugin.properties
+SHA-256-Digest: 4SwfZeqwgJ5HDnS2zYk5s5TjJZCAQcJiX8kzMYLkPHs=
+
+Name: org/w3c/dom/smil/TimeEvent.class
+SHA-256-Digest: q6KMqqvHlpMIv2FEcyUkNdXUTZejt8kHDqye1s80/U0=
+
+Name: about_files/LICENSE.dom-software.txt
+SHA-256-Digest: P3KAzgkgKJrkibH6aYc6qkJelk+Ah1OB4G6FXdMjOEU=
+
+Name: org/w3c/dom/smil/ElementTimeControl.class
+SHA-256-Digest: AWf5RzDLSUOfm0MzUbsdjIfjgZNRkLfNH0B3wTFW2HY=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: rEULrt3GCNggFeuBb9QugPCG48TouWYgzDw3Q1PhCCQ=
+
+Name: about_files/LICENSE-W3C-20021231.html
+SHA-256-Digest: vsv1KaJiXxgFzNJQEtCoGvq3GlFE+5BQZ1Ne8F9jOTk=
+

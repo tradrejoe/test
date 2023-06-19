@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jboss.tools.vpe.preview.feature"
+      label="%featureName"
+      version="3.9.0.v20210316-0802"
+      provider-name="%providerName"
+      plugin="org.jboss.tools.vpe.preview.editor">
+
+   <description url="http://www.jboss.org/tools">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.jboss.tools.vpe.preview"
+         download-size="22"
+         install-size="40"
+         version="3.9.0.v20210316-0802"/>
+
+   <plugin
+         id="org.jboss.tools.vpe.preview.core"
+         download-size="92"
+         install-size="190"
+         version="3.9.0.v20210316-0802"/>
+
+   <plugin
+         id="org.jboss.tools.vpe.preview.editor"
+         download-size="71"
+         install-size="135"
+         version="3.9.0.v20210316-0802"/>
+
+</feature>

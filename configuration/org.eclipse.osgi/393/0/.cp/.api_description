@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.equinox.security_1.3.1000.v20220801-1135" version="1.2">
+    <plugin id="org.eclipse.equinox.security_1.3.1000.v20220801-1135"/>
+    <package name="org.eclipse.equinox.security.auth" visibility="1">
+        <type name="ILoginContext" restrictions="1"/>
+        <type name="ILoginContextListener" restrictions="1"/>
+        <type name="LoginContextFactory" restrictions="4"/>
+    </package>
+    <package name="org.eclipse.equinox.security.auth.credentials" visibility="1">
+        <type name="CredentialsFactory" restrictions="4"/>
+        <type name="IPrivateCredential" restrictions="1"/>
+        <type name="IPublicCredential" restrictions="1"/>
+    </package>
+    <package name="org.eclipse.equinox.security.auth.module" visibility="1">
+        <type name="ExtensionLoginModule" restrictions="4"/>
+    </package>
+    <package name="org.eclipse.equinox.security.storage" visibility="1">
+        <type name="ISecurePreferences" restrictions="3"/>
+        <type name="SecurePreferencesFactory" restrictions="4"/>
+    </package>
+    <package name="org.eclipse.equinox.security.storage.provider" visibility="1">
+        <type name="IPreferencesContainer" restrictions="3"/>
+        <type name="IProviderHints" restrictions="3"/>
+    </package>
+</component>

@@ -1,0 +1,472 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.e4.ui.css.swt;singleton:=true
+Bundle-Version: 0.14.600.v20220621-1327
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.e4.ui.css.swt;x-friends:="org.eclipse.ui.wor
+ kbench",org.eclipse.e4.ui.css.swt.dom; x-friends:="org.eclipse.e4.ui.wo
+ rkbench.swt,  org.eclipse.ui.views.properties.tabbed,  org.eclipse.e4.u
+ i.css.swt.theme,  org.eclipse.e4.ui.workbench.renderers.swt,  org.eclip
+ se.ui.forms",org.eclipse.e4.ui.css.swt.dom.definition;x-internal:=true,
+ org.eclipse.e4.ui.css.swt.dom.html;x-internal:=true,org.eclipse.e4.ui.c
+ ss.swt.dom.preference;x-internal:=true,org.eclipse.e4.ui.css.swt.engine
+ ;x-friends:="org.eclipse.e4.ui.css.swt.theme,org.eclipse.e4.ui.workbenc
+ h.swt",org.eclipse.e4.ui.css.swt.helpers;x-friends:="org.eclipse.ui.vie
+ ws.properties.tabbed,org.eclipse.e4.ui.css.swt.theme",org.eclipse.e4.ui
+ .css.swt.properties;x-friends:="org.eclipse.ui.workbench,org.eclipse.ui
+ .views.properties.tabbed,org.eclipse.ui.forms",org.eclipse.e4.ui.css.sw
+ t.properties.converters;x-internal:=true,org.eclipse.e4.ui.css.swt.prop
+ erties.css2;x-internal:=true,org.eclipse.e4.ui.css.swt.properties.custo
+ m;x-friends:="org.eclipse.e4.ui.workbench.renderers.swt",org.eclipse.e4
+ .ui.css.swt.properties.definition;x-internal:=true,org.eclipse.e4.ui.cs
+ s.swt.properties.preference;x-internal:=true,org.eclipse.e4.ui.css.swt.
+ resources;x-friends:="org.eclipse.e4.ui.workbench.renderers.swt",org.ec
+ lipse.e4.ui.css.swt.serializers;x-internal:=true,org.eclipse.e4.ui.inte
+ rnal.css.swt;x-internal:=true,org.eclipse.e4.ui.internal.css.swt.defini
+ tion;x-friends:="org.eclipse.ui.workbench"
+Require-Bundle: org.eclipse.e4.ui.css.core;bundle-version="0.12.200",org
+ .eclipse.swt;bundle-version="[3.106.0,4.0.0)",org.w3c.css.sac;bundle-ve
+ rsion="1.3.0",org.eclipse.core.runtime;bundle-version="[3.6.0,4.0.0)"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Import-Package: org.eclipse.jface.resource
+Automatic-Module-Name: org.eclipse.e4.ui.css.swt
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.ui.git;path="bundles/org.eclipse.e4.ui.css.swt";tag="I20
+ 220621-1800";commitId=c07ab5389e1c9b75e46af9dd7cf0c522e35bba64
+
+Name: org/eclipse/e4/ui/css/swt/properties/css2/CSSPropertyBorderSWTHand
+ ler.class
+SHA-256-Digest: lQsrpA8Tz+uY2KNhC0IKAw4N91HU+YQERDQnO4n5A2o=
+
+Name: plugin.xml
+SHA-256-Digest: o5pgSQmaWQIccgws4fQBf6n/8gy6O2cDv6AQFHVPfnE=
+
+Name: org/eclipse/e4/ui/internal/css/swt/definition/IColorDefinitionOver
+ ridable.class
+SHA-256-Digest: BM72YVk+LWsgVEt9SmR7EpGOApkd4nj6tj87BeoVZ+c=
+
+Name: org/eclipse/e4/ui/internal/css/swt/ColorAndFontUtil$1.class
+SHA-256-Digest: aEIo9mkdGp3rfCqjarwSyRCKi1sdaZ1t638sqtVo06I=
+
+Name: org/eclipse/e4/ui/css/swt/resources/ResourceByDefinitionKey.class
+SHA-256-Digest: l9yUxCRKoh3OqurjUI2cTj5YCfjSS40ECeucaEr4New=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyCornerRadiu
+ sSWTHandler.class
+SHA-256-Digest: w0bVumUlwHlcoag9gZiKOqIlhkjTqgBz4xCs3GxypAU=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyCustomTabCo
+ ntentBackgroundSWTHandler.class
+SHA-256-Digest: JCiSRZ+ahoycMQyTaPsJDcgXxBtZcWspR3vZVXLgooY=
+
+Name: org/eclipse/e4/ui/internal/css/swt/definition/IThemesExtension.cla
+ ss
+SHA-256-Digest: cl0uunyw4naR5lXr1736bTZCwTqZM3FjmsSrIkaoN7Q=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyShowCloseHa
+ ndler$ShowCloseSelectionListener.class
+SHA-256-Digest: BZaCWSfdIKt6IzzMPjfszDItqKUZPbuOGx9L+z9UsEM=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ScaleElement$1.class
+SHA-256-Digest: bwcONjVmmS36yNEckqGqVQDouENDzF8f88tUP+ovNOM=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ButtonElement.class
+SHA-256-Digest: +jiZbh3cGoNwEB7giXbPLerw9mbpacf+zOV5HpVix4o=
+
+Name: org/eclipse/e4/ui/internal/css/swt/definition/IFontDefinitionOverr
+ idable.class
+SHA-256-Digest: mdyOtORPsOvbcG20n74MVqyZ0mIRHCX+fr0Lgm5TAg8=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/SWTStyleHelpers.class
+SHA-256-Digest: 8uPz3AhFf3uqrqCSHDQKSxQcW7XPtqPZll0s1Ap6mko=
+
+Name: org/eclipse/e4/ui/css/swt/dom/IHeaderCustomizationElement.class
+SHA-256-Digest: 7YGcbSRaiqx0HgppxIBiRjiwoelPmwV0mPGevz+0nE4=
+
+Name: org/eclipse/e4/ui/css/swt/properties/definition/CSSPropertyThemesE
+ xtensionHandler.class
+SHA-256-Digest: 1K8oOm+1PtGtYKaW6g9IrDthNOD4MzjQYRCO5lTgZZM=
+
+Name: org/eclipse/e4/ui/css/swt/properties/css2/CSSPropertyFontSWTHandle
+ r$FontSelectionListener.class
+SHA-256-Digest: vnXDfx/8+w+6Ict2ITKNOVnd5PeQjrwHfRACdQDAX9o=
+
+Name: org/eclipse/e4/ui/css/swt/dom/definition/ThemesExtensionElement.cl
+ ass
+SHA-256-Digest: D/+vZd3EuhlyG5UfUQvq+tHf4kHEZ1DP+uYx5qdfyTM=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CTabETabHelper.class
+SHA-256-Digest: QWWMphOytyTHn8l0XTdQ1VyMacCTUb4Td1zMmG542EY=
+
+Name: .api_description
+SHA-256-Digest: Wobiis7cWP5vgb1YCBjUpf2KAFHPuQQLVHso8/WZUiw=
+
+Name: org/eclipse/e4/ui/css/swt/properties/css2/CSSPropertyTextSWTHandle
+ r.class
+SHA-256-Digest: q5te684fzgEOQe/g9Mza5b6+P5sQs1NyI/zEh/Hlw9M=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ButtonElement$1.class
+SHA-256-Digest: 6NvN9hjVfGN/Wo0kUm/0uzLaI48uzPSCIAv7BEOyRlo=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ControlElement$2.class
+SHA-256-Digest: l+VCu/xijPx+v9wK2IqGPj44ZL06czIiqOa1CLJ4LYk=
+
+Name: org/eclipse/e4/ui/css/swt/dom/definition/ColorDefinitionElement.cl
+ ass
+SHA-256-Digest: tmrzucIU95+hNeLuNPPnNq0YraRRtBy69fwEBSCXXLg=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ScaleElement.class
+SHA-256-Digest: Am6ePOSw3a9gDqp8xEbfJW5fnYgai3MkdcQBEXVEfd8=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertySingleSWTHa
+ ndler.class
+SHA-256-Digest: jKK0aUEemsDJ9GLRWpPTLIXFMb0OyMY5pHW8hyAt+d4=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ToolItemElement$1.class
+SHA-256-Digest: 57RPmvvml6JIPxLCs//SUuAHpEZ52vKHAJphQCYjrq0=
+
+Name: org/eclipse/e4/ui/css/swt/properties/definition/CSSPropertyFontDef
+ initionHandler.class
+SHA-256-Digest: fqnP7gJqVdm7K3UyFtFYF9ldqfh9xrQt2hXq1/Hkogo=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ShellElement.class
+SHA-256-Digest: zitEEmT26bYW1mTyO02oECNr67gP5ctCXU4pNe3uq2I=
+
+Name: org/eclipse/e4/ui/css/swt/dom/TableItemElement.class
+SHA-256-Digest: zGCl9lCPqYZwnUHIkLYSImt16hqbCWco/eTBjX/25is=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ItemElement.class
+SHA-256-Digest: CdN/kfIyQN7006hVKJfzDHd103kkFsBjTqD+dvZjcaw=
+
+Name: org/eclipse/e4/ui/css/swt/serializers/CSSSWTSerializerConfiguratio
+ n.class
+SHA-256-Digest: tNXG7r9r7dsMwHGLMe2/1sMvDIUsEcwDGuhYQfX4/Z4=
+
+Name: org/eclipse/e4/ui/css/swt/dom/CTabFolderElement.class
+SHA-256-Digest: 6fZ0g3apSBlVGR4SxotFZt25cqQFHV6xxweUINGBn9w=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyTabHeightHa
+ ndler.class
+SHA-256-Digest: qNtOSRJX2uX9bBiAXT+XbMG5svsTrp7qv/uZOc2NR8c=
+
+Name: org/eclipse/e4/ui/css/swt/properties/definition/CSSPropertyColorDe
+ finitionHandler.class
+SHA-256-Digest: gkQhSJly2VOH5VyeTmKREOHgURTGHe/XU8nbkK91jz0=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSBackgroundModePrope
+ rtyHandler.class
+SHA-256-Digest: ITuYYcEQfXE/8YP4YMkgAzXt1ZnmYYQ/8iXWbb7sMgw=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyTabPosition
+ SWTHandler.class
+SHA-256-Digest: KJRo6KKpBT2H8Kj+4ir3N5Cc2O3wn3x6bqIlmdxfDV0=
+
+Name: org/eclipse/e4/ui/css/swt/dom/CompositeElement.class
+SHA-256-Digest: UBPtcMJSosY8fTaONIX3X9uei3+Awyh7HDVaR5soj2s=
+
+Name: org/eclipse/e4/ui/css/swt/properties/css2/CSSPropertyFontSWTHandle
+ r.class
+SHA-256-Digest: 9s1180oL8liJdZi2KX9I/QHTvOfdSKDLzUlOlXSUpnc=
+
+Name: org/eclipse/e4/ui/css/swt/dom/preference/EclipsePreferencesElement
+ .class
+SHA-256-Digest: ESoOPhFnwO/OSCyLCpAqSq2SD8PzvNSmb/HY5mwaR1k=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/PropertyHelper.class
+SHA-256-Digest: zeha6cEAgyvIoeXovm5d7C7dTDvtXi9tQ0NOlmzv8HY=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/SWTElementHelpers.class
+SHA-256-Digest: XReM6FRlGfxY+F/SfFBzDyDS8yoFlVjOS4wgh5j/82U=
+
+Name: org/eclipse/e4/ui/internal/css/swt/definition/IColorAndFontProvide
+ r.class
+SHA-256-Digest: F/0nc9N/TYNXOfW9d82Er7Yyp0ECmONgZ6gwtE+rLRM=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyHeaderHandl
+ er.class
+SHA-256-Digest: dwFHXnICftLqimFuXJvdwWtcuJgiO+nD97Qf2kxs6RE=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyAlignmentSW
+ THandler.class
+SHA-256-Digest: G8LFqjAApGo2o1TfyguSN1RqKD2twP00HU+c6MRohG0=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/CSSSWTColorHelper.class
+SHA-256-Digest: o+XmushlUFhT3dg6DfxTgmDLLvP3mhfxUnZfGiflmNk=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyOuterKeylin
+ eSWTHandler.class
+SHA-256-Digest: zmnAahJCz2IQLq7yssxwdUMq7F6dWFiMWjYveXL19eI=
+
+Name: org/eclipse/e4/ui/css/swt/dom/LinkElement.class
+SHA-256-Digest: sJwXYwtE+OJv6zDKghwyVb4sHlvv0nBr+U6tIIWtkrE=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ToolItemElement.class
+SHA-256-Digest: h0ahju5DJDhBAT7sp/1EAwWtOSXKUD2PNuQDYFjqKDk=
+
+Name: org/eclipse/e4/ui/css/swt/properties/AbstractConvertedCSSPropertyS
+ WTHandler.class
+SHA-256-Digest: Wc7PB5Vo5RlWQ6o4X+X9UI8oM4Zwr3ovvQmaqyCyZKQ=
+
+Name: org/eclipse/e4/ui/css/swt/dom/html/SWTHTMLElement.class
+SHA-256-Digest: RxLyGztJaUYVvSf7u/ACYqTXIu+lKZNW6rOOgaPcQQo=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/EclipsePreferencesHelper.class
+SHA-256-Digest: zKB02bLNgu/h5viAqgk86V/dM9EbDPVlVaWlqglpSzE=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/CSSSWTImageHelper.class
+SHA-256-Digest: +atToPfKfzSA5osgZQtmXgIUZdF0f8wP3IK0xwjTcY0=
+
+Name: org/eclipse/e4/ui/css/swt/properties/preference/EclipsePreferences
+ Handler.class
+SHA-256-Digest: U5yZBOu1hKs6jLD5OPFV5paJ7IJmQ5ry3XcZwwkmimg=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertye4TabOutlin
+ e.class
+SHA-256-Digest: kScC7not4GJnZlcxDxO7ew4v+MbyUt1s7CkE/k5xjf4=
+
+Name: org/eclipse/e4/ui/css/swt/resources/SWTResourcesRegistry.class
+SHA-256-Digest: 68MPlQ5OBoYt0ZfXaGhk3jNSAfTDK4siasxKE996K4s=
+
+Name: org/eclipse/e4/ui/css/swt/properties/css2/CSSPropertyPaddingSWTHan
+ dler.class
+SHA-256-Digest: NCqasHaop5+673mKW/KAlRtCChqozxv4+Q5rY/vTfvw=
+
+Name: org/eclipse/e4/ui/css/swt/dom/preference/EclipsePreferencesProvide
+ r.class
+SHA-256-Digest: /yrqVC87jWt3jcp+hFfBMiIH5BL5mRWcuF47niSR5d0=
+
+Name: org/eclipse/e4/ui/css/swt/dom/TextElement.class
+SHA-256-Digest: 4kDfF9UzUy3bR478YtOEXmoMU2cNQZO2N1qTcbtz7zY=
+
+Name: org/eclipse/e4/ui/css/swt/properties/converters/CSSValueSWTFontCon
+ verterImpl.class
+SHA-256-Digest: KoICUiiFCPSTeZ9dqexsv45u9DZv4VAX8TyBs5ib9pI=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyMinimizedSW
+ THandler.class
+SHA-256-Digest: Ed6JeIF1QquE3+SzED2GossVc5M+YFSi/Sazkbb01Zs=
+
+Name: org/eclipse/e4/ui/css/swt/properties/css2/CSSPropertyMarginSWTHand
+ ler.class
+SHA-256-Digest: Oa9tFhW+6ZfWObZOkUZ9STylaHwTitskERm9Vlm+e5A=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/CSSSWTHelpers$1.class
+SHA-256-Digest: CNKs9Xqo2LXwHknXrKFCbnAXMNDd0HdjZUG+mD+xSWc=
+
+Name: org/eclipse/e4/ui/css/swt/dom/html/SWTHTMLElementProvider.class
+SHA-256-Digest: cZwPVv+azcGK4+VIfjRUy2shPq1vCNcdqpQ9NfhDgao=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertye4SelectedT
+ abFillHandler.class
+SHA-256-Digest: NVsfMsD8c54Ci08aQRNQSi9ZDiYZBp5N6pvGPBNpAhs=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertySelectedTab
+ sSWTHandler.class
+SHA-256-Digest: IyVm6pX15iT+E8l86w6WnOULGi73cVQxcaSaVz6a7VM=
+
+Name: org/eclipse/e4/ui/css/swt/dom/definition/ThemeDefinitionElement.cl
+ ass
+SHA-256-Digest: xfgG/0Tedf4IrzeesBge+XDPqIlkBDuIm59PClUfPq0=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/ThemeElementDefinitionHelper.cla
+ ss
+SHA-256-Digest: 4pS4EZN+54aewN/qDL21GbQMgOgx3os0C8jYRJ5RU/k=
+
+Name: plugin.properties
+SHA-256-Digest: rB1QEoP59cWgwsRHe/yliGEj6PDGOMFRYEOHbqMZGjA=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/EclipsePreferencesHelper$Prefere
+ nceOverriddenByCssChangeListener.class
+SHA-256-Digest: aVQOKQACAevhJRaw6lFFsfD3l/nk62rJHbs4BoBYIWY=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ControlElement.class
+SHA-256-Digest: Sn3nKMQ8bZUKaLXYNsFqR+p/sD06d7K5+pGdxvbga3I=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyUnselectedI
+ mageVisibleSWTHandler.class
+SHA-256-Digest: vKMY+vLccWrOWWOQec2iFtnpXy+CHdK9TwETl88vj+Y=
+
+Name: org/eclipse/e4/ui/css/swt/properties/css2/CSSPropertyBackgroundSWT
+ Handler.class
+SHA-256-Digest: 8OVG0TiMJyE+/rSg8HQKXDVdCbQIYQofV7B2grxbgDA=
+
+Name: org/eclipse/e4/ui/css/swt/dom/definition/ThemeElementDefinitionPro
+ vider.class
+SHA-256-Digest: /rsNxy65zELQSOGU0CqIZmRRT7fKq757DhgsdR8F4tU=
+
+Name: org/eclipse/e4/ui/css/swt/dom/CTabFolderElement$1.class
+SHA-256-Digest: SNpAySUc9ZAmX7sdYpXXerA8N/zDDrLavb0rDEto9aE=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/CSSSWTHelpers.class
+SHA-256-Digest: FQcgA+Us17PcDb54RithWwG8uD32Gj3Ez9PliwB6+ro=
+
+Name: org/eclipse/e4/ui/css/swt/dom/WidgetElement.class
+SHA-256-Digest: TdkrXmaz84DtANRpHZWtuKHjL8ZHmmzdM/sK0GHPNxc=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyLinesVisibl
+ eSWTHandler.class
+SHA-256-Digest: ksPP1CvdRHqMCTrYaHtRN2pXsWjIaEM5KXq3iq74fdU=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/URI$URICache.class
+SHA-256-Digest: dc9L37dE3EAsk7nOkx1wbzTYoweCJ1PcMKmLkffiB6o=
+
+Name: org/eclipse/e4/ui/internal/css/swt/ColorAndFontUtil.class
+SHA-256-Digest: 4s696eqRbzwG9xlWLAwDo1PTEQ9BWQbwvSzFGBwDOM0=
+
+Name: org/eclipse/e4/ui/css/swt/properties/GradientBackgroundListener.cl
+ ass
+SHA-256-Digest: JIPRGpopgcAhI4Tt9gGbUHFD1GCwD2+JRljJZy8lXIE=
+
+Name: org/eclipse/e4/ui/internal/css/swt/ICTabRendering.class
+SHA-256-Digest: afVvOfm0s/01J+M99MKtpvQL8LgrQrq+eb2zYbg91Ws=
+
+Name: org/eclipse/e4/ui/css/swt/resources/SWTResourceRegistryKeyFactory.
+ class
+SHA-256-Digest: uRfUJ+odPp44QB4uOnJsmQS0BC5WVe3IMCaRO0G03jE=
+
+Name: org/eclipse/e4/ui/css/swt/properties/converters/CSSValueSWTGradien
+ tConverterImpl.class
+SHA-256-Digest: y0rXKRzU7Gcw+FcBr6JHf788Zidy/8RBf7PRXhgFzK0=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/CSSSWTFontHelper.class
+SHA-256-Digest: tGVBhvohMbxGmZfoBfl6fwBRKjqBVlngq+ReFfv4A9Y=
+
+Name: org/eclipse/e4/ui/css/swt/dom/CTabItemElement.class
+SHA-256-Digest: Hy339XI/cYuQfIjABJAGxn2+4e/P7vZ7EjidWEQbCz8=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyLinkSWTHand
+ ler.class
+SHA-256-Digest: AzQLyl5nvVW9rk/z2ObA3TfkbwnaToi5SMMlHl0Z3ZY=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/URI.class
+SHA-256-Digest: ha86Zy+UT3u2fAEBcgewb2RfY0bDxeQmmN5M1yFL0pI=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyMinimizeVis
+ ibleSWTHandler.class
+SHA-256-Digest: bdthvucMBqUopdxIgtKdOf4PWwcDC0I82fxB8wHWmoA=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyUnselectedC
+ loseVisibleSWTHandler.class
+SHA-256-Digest: Kvhx8wuH/vbpd11dL/nb7X75M3FqDVKAp5NIyuZr1nc=
+
+Name: org/eclipse/e4/ui/css/swt/properties/AbstractCSSPropertySWTHandler
+ .class
+SHA-256-Digest: Mfxgcj68u9+Oopz3SdKknqj+sY6pMqH/MPBOqgy91lo=
+
+Name: org/eclipse/e4/ui/css/swt/helpers/CSSSWTCursorHelper.class
+SHA-256-Digest: E7gw8nA7DJNt3e+NwT4j6fYyg5LoP6GOQuL0aau+WCE=
+
+Name: org/eclipse/e4/ui/css/swt/CSSSWTConstants.class
+SHA-256-Digest: OtpdNOzTBLvQxRtxtc1cRul0NIFAlXFcyAbjAxtyIVg=
+
+Name: org/eclipse/e4/ui/css/swt/dom/TreeElement.class
+SHA-256-Digest: 0LD1zMX9SUOP2HmzQxXzOw+Jq1xTSOuXlP3GrJ0kUeE=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyInnerKeylin
+ eSWTHandler.class
+SHA-256-Digest: +E3MUUAR6IDkcbhnC27i6yDrYoODjB8jw1VhFgZLvHA=
+
+Name: org/eclipse/e4/ui/css/swt/dom/SWTElementProvider.class
+SHA-256-Digest: TgQeZPp4QJLpxZdf2XL+F7WrHblpAQu6XhfYyhIsv6Y=
+
+Name: org/eclipse/e4/ui/css/swt/properties/converters/CSSValueSWTFontDat
+ aConverterImpl.class
+SHA-256-Digest: 235sJlwzYP0eYSpHwRrAaX+Ox2SUssIWiGEuUWAyyuY=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ControlElement$1.class
+SHA-256-Digest: cizTJWTdEeGW93Fe+pVxvqGxgkXlSRSTUR7GB2Dkoik=
+
+Name: org/eclipse/e4/ui/css/swt/dom/definition/FontDefinitionElement.cla
+ ss
+SHA-256-Digest: mb5Ve7OsbRnMCrzpTKSDC2LG0L0abZ7N6gxZMnd9RDo=
+
+Name: org/eclipse/e4/ui/css/swt/properties/definition/CSSPropertyThemeEl
+ ementDefinitionHandler.class
+SHA-256-Digest: K7WVmdWuHgsRXBq195/VI6WEDGLEFDHC7MCeIFHGnJM=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ShellElement$1.class
+SHA-256-Digest: czAvU0blQFZYqQsd9Ou2Am8CZb8ndmcwG3OgLP1H0wg=
+
+Name: org/eclipse/e4/ui/css/swt/properties/css2/CSSPropertyClassificatio
+ nSWTHandler.class
+SHA-256-Digest: XhOE+g/J6rKWZRSoSoefqwaA4eSop7A37C+DYpsZ5sk=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyTabRenderer
+ SWTHandler.class
+SHA-256-Digest: WKEu+Kf8bI+KRHvYQBm7k8VkBK/nJp5vlg3i28mMoT8=
+
+Name: org/eclipse/e4/ui/css/swt/dom/ToolBarElement.class
+SHA-256-Digest: IhQR4tF1tLDETLMU0EgtgcMGvQBSmEC+nufPKidx7/E=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyMaximizeVis
+ ibleSWTHandler.class
+SHA-256-Digest: fnJcsIsFEEpHVeRsdbG7KxZ4xT8ulSCz9IhBrLMHLAI=
+
+Name: org/eclipse/e4/ui/css/swt/engine/CSSSWTEngineImpl.class
+SHA-256-Digest: WkvS/h4rHGbCEp3c5ER/AST8+Iv4AxX51sZTPBj/AZI=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyBorderVisib
+ leSWTHandler.class
+SHA-256-Digest: /7ckv/fjsM7lA/1sfUDkavzTdLIqchsGxKC1FlHDRYA=
+
+Name: org/eclipse/e4/ui/css/swt/properties/converters/CSSValueSWTColorCo
+ nverterImpl.class
+SHA-256-Digest: cRYTNA6BEfpCEzt52ZETaQ1YarnL85P3lZM+Q1R4x/A=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertySimpleSWTHa
+ ndler.class
+SHA-256-Digest: txiAG9AQJ/4AkENJS5gIRN8J2HsTV248XFBK0Z6OiwI=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyMaximizedSW
+ THandler.class
+SHA-256-Digest: YVpFriMYID/T6rXG6BzeQC0sAPq7KJFgLsUY7nUQHPs=
+
+Name: org/eclipse/e4/ui/css/swt/engine/CSSSWTApplyStylesListener.class
+SHA-256-Digest: Fsjn4vVj7WxHrYqucgO/Y3nYXCcw59Ryb3OGgNtMiAo=
+
+Name: org/eclipse/e4/ui/css/swt/engine/AbstractCSSSWTEngineImpl.class
+SHA-256-Digest: Rr+5iAhcRFU0GjhAwPdTmoVQ7gcTyCNFcLyhGhIvLZs=
+
+Name: org/eclipse/e4/ui/internal/css/swt/definition/IThemeElementDefinit
+ ionOverridable.class
+SHA-256-Digest: kLNz2H9OAu0Tk7iMnjU0rghizSFvotWhZZ1U8hWbSYg=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyShowCloseHa
+ ndler.class
+SHA-256-Digest: Hkg8OZkOvpIyTWaUemyPXsCAuHQ2TmfXkN/JJRyV0X0=
+
+Name: org/eclipse/e4/ui/css/swt/dom/TableElement.class
+SHA-256-Digest: 0L4e3DP3n8uOzJcLUT73ixXEaCw2RVYbAnXf08joApg=
+
+Name: org/eclipse/e4/ui/css/swt/properties/converters/CSSValueSWTImageCo
+ nverterImpl.class
+SHA-256-Digest: yKmeu2ddgvEVB016ObzAZRHg3aXlErw3XhqbGqA7s40=
+
+Name: org/eclipse/e4/ui/css/swt/properties/GradientBackgroundListener$1.
+ class
+SHA-256-Digest: ECyn+hW8bi+8q0MxMZne4mR0kFtGGnwQowOW/2ahK6I=
+
+Name: org/eclipse/e4/ui/css/swt/properties/converters/CSSValueSWTRGBConv
+ erterImpl.class
+SHA-256-Digest: dVasMIG2G/UYoXAlgxIYtNihi8Y2G0TVflDvCyMXgjE=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyUnselectHot
+ TabsColorBackgroundHandler.class
+SHA-256-Digest: H6RA74sbG863N3fqRIOOSfPiBRPECfZaxTQva6AJTA0=
+
+Name: org/eclipse/e4/ui/css/swt/properties/converters/CSSValueSWTCursorC
+ onverterImpl.class
+SHA-256-Digest: slazBjL7P/HN2SGobH6Tkqwdl0GO4LlCeegpp+V8Jvc=
+
+Name: org/eclipse/e4/ui/css/swt/properties/custom/CSSPropertyUnselectedT
+ absSWTHandler.class
+SHA-256-Digest: 5Pi/VcAR59UqDtEEnnyIuZmKbTrO30MvYj7lUi+Dw/0=
+

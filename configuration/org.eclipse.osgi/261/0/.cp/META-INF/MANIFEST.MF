@@ -1,0 +1,857 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.debug.core; singleton:=true
+Bundle-Version: 3.20.0.v20220811-0741
+Bundle-ClassPath: .
+Bundle-Activator: org.eclipse.debug.core.DebugPlugin
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.debug.core,org.eclipse.debug.core.commands,o
+ rg.eclipse.debug.core.model,org.eclipse.debug.core.sourcelookup,org.ecl
+ ipse.debug.core.sourcelookup.containers,org.eclipse.debug.internal.core
+ ;x-friends:="org.eclipse.debug.ui,org.eclipse.debug.tests,org.eclipse.d
+ ebug.examples.mixedmode,org.eclipse.jdt.launching,org.eclipse.ui.consol
+ e",org.eclipse.debug.internal.core.commands;x-friends:="org.eclipse.deb
+ ug.ui",org.eclipse.debug.internal.core.groups;x-friends:="org.eclipse.d
+ ebug.ui",org.eclipse.debug.internal.core.groups.observer;x-internal:=tr
+ ue,org.eclipse.debug.internal.core.sourcelookup;x-friends:="org.eclipse
+ .debug.ui",org.eclipse.debug.internal.core.sourcelookup.containers;x-fr
+ iends:="org.eclipse.debug.ui",org.eclipse.debug.internal.core.variables
+ ;x-friends:="org.eclipse.debug.ui,org.eclipse.jdt.debug.ui"
+Require-Bundle: org.eclipse.core.resources;bundle-version="[3.18.0,4.0.0
+ )";visibility:=reexport,org.eclipse.core.variables;bundle-version="[3.2
+ .800,4.0.0)",org.eclipse.core.runtime;bundle-version="[3.26.0,4.0.0)",o
+ rg.eclipse.core.filesystem;bundle-version="[1.2.0,2.0.0)",org.eclipse.c
+ ore.expressions;bundle-version="[3.4.0,4.0.0)"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: org.eclipse.debug.core
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.debug.git;path="org.eclipse.debug.core";tag="I20220811-1
+ 810";commitId=37f3550341ffdc96186ceb4129a3410cfa840995
+
+Name: plugin.xml
+SHA-256-Digest: vi7+e7W1BOWHH2KUmfzzKdzeNyHxoQYMbxTQ6l8SB1g=
+
+Name: org/eclipse/debug/internal/core/commands/ForEachCommand.class
+SHA-256-Digest: h2HpzJzdzGuIGXqZHCZJUmThD6MUwMxgpfgALF/exlg=
+
+Name: org/eclipse/debug/internal/core/groups/GroupLaunch.class
+SHA-256-Digest: XIEd4nhn75/9JhAIRcB23T89kkCRiLDqwTPRtMT90h0=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourceLocatorMementoC
+ omparator.class
+SHA-256-Digest: 6iCZxwYnffJtUNpdYDd2Nm3Us7YUaNnAoS3jsrx6O2U=
+
+Name: org/eclipse/debug/internal/core/LaunchManager$LaunchNotifier.class
+SHA-256-Digest: IexSf5iF0ahVIX1Bx/NtjaJfNbvgxQrVbTAcG61w6m8=
+
+Name: org/eclipse/debug/core/model/IExpression.class
+SHA-256-Digest: wI7j3OB41TnGqMGlVWRKG1OWQ8Mjv1nJ5dQfOIlIVCE=
+
+Name: org/eclipse/debug/core/commands/IDropToFrameHandler.class
+SHA-256-Digest: NTV4k1v8YKctMB92TDaT0mNPEqdp3XrQ7z46QHYs5go=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/DefaultSourceContai
+ ner.class
+SHA-256-Digest: FyMhB2WJSQyK3sd08d7IC0zOaGDEpb1BfVl3U3K9jfc=
+
+Name: org/eclipse/debug/internal/core/commands/DebugCommandRequest.class
+SHA-256-Digest: qUYRUYf+DUDs3NAVgJ99j75yD5WohOjiev66KpWicdw=
+
+Name: org/eclipse/debug/internal/core/LaunchManager$ConfigurationNotifie
+ r.class
+SHA-256-Digest: gniR6egRMyLsym4I2vU+c3S0AEN6IR0n7kxHxkaW8lg=
+
+Name: org/eclipse/debug/core/model/IBinaryStreamsProxy.class
+SHA-256-Digest: 9sQhA2V5bWMKW20ff8aHiWXsWVkbgvp9xldazTOqD0w=
+
+Name: org/eclipse/debug/core/ILaunchesListener2.class
+SHA-256-Digest: v6WgRFyp3/IeXF37ugsWCoS2hkBjfKBGqh/aYKs717o=
+
+Name: org/eclipse/debug/core/DebugPlugin$1.class
+SHA-256-Digest: MyS2+yCt1mIhfTZjGCuNdJr9QwdG0krWKwyJrH4WcQw=
+
+Name: org/eclipse/debug/internal/core/commands/CommandAdapterFactory.cla
+ ss
+SHA-256-Digest: 2wWZt76cxqgZcZOIkZIoOaBcsfBB+cN+Qv+ZRypD8mU=
+
+Name: org/eclipse/debug/internal/core/groups/GroupMemberChangeListener.c
+ lass
+SHA-256-Digest: uvknP/hrImUmuMfTx12IP7ALF4Zumlso73kxVqk8/vk=
+
+Name: org/eclipse/debug/internal/core/StepFilterManager.class
+SHA-256-Digest: lulAfYMI7hNJy7C3OFsCsXr+rp1ESBbWMVu9qSYwXl4=
+
+Name: .api_description
+SHA-256-Digest: dzmxORdeRKXIJZqkJXgixAvhmSltVXSGH+juhPh4PQY=
+
+Name: org/eclipse/debug/core/ILaunch.class
+SHA-256-Digest: fliknbvlEvn5rO1cnvemqlv3rYmqgjy2hZd/F0rhawE=
+
+Name: org/eclipse/debug/internal/core/commands/StepOverCommand.class
+SHA-256-Digest: 1zL2ODSXL3K6QWVXNJcmDU9+5Mf2wxXBGH51CZlNtgw=
+
+Name: org/eclipse/debug/internal/core/commands/DisconnectCommand.class
+SHA-256-Digest: iY8+GZntYEZQdKjdBKrR+uxzepZpDqR5wOF6E+UlnLM=
+
+Name: org/eclipse/debug/internal/core/LaunchConfiguration.class
+SHA-256-Digest: JhlTbPze5LUZilk5oBbcekg6gioi4J0V41kCXLULPBw=
+
+Name: org/eclipse/debug/core/commands/ITerminateHandler.class
+SHA-256-Digest: 2edUN1nmVM9FDuy984nU6b4/nAtaVoMlJ8hXOK2zqe8=
+
+Name: org/eclipse/debug/core/DebugPlugin.class
+SHA-256-Digest: CqE9ZWYYiFdrRIPYhteVTYfCV4MXeKywasSumon6E+g=
+
+Name: org/eclipse/debug/internal/core/LaunchManager$LaunchManagerVisitor
+ .class
+SHA-256-Digest: mLq7YG3VMV6mOZdhfdX7DDhBx55tZtkFcZxg0gXm4p8=
+
+Name: org/eclipse/debug/internal/core/XMLMemento.class
+SHA-256-Digest: 1EmGqNnoh4hjxT/U6QBu2ZYnLER/06PIZU5nHLHoM1c=
+
+Name: org/eclipse/debug/core/DebugPlugin$StatusHandlerKey.class
+SHA-256-Digest: TU4iXsI9iHANA1CP2lmikEvdYhjEiRTngm66MI9DgRc=
+
+Name: org/eclipse/debug/internal/core/LaunchablePropertyTester.class
+SHA-256-Digest: YpTXXD7x1ItJ1lb4weQW7I/Ui+oaOLFs5/9pwFKG5N0=
+
+Name: org/eclipse/debug/internal/core/BreakpointManager$BreakpointsNotif
+ ier.class
+SHA-256-Digest: jvG8q2iSnO8glNCO92J91fe56UNYivvwMsLjdKx3atY=
+
+Name: org/eclipse/debug/core/model/IIndexedValue.class
+SHA-256-Digest: e+/jNLHtckBcHBgiCnPxUMIBmjyxq/8RP5rhZal3K+w=
+
+Name: org/eclipse/debug/core/model/IWatchExpressionDelegate.class
+SHA-256-Digest: X0B7T68uyIvLdljir175J7mvCzQQ+6Vnhnqto7G0xk4=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourceContainerType.c
+ lass
+SHA-256-Digest: S1/amM4MmvG7+3rNZ3nwaE+K3W2BHo+//NxlD7D/bf8=
+
+Name: org/eclipse/debug/core/model/IStep.class
+SHA-256-Digest: ugiyDXayDg5x3dH62EEq2uqGpnHkdD7ZAqR7kj4j5lw=
+
+Name: org/eclipse/debug/core/commands/IDebugCommandRequest.class
+SHA-256-Digest: DHh+D86ZldgQYkZPVI34He0GrhruNhyLDDfqMVf+hUc=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourceLookupUtils$Arc
+ hiveCleaner.class
+SHA-256-Digest: HcnipM8DpTuVSq+vvtuH/m0ZAgKBW8bhrWWbZt1OkzQ=
+
+Name: org/eclipse/debug/core/model/IRegister.class
+SHA-256-Digest: 3FIYAIOeCKJBnOdQfflkD5gSRUskPx2TeBxHLd59cJg=
+
+Name: org/eclipse/debug/core/commands/IStepIntoHandler.class
+SHA-256-Digest: 1NHhUs4Z0Al+oiw0aCbof0CdrlR2JwgJAMT2OHkHSzw=
+
+Name: org/eclipse/debug/internal/core/IInternalDebugCoreConstants.class
+SHA-256-Digest: k1qYewA8y57k79pNbu6NWLGcvVCF6QAy7poa5NR3IOQ=
+
+Name: org/eclipse/debug/internal/core/variables/Messages.class
+SHA-256-Digest: Wk82/PwzKQN5NgmtLxdFzNifJPlNtREB9noRUEPoRCM=
+
+Name: org/eclipse/debug/internal/core/commands/StepReturnCommand.class
+SHA-256-Digest: QNWkiido32EgwTsOhRlrgw9sVnTYJcb00iifAOnRr9U=
+
+Name: org/eclipse/debug/internal/core/commands/SuspendCommand.class
+SHA-256-Digest: qsx3i/oAj/5H6xOMH6u0T8SzNonCG6tVJDTCwk8CVCw=
+
+Name: org/eclipse/debug/core/IStreamListener.class
+SHA-256-Digest: x8ckn6jyUacudjN0DYxU2N2MyD6Qqu5oNBqYT8n3uU4=
+
+Name: org/eclipse/debug/core/model/IStreamsProxy.class
+SHA-256-Digest: mbkE1XzuaL/yNm7Y42ILXPNbpSoQV6dhfzKYOlLzIK0=
+
+Name: org/eclipse/debug/core/commands/ISuspendHandler.class
+SHA-256-Digest: SKGGyktjxwYB+jAHexuguR0VqGpsAbGfn7iRbHRUlkA=
+
+Name: org/eclipse/debug/internal/core/OutputStreamMonitor$1.class
+SHA-256-Digest: 0b9xFgqQUPc9IiOUuOIddISentFvCfMQJ2EBTFGtDfE=
+
+Name: org/eclipse/debug/internal/core/commands/StepIntoCommand.class
+SHA-256-Digest: CMwrhjDDVwESF4UMIlnzP/riXwkN3SbIlhhvjI5kff0=
+
+Name: org/eclipse/debug/internal/core/ExpressionManager$ExpressionNotifi
+ er.class
+SHA-256-Digest: 2G97NOMsxsOsoy9wpJxrk5ZOGv5spMibTGKM7iQKwK8=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/DefaultSou
+ rceContainerType.class
+SHA-256-Digest: sL+1Iop1J928vwuokqGmrXvJDlZOj3HkgT4SojYBYLg=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/DirectorySourceCont
+ ainer.class
+SHA-256-Digest: Piz7GAHKF9DUSQPZpCoZ5ks9A8eXbV6EGCyOrGXFQ+Q=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/ArchiveSourceContai
+ ner.class
+SHA-256-Digest: EzsLCFXkx8HcunTykpZ9x2q/RYvA2QLMC9CW4HBvgdY=
+
+Name: org/eclipse/debug/core/commands/IEnabledStateRequest.class
+SHA-256-Digest: kCTuP0acv1hlvZTjdRxbjmPCnW64tPCKb7FCikZ9SYM=
+
+Name: org/eclipse/debug/core/commands/IResumeHandler.class
+SHA-256-Digest: BitMB8BJlzzIqR5tZ09FV8BU+AcotQU6mqxD1mE33ko=
+
+Name: org/eclipse/debug/core/commands/IDebugCommandHandler.class
+SHA-256-Digest: XGI/sWt/IBOzK2hWC7qxVVzz+vaZEMk2e1RNexvAzDg=
+
+Name: org/eclipse/debug/internal/core/LaunchManager$ResourceProxyVisitor
+ .class
+SHA-256-Digest: hJeNLvUImLskdVzgN2YH1tpvTlhuMvpwOfNqfnjEiQc=
+
+Name: org/eclipse/debug/core/IExpressionManager.class
+SHA-256-Digest: IPlfbt47/jjHrgBCzaDdvWHWQ123EhYd3d4MmKumdec=
+
+Name: org/eclipse/debug/core/commands/IDisconnectHandler.class
+SHA-256-Digest: FDkNUC6HVmGmWwMmnpmQS+gJtJhZiqhHqSMgNRf/pis=
+
+Name: org/eclipse/debug/internal/core/commands/ResumeCommand.class
+SHA-256-Digest: WYtebg139PDSpjsBVkP2jJvkUUiwYedCHtIhiLXXLkU=
+
+Name: org/eclipse/debug/internal/core/MemoryBlockManager$MemoryBlockNoti
+ fier.class
+SHA-256-Digest: mdmMQWMohJKNPswsP+JBacbr3Ky6St4Ce8ew8qStgj0=
+
+Name: org/eclipse/debug/core/model/IWatchExpressionResult.class
+SHA-256-Digest: Wsrk3dMREjZ8ElG5RX8iDwNwjXzLLLkrlMVKb6LFQOo=
+
+Name: org/eclipse/debug/internal/core/OutputStreamMonitor.class
+SHA-256-Digest: sjno/wVN54JKgW45nTHiNLE3l91jcIgOImu8gO/+h5k=
+
+Name: org/eclipse/debug/internal/core/LaunchManager$PreferredDelegate.cl
+ ass
+SHA-256-Digest: jemBq04XcU88p2+iOf2/ZLb25nizRfI6t3mrodi+RGI=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourcePathComputer.class
+SHA-256-Digest: TzxmuJa0ZGCAS9EvMNNd4vcNYE+R8tNQIT2VQ9dljAg=
+
+Name: org/eclipse/debug/internal/core/commands/Request.class
+SHA-256-Digest: kfNuZXdkKUZ0Nd/mW1QS76DBH+6HhvOJrg8sJpY19b0=
+
+Name: org/eclipse/debug/internal/core/Preferences.class
+SHA-256-Digest: r11F12pW/HC/FdmwkWWhEQhrKiKnCYzFo3pl0CEun2A=
+
+Name: org/eclipse/debug/internal/core/RefreshScopeComparator.class
+SHA-256-Digest: m5yM9wkggbKKLXgYZHPXeSVwwltcx3t4NeKUVLysLnA=
+
+Name: org/eclipse/debug/internal/core/WatchExpression.class
+SHA-256-Digest: JAoTDc/KT9iubUXq4WgmLiz+uVPgDL1l4lB+xMm9qTg=
+
+Name: org/eclipse/debug/internal/core/groups/observer/ProcessObserver.cl
+ ass
+SHA-256-Digest: Nbb0ZcpdjxfqsrqUpfEWgbR8IKcE2NGFtAKN7iLvhRU=
+
+Name: org/eclipse/debug/core/ILaunchConfigurationWorkingCopy.class
+SHA-256-Digest: RvUfvpd6stsZJy52nj04a8/cmTMmIkEeRPmGV0heM1w=
+
+Name: org/eclipse/debug/internal/core/variables/Messages.properties
+SHA-256-Digest: V3wapu3UTvoK088w2GH2csAKxYg0qIkuKCNvFgPvzXk=
+
+Name: org/eclipse/debug/internal/core/WatchExpression$1.class
+SHA-256-Digest: dw5dwbpkwuK0fDEhHtKgFb/JR+OqF1/AceoJ4xe8rQQ=
+
+Name: org/eclipse/debug/internal/core/groups/observer/StreamObserver$1.c
+ lass
+SHA-256-Digest: oacSOoywwtu88SD3xYaPZvgn9U9XxMDL7uC38Rt1tzE=
+
+Name: org/eclipse/debug/internal/core/groups/GroupLaunchElement$GroupEle
+ mentPostLaunchAction.class
+SHA-256-Digest: lFmYaMJ5DASqVIA2LYbd58iNkYTO6pcnifcZ/ODeKpY=
+
+Name: org/eclipse/debug/core/model/IFilteredStep.class
+SHA-256-Digest: +dOhlsFK38sfZtKcVUxBvcw0i7NZdVqjugfhZp4bzmo=
+
+Name: org/eclipse/debug/core/ILaunchListener.class
+SHA-256-Digest: 97e7c6NLh2IEj0ZGsY6rvNuh9bvw+DDqf1M0Rch/PrQ=
+
+Name: org/eclipse/debug/core/commands/IStepReturnHandler.class
+SHA-256-Digest: KjQ7/11dZuNGaXOlra84ALqh5EgwXL1Z42hXSiNP5N0=
+
+Name: org/eclipse/debug/core/model/IStreamsProxy2.class
+SHA-256-Digest: FHboSs/w73W/nAAGZE4nD47SyBS4sW0o9kpIGb5ixOc=
+
+Name: org/eclipse/debug/core/sourcelookup/AbstractSourceLookupParticipan
+ t.class
+SHA-256-Digest: q0Tab2WItlQETFh2fIKJrs6EcssgsIc/5nIQXFunKsI=
+
+Name: org/eclipse/debug/internal/core/DebugCoreMessages.properties
+SHA-256-Digest: n+sa/suGDtmCdJgemPM39bWp5PSaGolIE7M3RqctXq4=
+
+Name: org/eclipse/debug/core/IBinaryStreamListener.class
+SHA-256-Digest: h1pSUuM+MkYyXXaALWv2TPENJEwyG/x9T3xKdVineCA=
+
+Name: org/eclipse/debug/internal/core/LaunchConfigurationInfo.class
+SHA-256-Digest: X3xgZ0g1POHwkwnoUT8Yzme0tmiIyypWeH5bgc3IGc8=
+
+Name: org/eclipse/debug/core/model/LineBreakpoint.class
+SHA-256-Digest: a1389Zwhx/OiUW3IqGBkQfcFuSTSDasCZVUj95QnjaM=
+
+Name: org/eclipse/debug/internal/core/BreakpointManager$DefaultImportPar
+ ticipant.class
+SHA-256-Digest: WyeSEtwxzvjI3y59XEBQy2xnR+JqXcz5ilu34DBIYnE=
+
+Name: org/eclipse/debug/core/sourcelookup/AbstractSourceLookupDirector$S
+ ourceLookupQuery.class
+SHA-256-Digest: OhGN3XlvgChrrVu+7/ROOthez8/qaRL5PBC2mFmOGFs=
+
+Name: org/eclipse/debug/internal/core/BreakpointManager$PostChangeListen
+ er.class
+SHA-256-Digest: 4JyttQoCG9Gi28j74wvO/oNFYZMK+s/noh8ACC7fReg=
+
+Name: org/eclipse/debug/internal/core/BreakpointManager.class
+SHA-256-Digest: RnCVweRXPzQ+3+VBnIvIjHkgnr5bxsSUDpdUb/bvZ/k=
+
+Name: org/eclipse/debug/core/commands/AbstractDebugCommand$UpdateJob.cla
+ ss
+SHA-256-Digest: 6IVxr9EfZu9Vcv/pJkhMNvt5pAz4h/Z7RfcoIoaoZRg=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/ExternalArchiveSour
+ ceContainer.class
+SHA-256-Digest: a5AloE/buC7a7s/4byRRdhGqQHeV2q7ybZhVNzgI3s0=
+
+Name: org/eclipse/debug/core/ILaunchesListener.class
+SHA-256-Digest: sBeP/++vXG3nNj4G8XgHPlbZYg0hw73fJICH2UyrcKo=
+
+Name: org/eclipse/debug/internal/core/NullStreamsProxy$NullStreamMonitor
+ .class
+SHA-256-Digest: IRcDIu8/COO93nl5CnsknCIdnrjTSuSrrnkVLLiO7p8=
+
+Name: org/eclipse/debug/internal/core/BreakpointManager$BreakpointManage
+ rTriggerPointNotifier.class
+SHA-256-Digest: qzS7MBRk6jQzNUNmH78j/7cOulHICL720VXXDr0oVhA=
+
+Name: org/eclipse/debug/core/DebugPlugin$EventNotifier.class
+SHA-256-Digest: z0jtu4yHF34+sXeWoEsVoDzFN/jcQ5HTbXyWiMlNd48=
+
+Name: org/eclipse/debug/internal/core/StreamDecoder.class
+SHA-256-Digest: SU45Lwjt/3SXIJHT6MMM2rLNbZvwLlugl8ZXVYSVZXI=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourceLookupDirector.class
+SHA-256-Digest: S3VIer2BYjl7C+j2iXIS2hrvw+vh1VP7O4nJL3cgNyA=
+
+Name: org/eclipse/debug/core/ILaunchConfiguration.class
+SHA-256-Digest: 9+uLYqj3j5WpWrhZxcIkl0CWzrXFYMzQQxN7NpbgT0Q=
+
+Name: org/eclipse/debug/core/Launch.class
+SHA-256-Digest: TNit951gR9O37cfZhglWrQQYUXcn4ALlxoIuY8OmkCo=
+
+Name: org/eclipse/debug/core/model/IFlushableStreamMonitor.class
+SHA-256-Digest: ZaEQHdjtND4tigXldYr2YF7okqruSDdA0mrLb5WeRH8=
+
+Name: org/eclipse/debug/internal/core/variables/DateTimeResolver.class
+SHA-256-Digest: h4oU3aGV/Liv2SKlec3gik0brntny77+W+Wwekf+gpI=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/DirectoryS
+ ourceContainerType.class
+SHA-256-Digest: L/GMn/rSIoz0GNOKduVjFgmTHQd8+Ghve+3Wx2FNUvc=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourceContainer.class
+SHA-256-Digest: w/hLZ4y/uAfyoK1DvERXNhdcAe1etkFqOO/Iah5UjCE=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/CompositeSourceCont
+ ainer.class
+SHA-256-Digest: VTAanjx0KaZnQYzIHuTZpXmpslHZz2CIoxusYo0ZVwk=
+
+Name: org/eclipse/debug/core/model/MemoryByte.class
+SHA-256-Digest: foRng49KQNEe99NI8ck+VPYAGWC0+N/5gHWKOTfRrPA=
+
+Name: org/eclipse/debug/internal/core/BreakpointManager$BreakpointManage
+ rNotifier.class
+SHA-256-Digest: dGOBwakXFuey8c06SDy7wmKw1qG8OWXjZq/4csPq67E=
+
+Name: org/eclipse/debug/core/model/IDisconnect.class
+SHA-256-Digest: /R+LhkgWHdhepszUdlwyMPVS/eUBmrYcBxdRJuGcRyo=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourceLookupMessages.
+ properties
+SHA-256-Digest: WwdHm0q15tRJUU9pgRwI0TZpxfjHj7YWheTHB50zbaI=
+
+Name: org/eclipse/debug/core/IExpressionListener.class
+SHA-256-Digest: 7HLNXgpNZeNoQAMmOMN9B7NAalTuZtYxdyB/Y0hQS5Q=
+
+Name: org/eclipse/debug/internal/core/ExpressionManager.class
+SHA-256-Digest: z/3KLs6fimH5RHykFw7qP/6S9aDts+S45FCFa6I+eBI=
+
+Name: org/eclipse/debug/core/IBreakpointManagerListener.class
+SHA-256-Digest: Shkd6KSftDBbOoRxmda4eamzD+OAqVm3xG16+xa1hOU=
+
+Name: org/eclipse/debug/core/commands/AbstractDebugCommand$SerialPerObje
+ ctRule.class
+SHA-256-Digest: cZK3H0dJ1UgGRGH/mMplZQtmNqvrN9PsMnZ5sPWoNMw=
+
+Name: org/eclipse/debug/core/model/IMemoryBlockExtension.class
+SHA-256-Digest: nomORhCB8cMmiVBe9V23vSK+G1E5HYfkhfo0Gjlf2p4=
+
+Name: org/eclipse/debug/core/DebugException.class
+SHA-256-Digest: 2GDDWscCl+His9FH9KjbbRtEZV1vRK6/AEQ8AITfUzI=
+
+Name: org/eclipse/debug/core/model/IWatchExpressionListener.class
+SHA-256-Digest: 3uvU7fn3HfYvmpYVlXQw6TidFNsEjC7TdvGGutafqmM=
+
+Name: org/eclipse/debug/core/commands/IRestartHandler.class
+SHA-256-Digest: euqEWZMo1cCgumUl9iBMEw6Zk53cf3qurmm3n90Bq0A=
+
+Name: org/eclipse/debug/core/commands/IStepOverHandler.class
+SHA-256-Digest: GT71wVDBxsXz3MQ/RxxoqoOdRFBAyofIx/JE3133MqE=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/WorkspaceS
+ ourceContainerType.class
+SHA-256-Digest: h8J+T5ymu/15XcPkb6ehChxhQs93BhXXzpsgYfdpxYk=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/ZipEntryStorage.cla
+ ss
+SHA-256-Digest: dQRNxq3q6i4fvwaSj8ZxRj8EPvAlEzscFGn/DO8g6bQ=
+
+Name: org/eclipse/debug/internal/core/commands/DropToFrameCommand.class
+SHA-256-Digest: LlhRFJNXolAr+OU37SEZOn/BesgyND/90pfGHnzGMj0=
+
+Name: org/eclipse/debug/core/model/IThread.class
+SHA-256-Digest: kbVVYwUsl0VfDuuxRflOqlHQue70+L8EczFK+aCaXI0=
+
+Name: org/eclipse/debug/core/model/IDebugElement.class
+SHA-256-Digest: xRH8uTuO5DkQeOyzbGZhQQ+kbzyyW0q6RA/NVgu0UUE=
+
+Name: org/eclipse/debug/core/ILogicalStructureType.class
+SHA-256-Digest: LfJS00Y889/2sYLTyVlAb4ut/l+6Hvp7ZHoBMSfgCkg=
+
+Name: org/eclipse/debug/core/model/ILaunchConfigurationDelegate2.class
+SHA-256-Digest: Kzd2zhnLKxYrl3PkXzOxC1z5QEscGXpZ4I+3zqQ5zfA=
+
+Name: org/eclipse/debug/internal/core/commands/TerminateCommand.class
+SHA-256-Digest: dGRL4pJMx4RvKvFXF/4KbzXnU0K5cAVxVpyMrIc+sx8=
+
+Name: org/eclipse/debug/core/IBreakpointListener.class
+SHA-256-Digest: mBveADvWcIqJx4lWqCu7MK9tv4cH9+lK3blx6JnrZRk=
+
+Name: org/eclipse/debug/core/model/IValueModification.class
+SHA-256-Digest: uA4s8y2OilOgjDgGHoEQTMUcF9aqIQzTaJlb8HwOksI=
+
+Name: org/eclipse/debug/core/ILogicalStructureProvider.class
+SHA-256-Digest: QCOm3G+EilgQ2aFw5Cmhes+Tt5oDoMJspTZe/vlcObE=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/ExternalAr
+ chiveSourceContainerType.class
+SHA-256-Digest: 1SAOCjq8SrBYsFsskIOHO+/Q4NbMHDCHgTNdliqUtrw=
+
+Name: org/eclipse/debug/internal/core/DebugPreferenceInitializer.class
+SHA-256-Digest: 9oirE208V+JBnWmQu6F98cK3nSuR7sVcJZVyC8xwByM=
+
+Name: org/eclipse/debug/internal/core/LaunchManager.class
+SHA-256-Digest: 1huY4qH9yJNR9BK5W2zRn1+SdLNFR4MdAbGDL6AIAP4=
+
+Name: org/eclipse/debug/core/model/Breakpoint.class
+SHA-256-Digest: VOMAYE5EiOOMYVkmWmtMWugLyYHqkiaifNo74A/JFbs=
+
+Name: org/eclipse/debug/core/ILaunchManager.class
+SHA-256-Digest: XP63N+0gRFWaq7iDFgNuOnL3uRhTvw49gXEKXLOZor0=
+
+Name: org/eclipse/debug/internal/core/BreakpointImportParticipantDelegat
+ e.class
+SHA-256-Digest: /jh72+TQj9Ct5kHG/LLP5DKYOr/9Os54ogEE4R1y+mA=
+
+Name: org/eclipse/debug/core/IDebugEventSetListener.class
+SHA-256-Digest: i4iRZrafITCj34elcqpSYxPZNL57L4AF2aAn688pago=
+
+Name: org/eclipse/debug/core/IPrototypeAttributesLabelProvider.class
+SHA-256-Digest: Hje1io+bOWVvZ0MXW9rLI9bGsqqocEVAKC2oje7tJH8=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourcePathComputer.cl
+ ass
+SHA-256-Digest: zQRLtiQlxZIEab7pzfw4hVbUHPkLZj33/b0z/5QGRUs=
+
+Name: org/eclipse/debug/internal/core/IConfigurationElementConstants.cla
+ ss
+SHA-256-Digest: RpnHMPaUDoNhvCsnw9eCdXsfOD6/YsL2I9rEUTr5i84=
+
+Name: org/eclipse/debug/internal/core/PreferredDelegateModifyListener$Vi
+ sitor.class
+SHA-256-Digest: weRLviRaMy/LvO4t7xJ9D9oSE9/cr2kfSLdfEDkewyE=
+
+Name: org/eclipse/debug/core/model/IStepFilters.class
+SHA-256-Digest: /DeYSEwgxJPax1Z+WjsKO0utriEpDwvsdkNFHAbaPRE=
+
+Name: org/eclipse/debug/internal/core/BreakpointManager$BreakpointManage
+ rJob.class
+SHA-256-Digest: AW1msgEDV+6CQWpp0rokBCVJ7Ro6fB4P37gPyXB/ySI=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/WorkspaceSourceCont
+ ainer.class
+SHA-256-Digest: 1wosM2XEmvC6mz7BfOAM5UCDp1gaOXUHp+EyQxgXAsk=
+
+Name: org/eclipse/debug/core/model/DebugElement.class
+SHA-256-Digest: SjedgqVAS9oGz8pTQ3evfjWjSi6krQb7lMzocFIjDHo=
+
+Name: org/eclipse/debug/core/ILaunchDelegate.class
+SHA-256-Digest: /XJk3JkQbmb7ty0x1rSaFd0bcTHPZbXhZ3mabgiSy9Y=
+
+Name: org/eclipse/debug/core/model/LaunchConfigurationDelegate.class
+SHA-256-Digest: dLo77fwo+QSiia0BpECSEohxIm6qWUbwrSBq/+AnvaY=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourceContainerTypeDelegate.c
+ lass
+SHA-256-Digest: RE79XOwEzkPOj6QJR4XbfMru5Bt55rjKhyvqrfyiLpI=
+
+Name: org/eclipse/debug/core/model/IDropToFrame.class
+SHA-256-Digest: ENd+KOpK0ZNsqxlt4/2HF9zWLOGmwc0JP0xqAidJQgY=
+
+Name: org/eclipse/debug/core/ILaunchConfigurationListener.class
+SHA-256-Digest: 96ENGX5ayQSkeY/UAJzvsjyKz8DYyjQ6I934+42qFfg=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/ArchiveSou
+ rceContainerType.class
+SHA-256-Digest: mDsHAdUphXFjEyEUFZaTRsr5hGZCAP3hCAXtyZi+o4Q=
+
+Name: org/eclipse/debug/internal/core/LaunchMode.class
+SHA-256-Digest: aDzg37u5n/y39WLr7/3cJUqWaOf2OdWrAKde1/UEnNI=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourceLookupMessages.
+ class
+SHA-256-Digest: zGitBcsHefb8wvoj4/uSub+YFfxD4+XHh3PQNkLzuno=
+
+Name: org/eclipse/debug/core/model/ILogicalStructureTypeDelegate3.class
+SHA-256-Digest: LfVWxy/vQMm94dvxvAI31p67LgxsK2fNQ0NN6Fw6N+g=
+
+Name: org/eclipse/debug/internal/core/BreakpointManager$BreakpointManage
+ rVisitor.class
+SHA-256-Digest: 0jzABK9EU4ULlFGMK0g+uqPxRAu2u+E2TWvEdAFoE6M=
+
+Name: org/eclipse/debug/core/model/IWatchExpression.class
+SHA-256-Digest: dUJfaHoZgbHxJ7DEjZqVdOBakKYF+Wfe2xN6O76VVIs=
+
+Name: org/eclipse/debug/core/IBreakpointManager.class
+SHA-256-Digest: EljXXlQOoSDuWxI/S+hEZorf2L9ksMxeegNlA52Ccd4=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/ContainerSourceCont
+ ainer.class
+SHA-256-Digest: 8NJFfos/DhlhajiQcQEee5UrMZ5lOAsNPuqkR1UFmds=
+
+Name: org/eclipse/debug/internal/core/ResourceFactory.class
+SHA-256-Digest: itx7wUfgHseVgy8FZnYpfHFKwIPWTez3sAxlqPXFMeM=
+
+Name: org/eclipse/debug/core/model/ILogicalStructureTypeDelegate.class
+SHA-256-Digest: p/0hohW9dLgngn5xO0ZwmJCGkP7gtN9xJ2Qik5Mp8As=
+
+Name: org/eclipse/debug/core/model/IRegisterGroup.class
+SHA-256-Digest: mlAT+acVgGTBN2+UiGhf6z0HZWcO4gi4zosxexSCBKE=
+
+Name: org/eclipse/debug/internal/core/groups/GroupLaunchConfigurationDel
+ egate.class
+SHA-256-Digest: EmAji/od0yJBH1Lzztv5aK5k1RvGJB+UfmafBU+EGgY=
+
+Name: .options
+SHA-256-Digest: 4rs+mfgJxq7xBT9bHjUK82gGF8I8o4Onkp62TJU2WVE=
+
+Name: org/eclipse/debug/core/DebugPlugin$EventDispatchJob.class
+SHA-256-Digest: 0FMSmifC8TsEGM5rzDOh6rMvyqtJX8Xv0UkkQWPYYlI=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/ProjectSourceContai
+ ner.class
+SHA-256-Digest: pXNzOx2iA0kdSMk8WDGnE7x3ughmRJZuxbrf/vnwf18=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourceLookupParticipant.class
+SHA-256-Digest: AqDfsw6m3Hry6ta1vPMVZbxgz00kjK4m6LuFxUan3g8=
+
+Name: org/eclipse/debug/internal/core/OutputStreamMonitor$2.class
+SHA-256-Digest: PWZI6MD1mbqeNM6u2cMme6wiIK2ATJ3m0yPkbsJZ1T8=
+
+Name: org/eclipse/debug/internal/core/variables/WorkspaceResolver.class
+SHA-256-Digest: a71EKZMeMfZtxZobF70mtsRAdy8VuiXyU6JCJLrmNL4=
+
+Name: org/eclipse/debug/core/model/ITriggerPoint.class
+SHA-256-Digest: JoTYb4nnaH7NaKkzrjeKlAthS+EgpQoyNM/N2/KjyVc=
+
+Name: org/eclipse/debug/internal/core/MemoryBlockManager.class
+SHA-256-Digest: 6OzDXGXhn97BP1iksmTIEK29XFciQxxVQTGGJinpK1E=
+
+Name: org/eclipse/debug/internal/core/variables/ContainerResolver.class
+SHA-256-Digest: 04Tpl82sY1ipA+0c5Yy9HEuSf9JxJIkenlvzmJkcvM4=
+
+Name: org/eclipse/debug/internal/core/SystemVariableResolver.class
+SHA-256-Digest: /gMXHRCgbY63cjoUi6XRr89YUtLDJb713PATB4hrY1E=
+
+Name: org/eclipse/debug/core/model/ISourceLocator.class
+SHA-256-Digest: j8wW3NQw0krmOo8Z8wZvIn2AK8hEr36I00pEzIMraVE=
+
+Name: org/eclipse/debug/core/model/ITerminate.class
+SHA-256-Digest: /d3hlupy2MkZo/Uw+HHZhAikHE1p0sRm4lDqtFYuX+o=
+
+Name: org/eclipse/debug/core/model/IBinaryStreamMonitor.class
+SHA-256-Digest: GfeMQccY4CF9ckBfI2xlVTLUnQXkQYwmC3L6eR68HJA=
+
+Name: org/eclipse/debug/core/RefreshUtil.class
+SHA-256-Digest: 8kVPPnviCRa5NGaX1qGPsu2o7SK7hfe5aM6SeU32Dik=
+
+Name: org/eclipse/debug/core/model/RuntimeProcess$ProcessMonitorThread.c
+ lass
+SHA-256-Digest: 7nxlcdDqTth4jsZyB4Z0rLBGEQgVWfbO4x+fy04WKKs=
+
+Name: org/eclipse/debug/core/IBreakpointsListener.class
+SHA-256-Digest: 5Gz2gR4P93PJZGeJHa1wtiiMcFNqx03haMFdqxoTxYs=
+
+Name: org/eclipse/debug/internal/core/groups/observer/StreamObserver.cla
+ ss
+SHA-256-Digest: QG5fLJOwbX5b0lDzRNoyotGuumS8p61l8uK7hKMGbmc=
+
+Name: org/eclipse/debug/internal/core/groups/GroupLaunchElement.class
+SHA-256-Digest: AnMpRWQwuExw4vErXDU0qpDcCsCKwX0G0iU8sWVUm+8=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourceContainerType.class
+SHA-256-Digest: vRLy+WZEWvnw3dNjtJ19KvQZz492vOb3O1/jnf/adz0=
+
+Name: org/eclipse/debug/core/model/IStackFrame.class
+SHA-256-Digest: GrydCvLBAgJHun1WOs1HUYbu4RGiaDZM5ZUc6gM6g5g=
+
+Name: org/eclipse/debug/internal/core/PreferredDelegateModifyListener.cl
+ ass
+SHA-256-Digest: I07H4WVqzF16V1abP8Bn/EoGSVRVKanTxhrqaGOxfI4=
+
+Name: org/eclipse/debug/core/model/IStreamMonitor.class
+SHA-256-Digest: J4cIHmUtFwsWN4zAqpvGU4WgxWbvE1bGInszdLMWCbU=
+
+Name: org/eclipse/debug/core/model/IDebugTarget.class
+SHA-256-Digest: fup47W1QYd1Elds6/eLXcfEtm/msh2t6aOnKUaGc3ZI=
+
+Name: org/eclipse/debug/core/IStatusHandler.class
+SHA-256-Digest: kZzexNlbCXOlpBQ7MHXOCJWeWGDCrWOCoT2p8er3ut8=
+
+Name: org/eclipse/debug/internal/core/StreamsProxy.class
+SHA-256-Digest: cvjy+Fx/GTtsBtl1uhK4dBQZGhQQ0Dyw6W5XkWiz3c0=
+
+Name: org/eclipse/debug/core/model/IWatchpoint.class
+SHA-256-Digest: MwPkykpFFqBS4OWSDx7k6IQwFNyAqPU0CHLvbDDBDSM=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/LocalFileStorage.cl
+ ass
+SHA-256-Digest: V+dsaeup+K0l8Oz7QytU8IeTIPOZV6vBMLChFSANNbw=
+
+Name: org/eclipse/debug/core/IDebugEventFilter.class
+SHA-256-Digest: ui5aTYsJYTjS5ylDsMcl4ljEuoGpWuKxKZfc+0SHBWE=
+
+Name: org/eclipse/debug/core/IRequest.class
+SHA-256-Digest: kuz4q9UeBS+SIU9xcA2zlgoLPJJQFY0OQJpYVt2szi8=
+
+Name: org/eclipse/debug/core/IMemoryBlockManager.class
+SHA-256-Digest: msF+pGtNrzXnQEivm0nyrMiJjovzIHF1GN0Lpz0i8xs=
+
+Name: org/eclipse/debug/core/model/IPersistableSourceLocator.class
+SHA-256-Digest: sBoT0Kteq9QFgyqmXs7eCF0RXvTevADaBR0xHz1mmiE=
+
+Name: org/eclipse/debug/core/model/ILaunchConfigurationDelegate.class
+SHA-256-Digest: sQo2GmO2gnvJnE9DzfmQX/Dx4Vmm2wam16GVHIgJIBs=
+
+Name: org/eclipse/debug/core/model/IProcess.class
+SHA-256-Digest: eYiBWv8thzy0XmvmVtyIjURriAreRkTeBRqZb/LUKzQ=
+
+Name: org/eclipse/debug/core/commands/AbstractDebugCommand.class
+SHA-256-Digest: LvQg2+7cC26yNYz/8YAb78AYTWxbMb6tx7djuPaTS50=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/ProjectSou
+ rceContainerType.class
+SHA-256-Digest: jvNLE35Kxmk6rX/3F1bTdC2lrrvaw3oKneUCEze+910=
+
+Name: org/eclipse/debug/internal/core/XMLMemento$DOMWriter.class
+SHA-256-Digest: /pAAEQicXnAvStn+Rw9HddtjEp6Vi4YBetzO1jXqeVw=
+
+Name: org/eclipse/debug/core/model/IStepFilter.class
+SHA-256-Digest: fsxD1D/WvcM7HncigFOLnqw60aEvrmjSVL4km4DVISc=
+
+Name: org/eclipse/debug/core/sourcelookup/ISourcePathComputerDelegate.cl
+ ass
+SHA-256-Digest: bPLmCKqbZAy14NLYMYRkUGQslbjS+aaJ+dlUFJx6jBQ=
+
+Name: org/eclipse/debug/internal/core/LaunchManager$LaunchesNotifier.cla
+ ss
+SHA-256-Digest: S7omowx+hiDqIk6miGZhZvUav/9OYEPj5083jgpFPbg=
+
+Name: org/eclipse/debug/core/DebugPlugin$AsynchRunner.class
+SHA-256-Digest: pAnM8Aws2TAKS1i2vapmxsUBjukHYlKNxuOwA6rXfXU=
+
+Name: org/eclipse/debug/internal/core/LaunchConfigurationWorkingCopy.cla
+ ss
+SHA-256-Digest: 1xA3nz0S+fO3FEKSVzQ/OLnBdGCEPBGITFhmRGkp9Rc=
+
+Name: org/eclipse/debug/core/model/RuntimeProcess.class
+SHA-256-Digest: RKrK3Jvb1IIHQ06O52HaOC30u8RChKqNBILjsJtCZAg=
+
+Name: org/eclipse/debug/internal/core/SystemPropertyResolver.class
+SHA-256-Digest: bEIvGoTzQMecbaCydv8HPHsla4iAbhGNeE2rnYOENuc=
+
+Name: org/eclipse/debug/core/commands/AbstractDebugCommand$1.class
+SHA-256-Digest: vIHe82+W7CVG20HChBloz/TiwolTYjccMmK8CkGLlFk=
+
+Name: org/eclipse/debug/internal/core/EnvironmentVariableResolver.class
+SHA-256-Digest: YEsU0rE+n4oTKpL5Tlb2uod1eCfUzaWXAxKCmDjEOu8=
+
+Name: org/eclipse/debug/internal/core/DebugCoreMessages.class
+SHA-256-Digest: YbUlEqpIs3PdPpePlevOCQbk+e82fJPd6k9bNAypW34=
+
+Name: org/eclipse/debug/core/model/ILogicalStructureTypeDelegate2.class
+SHA-256-Digest: cN9zqaaNkoi8SXD/0mdgwsjF9bpcoKw4Rq6dDcC0ugw=
+
+Name: plugin.properties
+SHA-256-Digest: 7VxbJ8Hnctaf65vB4oL5QTP48wlAc3HplTSLhUvlVxg=
+
+Name: org/eclipse/debug/internal/core/DebugOptions.class
+SHA-256-Digest: J+Knd06FDadZSwa+1b3sG0/3YhKTwu9E6qgSCbJiN1E=
+
+Name: org/eclipse/debug/internal/core/LogicalStructureType.class
+SHA-256-Digest: GwRdG13nPFTlkzHR3/Q91YMa9SppNmdEYpXQ08b2zoA=
+
+Name: org/eclipse/debug/internal/core/IMementoConstants.class
+SHA-256-Digest: z180iM4UdLJVIZMNCpGUXfpe8J5gY8kH3s/A/XTdNR0=
+
+Name: org/eclipse/debug/core/IExpressionsListener.class
+SHA-256-Digest: nZbg8mO1rcYQloAZsIjziVmb7rjJcyYlqKYXtZxSQDo=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/SourceLookupUtils.cla
+ ss
+SHA-256-Digest: 3W93BbCYAUCAFwFj5lxDbBqPlgHhIIggERcfOggDLzk=
+
+Name: org/eclipse/debug/internal/core/variables/ProjectResolver.class
+SHA-256-Digest: v1U7Tj3XpSA66S9DWyC79ZjLSvvWlPZ7X0xEO1cnSnM=
+
+Name: org/eclipse/debug/core/DebugEvent.class
+SHA-256-Digest: j7SGVYg4beS9RDCknmSn3lRYjyD1+c4JCD3ddkj7GV4=
+
+Name: org/eclipse/debug/internal/core/LogicalStructureManager.class
+SHA-256-Digest: K/4bd4MSQ33clsHO6RgP+ohMcFNio0Qh1k8CwXgWqrI=
+
+Name: org/eclipse/debug/internal/core/variables/ResourceResolver.class
+SHA-256-Digest: 4YEuHS6XcxHmYs4udBnTyWEiUTGxWcqDK5yRHx+Re5A=
+
+Name: org/eclipse/debug/core/sourcelookup/IPersistableSourceLocator2.cla
+ ss
+SHA-256-Digest: qtXbM14sY92zpRdBehvGNcAoCMwA/5HSPjPgIZipuZ8=
+
+Name: org/eclipse/debug/core/model/IMemoryBlockRetrieval.class
+SHA-256-Digest: H+yLNMKF8hakHbJVGjUjNq6FjYMen/oc7WF1AVHFzR0=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/AbstractSourceConta
+ inerTypeDelegate.class
+SHA-256-Digest: b0yd6u1ru7ej4IN0UJlIcvsegQjgZ4XdJv9kQD0u83w=
+
+Name: org/eclipse/debug/core/model/IMemoryBlockRetrievalExtension.class
+SHA-256-Digest: 0oC+zQtis5gECSuwZ7AG3JFhuIl2SmxIQ2uW1uDEXc0=
+
+Name: org/eclipse/debug/core/model/IDebugModelProvider.class
+SHA-256-Digest: BOAiI5q+cdNSGF0lMJStV2uP9T5zTa/VOAOggyeJp+E=
+
+Name: org/eclipse/debug/core/model/ILineBreakpoint.class
+SHA-256-Digest: CHeXf6Mer5ENHoUWV/H6dwKBTGgRIdXhqmNt8rSm8Ws=
+
+Name: org/eclipse/debug/core/commands/IStepFiltersHandler.class
+SHA-256-Digest: P4wJvRIMd/ztEQbuYN58UCS+QvysSM3K9A68IAtkhYc=
+
+Name: org/eclipse/debug/internal/core/IExpressionsListener2.class
+SHA-256-Digest: JxSS+G5xzDE7eyL0yNB6MfHWKFNBPA1vwOQFx7plHFE=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/AbstractSourceConta
+ iner.class
+SHA-256-Digest: XmUCPTG1YhIu9Q5IH3QzVUYutTfBeg9UkvesUpoAjMA=
+
+Name: org/eclipse/debug/internal/core/commands/StepCommand.class
+SHA-256-Digest: s48CdDr8JazDoMvty9hoKqrwjte9hahUd+rKk1BoQaI=
+
+Name: org/eclipse/debug/internal/core/LaunchConfigurationType.class
+SHA-256-Digest: DoDK2s2AlvvGPPehobdM4GJbLJXUvEmFY8XgMR6o2PE=
+
+Name: org/eclipse/debug/core/IProcessFactory.class
+SHA-256-Digest: FUCAlrZGwhoUfW0UOcGeIuQ1SZFcn7HwjuAZ6KzlJtM=
+
+Name: org/eclipse/debug/core/model/IVariable.class
+SHA-256-Digest: 6k9MGNWhfYCUKFZKu6PEiThWwbql1zkfJ2gqwlntoZ4=
+
+Name: org/eclipse/debug/core/sourcelookup/containers/FolderSourceContain
+ er.class
+SHA-256-Digest: Uti9r+am9nBDmSTelaSJ+/fZ/6KsmiIQ4DuFaSGib+Y=
+
+Name: org/eclipse/debug/core/ILaunchConfigurationType.class
+SHA-256-Digest: YeQlechV/7DLg2V2n9pT1Xj/sLi4xVqKR6Y2KP9fj1E=
+
+Name: org/eclipse/debug/internal/core/StepFilter.class
+SHA-256-Digest: 074qO62bpRoFzvwcmE09dhZEgTrSYOGNvMwLkiUX0u4=
+
+Name: org/eclipse/debug/internal/core/InputStreamMonitor.class
+SHA-256-Digest: Yo7p3J2MUqPIFx6+edEgS2QxbV/QQo5W5OFRfF3td2Y=
+
+Name: org/eclipse/debug/internal/core/NullStreamsProxy.class
+SHA-256-Digest: evwO1eeF6f2oDCR0lKDwme1JMiSg6jHyA44H6aHbj/U=
+
+Name: org/eclipse/debug/internal/core/commands/StepFiltersCommand.class
+SHA-256-Digest: +YpVYpf4AKlI9yT6ViNBXWIP4fD3z+6znLdmjskCmn8=
+
+Name: org/eclipse/debug/core/model/IBreakpointImportParticipant.class
+SHA-256-Digest: OCaKNR4H3ZSE/Csey5ESGyLrpo1tG73U+R9i5SpLxDo=
+
+Name: org/eclipse/debug/internal/core/LogicalStructureProvider.class
+SHA-256-Digest: 5421qojm8B9Rfwhzs6hHLZMUJYoUYHWvsnpzMerlWbg=
+
+Name: org/eclipse/debug/core/model/IMemoryBlock.class
+SHA-256-Digest: h+ZtE/HGIJ+/6qGpBI8MqJHbfRVkxkkLbcJ1lfZKWBk=
+
+Name: org/eclipse/debug/core/model/ISuspendResume.class
+SHA-256-Digest: age26rDYDTES9srzScrdJfLUyIp8okgyl+Oh9GsduTw=
+
+Name: org/eclipse/debug/core/model/IBreakpoint.class
+SHA-256-Digest: NA+P3A41E5NB5i4vGKnKCS3WSr6bOPzY0IHVNq9KC9E=
+
+Name: org/eclipse/debug/core/IMemoryBlockListener.class
+SHA-256-Digest: 20tS3k5T4vbUodl+QSojmj311wYR+wUk0AmjlIzAvCU=
+
+Name: org/eclipse/debug/core/model/IErrorReportingExpression.class
+SHA-256-Digest: OeBkNipl3/yHVdbN9scwAXySGR75nHLkavVN4fX+YAc=
+
+Name: org/eclipse/debug/internal/core/LaunchManager$MappedResourceVisito
+ r.class
+SHA-256-Digest: w35dSFbzt4YfssRJEGgM52FiLj3ljvb7MG14D5bes9Q=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/debug/internal/core/LaunchDelegate.class
+SHA-256-Digest: Nu5CnLu25gkP1JEkyOHdvu2B2qJ+668zVKw9PTZkcUY=
+
+Name: org/eclipse/debug/core/ILaunchConfigurationMigrationDelegate.class
+SHA-256-Digest: /PEcZj1Z7n3CjQ8IBbeibseJuChTkdkxuVMDCxqBZGA=
+
+Name: org/eclipse/debug/internal/core/sourcelookup/containers/FolderSour
+ ceContainerType.class
+SHA-256-Digest: 07hoYbXKlOgiZKBJdqC01/ILM1ny7LH1RPeXG163/Qw=
+
+Name: org/eclipse/debug/core/model/IValue.class
+SHA-256-Digest: xALVTG6yBHS148DmKIerrsGlGw+akC13ies2qm2nVj4=
+
+Name: org/eclipse/debug/core/ILaunchMode.class
+SHA-256-Digest: AM2V/rTuuVke3GLsmVxwTSjRypFSBbuqBjkfIz4Tf0c=
+
+Name: org/eclipse/debug/core/sourcelookup/AbstractSourceLookupDirector.c
+ lass
+SHA-256-Digest: gfnCBBmjTQ4RexKvKeS3wVIy1qCHpYuSblouyZM2XT8=
+
+Name: org/eclipse/debug/internal/core/ExpressionManager$ExpressionsNotif
+ ier.class
+SHA-256-Digest: Txq0FSlopl608U2Wj6iLbDAOH0uoukM3wV/CAaOZYcc=
+
+Name: org/eclipse/debug/internal/core/commands/ForEachCommand$ExclusiveR
+ ule.class
+SHA-256-Digest: lZjctUuyjyuSItR3pEbhvr2gEB1tMDtLshXEFM4fkfs=
+
+Name: org/eclipse/debug/internal/core/BreakpointManager$PostChangeVisito
+ r.class
+SHA-256-Digest: xZ+yA3O7jLrVJILtv41elEGm9aWGGYCG+/T4z44e8iY=
+
+Name: org/eclipse/debug/internal/core/LaunchConfigurationComparator.clas
+ s
+SHA-256-Digest: 1sQKjNNiRV1RghfacTm0bBiT2T6Tr5VZcHwqx1RCbpQ=
+
+Name: org/eclipse/debug/internal/core/BreakpointManager$BreakpointNotifi
+ er.class
+SHA-256-Digest: XqACOT+CEFGYw3KyvXKiz8sYZNdW2Ame3V6S31AIiLU=
+

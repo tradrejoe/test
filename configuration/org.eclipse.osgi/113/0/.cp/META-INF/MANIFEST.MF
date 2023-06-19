@@ -1,0 +1,121 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.compare.core
+Bundle-Version: 3.7.100.v20220812-1406
+Bundle-Vendor: %providerName
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.2.0,4.0.0)"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Export-Package: org.eclipse.compare.internal.core;x-friends:="org.eclips
+ e.compare",org.eclipse.compare.internal.core.patch;x-friends:="org.ecli
+ pse.compare,org.eclipse.team.ui",org.eclipse.compare.patch;core=split;m
+ andatory:=core,org.eclipse.compare.rangedifferencer
+Bundle-Localization: plugin
+Automatic-Module-Name: org.eclipse.compare.core
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.git;path="team/bundles/org.eclipse.compare.core";tag="I2
+ 0220812-0500";commitId=0f0c9dc3078b595d7842a3295fd8c52f86439f12
+
+Name: org/eclipse/compare/patch/PatchBuilder.class
+SHA-256-Digest: B0b8d4AmBM88jXFdFYCmZrIdyYROIArg66bVw1wa4Uw=
+
+Name: org/eclipse/compare/rangedifferencer/RangeDifferencer.class
+SHA-256-Digest: rCQamieFyo//GYlld0yU/2c0sYWy358ppkDA/qQaYQc=
+
+Name: org/eclipse/compare/rangedifferencer/RangeDifferencer$1.class
+SHA-256-Digest: 06Qu5kfCqyeHzNlLqT4vW6UI6ZYGnFUTncMRPec0jQ8=
+
+Name: org/eclipse/compare/internal/core/patch/Hunk.class
+SHA-256-Digest: KDTNKkyINYYzhgpRCot6xzNFO3V/WI2RjmidfCIDn+8=
+
+Name: org/eclipse/compare/internal/core/patch/FilePatch2.class
+SHA-256-Digest: uV641i4x5q6oHEIYVS0Ssl2BsgM5sDQCvYX04wfs9YA=
+
+Name: org/eclipse/compare/patch/PatchBuilder$HunkComparator.class
+SHA-256-Digest: eNrFjnn0xf87OxOYbf2iagGucpimJ68XNTtr5rEGrew=
+
+Name: org/eclipse/compare/patch/PatchParser.class
+SHA-256-Digest: s1gIfFffVP1kIAM3Bcd1csa8Cs2creOcp7ekhpsinVM=
+
+Name: org/eclipse/compare/internal/core/LCS.class
+SHA-256-Digest: DbRxhG9mn1adgn9GMHZqYba1dubGU99xQk1BkHuCfbA=
+
+Name: org/eclipse/compare/rangedifferencer/DifferencesIterator.class
+SHA-256-Digest: vSUw8nrGEdxS+GzgHCsUl8mC7gZ2DL4DNh7oqX89m08=
+
+Name: org/eclipse/compare/internal/core/patch/FileDiffResult.class
+SHA-256-Digest: cWMy/KJ1t+63CoB4LHgTuSZ3+RYw4gyIIwcxALBxrrA=
+
+Name: org/eclipse/compare/internal/core/patch/LineReader.class
+SHA-256-Digest: KALQF9+OPI7gA3qAQMEqZ+UwZB5lkqz6+V/g8ObSBaU=
+
+Name: org/eclipse/compare/patch/IHunkFilter.class
+SHA-256-Digest: xSTCbYWgEeclnCyfUqwrWTU1ufOFlLNmVjxNrE6YlIc=
+
+Name: plugin.properties
+SHA-256-Digest: Ql4wj/jU8ejBB3LFcFCYryg0C6QSD6AKb5YQvJfm7RI=
+
+Name: org/eclipse/compare/patch/IFilePatch2.class
+SHA-256-Digest: +aZpl453yjx8hlxu1HC7sDPTNdjopUoduxgezYeZTLk=
+
+Name: org/eclipse/compare/rangedifferencer/AbstractRangeDifferenceFactor
+ y.class
+SHA-256-Digest: wFGr5tloXyp1RbivhZzfSu0vBVsHLW8Og9PimAQbQQs=
+
+Name: org/eclipse/compare/patch/ReaderCreator.class
+SHA-256-Digest: g5G8U28jb4IDhF85OFFB40v9jGI49FTEsmBHNFTK2+I=
+
+Name: org/eclipse/compare/rangedifferencer/IRangeComparator.class
+SHA-256-Digest: XM3tCCskkBwl9AxyZGRF6YpqcoDZc4DUv5iP5nijvpU=
+
+Name: org/eclipse/compare/patch/IFilePatchResult.class
+SHA-256-Digest: DcVFW3bgRsXGMJJ4wMVketyYckg7oiSQOZ6IHR1+9Es=
+
+Name: org/eclipse/compare/internal/core/Messages.class
+SHA-256-Digest: 6PRFYfR6L4vtelXyfp9c7sraNNBo76huGDJ+zFt/GdY=
+
+Name: org/eclipse/compare/internal/core/patch/HunkResult.class
+SHA-256-Digest: gPU4DBCxWDnkOVFJYcmdM7WPsbs1paDImwhfWd382XM=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/compare/rangedifferencer/RangeComparatorLCS.class
+SHA-256-Digest: qk8jxo93/muQRI9fXPNk9xjPJ3v77zdUmhw/PFqKSCA=
+
+Name: org/eclipse/compare/internal/core/patch/DiffProject.class
+SHA-256-Digest: I0tYyLH9rwGtgMqGwWFRsxxWvK5WM1Nz/861YROe47k=
+
+Name: org/eclipse/compare/rangedifferencer/RangeDifference.class
+SHA-256-Digest: 7a25vZfav5T8xPHcpQjtM0wHaHaw2+r8ss/yJYjcUJk=
+
+Name: .api_description
+SHA-256-Digest: BvGJjSgrGhNVKgFO0/MR/Ok1b4ns6/E4bvkk7rBZsJ0=
+
+Name: org/eclipse/compare/internal/core/CompareSettings.class
+SHA-256-Digest: A9jjPfU8+KzY058BFYHcoYvQKOoU2wekaVgSGHLKQIo=
+
+Name: org/eclipse/compare/internal/core/patch/Utilities.class
+SHA-256-Digest: ITCAUtVMan/hEl1IOZtY1r1aa8z6UZ5l/6hQ2va/8gw=
+
+Name: org/eclipse/compare/internal/core/TextLineLCS.class
+SHA-256-Digest: uHC1G7M7xUzbA6EUhToKGWaQc8XoWjDKTZMMcJzbv9Y=
+
+Name: org/eclipse/compare/patch/PatchConfiguration.class
+SHA-256-Digest: OPhtYJTSNLEIXv8gr5F0IFna6ApZiHOjcEPVWVkW9hQ=
+
+Name: org/eclipse/compare/internal/core/TextLineLCS$TextLine.class
+SHA-256-Digest: zYJ1Zqw4lAcwgN3NfEuqhEkwzW4jRRRCxEdZfhRKIfA=
+
+Name: org/eclipse/compare/internal/core/messages.properties
+SHA-256-Digest: w92zgQWrfq7TrSUdGvYDbvTV5hKuK/ATYbbWJV7McZM=
+
+Name: org/eclipse/compare/internal/core/patch/PatchReader.class
+SHA-256-Digest: xp2Wx1dH34WcW0fXqIdgedG395mYg+Vc/qOrqCeNNuU=
+
+Name: org/eclipse/compare/patch/IHunk.class
+SHA-256-Digest: WwbXFuCFcESOmzrHY16h909Ukldp8j9Hrso+xQKnYH0=
+

@@ -1,0 +1,99 @@
+Manifest-Version: 1.0
+Bundle-Description: Jakarta Annotations API
+Automatic-Module-Name: javax.annotation
+Bundle-License: http://www.eclipse.org/legal/epl-2.0, https://www.gnu.
+ org/software/classpath/license.html
+Bundle-SymbolicName: javax.annotation
+Implementation-Version: 1.3.5
+Built-By: default
+Require-Bundle: system.bundle
+Bundle-ManifestVersion: 2
+Specification-Vendor: Eclipse Foundation
+Implementation-Vendor-Id: org.glassfish
+Bundle-DocURL: https://www.eclipse.org
+Bundle-Vendor: %bundleVendor
+Import-Package: javax.annotation;version="1.3.5",javax.annotation.secu
+ rity;version="1.3.5",javax.annotation.sql;version="1.3.5"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Implementation-Vendor: Eclipse Foundation
+Originally-Created-By: Apache Maven Bundle Plugin
+Export-Package: javax.annotation;version="1.3.5",javax.annotation.secu
+ rity;version="1.3.5",javax.annotation.sql;version="1.3.5"
+Bundle-Name: %bundleName
+Bundle-Version: 1.3.5.v20200909-1856
+Extension-Name: jakarta.annotation
+Created-By: Eclipse Bundle Recipe Maven Plug-in
+Build-Jdk: 1.8.0_212
+Specification-Version: 1.3
+
+Name: javax/annotation/ManagedBean.class
+SHA-256-Digest: 3BNsFZ4+RPHykubYvug+dRy6qmUv6Q0Hxj6uV9J9fn0=
+
+Name: javax/annotation/PreDestroy.class
+SHA-256-Digest: y5W9WDzZU9e6WD2bQK4ZlgQtQ6TNbsOIVHUReIqUOLA=
+
+Name: about.html
+SHA-256-Digest: DVN1qJsVamovqSeUkgKlK/83s1HkAgSiG0CEPL+8HPA=
+
+Name: javax/annotation/Resource$AuthenticationType.class
+SHA-256-Digest: h73IjaxH7bMFIrKwjwrJCw6W0yPaX7g4Zrq0ZJ0TtzQ=
+
+Name: javax/annotation/Generated.class
+SHA-256-Digest: jv+FZ/p4JS6GPzwGxRVxmG3U4jNJuPn0oKySgOOY5CI=
+
+Name: javax/annotation/security/DeclareRoles.class
+SHA-256-Digest: EDVa68YE0e3tM3YcNJQNL48wyVAndUuV0V79uUlv/yE=
+
+Name: META-INF/LICENSE.md
+SHA-256-Digest: bh8AKJK4HL4GRwGbFQyKBW78Gt1WVnGk+K9im2zSzHs=
+
+Name: META-INF/NOTICE.md
+SHA-256-Digest: OFKDTrtMLgTswYydCZoF6rcsvW7fNfsZE5C+YwYBm0w=
+
+Name: about_files/EPL_2.0.html
+SHA-256-Digest: sl5CVMCZLgMqsqak7EVLAAOqI906kOYd4eXmtpi1BWg=
+
+Name: javax/annotation/Priority.class
+SHA-256-Digest: r+n/ZlSlD29zFI+qr0PSxKW2c+1z3b5Gkp5GDJluNHI=
+
+Name: javax/annotation/Resource.class
+SHA-256-Digest: YksEbMv6zfEIU1aonKg+jbnRITJxdX1+qLIHGgxgwaM=
+
+Name: javax/annotation/security/DenyAll.class
+SHA-256-Digest: TbGh0SHeGLzJpsPuWh57v/Ab17OiniaYEqGtwUVWxMw=
+
+Name: about_files/GPL2_W__CPE.html
+SHA-256-Digest: a+F0yT7AsDPoqFY2FRN5m0zVYCM2/oR8k4nd1rynyoY=
+
+Name: javax/annotation/security/RunAs.class
+SHA-256-Digest: 2Dmd+P9fTemx7kG82hGoPmiQyEE1gIC3wa8c2XfweXw=
+
+Name: javax/annotation/sql/DataSourceDefinitions.class
+SHA-256-Digest: sJQyoONiyrLt4ZSy33JFOQLu8gUFpJxRgnoTcOAR2gw=
+
+Name: javax/annotation/security/PermitAll.class
+SHA-256-Digest: E9ix4WJF6jrjN03PWMpwVfUqs+WeDfRj1LX5QOrn1MU=
+
+Name: javax/annotation/security/RolesAllowed.class
+SHA-256-Digest: mLE0X+uUJmVTx6cQ+IttFv9gmqZ9COhRZakdWdXR0CY=
+
+Name: javax/annotation/Resources.class
+SHA-256-Digest: G0Kuz/fgr2hJ4tXnEsiIwWyHpr433M790nyV8Y8M14E=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/javax.annotation/pom.xm
+ l
+SHA-256-Digest: OhEceMOmcWlwXmtq30TmjMDhUy/ngUUQLWvaqvoxz94=
+
+Name: javax/annotation/PostConstruct.class
+SHA-256-Digest: AX/Mfoai7iuUOJS/86c+Ty6QXr8yVHfc3ljWSv25oFM=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: iOpR3VpQpZaFUwdN59JkFxiGxtoOkGHdFfJLyREUlQk=
+
+Name: javax/annotation/sql/DataSourceDefinition.class
+SHA-256-Digest: vxcxuC/4Gy+pm8vqf2a06mG49sGsKzUsn9vmEInMibs=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/javax.annotation/pom.pr
+ operties
+SHA-256-Digest: dnvxYqOBaFNovadp/MIe72NDy55igLg6jmEL4khxGVE=
+

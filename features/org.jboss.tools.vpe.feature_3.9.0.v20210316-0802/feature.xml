@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jboss.tools.vpe.feature"
+      label="%featureName"
+      version="3.9.0.v20210316-0802"
+      provider-name="%providerName"
+      plugin="org.jboss.tools.vpe">
+
+   <description url="http://www.jboss.org/tools">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <includes
+         id="org.jboss.tools.vpe.preview.feature"
+         version="3.9.0.v20210316-0802"/>
+
+   <plugin
+         id="org.jboss.tools.vpe"
+         download-size="263"
+         install-size="319"
+         version="3.9.0.v20210316-0802"/>
+
+   <plugin
+         id="org.jboss.tools.vpe.docbook"
+         download-size="6"
+         install-size="8"
+         version="3.9.0.v20210316-0802"/>
+
+   <plugin
+         id="org.jboss.tools.vpe.resref"
+         download-size="56"
+         install-size="101"
+         version="3.9.0.v20210316-0802"/>
+
+   <plugin
+         id="org.jboss.tools.vpe.ui.palette"
+         download-size="4"
+         install-size="4"
+         version="3.9.0.v20210316-0802"/>
+
+</feature>

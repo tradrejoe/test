@@ -1,0 +1,27 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: xl/6iYCmj9PR3vlbtAOBIz95rUXgv2LxUu9vT9OIv7k=
+SHA-256-Digest-Manifest-Main-Attributes: yiXYxXq4m9mWs3xVppqL3padl5jL5hF
+ LLgTjAKjEw5I=
+
+Name: org/eclipse/e4/core/di/extensions/Service.class
+SHA-256-Digest: t6xGBEUamAkZmNzmHvf3+0R68Nv72cMM+AaULQN/tZ8=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: fragment.properties
+SHA-256-Digest: qfyx4MH8oQOGlVqwLQAx0h7q6DxBk/hetrONNgPt0Fw=
+
+Name: org/eclipse/e4/core/di/extensions/Preference.class
+SHA-256-Digest: NLOXUvJIAFXHGraVFSvpEk0B+YHhIWmp5QpxW5McBuY=
+
+Name: org/eclipse/e4/core/di/extensions/OSGiBundle.class
+SHA-256-Digest: AfNdjHUoUlRLtUBGbQwqxT1sU+xiACM4gJiB06Sn6hU=
+
+Name: .api_description
+SHA-256-Digest: ipEzUc+D5tBYmFb8pXebOriekp40WbcO5gNmHClTI3Q=
+
+Name: org/eclipse/e4/core/di/extensions/EventTopic.class
+SHA-256-Digest: fRmUv39aMS0U0GYfdvkPGGPpr7iISLwZubY4hEKPNbw=
+

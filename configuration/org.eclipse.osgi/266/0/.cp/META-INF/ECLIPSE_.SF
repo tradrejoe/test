@@ -1,0 +1,119 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: NsI5C1BOgLc1yyACy+pxUDw6LrLkf/fMxqs87LhpaDY=
+SHA-256-Digest-Manifest-Main-Attributes: R8H8aw/FzEFgw24BCFKJlQwGB/S0Qpb
+ XU/mT6CT/5rk=
+
+Name: org/eclipse/e4/core/contexts/EclipseContextFactory.class
+SHA-256-Digest: ZD/vTaXW/FfuuBgx6OHp6CsygkoHTLDZQLoVmVQ8EWU=
+
+Name: org/eclipse/e4/core/internal/contexts/osgi/ContextDebugHelper.clas
+ s
+SHA-256-Digest: 2zx7hWE4XWrsTpxYtxE7f6s1pOHQ147bpp65hvJ2AWY=
+
+Name: org/eclipse/e4/core/internal/contexts/StrongIterable.class
+SHA-256-Digest: qcCBvwi1igBVWGc/ie0U9xgX/A+TultySFx23Z6q8tI=
+
+Name: org/eclipse/e4/core/internal/contexts/TrackableComputationExt.clas
+ s
+SHA-256-Digest: gsX2vYrjHPRZOeKX+BvwtZDEe29RWI4o4IqKi6t3H2Y=
+
+Name: org/eclipse/e4/core/internal/contexts/StrongIterable$1.class
+SHA-256-Digest: B5bK4LePNLHXh/WCQjHdIn3rBm+mEUu/JQkRwi702kc=
+
+Name: .options
+SHA-256-Digest: 2cCQFK+x2ZSdxy0NHrb01ol4AZ1UsUL3me+whLQ9+PU=
+
+Name: org/eclipse/e4/core/contexts/IContextFunction.class
+SHA-256-Digest: GvDfuLIj1UtWAESXGbph4QNwTZ88yxvjvAF02BdOs8A=
+
+Name: org/eclipse/e4/core/internal/contexts/ConcurrentNeutralValueMap.cl
+ ass
+SHA-256-Digest: 27nLZaqJvY8TgIUdWJXz1xyR2WwvFSIqmpEAzlUSkJQ=
+
+Name: org/eclipse/e4/core/internal/contexts/ConcurrentNeutralValueMap$Nu
+ llValue.class
+SHA-256-Digest: wMfl+q0CpDd66y2SDO0i6UFZVVNsymIZ4pAlTe0XIH4=
+
+Name: org/eclipse/e4/core/internal/contexts/ContextObjectSupplier$Contex
+ tInjectionListener.class
+SHA-256-Digest: fmpYWc4y5+RZM6UPU5Ed3y+7ddn/YnTY6CurGFJzTqg=
+
+Name: org/eclipse/e4/core/contexts/ContextInjectionFactory.class
+SHA-256-Digest: zz73cmhUKvc0JjL0HHGR6CyadIdysebNinLUtMpb7dE=
+
+Name: org/eclipse/e4/core/internal/contexts/ValueComputation.class
+SHA-256-Digest: xCmhAmGCrnKT+xgmjSJvX6gs2lSaKFh4553j3UyZF1E=
+
+Name: org/eclipse/e4/core/internal/contexts/RunAndTrackExt.class
+SHA-256-Digest: 8OAkALrhpJfyzQhrpvZ91IyrAWmyed3Cd2wXL2qilm8=
+
+Name: plugin.properties
+SHA-256-Digest: vpwEZiIx4j6JPghONIgOpFcRB1ouDHG3dRPpPu3y+8A=
+
+Name: org/eclipse/e4/core/internal/contexts/ConcurrentNeutralValueMap$Wr
+ apped.class
+SHA-256-Digest: khXUB1waIA/5Rc5QCjAz0g6p7ANh2yut8YQjOShsmvc=
+
+Name: org/eclipse/e4/core/internal/contexts/WeakGroupedListenerList.clas
+ s
+SHA-256-Digest: aix0a1bo5JSbmoCTkr4ql+I91fAZNd/i09RnbbMxQD4=
+
+Name: org/eclipse/e4/core/internal/contexts/WeakGroupedListenerList$Weak
+ ComputationReference.class
+SHA-256-Digest: 0T7r/tJcFbgyuct5oMnj7DCG/qAuCSvlsJ56MxGrCLQ=
+
+Name: org/eclipse/e4/core/internal/contexts/IEclipseContextDebugger.clas
+ s
+SHA-256-Digest: czcvwvOLF+9mqv8Yblty2MDZ83l0SZORpxtsYiDE3xs=
+
+Name: org/eclipse/e4/core/internal/contexts/ContextChangeEvent.class
+SHA-256-Digest: 57zFKmvLNkVvIlu8cqhjElZg250eVUbTBZk+/RhPjSQ=
+
+Name: org/eclipse/e4/core/internal/contexts/osgi/EclipseContextOSGi.clas
+ s
+SHA-256-Digest: Ab8FqYIsdglDGy2zbaIRJeMoxJJVTF9Is4WgIjij28Q=
+
+Name: org/eclipse/e4/core/internal/contexts/EclipseContext$Scheduled.cla
+ ss
+SHA-256-Digest: MCssoT54XguFKzYwZ252nAuE8Clij7+J+QP0bVlcrfM=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/e4/core/internal/contexts/IContextDisposalListener.cla
+ ss
+SHA-256-Digest: oIsVneAjAc0wS8MWU7w2o6k7FnIAHKGkN+mfPSDMPgk=
+
+Name: org/eclipse/e4/core/internal/contexts/IEclipseContextDebugger$Even
+ tType.class
+SHA-256-Digest: e9rJ9B9Fxrp986gKRv/88ZuZV3bCTKDxU/9TZSdA0Yo=
+
+Name: .api_description
+SHA-256-Digest: gScurgD+i+RH7hUH+YjAg6AK2QH6JJVa3uFWniFTi9g=
+
+Name: org/eclipse/e4/core/internal/contexts/ContextObjectSupplier.class
+SHA-256-Digest: j7g4qfMkotQ5oEpHL7VWRI1TryySA2enDg0EpXDLCHM=
+
+Name: org/eclipse/e4/core/internal/contexts/Computation.class
+SHA-256-Digest: pghdeUTHzrDrJwk8+BqBi6TsnD5WmEIkqmIPdS6FqWE=
+
+Name: org/eclipse/e4/core/contexts/Active.class
+SHA-256-Digest: YGHsiSALQSdpMJz/UekPCRJrEFRTgZlS68escJAitQg=
+
+Name: org/eclipse/e4/core/contexts/IEclipseContext.class
+SHA-256-Digest: hyEQ73Jv8S+bVoXEtt5h48g3SfO01FLEtL5kXC3tQ6w=
+
+Name: org/eclipse/e4/core/internal/contexts/ConcurrentNeutralValueMap$Va
+ lue.class
+SHA-256-Digest: ZBnxJQ+WOXlQWtaNLNgPfEQR53Sj+VxYsPoj4uLMsoM=
+
+Name: org/eclipse/e4/core/internal/contexts/EclipseContext.class
+SHA-256-Digest: y8EgFtLASj6b4qc8QI7dstxcwSmAKRiAXygzyB5vIAQ=
+
+Name: org/eclipse/e4/core/contexts/RunAndTrack.class
+SHA-256-Digest: nDgAMh4xbrksGiYYevRkenCEo6JbVoMZngwlDFaIN+Y=
+
+Name: org/eclipse/e4/core/contexts/ContextFunction.class
+SHA-256-Digest: HM11UudnBtTx+ydRyttspoYsGJ0rBnHy/ffHrDPu7nI=
+

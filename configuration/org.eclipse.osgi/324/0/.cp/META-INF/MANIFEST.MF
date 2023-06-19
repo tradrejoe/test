@@ -1,0 +1,657 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.emf.edit; singleton:=true
+Bundle-Version: 2.17.0.v20220201-1551
+Bundle-ClassPath: .
+Bundle-Activator: org.eclipse.emf.edit.EMFEditPlugin$Implementation$Acti
+ vator
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Export-Package: org.eclipse.emf.edit,org.eclipse.emf.edit.command,org.ec
+ lipse.emf.edit.domain,org.eclipse.emf.edit.provider,org.eclipse.emf.edi
+ t.provider.resource,org.eclipse.emf.edit.tree,org.eclipse.emf.edit.tree
+ .impl,org.eclipse.emf.edit.tree.provider,org.eclipse.emf.edit.tree.util
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.6.0,4.0.0)";
+ resolution:=optional;x-installation:=greedy,org.eclipse.emf.common;bund
+ le-version="[2.24.0,3.0.0)";visibility:=reexport,org.eclipse.emf.ecore;
+ bundle-version="[2.26.0,3.0.0)";visibility:=reexport,org.eclipse.emf.ec
+ ore.change;bundle-version="[2.14.0,3.0.0)";resolution:=optional;visibil
+ ity:=reexport;x-installation:=greedy
+Import-Package: org.osgi.framework;version="[1.5.0,2.0.0)"
+Eclipse-LazyStart: true
+Bundle-ActivationPolicy: lazy
+Automatic-Module-Name: org.eclipse.emf.edit
+Eclipse-SourceReferences: scm:git:https://git.eclipse.org/r/p/emf/org.ec
+ lipse.emf.git;path="plugins/org.eclipse.emf.edit";commitId=6827924871e4
+ b5a3df8cdd97cfb2c7b7c6c4ca42
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.emf.edit/pom.xml
+SHA-256-Digest: DjU75r72zNFTrsbkMjDEXHBT33S34pKbngPnqwuyets=
+
+Name: org/eclipse/emf/edit/command/CutToClipboardCommand.class
+SHA-256-Digest: TRk7bCrsEyoJiBLvXji9DC1UF3Zu3sxjgYeRY2Nk2+E=
+
+Name: plugin.xml
+SHA-256-Digest: ZhUCYq9FlXzMbqcf0tYxZkCAVsvJ/hXJfCcuH+0InV8=
+
+Name: icons/full/obj16/RealValue.gif
+SHA-256-Digest: aGGkuyU5C89KMD4kqTnVFeyTmVP4rViazFIXOR31+bM=
+
+Name: org/eclipse/emf/edit/command/AddCommand.class
+SHA-256-Digest: j78XaitPbCMYU6XIPGeVaG8xLhEgqvvAqAk53xC/dX8=
+
+Name: org/eclipse/emf/edit/tree/impl/TreePackageImpl.class
+SHA-256-Digest: MONHtvLwyIt7MNwr8nRqs5PNT4lgywgwnV7L+zlf9DI=
+
+Name: org/eclipse/emf/edit/provider/AdapterFactoryItemDelegator.class
+SHA-256-Digest: RZL8BWfQraLFhJdiyx0qmY+QJ/TIKKA5Qr+uxGyK8ok=
+
+Name: org/eclipse/emf/edit/command/CreateChildCommand$Helper.class
+SHA-256-Digest: JMKAnpJn9vvIvj1rVl8GXvYsPx1jGFvoVbfAswEMlVo=
+
+Name: org/eclipse/emf/edit/provider/IViewerNotification.class
+SHA-256-Digest: 4J2lrM+dYg4N0PXGbo6sqY4NQYWlm+VByfHINRWMT9I=
+
+Name: model/Tree.ecore
+SHA-256-Digest: k75wDTV3hKgFqaSQAex0ahKrv59p1fmZCQmk/3E0hCI=
+
+Name: icons/full/obj16/Resource.gif
+SHA-256-Digest: UCV/cK3z6+TRi7JDKmE3DawG2tekXyNcjl83YIElGsM=
+
+Name: org/eclipse/emf/edit/provider/IItemPropertyDescriptor$ValueHandler
+ .class
+SHA-256-Digest: ETQk0nbWigsp8EwS7FAjLJEAFlVEM/2fYdkJqUbUzc0=
+
+Name: org/eclipse/emf/edit/domain/AdapterFactoryEditingDomain$AdapterFac
+ toryEditingDomainResourceSet.class
+SHA-256-Digest: IcYEysfhEY31mBRtLF43bIOxZ6JZkzyShEHuHuoqXO8=
+
+Name: org/eclipse/emf/edit/command/SetCommand$3.class
+SHA-256-Digest: +3tBAfO9a2mEdM9fi08K0Br0gZKAx5Sp5TthiR2ETiQ=
+
+Name: org/eclipse/emf/edit/provider/resource/ResourceSetItemProvider$1Lo
+ adResourceCommand.class
+SHA-256-Digest: oHA/cJwxXXTwpqcalf8jKetqUIOiPWKhG4sfP2ursUY=
+
+Name: org/eclipse/emf/edit/provider/IChildCreationExtender$Descriptor.cl
+ ass
+SHA-256-Digest: od2Z/KH+XNThpQTYKQ4eVSQmzufuQ+O1ne8JtpDLGNo=
+
+Name: org/eclipse/emf/edit/provider/ItemPropertyDescriptor.class
+SHA-256-Digest: GDtkr419+YhPVK7iszUbFyTZsJ7+G/LbcYM9Q3uHfb4=
+
+Name: org/eclipse/emf/edit/provider/ItemProviderAdapter$ChildrenStore$En
+ try.class
+SHA-256-Digest: KSbhsz7XsSCan0hDZmwI6/DA7EkgclT7m+pu60K5iWM=
+
+Name: about.ini
+SHA-256-Digest: 5I7aDOYtski9BSZ5YaVncF7zRWHm8Q4bwDriYJaThtw=
+
+Name: org/eclipse/emf/edit/command/CreateChildCommand$1.class
+SHA-256-Digest: sxEdvyvMHQvv1ES/gFH6NNmrRV/p1DAVpkNjqgZr/jA=
+
+Name: org/eclipse/emf/edit/provider/FeatureMapEntryWrapperItemProvider.c
+ lass
+SHA-256-Digest: QvemVOXsQsxIca5LCzVhHx0vJXUVUb84knrEtehq8WY=
+
+Name: org/eclipse/emf/edit/provider/DecoratorAdapterFactory.class
+SHA-256-Digest: +Rutv1Y13DyU6Mh0nsAEH1eTcVFlNBcHHk2LaLpm+EE=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin$2.class
+SHA-256-Digest: Z84ycy0dT9GLsV0eCqYEaZOyVCpamZoqktGJF35DuvA=
+
+Name: schema/itemProviderAdapterFactories.exsd
+SHA-256-Digest: Nb1yj2myVgUj7dItSlLe92I3R9IFApxP+4xKLlQ5yKo=
+
+Name: org/eclipse/emf/edit/provider/AdapterFactoryTreeIterator.class
+SHA-256-Digest: wiFy6cNE94H+PcRdTjgRw0GZSVxoZif1RPQ9Gin08LI=
+
+Name: org/eclipse/emf/edit/provider/ItemProviderAdapter$ChildrenStore.cl
+ ass
+SHA-256-Digest: fc+j8dS1j38PBObulpekXL6M5+hTQ6j6Mpdb4m6IBWM=
+
+Name: org/eclipse/emf/edit/command/PasteFromClipboardCommand$1.class
+SHA-256-Digest: Josm0vTH3OE1k7lys25aqEMzFxSepyUqr7StYh6xR5s=
+
+Name: org/eclipse/emf/edit/command/InitializeCopyCommand.class
+SHA-256-Digest: pIg5/t35zpd9rIrZOC6B9IJtmSOrM0+1u9cbFJKzMJo=
+
+Name: org/eclipse/emf/edit/provider/IPropertyEditorFactory$Provider.clas
+ s
+SHA-256-Digest: ijThs+Sk8+yeoDDIIGpclszUcJobv8HpnjqrVrzLqW8=
+
+Name: org/eclipse/emf/edit/provider/ComposedImage$Size.class
+SHA-256-Digest: SOHKQzHgbFUhEQyVxkYufhf6TKW8iqoJW3GT8AexsGU=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin$5.class
+SHA-256-Digest: qCL1ujdyOHq7MqB8FEgy1Kgc8W/VSnyGRIrN9XIxuGI=
+
+Name: schema/propertyEditorFactories.exsd
+SHA-256-Digest: N8IXrolY1dmM9dRJdJUCXduca0nIjKX9dMAq1NPrjm0=
+
+Name: org/eclipse/emf/edit/command/SetCommand.class
+SHA-256-Digest: 6SL3hL6av6HFMINXnZts1CrIEZPiGFenbAykWX8WJhE=
+
+Name: org/eclipse/emf/edit/provider/StyledString$Style$UnderLineStyle.cl
+ ass
+SHA-256-Digest: Ei9GVp/GZ58ZM4odG0KcG0rLfyH3ZxmfleD5Y2ESDO4=
+
+Name: org/eclipse/emf/edit/provider/ChildCreationExtenderManager$ChildCr
+ eationExtenderList.class
+SHA-256-Digest: gaSd1Wz0ySyvOUi85MXEkha0VP8b1PnZBJhATC7pCO8=
+
+Name: org/eclipse/emf/edit/provider/IPropertyEditorFactory$Descriptor.cl
+ ass
+SHA-256-Digest: qxYCh0KtuPR1NxUth8zQBJic+HpTEZwsSf5vgc1KKj4=
+
+Name: org/eclipse/emf/edit/command/CopyCommand$Helper.class
+SHA-256-Digest: hJpFs0eZ9QPue5sflXNBSEI6Xn+kBo3JGcTTI+nMwRs=
+
+Name: org/eclipse/emf/edit/tree/util/TreeSwitch.class
+SHA-256-Digest: Kph6mjxQa4GEzRrlh2nekFKZOHnoUXTdjjY5N7KO8Hs=
+
+Name: org/eclipse/emf/edit/provider/ChangeNotifier.class
+SHA-256-Digest: pEXEqKorBh3B6gOwjsR6DkvdZMTJ+9s6Mjed120kPeA=
+
+Name: org/eclipse/emf/edit/provider/DelegatingWrapperItemProvider$Delega
+ tingWrapperItemPropertyDescriptor.class
+SHA-256-Digest: 1Y9YurToPPElXsshC4BRZU8Lb4A6bKIDlKpNFns0ITM=
+
+Name: org/eclipse/emf/edit/tree/impl/TreeFactoryImpl.class
+SHA-256-Digest: XT+qsMxJgAG3juHt5IXt0JvBLy08jSNi3+lZn8uKmVE=
+
+Name: org/eclipse/emf/edit/command/CommandParameter.class
+SHA-256-Digest: vce+ghL3nMtHQimexeloAsWZd8CUBRWfLSlbTQ6RxN4=
+
+Name: org/eclipse/emf/edit/provider/ComposedAdapterFactory.class
+SHA-256-Digest: 4iaJaQgge4LoMVJu+L38j4ybhQRv07r+eyPv9dUABv4=
+
+Name: org/eclipse/emf/edit/provider/INotifyChangedListener.class
+SHA-256-Digest: LIRttelWbujY7KBQrrmCJ6AwmhRHtQRqL1sIktaKNEQ=
+
+Name: org/eclipse/emf/edit/provider/ItemProvider.class
+SHA-256-Digest: pX1ED4UR43ChEUdSZ3xCE2NGasDRQD1DtzuusyaQM9k=
+
+Name: org/eclipse/emf/edit/tree/TreePackage$Literals.class
+SHA-256-Digest: Y8QgTifLhFak+9hoGIRXETLg2twW4qx24QfgQ30I3Cc=
+
+Name: icons/full/ovr16/ControlledObjectTarget.gif
+SHA-256-Digest: fivTgana5xy9lVJWBlOlAxQk7wLJKEACNrl2gMQ48Wk=
+
+Name: org/eclipse/emf/edit/provider/IChangeNotifier.class
+SHA-256-Digest: C/yRxOWKQmUox7juai8O12gTs6s5wvjA+wZw1WF1DQo=
+
+Name: org/eclipse/emf/edit/provider/IItemPropertyDescriptor$ValueHandler
+ Provider.class
+SHA-256-Digest: ju5ms19UocJ0ZrJXPaPOTocxuI5XqFXA3Pdm7TAPJQ0=
+
+Name: org/eclipse/emf/edit/provider/ITableItemLabelProvider.class
+SHA-256-Digest: 7sSgcwocQOAG3ycfOmWniGa8M/0JXfhjmQx2RM36BWQ=
+
+Name: org/eclipse/emf/edit/provider/StyledString.class
+SHA-256-Digest: 9//Li6SAhQft3U8tHWOX3MO1Gn/wXOlonSHiNOVA4AQ=
+
+Name: org/eclipse/emf/edit/provider/ComposedAdapterFactory$Descriptor$Re
+ gistry$Impl.class
+SHA-256-Digest: zzKm5lM9QOCV12FwGjDFEdixRBbXX0GuiGhiGXSBqY8=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin$PropertyEditorFactoryRegistryIm
+ pl.class
+SHA-256-Digest: WveupRjwJcvyyctp8OHxuhc0g7zuTxMS7ZrF8kr28Qs=
+
+Name: org/eclipse/emf/edit/provider/IWrapperItemProvider.class
+SHA-256-Digest: HTVY2jC3qZkFBFgwbZ/Z62vdpmmbk/EBka/bTqI/03o=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin$2$1PluginAdapterFactoryDescript
+ or.class
+SHA-256-Digest: rroCU0vfZ6+MyXNt45N6eyHI4i5TK54LM6EnUAGLWYA=
+
+Name: org/eclipse/emf/edit/provider/resource/ResourceSetItemProvider.cla
+ ss
+SHA-256-Digest: ighi2tSU0VO8aD3AKVVRhZQGDu9RgXc65+B0tfsy+28=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin$4.class
+SHA-256-Digest: f+gvqYxCAux+BRZAlbj5Wvb63QV0Se5nN+eU9QWNYQ4=
+
+Name: model/Tree.genmodel
+SHA-256-Digest: uLlth9Hhe2rJb58alxtoh7waaF3adxntBv0mBGbhzZQ=
+
+Name: about.mappings
+SHA-256-Digest: x2+EkfQOHpNXzuaYIXaGSnH7sc/mWlt3Oz/oKMplhD8=
+
+Name: icons/full/obj16/GenericValue.gif
+SHA-256-Digest: 283UOMHbts3X5jVu+DShH2T18pBE+LRUmbZEWt/DCO4=
+
+Name: org/eclipse/emf/edit/provider/IItemProviderDecorator.class
+SHA-256-Digest: LtSwf89wdU9vnocy74BRUFafnLDT1jnUcWNqVJGKZjs=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin$5$1PluginPropertyEditorFactoryD
+ escriptor.class
+SHA-256-Digest: cITG9SWqpkzbtM9AXxwwuMvS2XaRR+kt/uLJFU/kRq0=
+
+Name: org/eclipse/emf/edit/provider/ItemProviderAdapter$ModifiableSingle
+ tonEList.class
+SHA-256-Digest: 6t9pZVTOBYyujgGAulw9GseX88EjaE8taMeEERTVcRo=
+
+Name: org/eclipse/emf/edit/provider/IPropertyEditorFactory.class
+SHA-256-Digest: bERMIi/jb3cjErAmUVQfEnbDy//N/MUVPoUJb9iwjhU=
+
+Name: org/eclipse/emf/edit/provider/ITableItemFontProvider.class
+SHA-256-Digest: wPYaJsHDPkDpK9dvm13saYqUVlyaSVQz4Fs8kn0/4Qo=
+
+Name: org/eclipse/emf/edit/provider/ItemProvider$ItemProviderNotifyingAr
+ rayList.class
+SHA-256-Digest: hQN4m/NQtlpRdNC+uzoCc1v38m9q5JpOrINNekjjWk0=
+
+Name: org/eclipse/emf/edit/provider/FeatureMapEntryWrapperItemProvider$2
+ .class
+SHA-256-Digest: KdpW5GtUUGzbIYnXzFjQsNmjUAAWgZcN5yMkm/Tyafs=
+
+Name: schema/childCreationExtenders.exsd
+SHA-256-Digest: YggOIt3mOazUgnNlgZWQZH6B5KlEnFvR60rUfWgj6Yw=
+
+Name: org/eclipse/emf/edit/provider/ReflectiveItemProviderAdapterFactory
+ .class
+SHA-256-Digest: 0KPgVnElFpgKRSRsGQsr9Um73XKm9eIjticdKf6VuCc=
+
+Name: icons/full/obj16/BooleanValue.gif
+SHA-256-Digest: njgtMmQC6pRC60I5ud4jvWY1a/Karsqj9N9wZ7Wgt9U=
+
+Name: org/eclipse/emf/edit/provider/ViewerNotification.class
+SHA-256-Digest: Zo1vyDipOOtWIK/n3kUMkZYw51BKZW5qYOivMSHAfvM=
+
+Name: org/eclipse/emf/edit/provider/WrapperItemProvider$WrapperItemPrope
+ rtyDescriptor.class
+SHA-256-Digest: qKBzpN2sX534jebcV33sKjkFgIBZaalCXqNkS3LJm2g=
+
+Name: org/eclipse/emf/edit/provider/StyledString$Fragment.class
+SHA-256-Digest: NYNvykOhtYXLsmcYc9z+gy401LyV3Oq1yYzG4UQUYew=
+
+Name: org/eclipse/emf/edit/command/CommandActionDelegate.class
+SHA-256-Digest: V9T2BlE2KpLpJ56wYwwCaRbSkXrvgwGUaTqhdyoCRCQ=
+
+Name: org/eclipse/emf/edit/command/SetCommand$5.class
+SHA-256-Digest: Fx/Y5Gv/0EK0gxvguO1AAHg4XXJKV5zxb8j/fzweF2k=
+
+Name: modeling32.png
+SHA-256-Digest: saSrfvJ79Uzl2BFpCbuVBho1UTuf14LrjD+wGJG44Ok=
+
+Name: icons/full/obj16/Item.gif
+SHA-256-Digest: xui9NqaCrjG6XOwVgcP5V6tFsxEd4s0QBNn2fiRf21M=
+
+Name: org/eclipse/emf/edit/provider/IEditingDomainItemProvider.class
+SHA-256-Digest: k5H8vxPrLjQDrso4rwkQjIP4z8iUpC5seJsNltNI3uk=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin$3.class
+SHA-256-Digest: Bub9oQ2ajxVL0OTgrWgCZLdW+gw0M5IqmFxspxE1xag=
+
+Name: org/eclipse/emf/edit/command/CreateChildCommand.class
+SHA-256-Digest: vr3blmn7Y29VLd4nstmumzkE6WrhRAMZylKl5i93OZs=
+
+Name: org/eclipse/emf/edit/provider/ItemProviderAdapter$ChildCreationCom
+ posedImage.class
+SHA-256-Digest: FY/j+Zf+HwriDAcocf3TJBZ42qMFAuKwlsc5kiytXOo=
+
+Name: org/eclipse/emf/edit/provider/IUpdateableItemText.class
+SHA-256-Digest: h0WsWpicZDV9yKmYlYxp0Dg062nDGlNYiEl/Jt1zavQ=
+
+Name: icons/full/wizban/NewModel.gif
+SHA-256-Digest: k8+zRQDS/Xz7pIaNyZFrVhlxHiAA6vrvHHqUkjNcMe8=
+
+Name: org/eclipse/emf/edit/provider/ComposedImage$Point.class
+SHA-256-Digest: 1XBX70j3s82pJ51vdMjJyFUZOMJs++Hp1EN9E+UMIbM=
+
+Name: org/eclipse/emf/edit/provider/ItemProvider$ItemProviderNotificatio
+ n.class
+SHA-256-Digest: SKIZ9HtVF+ywzzmfvgtVLrngnTTjsY0uqMsIyREN9ik=
+
+Name: org/eclipse/emf/edit/tree/TreeNode.class
+SHA-256-Digest: xshqW7Wqg6EksxLS+egv4NvkBlaCldhyVL3v8xCwcNw=
+
+Name: org/eclipse/emf/edit/provider/ItemProviderAdapter.class
+SHA-256-Digest: QSR4PVKA9E5pAYM3IrBqvXDkemm1weGJaHBAXz9L7so=
+
+Name: org/eclipse/emf/edit/provider/DelegatingWrapperItemProvider.class
+SHA-256-Digest: Q1A1cHtH9pXg/laI5XEsmjyvR3sCp7UQGiX7anKo+Tk=
+
+Name: org/eclipse/emf/edit/provider/IItemLabelProvider.class
+SHA-256-Digest: AlTJeLZ2xdCYqkvm80PjnStD/LyaybI+kuHjKNelBnQ=
+
+Name: org/eclipse/emf/edit/provider/WrapperItemProvider$WrappingCopyComm
+ and.class
+SHA-256-Digest: y7RG3U+Zp9SENYPuSm6UlM29Dcruw726YK0DWi01H3U=
+
+Name: org/eclipse/emf/edit/domain/AdapterFactoryEditingDomain.class
+SHA-256-Digest: Wc1ADvenoMrr9N2LRRyi1NisOQVtmcmP5tISx3UdO7k=
+
+Name: org/eclipse/emf/edit/provider/ItemProviderAdapter$1.class
+SHA-256-Digest: 9TapP7wHwwJXCJ9DKuBl4ZDsR/Sij4obj2pBSdKB5OM=
+
+Name: org/eclipse/emf/edit/provider/WrapperItemProvider$SimpleCopyComman
+ d.class
+SHA-256-Digest: Nk47/24epkKMuP4OfUYExWx0N8fObfEMUt1SCGjv7rA=
+
+Name: org/eclipse/emf/edit/provider/IUpdateableItemParent.class
+SHA-256-Digest: Tdxm2WIU7ShQ1TtVFkxKKrjv5OYipL5OufWtblFQFsc=
+
+Name: org/eclipse/emf/edit/command/SetCommand$PessimisticStrictCompoundC
+ ommand.class
+SHA-256-Digest: tgxQ7yBHfCLygUQBl4ErEakmszKdE8n3hIPp3yV5p+w=
+
+Name: org/eclipse/emf/edit/provider/IChildCreationExtender.class
+SHA-256-Digest: T7u7JrAYksEgBWPVIF9u0A5wvbS0UzK7Dj5bZcatzS8=
+
+Name: org/eclipse/emf/edit/domain/package.html
+SHA-256-Digest: OAwyDwuiKp3P/PYtzcLVoGB6rpsfVMUOA7+7facdjSY=
+
+Name: org/eclipse/emf/edit/tree/provider/TreeNodeItemProvider.class
+SHA-256-Digest: 8frENX7FjtFGV8D+ix0qltzMwp2CchL6yLnptHomFWc=
+
+Name: org/eclipse/emf/edit/provider/ReflectiveItemProvider.class
+SHA-256-Digest: 8h3hr2VK+zg3MBqHPZ4vNhyoOcp3c+mFd5gFVoSteTw=
+
+Name: org/eclipse/emf/edit/provider/WrapperItemProvider.class
+SHA-256-Digest: oNeH4cEWGah9SgGvM7JkZ93U5BYYxNCuoyjmXwRv1B0=
+
+Name: org/eclipse/emf/edit/command/SetCommand$4.class
+SHA-256-Digest: 8t8dYSR9GMtCwdh+Y3lEFmsFXF4NdF6pppBn5haLvrU=
+
+Name: org/eclipse/emf/edit/provider/WrapperItemProvider$ReplacementAffec
+ tedObjectCommand.class
+SHA-256-Digest: eYK/cN+sCdmRYHiz5G/746V001WH2IF4KQL6vqqhP9Y=
+
+Name: org/eclipse/emf/edit/provider/FeatureMapEntryWrapperItemProvider$3
+ .class
+SHA-256-Digest: hvIhRlFx9XMf/B77hdw31etuUL48M7FJvj8Haz11AYo=
+
+Name: org/eclipse/emf/edit/provider/ItemPropertyDescriptorDecorator.clas
+ s
+SHA-256-Digest: Yzxl2/Syrw7igcb3tm1cMhcmjNgdTp+qDmUqfpxQSuY=
+
+Name: org/eclipse/emf/edit/command/CopyCommand.class
+SHA-256-Digest: a2S/AhbegY1zTT/rUlODOOZPTK+iQm6WiBZjPyvtubM=
+
+Name: about.properties
+SHA-256-Digest: kv3NlT/419BpJvRd4G3w0VT9M23WN1FTDSyn+WAIHQo=
+
+Name: org/eclipse/emf/edit/provider/IDisposable.class
+SHA-256-Digest: 5vS0msBuF+q3AhOJAoA8lXIMvUL3YpOrHxQl1rShaxU=
+
+Name: org/eclipse/emf/edit/command/ChildrenToCopyProvider.class
+SHA-256-Digest: Qh0o/9BESw9Ko2f+T7yUUCcE/ufdK+/JMalpIJ9pDWo=
+
+Name: org/eclipse/emf/edit/provider/package.html
+SHA-256-Digest: zGD2SvJs3kbrlsCNEJpC+ccz0k4qCFJfJ9DLVCWScv8=
+
+Name: org/eclipse/emf/edit/provider/ITableItemColorProvider.class
+SHA-256-Digest: CrzzlXW8Tfb+4eJkxIKqDrr/Nemqw7ga+9ZN4aG199k=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin$4$1PluginChildCreationExtenderD
+ escriptor.class
+SHA-256-Digest: h31BfKWIsRHgJ/ciNN25l7JGeK86CwwfU2L88avBD1g=
+
+Name: org/eclipse/emf/edit/command/OverrideableCommand.class
+SHA-256-Digest: 8+cqKm9J+6H900k0hCEG6Kj2mXeK0wcOCTZtm4LgPUQ=
+
+Name: org/eclipse/emf/edit/tree/util/TreeAdapterFactory$1.class
+SHA-256-Digest: LNpYNeN+lATx3bwQMqlUquOzEUr4MyMUfYTZQPxfolU=
+
+Name: org/eclipse/emf/edit/tree/TreeFactory.class
+SHA-256-Digest: aGoAaiqpvEQrExGqKPuARsDsw7Jz8E4uI3EnzAkSCwk=
+
+Name: org/eclipse/emf/edit/command/AbstractOverrideableCommand.class
+SHA-256-Digest: zLiYH8WFX1JE3DNYDl5bqPKhnO7xbAWYcxmLJd/i4TY=
+
+Name: icons/full/obj16/ResourceSet.gif
+SHA-256-Digest: 0cq+L2ifO8E052+W68zwBjJPwjHT5ckAydXLrtpiFv0=
+
+Name: org/eclipse/emf/edit/provider/ItemProviderAdapter$ResultAndAffecte
+ dObjectsWrappingCommand.class
+SHA-256-Digest: oG7bVbdl5zApqw564P3qvkVZqpPSGwYzveYM3Z4BkF0=
+
+Name: org/eclipse/emf/edit/domain/AdapterFactoryEditingDomain$EditingDom
+ ainProvider.class
+SHA-256-Digest: 34AVkCOocGxZvtq10kxlQ+YFbVPj2zUd3TZ7uGdl8zE=
+
+Name: org/eclipse/emf/edit/package.html
+SHA-256-Digest: Ccraoy25pCoiUPinSgW7/zPhQTlisl9a4NNXPGS5oPI=
+
+Name: org/eclipse/emf/edit/provider/ItemPropertyDescriptor$PropertyValue
+ Wrapper.class
+SHA-256-Digest: 3U+h6orTxm7IG8avde2ARraaK2Y1VoIzUbzbhrkHbIs=
+
+Name: org/eclipse/emf/edit/provider/PropertyEditorFactory.class
+SHA-256-Digest: yOd8Dfw+5y+bhL1Y/K25xxVUrQ2c4xE+ofqmcV2+0Ms=
+
+Name: org/eclipse/emf/edit/provider/AttributeValueWrapperItemProvider$1.
+ class
+SHA-256-Digest: ZI+3TAE7YRh22Xfxx0mmcChhgp56E22Q5+wklPvKPV0=
+
+Name: org/eclipse/emf/edit/provider/ItemProviderAdapter$2.class
+SHA-256-Digest: awYuFQHztlyWkF31qWF271EIuAdA++lpPk5w7s1q56o=
+
+Name: org/eclipse/emf/edit/provider/IChildCreationExtender$Descriptor$Re
+ gistry$Impl.class
+SHA-256-Digest: ciVEitvQ43TFzEB2qaEyETen38t7Ng21v2umcM4o3BA=
+
+Name: icons/full/obj16/NoValue.gif
+SHA-256-Digest: bqkQwfbiBWNhFSGzLH2DQ2L621AlY/5m1Pf8UXXVEF8=
+
+Name: plugin.properties
+SHA-256-Digest: eVo/oGRq4vPJvIuJrUUj+BZ9UQg+4zHTSlEGw2GeAhQ=
+
+Name: org/eclipse/emf/edit/command/ReplaceCommand.class
+SHA-256-Digest: LpScjJ+1BGxKp6Mt4MPHGMPrfHesWB/rt7xmOjT1Cdg=
+
+Name: org/eclipse/emf/edit/provider/ItemPropertyDescriptor$DataTypeValue
+ Handler.class
+SHA-256-Digest: N4EghSsUUhPwPjgYJr6kQNdZcPLvBt8pgZXzZT4r1BE=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin.class
+SHA-256-Digest: wBftw1qRDOc7dwOGq53KIdi9uadSEoQH0LOkZrU4iJI=
+
+Name: org/eclipse/emf/edit/command/SetCommand$2.class
+SHA-256-Digest: I06+NedQvlIVhpSYrfsHPVPHDkiZhIPwjyd1HtLmde0=
+
+Name: org/eclipse/emf/edit/provider/ComposeableAdapterFactory.class
+SHA-256-Digest: TJkIMTuhUD+0VRzeB2UB0urPQsKvggrkWPL1PpUCyeI=
+
+Name: org/eclipse/emf/edit/provider/ItemProviderAdapter$ResultAndAffecte
+ dObjectsWrappingCommandActionDelegate.class
+SHA-256-Digest: XKtHn1AootZfMBf802/BCWgChIxRWeoCC6bireXR3wc=
+
+Name: org/eclipse/emf/edit/command/DragAndDropFeedback.class
+SHA-256-Digest: G264o2ZwMaKc9EeJw67xTme+ghrEpXQcKEiTLOSuruc=
+
+Name: org/eclipse/emf/edit/provider/ComposedAdapterFactory$Descriptor.cl
+ ass
+SHA-256-Digest: 0WJVUcHuZaTmRjyCNIv+a8uU1bV0OJtW3HvMFvfRDZk=
+
+Name: org/eclipse/emf/edit/command/PasteFromClipboardCommand.class
+SHA-256-Digest: s2fMGt+DK39GBk1mAP2lL5iVRHsZs0HB1xdCrHe/n/U=
+
+Name: org/eclipse/emf/edit/tree/util/TreeAdapterFactory.class
+SHA-256-Digest: Vi8QU3JqlYNvet3zorw0aYfoAsO7kGv+1zclymq0f+E=
+
+Name: org/eclipse/emf/edit/provider/ChildCreationExtenderManager.class
+SHA-256-Digest: 90tF3GSHFG0xSkcatBOmaehMA0c+GAOuP0QxWEuwR5M=
+
+Name: org/eclipse/emf/edit/tree/TreePackage.class
+SHA-256-Digest: aSZQjv/dPf/D52BCR1rDAyRvZiALEAkPkOYXy7JdY2I=
+
+Name: org/eclipse/emf/edit/provider/IChildCreationExtender$Descriptor$Re
+ gistry.class
+SHA-256-Digest: 5ffNxKFmSjdJUgsghmck7EoPqGPXT49MIU1WmcwMiWs=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin$Implementation$Activator.class
+SHA-256-Digest: wKi6xKQRI3xtQxe/nTXhj0250t3NFcyEfhDRy1FiaO8=
+
+Name: org/eclipse/emf/edit/provider/IItemPropertyDescriptor$Overrideable
+ CommandOwner.class
+SHA-256-Digest: 1kqT/2jOo3gUbzqAIcc4ZXp17EQtA/LAm0jdfxC5qZ4=
+
+Name: org/eclipse/emf/edit/provider/AttributeValueWrapperItemProvider.cl
+ ass
+SHA-256-Digest: He8BI5lIz6noyNjN/ZUoixz+vouqUBCE3dmPeQOlb4c=
+
+Name: org/eclipse/emf/edit/command/ChangeCommand.class
+SHA-256-Digest: rZgkp4adpP+2Kh3RZlmhNH5qBfHYjRgR6pTsoqq5Xwk=
+
+Name: org/eclipse/emf/edit/command/DragAndDropCommand$Detail.class
+SHA-256-Digest: denuuf5MXmeSlDA6FjZJHwL3qBqlVv2LjO1s6ePS8kE=
+
+Name: org/eclipse/emf/edit/provider/StyledString$Style$Builder.class
+SHA-256-Digest: hA2XiHEoKagdbWEZH61e0OP+TRaNFxHvs+VVCVOjTt0=
+
+Name: org/eclipse/emf/edit/provider/IItemPropertyDescriptor.class
+SHA-256-Digest: a5/VJAL3BcuYYVhoAcpiFFi9pGvFrBbHTH3TDvTxVPQ=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin$1.class
+SHA-256-Digest: YZdaWZDRtZkD5FHQz97FEi757NKD03NeoA62YrafXhQ=
+
+Name: org/eclipse/emf/edit/provider/IPropertyEditorFactory$Registry.clas
+ s
+SHA-256-Digest: pcAReEnpoxCrG4P+vxQijQ79Ga/Wrq7U+XgTHSfNncc=
+
+Name: icons/full/obj16/TextValue.gif
+SHA-256-Digest: 9cYdcJsxQUAQGm9pEJ0hcW6t7Bhaf7ukGvQ1Siy7i/E=
+
+Name: org/eclipse/emf/edit/provider/ComposedImage.class
+SHA-256-Digest: deE8GetluKk4eag8Puor6scyWAkTB1E556834s9WoB8=
+
+Name: org/eclipse/emf/edit/provider/DelegatingWrapperItemProvider$Affect
+ edObjectsWrappingCommandActionDelegate.class
+SHA-256-Digest: byF5DAkPMZ3pH2biRsrXNpwQLDs6+2NTToO1bL0CHu8=
+
+Name: org/eclipse/emf/edit/command/package.html
+SHA-256-Digest: DG4EricDg+etIEFnv8Gc2xW+6iRsgraL8qO970tDypE=
+
+Name: org/eclipse/emf/edit/provider/resource/ResourceItemProvider.class
+SHA-256-Digest: 8rld/+GPugrpqnvyllqYbQBqHJ/vZHCSaeEweg2S/Ok=
+
+Name: org/eclipse/emf/edit/provider/ComposedAdapterFactory$Descriptor$Re
+ gistry.class
+SHA-256-Digest: TgBp8+tdDA4a4CEZXqEv0stIY9MuD7dhG1cSEBqf92w=
+
+Name: org/eclipse/emf/edit/provider/DelegatingWrapperItemProvider$Affect
+ edObjectsWrappingCommand.class
+SHA-256-Digest: ZHqQmLi0gHIml2seclwvwYKocAmRq+PFYrvZllvKCV0=
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.emf.edit/pom.properties
+SHA-256-Digest: QUdBS+DY33zAPM01e3N4Z/tKcI1tSHBXc6XdRCxd4JQ=
+
+Name: org/eclipse/emf/edit/provider/IItemColorProvider.class
+SHA-256-Digest: TKfh9FL3VKsH1hHHkKh6zJSdyoErEdrTBA+5Lw1TGqI=
+
+Name: org/eclipse/emf/edit/provider/resource/ResourceItemProviderAdapter
+ Factory.class
+SHA-256-Digest: e+dAUJoCf9zqXRL8W6PANTjyevw6B8LxvsEHannnhUI=
+
+Name: org/eclipse/emf/edit/domain/EditingDomain.class
+SHA-256-Digest: TQ8YYyWmcKIkDfyZGugtTZ61oow2D9fKStQcqDPPLaw=
+
+Name: org/eclipse/emf/edit/provider/FeatureMapEntryWrapperItemProvider$1
+ .class
+SHA-256-Digest: 4nQOTvyO6FP90i2El6wTMZVMi0Zip2JNLwrhYfkphEs=
+
+Name: org/eclipse/emf/edit/provider/ItemProviderDecorator.class
+SHA-256-Digest: nwOxH6QL7o8CKk414a0Tr5jOPuxlar8uu6ACFgxq3GM=
+
+Name: org/eclipse/emf/edit/command/CopyCommand$1.class
+SHA-256-Digest: xaq0puuyV3hJ021JPw83LBB/mIQE0yQPTucqILLjx/0=
+
+Name: org/eclipse/emf/edit/command/DeleteCommand.class
+SHA-256-Digest: LLkC6YHcmmzxWTJ97lUpaAYo+dgCWHDjOT1JXEEmXc4=
+
+Name: org/eclipse/emf/edit/provider/StyledString$Style.class
+SHA-256-Digest: pRJ/4kX0fFVXaN1PSYRw102wN5QqP1PkzsCfOCJNHFQ=
+
+Name: org/eclipse/emf/edit/provider/IStructuredItemContentProvider.class
+SHA-256-Digest: V2b4LH5FY1FWZnlwhToSaMU4hhWsbZ8yC8qRMcExWKY=
+
+Name: org/eclipse/emf/edit/provider/ItemProvider$ItemProviderNotifyingAr
+ rayList$1.class
+SHA-256-Digest: Sk3GIF5h1Elw6K5Wcv2iupSIvJd/TbFOYwlK8RBdd9M=
+
+Name: org/eclipse/emf/edit/command/CommandParameter$Indices.class
+SHA-256-Digest: inlfFfT1mwFxvrJ5urOVSdj+T3iDK9mPe0maxQptTO8=
+
+Name: org/eclipse/emf/edit/EMFEditPlugin$Implementation.class
+SHA-256-Digest: 7DOlQ9rRtUVIdh6VQ8jBI4/ewuTe2vW2w7WLFZk8UaE=
+
+Name: org/eclipse/emf/edit/provider/IItemStyledLabelProvider.class
+SHA-256-Digest: NwzjQIMa21jbbJDWsuzdvNY9ifr9Q8P2SUWBrGzJNXI=
+
+Name: icons/full/ctool16/CreateChild.gif
+SHA-256-Digest: UiHPVw5yNQGYwAF/uAjT2QSWLWUOcM7OJdSrwX9Lcz0=
+
+Name: org/eclipse/emf/edit/provider/Disposable.class
+SHA-256-Digest: 8rNkSmai3nqp16c8xesiz+T+UBCa44XfOQiaZQG8sAE=
+
+Name: about.html
+SHA-256-Digest: 94hJ6ZOHrZnO+XGpAhKNrMqA4v4X3qzwnfB0x9OL4eQ=
+
+Name: icons/full/ovr16/ControlledObject.gif
+SHA-256-Digest: 5HxIrd+clN7Q4kK0ewI3dN82VEEP/u4K007qf/OYCMY=
+
+Name: org/eclipse/emf/edit/command/MoveCommand.class
+SHA-256-Digest: JLaidKZs7UCzC6Fr/gnhC/Uihf1J/rkUZTP2njD+w+w=
+
+Name: icons/full/ovr16/CreateChild.gif
+SHA-256-Digest: 0KcobAesrF5Hs6oB7HSnFZ/7q78DFAwX6GzfU+h1wF4=
+
+Name: org/eclipse/emf/edit/domain/AdapterFactoryEditingDomain$DomainTree
+ Iterator.class
+SHA-256-Digest: 7vmTQ/6oHXIivmmmEJlI0TDEM4/st5OCrjryXsxj64U=
+
+Name: org/eclipse/emf/edit/command/CopyToClipboardCommand.class
+SHA-256-Digest: x0Q6W41wbyrMvsQhU0oql9PUqV5AUgZtCflx+4yEmGY=
+
+Name: org/eclipse/emf/edit/provider/ItemPropertyDescriptor$ItemDelegator
+ .class
+SHA-256-Digest: s/r8srywcC5ULmxlEYJLhEsfNmhefYWVqwcFEImutas=
+
+Name: org/eclipse/emf/edit/provider/ITreeItemContentProvider.class
+SHA-256-Digest: lXpdRpYR9WtHsKamtH3gOREVzHKgAjbEszZw5m+P9/M=
+
+Name: org/eclipse/emf/edit/provider/IItemPropertySource.class
+SHA-256-Digest: 51eT2Mc9aIaktV6OB3PZZca/9l+Q79W1g0EJZm35O+I=
+
+Name: org/eclipse/emf/edit/tree/provider/TreeItemProviderAdapterFactory.
+ class
+SHA-256-Digest: zAgTZhbV7L9SYpNpT2DCnFaMd0up8OnnX8IMHn0UKPc=
+
+Name: org/eclipse/emf/edit/command/CreateCopyCommand.class
+SHA-256-Digest: kgtYUecdwwEiacVmeSillS18stCcW6eTv21wdeZGZgE=
+
+Name: org/eclipse/emf/edit/domain/IEditingDomainProvider.class
+SHA-256-Digest: BXecnAJrLVtmZ+/8Pxyc4t2mRxZdrIzncy6w+MhdnA4=
+
+Name: org/eclipse/emf/edit/tree/impl/TreeNodeImpl.class
+SHA-256-Digest: cszhQ7UdQwCRMKagDXiA6RkZalZFTUcqojQEgfOSpVE=
+
+Name: icons/full/obj16/IntegralValue.gif
+SHA-256-Digest: wIRcg0E6YbKYRZeGVRljZZQ/c/f/iJr9rowAqVjkWcI=
+
+Name: org/eclipse/emf/edit/command/DragAndDropCommand.class
+SHA-256-Digest: Qvr+baVv3TInU0uxVQf/Vyy8ruJPGBHo1BXzSAM9GZA=
+
+Name: org/eclipse/emf/edit/command/RemoveCommand.class
+SHA-256-Digest: f6dkyHXeFb+T6Tca8X/z7/FsPqiQnMWDbnBap6c+IWs=
+
+Name: icons/full/obj16/ModelFile.gif
+SHA-256-Digest: idnwzOadwqmnD7k+kjj21g2yWFylCrQ890kCYEMwxWA=
+
+Name: org/eclipse/emf/edit/command/SetCommand$1.class
+SHA-256-Digest: cT102mtO6dVaPH29y9gGSy9YYmOVh8CxwwCjywLUt58=
+
+Name: org/eclipse/emf/edit/provider/StyledString$Style$BorderStyle.class
+SHA-256-Digest: kY8IOzQ8DG76395kLdhBxkegfJWfsTjogTHyoB6GFTM=
+
+Name: org/eclipse/emf/edit/provider/IItemFontProvider.class
+SHA-256-Digest: gjNNLd/WkI72mFYxK3Jxfg33uB3x1zDzwr+5WgLSEd4=
+

@@ -1,0 +1,363 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: Xz/TSkWR2Gvght55JXkD7Uei0QKqXwKKoR63p/ytgus=
+SHA-256-Digest-Manifest-Main-Attributes: BpqObpvKzRs20EobpWoiB+E8DjYIvTF
+ /dvRlvv6Gk0Q=
+
+Name: plugin.xml
+SHA-256-Digest: UhzvdZRX7VqFFwM4m0VMUZ5HYYcdyvDTKgZuMNin5hw=
+
+Name: org/eclipse/equinox/p2/engine/IProfileEvent.class
+SHA-256-Digest: ImjKJoFoJHCepMMi7ENN7WV6RZ5yBfihlkhkFLCXT4A=
+
+Name: org/eclipse/equinox/internal/p2/engine/messages.properties
+SHA-256-Digest: 8hyTCbHVytE/P1WexRiY9v5U+R/4zfO3lA4Yl6/WX8A=
+
+Name: org/eclipse/equinox/p2/engine/ProvisioningContext$ArtifactReposito
+ ryQueryable.class
+SHA-256-Digest: 8zDYnK5jcTTie3+KZnKklj3515jmchpvRYakitg6RSY=
+
+Name: org/eclipse/equinox/p2/engine/ProvisioningContext.class
+SHA-256-Digest: kK8pPUsZml7H7K3Ar7TnDrB32rX63T7NCR5a7Mm+3iE=
+
+Name: org/eclipse/equinox/internal/p2/engine/CommitOperationEvent.class
+SHA-256-Digest: spbJGtuUfbS73P3C63qey1z/YNbR7eaR375tCQ5UtFs=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Uninstall$AfterUnins
+ tallEventAction.class
+SHA-256-Digest: wSpNczb/F47NZGrrf89m3tw/ML0bmyMpZTneyT0tvI4=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/CertificateChecker$2
+ .class
+SHA-256-Digest: sfkWRfw73EZq42i66oZDZPL2Nz/xtHKmQx6w5dvFhWE=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfilePreferences$SaveJob.
+ class
+SHA-256-Digest: VwPgjLm5SeccQgqfhXhJtnWdx2huiR5mFKIyNobswxc=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/CheckTrust.class
+SHA-256-Digest: Uv1r1xLKbzbQGU7pUGflm0cWTLziSVUakBb/1C0ycXU=
+
+Name: org/eclipse/equinox/internal/p2/engine/InstallableUnitPropertyOper
+ and.class
+SHA-256-Digest: hH5LyCDrRR3ORJtDxNeZAqxCgoirshJ4xJ4hptsr4fA=
+
+Name: .api_description
+SHA-256-Digest: zlLvHoTDP4L4QwHhpzQGkeZUvWKtWAMRZxmnKCncUBg=
+
+Name: org/eclipse/equinox/internal/p2/engine/CollectEvent.class
+SHA-256-Digest: OnA9cZcXk5TLDMKEjPDp96nABhb14BsfxvEyCQghrEg=
+
+Name: org/eclipse/equinox/internal/p2/engine/EngineComponent.class
+SHA-256-Digest: C+/DQ4kV3Owi/LAVYhZXrFvzuxM2I8QfxW+Qf4imOrM=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Property$UpdateInsta
+ llableUnitProfilePropertiesAction.class
+SHA-256-Digest: H4Wvu0LhWwpTObvk8FZFwIoowgbDZqQ+WpkgeB3NTSQ=
+
+Name: org/eclipse/equinox/p2/engine/IProvisioningPlan.class
+SHA-256-Digest: nU8OI8BJOsHuUtkVbZgz0xsnLCbK5prxG981oAiCHjA=
+
+Name: org/eclipse/equinox/internal/p2/engine/SurrogateProfileHandler.cla
+ ss
+SHA-256-Digest: ul5DkuDgHJqtazu3KIAnZ6X2R/wgDkeoK9Qo/xU5j0E=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Property$ProfileProp
+ ertyAction.class
+SHA-256-Digest: IN2ey6hPXypLvBoTD3OVMVqBdfKgCJZsYnirqMoaF4Q=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileParser$IUsProperties
+ Handler.class
+SHA-256-Digest: 6/nlVptw8OG4hO5BU3V8PsPxsoX2XG7gmMzLcZwh7YE=
+
+Name: org/eclipse/equinox/internal/p2/engine/DownloadManager$1.class
+SHA-256-Digest: RktXFPni3omvn6Ui8yk4Yf3fIcmzpeyejHQzWLM/Cn4=
+
+Name: OSGI-INF/profileRegistry.xml
+SHA-256-Digest: 3pfiZH+XFI8fKPMe/bh7E9SSPl37Yyvd+pMC9RgktpM=
+
+Name: org/eclipse/equinox/internal/p2/engine/BeginOperationEvent.class
+SHA-256-Digest: 1S7RrBrvBW2+LSVrcscs7bkPSubbBmv4DJKAMBim8vU=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Uninstall$BeforeUnin
+ stallEventAction.class
+SHA-256-Digest: ELCoqZ2XOztHtPRTxTtqXXAt3OfnHGGVQxsRjJLwBIc=
+
+Name: .options
+SHA-256-Digest: 5OExkFJJAMXK/cVGvZ3VXSgXUxLjWAj8QWg1f8EHhhM=
+
+Name: org/eclipse/equinox/internal/p2/engine/Profile.class
+SHA-256-Digest: Foz4ZSQ8nUm04I+bA+iF+ukRzTd2vnSRCaEecqP+MDU=
+
+Name: org/eclipse/equinox/internal/p2/engine/TransactionEvent.class
+SHA-256-Digest: VbFNeBzlHj8m7eZwzW5qOvFR/X2lTG3eoEBKZ8ToJYg=
+
+Name: org/eclipse/equinox/internal/p2/engine/MissingActionsException.cla
+ ss
+SHA-256-Digest: F9aLTiU7rYpexK6YZcOcqO0HsbaA+jldaT5R/F8f8c8=
+
+Name: org/eclipse/equinox/p2/engine/spi/Value.class
+SHA-256-Digest: O93/DZzJDu+EFYEYNUkBGjhDj8+IrmPOzXzf5JyJMdQ=
+
+Name: org/eclipse/equinox/internal/p2/engine/Phase.class
+SHA-256-Digest: XSyjLjjvZOsm6aeXuaMI3UQF/8xJrWIjb1fvDFQvUKE=
+
+Name: org/eclipse/equinox/internal/p2/engine/ActionManager.class
+SHA-256-Digest: nDImvBiBXuTO9Rg6HAglxzh9PGUtRKP3h/u7c1npqrc=
+
+Name: org/eclipse/equinox/internal/p2/engine/SimpleProfileRegistry$Parse
+ r.class
+SHA-256-Digest: I2giys0bIIpE/fKmvJRGAbTbjecKXJ20K/ydmSl3z9g=
+
+Name: org/eclipse/equinox/internal/p2/engine/SimpleProfileRegistry$Profi
+ leStateProperties.class
+SHA-256-Digest: jF0bgB5sj/QNO9BI5NAmJ//u0SWjd84Vor9GsM6ErJ4=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/CertificateChecker$1
+ .class
+SHA-256-Digest: 5XMJKgldBuVvt/6FAXEgu0eM+Uyjwr0g6xKt0Bv8VlU=
+
+Name: org/eclipse/equinox/internal/p2/engine/EngineSession$ActionsRecord
+ .class
+SHA-256-Digest: 9eUfVoAHSc9xqbTha5Edq2R6D39lwAIYOT2Yf87ueKo=
+
+Name: org/eclipse/equinox/internal/p2/engine/InstallableUnitPhase.class
+SHA-256-Digest: ejTaWrZ9M0Hc0rz48D8aDkXlA5wZ0/UElCt15bQgUjw=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Configure$AfterConfi
+ gureEventAction.class
+SHA-256-Digest: aXD5DECTzg1+rTLwwTLDm6Df2S5Bt30B1OfqkVD60T4=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileXMLConstants.class
+SHA-256-Digest: 0iQbbmGH3ZuJUrYvgQPjcbPd9Xh25iqFFB1foyLsw/k=
+
+Name: org/eclipse/equinox/p2/engine/query/IUProfilePropertyQuery.class
+SHA-256-Digest: rpxs+SvA1DPRbcILFni/xIqEygXDlCU3TgO83KkVD1w=
+
+Name: org/eclipse/equinox/internal/p2/engine/InstructionParser.class
+SHA-256-Digest: /Yl55eE+D7ALI8hNOAXY/T526V7UNZexACjBUkQkUSM=
+
+Name: org/eclipse/equinox/internal/p2/engine/PhaseSet.class
+SHA-256-Digest: J3JTdE/IBAJnPt3PGd3PxP5xcxNH+rUg02bdb7iXo4g=
+
+Name: org/eclipse/equinox/internal/p2/engine/DebugHelper.class
+SHA-256-Digest: bsDH01Cou3XJG2csDoQv8ZG5D+aA4pWkDe1ASGDvRDQ=
+
+Name: org/eclipse/equinox/p2/engine/IPhaseSet.class
+SHA-256-Digest: X+B0Pe2HgGcS4iiE68JZvO73kuqB5qoN3YDiziFskXk=
+
+Name: org/eclipse/equinox/internal/p2/engine/SizingPhaseSet.class
+SHA-256-Digest: 6RpiTW4QW/DnY8jOrJ0pjm6R116FomCQPeSZ7H846QM=
+
+Name: org/eclipse/equinox/p2/engine/spi/Touchpoint.class
+SHA-256-Digest: dGh+fLvUvLG98aR6OdRPl/4iF9fLSUIGJlT7gr6fhtI=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProvisioningPlan.class
+SHA-256-Digest: x8co3HnsJue/VcLOMB5IpHHj+uqu41+6vfL10SIjfgw=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Install.class
+SHA-256-Digest: 8JxXDVwU1AETmLWF9cXUjuIVXXeBJo83lewDRuqhQjg=
+
+Name: org/eclipse/equinox/internal/p2/engine/TouchpointManager.class
+SHA-256-Digest: K2QsqdtWk0GPffVEKGbO7u7itvJEUIcD9Pa6eNLaVtw=
+
+Name: org/eclipse/equinox/internal/p2/engine/SimpleProfileRegistry$Write
+ r.class
+SHA-256-Digest: x5etDHAPR069WmdjUzpa0NpsAQmBfHwd5cic10bDeXA=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Unconfigure$AfterUnC
+ onfigureEventAction.class
+SHA-256-Digest: Oi4QG3EuXfmx1QfJ3WBU1Ofhhgn90wNyq8K/F074ZHE=
+
+Name: org/eclipse/equinox/internal/p2/engine/SlashEncode.class
+SHA-256-Digest: 8SGKe5v0mCjMY7iSxrMTj+O4AW6sdh469s9EtrTmqq8=
+
+Name: org/eclipse/equinox/p2/engine/query/UserVisibleRootQuery.class
+SHA-256-Digest: ep3ONX41HlsIBY9iFXufU9KRuUammTsNgS5t0xO6XH4=
+
+Name: org/eclipse/equinox/p2/engine/spi/Memento.class
+SHA-256-Digest: oW5KGuUvpQC6f5Yuto/n151WHB7Sq6xjQW0u1bW78+E=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileParser$IUPropertiesH
+ andler.class
+SHA-256-Digest: c3agYW7sKAii770DtSOwYEYAi6kwBfuC1PuTEiIEZ6Y=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileParser$ProfileHandle
+ r.class
+SHA-256-Digest: 8j0uY5EmrbBws3aB/zQA9GHYQmtZgth9eKjDev2R9ng=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Install$AfterInstall
+ EventAction.class
+SHA-256-Digest: CeT8eWw47fu3ATmWRRp8yfhftWLc14nYikeV67IfiBc=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Unconfigure$BeforeUn
+ ConfigureEventAction.class
+SHA-256-Digest: C7y5rbgYuOXeuTVkpoWn2HlzEWa0o3a6oXXBwFcVi0U=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Property$RemoveInsta
+ llableUnitProfilePropertiesAction.class
+SHA-256-Digest: Sl222Gv+avpRiJkpRHo7cr9OkXI0c2BwFaEXQUj8nuA=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileRegistryComponent.cl
+ ass
+SHA-256-Digest: lNGyMzMMgghtIkIgEp2xTw/5BLuPKcR+JbCq/XR7mxM=
+
+Name: plugin.properties
+SHA-256-Digest: vljkaA7Bpp1qdyWrUvEAGoCABSORZhnoCTvCPZuGhNI=
+
+Name: org/eclipse/equinox/p2/engine/IEngine.class
+SHA-256-Digest: f95M5FzpCe/wfx5XzqNio7yvFYnMsF3SJ9bObBXCHas=
+
+Name: org/eclipse/equinox/internal/p2/engine/PropertyOperand.class
+SHA-256-Digest: AoXjvxX+Kh6yhzNZZ4mD2aiX6DmUdHjbjovTXlN28o8=
+
+Name: org/eclipse/equinox/internal/p2/engine/ISurrogateProfileHandler.cl
+ ass
+SHA-256-Digest: bo33dPxupk8BZfK0xG7wvoUGUbs/KFVIJcesTE0pLWY=
+
+Name: org/eclipse/equinox/internal/p2/engine/PhaseEvent.class
+SHA-256-Digest: xlnhz+sDyF5BBtUKpyH6n8s2IpRmyVnTaEDO7rbdjMY=
+
+Name: org/eclipse/equinox/p2/engine/PhaseSetFactory.class
+SHA-256-Digest: 4hzC3C80I+DXyzKIQU2acGfVeNIIomMiX/YpsU8m+Us=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProvisioningPlan$QueryableP
+ lan.class
+SHA-256-Digest: oAv/Y2CPEk5vxeKO1Ymxw+FdiS5nA9YKH52SMk8N5Os=
+
+Name: org/eclipse/equinox/internal/p2/engine/InstallableUnitEvent.class
+SHA-256-Digest: sYhHh5jHobAhD6VzoG0yWqz+2JRJT9BnlJs+eSnTONw=
+
+Name: org/eclipse/equinox/internal/p2/engine/TouchpointManager$Touchpoin
+ tEntry.class
+SHA-256-Digest: Pm7dWHqLuZPB4wpQagx7iGsjGqnZmReVz4n/2xHD7vU=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileLock.class
+SHA-256-Digest: lB7hw0jPduM8GfREJGWlwUeTAMCJnb5wOAX58vop99k=
+
+Name: org/eclipse/equinox/internal/p2/engine/Messages.class
+SHA-256-Digest: H2xqgUXtTLbuqX5ozUE3IMG7PF8D8d6ubODcLeqMB1Q=
+
+Name: org/eclipse/equinox/internal/p2/engine/SimpleProfileRegistry.class
+SHA-256-Digest: a5S21UvYotblYQ0KlRp+YcXjluEZTEJXEToUByF+c+I=
+
+Name: org/eclipse/equinox/p2/engine/ProfileScope.class
+SHA-256-Digest: bzrW6KxUD9zopzcs3/HMcPNtK+zjeQWBFWZhTApyU3A=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Unconfigure.class
+SHA-256-Digest: wJZ6m4QqZ4YGu2aYjiTNUqHio16AmaJyi2pGG4I5RRM=
+
+Name: org/eclipse/equinox/internal/p2/engine/SharedProfilePreferences.cl
+ ass
+SHA-256-Digest: bAhFBHJWCL4xdAFKZD3jlDMQBPWGYLW2S9Jy7qjwE6o=
+
+Name: org/eclipse/equinox/internal/p2/engine/Engine.class
+SHA-256-Digest: HvJfpO/GQv9ILZaN+zcDp5cGrWjSpK625PRwXQi7Mj4=
+
+Name: org/eclipse/equinox/p2/engine/IProfileRegistry.class
+SHA-256-Digest: HoTkWEZqoNS17AhoZnPZG2dz9wrHjpanWN08/7LR5Qw=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Configure$BeforeConf
+ igureEventAction.class
+SHA-256-Digest: RWFMgvXBGQH5STYgnRI1UdgqqaI33uGCGOdl1x9ausI=
+
+Name: org/eclipse/equinox/internal/p2/engine/MissingAction.class
+SHA-256-Digest: Fif/YHpQ7N8T4NgGWJ+XWOgMBqSvrRXDn/WDzsIRSas=
+
+Name: OSGI-INF/engine.xml
+SHA-256-Digest: roMEE6baC9uDsdqUKr8tuJXPtTL7wF4m4Iw2seHVT1w=
+
+Name: org/eclipse/equinox/internal/p2/engine/InstructionParser$ActionEnt
+ ry.class
+SHA-256-Digest: BbQM6a74byG4eNB1VMe3QWiZaBp40lXNNMoPgwJFkOc=
+
+Name: org/eclipse/equinox/p2/engine/spi/ProvisioningAction.class
+SHA-256-Digest: wYru9tnxKumL+lfkBJ85kx+9zf/LuA4h3FtXVz895H0=
+
+Name: org/eclipse/equinox/internal/p2/engine/EngineActivator.class
+SHA-256-Digest: rh1E7NbdoqznKocfeHW7lOYxt5xLZ2nVcDtNb7m8yIY=
+
+Name: org/eclipse/equinox/p2/engine/IProfile.class
+SHA-256-Digest: dWs2Afva/YUTYlaAsCrGnRGeWCvKvdmZO3Lcutlm+Vg=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileMetadataRepositoryFa
+ ctory.class
+SHA-256-Digest: lZRc9sSK5p/Gy++g5vAoKW8DOAn4xhgsWJEnHqm0SHg=
+
+Name: org/eclipse/equinox/internal/p2/engine/ParameterizedProvisioningAc
+ tion.class
+SHA-256-Digest: rqLbqNS9+Pj+lMRWYOht7Z1zg1O8MzEJ6NWhO11/CSc=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Property.class
+SHA-256-Digest: Z3bGcEaXA0HJGXA2dN14ZHUFknHE6f5ToEQfWSSYvAs=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Configure.class
+SHA-256-Digest: mAfmW6DZjxMAtgVFBBk1eClmKoHmwCFvtzQNGlMzZGQ=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/equinox/internal/p2/engine/EngineSession.class
+SHA-256-Digest: gr1JL5lWsVlLElwqlBiKz93RkgdvN8HAyhFygr2Zxik=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/CertificateChecker.c
+ lass
+SHA-256-Digest: A8OSpYgzpcYb60ahTyPMXNYycf+I9mdFPJnqAGPNxdA=
+
+Name: org/eclipse/equinox/internal/p2/engine/DownloadManager.class
+SHA-256-Digest: W/Vd6VnnQRJKTC0kqk/PIrRPo1+4Urjd89ZqjF7qXiU=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Collect.class
+SHA-256-Digest: EsZqCcDouZfVGFp2anNPEvw7YYnx0ksJJNaObNGlFbA=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileParser.class
+SHA-256-Digest: j1VB8STgjd4HWrv0Fe8Zrz+PLcov1mdvFN9Th26M1bU=
+
+Name: org/eclipse/equinox/p2/engine/ISizingPhaseSet.class
+SHA-256-Digest: 5I6M3NlmepGMKhwQiL4izGgCvsmakxuxjQ8FZ5XTN0s=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileMetadataRepository.c
+ lass
+SHA-256-Digest: UTQEPqW4aZPpNBrsyt4EseBFXBsk1IUIw/Ct/+uhoC8=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfilePreferences.class
+SHA-256-Digest: IL0BUVb/scB8OxB450B2hxWvwk6POXFcg1Zt5kKZtY8=
+
+Name: org/eclipse/equinox/internal/p2/engine/RollbackOperationEvent.clas
+ s
+SHA-256-Digest: mbnp8KUNJBqMtIjh7lOU4rjcYGMN/sQLJ73W8W3dMuw=
+
+Name: org/eclipse/equinox/internal/p2/engine/AssignVariableAction.class
+SHA-256-Digest: rR62kK5/0+OAX7/+NUahC3Q4MBl0/NY790Zq5ThCvLo=
+
+Name: org/eclipse/equinox/internal/p2/engine/Profile$ProfilePropertyInde
+ x.class
+SHA-256-Digest: FSPFRlCdxm1Fsv5KeJYOlnTdoAK5cbYeu5yivLtk/Gc=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileEvent.class
+SHA-256-Digest: NnL/1x8WB9JHZHGsWhtMYL377qxQ6KxgvR/S1iw1e5I=
+
+Name: org/eclipse/equinox/internal/p2/engine/ProfileWriter.class
+SHA-256-Digest: zQm89E7gZT4cSEKizmWt/nUniYa74Ct+mEhLju4MY+w=
+
+Name: org/eclipse/equinox/internal/p2/engine/InstallableUnitOperand.clas
+ s
+SHA-256-Digest: m1Dh7OMM8BhNFK/CIevWlk1e5paklF1oKqA1KbyOuS8=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Install$BeforeInstal
+ lEventAction.class
+SHA-256-Digest: xI3BGbZ+xFDSJw0kBNhRkaxp5tYy7G0qAi53gCsro1c=
+
+Name: org/eclipse/equinox/internal/p2/engine/Operand.class
+SHA-256-Digest: IHnx/qmK/7P61/9wnP2XwvzIK2HDddnBOA3LlfH7Xqw=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Uninstall.class
+SHA-256-Digest: Zv2eWZtZH58irlrzmqjCdmzRBMp7mAv1pt/8dogesNQ=
+
+Name: org/eclipse/equinox/internal/p2/engine/phases/Sizing.class
+SHA-256-Digest: ETQG7D8v+CxgiVOgxuTLbMD+46t8oRDoHUUDNIV/qhg=
+
+Name: org/eclipse/equinox/internal/p2/engine/SimpleProfileRegistry$Parse
+ r$ProfileDocHandler.class
+SHA-256-Digest: evH8Ed2quqsqwYUPwyJw3LWsNiBdE+vyzquDTq9udcw=
+

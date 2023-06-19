@@ -1,0 +1,32 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 4lYhPfIRJk3F2M34Ddph5ah6TxyVG
+ akQA3HfwmWlKSw=
+SHA-256-Digest-Manifest: cvE2mhtHl9mLbWDhfaI+4tfSLxfeNp4lZ+lqJI7eV24=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: org/apache/batik/constants/XMLConstants.class
+SHA-256-Digest: LqPV+UXXX5QWkoNNowiABX+MKq1PwCuzuyCEi3pI4CY=
+
+Name: META-INF/NOTICE
+SHA-256-Digest: Fmj6Ogt+M4GK7JeZfVZhfpinhJ/YubsxM4Xjdu+tUqY=
+
+Name: about.html
+SHA-256-Digest: JyQqDOOyqmEHFNY1aaRfv3qPvStzcFUcoONOHYwMSXg=
+
+Name: META-INF/LICENSE
+SHA-256-Digest: LrptLnlAZef2H5MaJHWgI43HftW21S8i5kGmxFn7Xb4=
+
+Name: about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: 70sq4AoiKPmbnFMVhYi1e9oPczCS6WKy+maEqwyunWY=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.consta
+ nts/pom.xml
+SHA-256-Digest: PVQtOliLfq+8J8Ny25CWpAdItoY+7U+xwgCROzBJDrw=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: zJUr5+ZwwLzRNu7pRXTYhwvhaKS8kvz1jHvQjJjMAYo=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.consta
+ nts/pom.properties
+SHA-256-Digest: 6knyAXGU2tksDmffuMQC0KB5xxEFZQPpOXb5yFvMDLA=
+

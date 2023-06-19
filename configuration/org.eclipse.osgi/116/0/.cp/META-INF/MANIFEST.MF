@@ -1,0 +1,198 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.contenttype; singleton:=true
+Bundle-Version: 3.8.200.v20220817-1539
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.equinox.preferences;bundle-version="[3.2.0,4
+ .0.0)",org.eclipse.equinox.registry;bundle-version="[3.2.0,4.0.0)",org.
+ eclipse.equinox.common;bundle-version="[3.13.0,4.0.0)"
+Export-Package: org.eclipse.core.internal.content;x-internal:=true,org.e
+ clipse.core.runtime.content
+Bundle-ActivationPolicy: lazy
+Import-Package: javax.xml.parsers,org.eclipse.osgi.service.debug,org.ecl
+ ipse.osgi.util;version="1.0.0",org.osgi.framework,org.osgi.util.tracker
+ ,org.xml.sax,org.xml.sax.ext,org.xml.sax.helpers
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: org.eclipse.core.contenttype
+Service-Component: OSGI-INF/contenttypemanager.xml
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.git;path="runtime/bundles/org.eclipse.core.contenttype";
+ tag="I20220817-1800";commitId=6aa079764e3c1d292a46ec04cee0ad4a0eaca0fa
+
+Name: org/eclipse/core/internal/content/XMLRootHandler$StopParsingExcept
+ ion.class
+SHA-256-Digest: s6EdkG6OkwopHa69bNc61+nl18Zd8rSXcthBjz/fsrA=
+
+Name: org/eclipse/core/internal/content/PreferenceModifyListener.class
+SHA-256-Digest: UgM5Mar/qhfcjg+Ar2Obp5ZCizN4EKYNPGR66J4ecGg=
+
+Name: org/eclipse/core/runtime/content/BinarySignatureDescriber.class
+SHA-256-Digest: U8Ny9Bn+Ku/786Y1jNCwY9pL2h6qfLfPnun6tXZuwRc=
+
+Name: plugin.xml
+SHA-256-Digest: 6p3fF1QgxSgTmvSi1rpO3wvOrfF3qRJvbCOCPOxjL+g=
+
+Name: org/eclipse/core/runtime/content/XMLRootElementContentDescriber.cl
+ ass
+SHA-256-Digest: Iz9GQxf0IORpx73LHTUeuaQZ0und9Z51BVWlUhpEgn8=
+
+Name: org/eclipse/core/internal/content/ContentDescription.class
+SHA-256-Digest: UL3vLkvwPiIx8mbo1J39MJSNEbholnkEA1btQtRXfgM=
+
+Name: org/eclipse/core/runtime/content/XMLRootElementContentDescriber2$Q
+ ualifiedElement.class
+SHA-256-Digest: 9bFuHqcV0PPblFzjd6UYLW+NSqGFfiyCvTV85dNdP1I=
+
+Name: org/eclipse/core/internal/content/ContentTypeCatalog.class
+SHA-256-Digest: m4USGvtvbQdOOjAwRtwieUspJzVwydMz6j7xVJ0WSBM=
+
+Name: org/eclipse/core/internal/content/LazyReader.class
+SHA-256-Digest: ftBDGFLBD31DYMKzL6IseP1vBPiCgK9o3flGHu+1gWY=
+
+Name: plugin.properties
+SHA-256-Digest: RtXVWINwqTjvmFHZ+UOT0pTRtXiUTftA/vtS6LnReLA=
+
+Name: org/eclipse/core/runtime/content/IContentTypeMatcher.class
+SHA-256-Digest: 4t4eVVaKtGVQ8Wkjwe3geLz4L7va3Os/UcAsOTWW6g4=
+
+Name: org/eclipse/core/internal/content/TextContentDescriber.class
+SHA-256-Digest: 4w4tZpxCC/c7Fh6uG99DeOf3kAHY82wyUJWz2L3hy5g=
+
+Name: org/eclipse/core/runtime/content/IContentType.class
+SHA-256-Digest: zH4nMZWP82NG0CGsfrz8sRLbClUoxcsEiQHQGbNO9go=
+
+Name: org/eclipse/core/internal/content/ContentTypeCatalog$1.class
+SHA-256-Digest: 7RrvRLzyq8QNyUbGnRlQa9piBuxQito6AcnO9jKg9ss=
+
+Name: org/eclipse/core/internal/content/LowLevelIOException.class
+SHA-256-Digest: zK5qYFmX7fC8c/Cm2YV33mTUTPoxBDSSQKst1xOj2Tw=
+
+Name: org/eclipse/core/internal/content/messages.properties
+SHA-256-Digest: EbbcY4/MnF5UsN+fq/BmXQNHeSOF2gijYVxvqOzi21I=
+
+Name: .api_description
+SHA-256-Digest: UKm/0gRBsc/OKjVSH4uxhX0qm3NkJXMD6Mx6BjF9r6I=
+
+Name: org/eclipse/core/internal/content/ContentTypeSettings.class
+SHA-256-Digest: FHMsObKj2cJLLIruO6iIOiF0i+g8tb1ePm7XOPYur30=
+
+Name: org/eclipse/core/internal/content/ContentType.class
+SHA-256-Digest: tXiayiVO6KMEFsMloBIY+Q2KKAiqAdz8ITgCk6f9h58=
+
+Name: org/eclipse/core/runtime/content/ITextContentDescriber.class
+SHA-256-Digest: LlCOi/CE7FfacMeqOgEvW/yGfnC3aqaI510A6bc0i/U=
+
+Name: org/eclipse/core/runtime/content/IContentTypeSettings.class
+SHA-256-Digest: w1Jz1BSMQgaDqTkKKBR/zFN5XPxwebYGYJABq6IrxkY=
+
+Name: org/eclipse/core/runtime/content/IContentDescriber.class
+SHA-256-Digest: M277unwmxNuLFkFD6RPUw70RLZ9bP+rUMeGUZQK0GaQ=
+
+Name: org/eclipse/core/internal/content/ContentTypeVisitor.class
+SHA-256-Digest: XbKj6vp4S2duiSbb8wfOmniWCXt5Jg9j8h+IIpF4McE=
+
+Name: org/eclipse/core/internal/content/IContentTypeInfo.class
+SHA-256-Digest: oxSriwHTDBGbhTW92X7px2Vfp2OhPWtNx30VUc5wHYY=
+
+Name: org/eclipse/core/internal/content/BasicDescription.class
+SHA-256-Digest: BuO0Yd7f2OM2ffSgjvl7f4i5FVSsMnsvaWwoNRIJRic=
+
+Name: org/eclipse/core/runtime/content/IContentDescription.class
+SHA-256-Digest: YgONUwHr8lfYKZ6TcQ3TeKPRRv8ZWR50DCd2UeWdgSA=
+
+Name: org/eclipse/core/internal/content/ContentTypeCatalog$2.class
+SHA-256-Digest: rijthxXvoMCBdVb1VgQOGE0nNNOX1nIkzOnZBrpiyiU=
+
+Name: org/eclipse/core/internal/content/IContentConstants.class
+SHA-256-Digest: jLK3V/P2K18JvjYMgWsjYeKhdDVuibG28y5ayML59Ag=
+
+Name: .options
+SHA-256-Digest: Y0vA8YZJnaUT5ZZDGPmGWIxK0ondJcRKRyqPfA9UTe4=
+
+Name: OSGI-INF/contenttypemanager.xml
+SHA-256-Digest: spStH9tv2KOUCjXrCkfp17R6oorozhYtG3wkH8KKzEM=
+
+Name: org/eclipse/core/internal/content/ContentMessages.class
+SHA-256-Digest: 8JN/JnjP5ri4OyyR+UuHdTuqd4eNb9QLzz4kSkCbFjg=
+
+Name: org/eclipse/core/runtime/content/XMLContentDescriber.class
+SHA-256-Digest: hhYYXpfGbfZe2Kp/cgc5FTkkBGgQo1ocdsppWTI3U6Q=
+
+Name: org/eclipse/core/runtime/content/XMLRootElementContentDescriber2.c
+ lass
+SHA-256-Digest: l7z7Do1Fnt5tY6NuBXweFGffNb1iDXtpMsObT4WhiBo=
+
+Name: org/eclipse/core/internal/content/ContentTypeHandler$DummyContentD
+ escription.class
+SHA-256-Digest: oB8tqkuitE11T/Kld1R8q2/8kPFIxQ0hrxa6fnwW8Cw=
+
+Name: org/eclipse/core/internal/content/ContentTypeManager$ContentTypeRe
+ gistryChangeListener.class
+SHA-256-Digest: l9Um4m3NGRTcU59SYhHYf1vFXDzWstub1CYJGr8gngI=
+
+Name: org/eclipse/core/internal/content/ContentTypeManager$1.class
+SHA-256-Digest: oJgMkUHP9RFKTyf81jgBYLVF6hYRYVy7kA6QTo2vgMc=
+
+Name: org/eclipse/core/internal/content/DefaultDescription.class
+SHA-256-Digest: 9IocD2ag0Ve9mzZGVaAMCspazRX8W77bX/Oj/NpcVCE=
+
+Name: org/eclipse/core/runtime/content/IContentTypeManager.class
+SHA-256-Digest: Waryh8m2M6CrthVfZKOQFGdG5aHg55cVGWv3VjDpUl4=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/core/runtime/content/IContentTypeManager$IContentTypeC
+ hangeListener.class
+SHA-256-Digest: 7C2Y2ROJSWiPJ5s/PURHywMknY+Gr9ARMw3DIUIQdec=
+
+Name: org/eclipse/core/internal/content/LazyInputStream.class
+SHA-256-Digest: kJsTza5HTAP9krBTKMqFX6UpSaNTJyuS5//z0NM9KVw=
+
+Name: org/eclipse/core/internal/content/ContentType$InvalidDescriber.cla
+ ss
+SHA-256-Digest: We9w7GjIPHkWr+Mz8nnO9HCkR53trFA/VPHZBeVg7Ws=
+
+Name: org/eclipse/core/internal/content/ContentTypeBuilder.class
+SHA-256-Digest: h6+yj7os09rx0I4BW8j7DSA0AiI+j7c8fzBp3+d0gvE=
+
+Name: org/eclipse/core/internal/content/Util.class
+SHA-256-Digest: dOEekdcPL9+6mzrg74nvY5hXd+2Yp4tObLBmFaGc+oE=
+
+Name: org/eclipse/core/runtime/content/IContentTypeManager$ISelectionPol
+ icy.class
+SHA-256-Digest: edZrQE76d87rkbEn9mNOKbFARBnuMquiROiIkfwx5FU=
+
+Name: org/eclipse/core/internal/content/FileSpec.class
+SHA-256-Digest: qQ/CMRfrybv6bsBMfkLCcQXEexHQy61TImgjLih79ug=
+
+Name: org/eclipse/core/internal/content/XMLContentDescriber.class
+SHA-256-Digest: ldvtKTciFh+lZTkMUzbPGC3hiN1dtEBrN8HgAluubgo=
+
+Name: org/eclipse/core/internal/content/ContentTypeHandler.class
+SHA-256-Digest: zrMEXNOYVLmj4tfBdMBpBdwb9FLcEQnvEZLtKeFSpOE=
+
+Name: org/eclipse/core/runtime/content/IContentTypeManager$ContentTypeCh
+ angeEvent.class
+SHA-256-Digest: vEm4erIMnqUGRcsMMUwcuur8YcNUcmLxB7EZ8SQVS3w=
+
+Name: org/eclipse/core/internal/content/ContentTypeManager.class
+SHA-256-Digest: K7uyADoFqPemw3ucRdYPyn9mSI9Cca1N9buYCKDxiX4=
+
+Name: org/eclipse/core/internal/content/ContentTypeMatcher.class
+SHA-256-Digest: U4kHEZjtRWabmP/+r0oKWVOKu305Uv9KDE+A76YeZqg=
+
+Name: org/eclipse/core/internal/content/ILazySource.class
+SHA-256-Digest: WGik8H/64qLfZsObjEHbm/MWS/1yPN4ePOs1Az5xNVU=
+
+Name: org/eclipse/core/internal/content/ContentTypeManager$DebuggingHold
+ er.class
+SHA-256-Digest: g08BzdaCdzaB2q0xb7xcaxUXxMNpXYFsxn60PQMxfbA=
+
+Name: org/eclipse/core/internal/content/XMLRootHandler.class
+SHA-256-Digest: dTwwAhffkExWnaXBN6v8vZRg82hXN5PpRSBGhMttRPQ=
+

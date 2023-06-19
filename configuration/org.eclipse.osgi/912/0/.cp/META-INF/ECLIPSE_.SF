@@ -1,0 +1,120 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: myl3uHBIBD0bjIUQMQjqzzZ6g90MP
+ hn5WzvOcPleFoI=
+SHA-256-Digest-Manifest: 1Xce7WBjze5PI3doOq4IgsBWsrLyXWSzYniJqGNgDg4=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: org/w3c/css/sac/ErrorHandler.class
+SHA-256-Digest: zrYEDP/cNakqVFTNsE+J4W8TeWN25LGGaP4X/RzpXcM=
+
+Name: org/w3c/css/sac/ConditionalSelector.class
+SHA-256-Digest: Qi7ZRL93L4wTRMRxp/wGyUp6NWetME9GI9Y4qR/MHUw=
+
+Name: org/w3c/css/sac/Parser.class
+SHA-256-Digest: iQkNC9/+vN84e87pe/Z/7et1ZwPH5UfK8O6SPWMUSzA=
+
+Name: about_files/LICENSE-2.0.txt
+SHA-256-Digest: cO3M3vJWa0LhzdOaTu6fBFjxsQTKjt53DPR9cd5vwwQ=
+
+Name: about_files/LICENSE.sax.txt
+SHA-256-Digest: YVafus/PdXvmLkS8c0j1PdlUAUzRqqyKxhnNhu7hr4Y=
+
+Name: org/w3c/css/sac/ElementSelector.class
+SHA-256-Digest: SR5zsnU1iEtGiaRrx0b3UZ7i9Si3bKSWRNF8ee0mQjI=
+
+Name: org/w3c/css/sac/LexicalUnit.class
+SHA-256-Digest: SUMzwApxu3+P4+xQ3m9kPuxX5Oxm/VCY/yxPW3G7xTU=
+
+Name: org/w3c/css/sac/SimpleSelector.class
+SHA-256-Digest: 08drpv+/WbpVNM6fSnPMPff9QzVrv93eIE9zJzINc8E=
+
+Name: org/w3c/css/sac/AttributeCondition.class
+SHA-256-Digest: NQgtroSDZRUMH/PWhpexLDAKoessfcbiM9e0Soq1N4k=
+
+Name: org/w3c/css/sac/CombinatorCondition.class
+SHA-256-Digest: miPXx+dMZ2ji3Er9/tYijWotss+QJaO+Db2CQiSxCoQ=
+
+Name: about_files/LICENSE.sac.html
+SHA-256-Digest: 4PU1ckZUzajC+/Gwlx72puldsdC6FfsF9NPQuCkd/y8=
+
+Name: org/w3c/css/sac/CSSParseException.class
+SHA-256-Digest: ifpDyjZVyRln1YQFAoeKFvRNO9ac7DbeVzcMaBP4Cbk=
+
+Name: org/w3c/css/sac/CSSException.class
+SHA-256-Digest: mhigASXPrHF+QhKhvozLMcUOvCEX2/FX17ge+X6wr3s=
+
+Name: org/w3c/css/sac/Locator.class
+SHA-256-Digest: Mbiu+n41k3vlZdhtrBXkmF4PfkjZAhS6RafhZn9pvXY=
+
+Name: org/w3c/css/sac/SelectorFactory.class
+SHA-256-Digest: /JB9P2e0mWXHG3XjoHxK3vSCa1+Bv13Dm0EsTmUDvCU=
+
+Name: plugin.properties
+SHA-256-Digest: 164mSb/KaAU/13W+MW99CwXo3dHi7UmtCqwc/8SYons=
+
+Name: org/w3c/css/sac/DocumentHandler.class
+SHA-256-Digest: RhYQXlfnVfU191tu6HpAaV4CG0GOa6Ls7MQVrvMy8G4=
+
+Name: org/w3c/css/sac/NegativeCondition.class
+SHA-256-Digest: n1puLRNghmRVzJb16iVDnIZ7R6Q0yMfRnZBOmjxkw24=
+
+Name: org/w3c/css/sac/SelectorList.class
+SHA-256-Digest: XhfC8JXG+PB7BOZpiTxkCQs7eby479++yRAGo8WtBTo=
+
+Name: about.html
+SHA-256-Digest: 5k+euL8RplfLx7SayEY68NU94tOf9wnJXHdUPg1mcrk=
+
+Name: org/w3c/css/sac/NegativeSelector.class
+SHA-256-Digest: 2Hoqf3Enhjllbkz7K5od7B9wtHytKDwEcFZTgWNs2Jc=
+
+Name: org/w3c/css/sac/DescendantSelector.class
+SHA-256-Digest: aVF+GNtfIdh2t4DZSqQRVjKoLJ9rzMN8yd1FqyRJBSM=
+
+Name: org/w3c/css/sac/SiblingSelector.class
+SHA-256-Digest: ICFEhd2c9Yq/3rh8D++XsFg99xUHGkxyPjBkSDVXgS4=
+
+Name: org/w3c/css/sac/LangCondition.class
+SHA-256-Digest: c66xYx4uGwLjz5wd34UH4/NTLRs4zRbCaA0GgaVtAMQ=
+
+Name: org/w3c/css/sac/Selector.class
+SHA-256-Digest: A0UYXXa9Zsv7lUHJ5HQAzhxzUuZppNj8xyTMxbveZ80=
+
+Name: org/w3c/css/sac/PositionalCondition.class
+SHA-256-Digest: sjplY6UTiLTN1TaeY4d9pFGyf78gJ4AtrF5Yq1HPvfQ=
+
+Name: org/w3c/css/sac/Condition.class
+SHA-256-Digest: llh+7MXQs/3hWqW0yVCwJ2XwkyTvD9BuKbxKciG4xLI=
+
+Name: about_files/NOTICE
+SHA-256-Digest: YkrRJXbLJsN7hK50/hXn3BATiH/flRnx0M6d5Hi7mFU=
+
+Name: org/w3c/css/sac/ProcessingInstructionSelector.class
+SHA-256-Digest: XUpudhCKB3xx6RKObRwiJGen2l10Z3vrFhXflF4pGPk=
+
+Name: org/w3c/css/sac/helpers/ParserFactory.class
+SHA-256-Digest: +OyYDSsPDSBkjM4gqc43Jl/eVwENm56BtFPfwI0BHVQ=
+
+Name: org/w3c/css/sac/CharacterDataSelector.class
+SHA-256-Digest: H+VNd5GldT1jDPIZ/gg085SmnfoybGS+ORx17F048GM=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: rEULrt3GCNggFeuBb9QugPCG48TouWYgzDw3Q1PhCCQ=
+
+Name: about_files/LICENSE-W3C-20021231.html
+SHA-256-Digest: rrysTpajxXEjv8wMGq/BJfJb7GpigXwWh0OncW1A0U8=
+
+Name: about_files/README
+SHA-256-Digest: mww28Xb9FjhW9Cpzzbp1SlLm6XmBaeOl5rq4Mv83xbs=
+
+Name: org/w3c/css/sac/SACMediaList.class
+SHA-256-Digest: fjiYUxSx8ug68+qzKz8tbGjTTwk3bNIoLwCMQxc63K4=
+
+Name: org/w3c/css/sac/ConditionFactory.class
+SHA-256-Digest: 4S56Xw8uDLBBdjiJhZ3cRZXQzEshsoI3CuLY26VlR/4=
+
+Name: org/w3c/css/sac/InputSource.class
+SHA-256-Digest: H63fa7Z/b7oa8jBUzP8LBusVMygmP5h58+iLK3mDmeg=
+
+Name: org/w3c/css/sac/ContentCondition.class
+SHA-256-Digest: nrjyrWksT6GlffIjlP7L4tkPb97EInetGLblaZApqVg=
+

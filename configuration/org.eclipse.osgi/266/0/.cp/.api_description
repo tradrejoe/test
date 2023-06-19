@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.e4.core.contexts_1.11.0.v20220716-0839" version="1.2">
+    <plugin id="org.eclipse.e4.core.contexts_1.11.0.v20220716-0839"/>
+    <package name="org.eclipse.e4.core.contexts" visibility="1">
+        <type name="ContextInjectionFactory" restrictions="4"/>
+        <type name="IContextFunction" restrictions="1"/>
+        <type name="IEclipseContext" restrictions="3"/>
+    </package>
+</component>

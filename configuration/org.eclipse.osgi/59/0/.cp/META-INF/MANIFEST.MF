@@ -1,0 +1,839 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.apache.batik.css
+Bundle-SymbolicName: org.apache.batik.css
+Archiver-Version: Plexus Archiver
+Built-By: default
+Require-Bundle: org.apache.batik.util;bundle-version="1.14.0", org.apa
+ che.batik.constants;bundle-version="1.14.0"
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %bundleVendor
+Import-Package: org.apache.batik.i18n;version="1.14.0",org.apache.xmlg
+ raphics.java2d.color;version="2.2.0",org.w3c.dom.svg;version="1.1",or
+ g.w3c.dom.css,org.w3c.dom.events,org.w3c.dom.views,org.w3c.css.sac;ve
+ rsion="1.3.0",org.apache.batik.css.engine;resolution:=optional;versio
+ n="[1.14,2)",org.apache.batik.css.engine.sac;resolution:=optional;ver
+ sion="[1.14,2)",org.apache.batik.css.engine.value;resolution:=optiona
+ l;version="[1.14,2)",org.apache.batik.css.engine.value.css2;resolutio
+ n:=optional;version="[1.14,2)",org.apache.batik.css.engine.value.svg;
+ resolution:=optional;version="[1.14,2)",org.apache.batik.css.engine.v
+ alue.svg12;resolution:=optional;version="[1.14,2)",org.apache.batik.c
+ ss.parser;resolution:=optional;version="[1.14,2)",org.apache.batik.ut
+ il;resolution:=optional,org.apache.batik.util.io;resolution:=optional
+ ,org.w3c.dom;resolution:=optional
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Originally-Created-By: Apache Maven 3.6.0
+Export-Package: org.apache.batik.css.dom;version="1.14.0",org.apache.b
+ atik.css.engine;version="1.14.0",org.apache.batik.css.engine.resource
+ s;version="1.14.0",org.apache.batik.css.engine.sac;version="1.14.0",o
+ rg.apache.batik.css.engine.value;version="1.14.0",org.apache.batik.cs
+ s.engine.value.css2;version="1.14.0",org.apache.batik.css.engine.valu
+ e.resources;version="1.14.0",org.apache.batik.css.engine.value.svg;ve
+ rsion="1.14.0",org.apache.batik.css.engine.value.svg12;version="1.14.
+ 0",org.apache.batik.css.parser;version="1.14.0",org.apache.batik.css.
+ parser.resources;version="1.14.0"
+Bundle-Name: %bundleName
+Bundle-Version: 1.14.0.v20210324-0332
+Created-By: Eclipse Bundle Recipe Maven Plug-in
+Build-Jdk: 11.0.9
+
+Name: org/apache/batik/css/engine/CSSEngineEvent.class
+SHA-256-Digest: hN/IziU9SNDkjLvnzNz6GkSeCaA4hfp/BEoUlgnWNtg=
+
+Name: org/apache/batik/css/parser/DefaultBeginHyphenAttributeCondition
+ .class
+SHA-256-Digest: Qq9T/Eq+t/JCNGPms/7V3opT9sQc7I6slZlWkEmPzr4=
+
+Name: org/apache/batik/css/engine/CSSContext.class
+SHA-256-Digest: h/Ghqa0VPLT6CNLWz4YRyvOkTdXwfBugalrCcKgsgdg=
+
+Name: org/apache/batik/css/engine/value/svg12/CIELabColor.class
+SHA-256-Digest: HOEOlYmkrRkYNEZbC1LquJwATFGE/ja/JpKDe5UGWqU=
+
+Name: org/apache/batik/css/engine/value/css2/FontStretchManager.class
+SHA-256-Digest: w1W/C6fa8ZG7g5TolX9CMRAwWuKn/hUDCi+KWhMJUng=
+
+Name: org/apache/batik/css/dom/CSSOMSVGColor$FloatComponent.class
+SHA-256-Digest: fhHwxrvljwXTTqAP4aAVzgTH9doj5wF4/gdAJMWzrFg=
+
+Name: org/apache/batik/css/engine/value/svg/TextAnchorManager.class
+SHA-256-Digest: QT2wXYEKZoVE1HOL7MUXbCvWYOnRiEh/z1SdX2/5ar8=
+
+Name: org/apache/batik/css/engine/value/css2/FontSizeAdjustManager.cla
+ ss
+SHA-256-Digest: T6Hv39xdTUUEsF2VgmTa4Aw9y6Ye2OyEaQPXvcKpyzY=
+
+Name: org/apache/batik/css/engine/value/resources/Messages.properties
+SHA-256-Digest: NH4+eerboVDNg1E5HvX7HppeJruMgHLoKLDlv9/avhQ=
+
+Name: org/apache/batik/css/engine/value/svg/MarkerShorthandManager.cla
+ ss
+SHA-256-Digest: Sep5jmT05GASkKrXpdPITEs3nhLlmywYsjw++Uj8x98=
+
+Name: org/apache/batik/css/engine/value/css2/SrcManager.class
+SHA-256-Digest: MxFFU+ofxKsRJbyJbrbRbULAhnLYs/TZ+z/zvmaxJhc=
+
+Name: org/apache/batik/css/engine/value/FloatValue.class
+SHA-256-Digest: JmfILk0R/stwl8btWjvy9wltAPshI5t1gxkEIdxcbMk=
+
+Name: org/apache/batik/css/dom/CSSOMSVGViewCSS.class
+SHA-256-Digest: Kt2DzSSU70yWFNjwuV8UBH1rqLohQ9kaxEhko+0aPpY=
+
+Name: org/apache/batik/css/engine/value/svg/ClipRuleManager.class
+SHA-256-Digest: EyJ0npBmCZ7Z8EN8dbuwgwRvhjllp0Bc5QH53aipIu4=
+
+Name: org/apache/batik/css/engine/value/css2/ClipManager.class
+SHA-256-Digest: kyItuQnWWrqnNkZWQ3hk01hhojqldYTKmtlX7eLWOCQ=
+
+Name: org/apache/batik/css/engine/value/IdentifierManager.class
+SHA-256-Digest: D/Xo3GGCJb/9jIhPMzMGkBiU1VYhlggZdsTUtLoGgTY=
+
+Name: org/apache/batik/css/parser/DefaultElementSelector.class
+SHA-256-Digest: cREBlTlfT/JwSywDU4HDaparfQ3KIUMO441onYW34sA=
+
+Name: about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=
+
+Name: org/apache/batik/css/parser/DefaultErrorHandler.class
+SHA-256-Digest: QegtJqiirNS9KaCYOJ23s8o/QGA02Ec64VgCIs52Ey8=
+
+Name: org/apache/batik/css/engine/value/svg/ColorInterpolationFiltersM
+ anager.class
+SHA-256-Digest: wzp5UCLYPw2XkxjVbB6dixpIulYugk1RcaLLydZvPYg=
+
+Name: org/apache/batik/css/engine/value/ValueManager.class
+SHA-256-Digest: Mtek0VNEy1AzPsmuZJew95QuKElTjAwrmMpuU5oGmwQ=
+
+Name: org/apache/batik/css/engine/StyleMap.class
+SHA-256-Digest: fLmzk1ePEiYluDSFBth1GYkESH46RicJn3XlRwQVxSs=
+
+Name: org/apache/batik/css/engine/value/css2/FontShorthandManager.clas
+ s
+SHA-256-Digest: VHlpu3sWnFA4ucSjgOtMbEjmxQ41w78itPzcLIPxrIY=
+
+Name: org/apache/batik/css/engine/value/svg12/MarginLengthManager.clas
+ s
+SHA-256-Digest: MNntkZbZdu0TWB/BtEghL67OErSwUn15T3cAm8VkqqI=
+
+Name: org/apache/batik/css/parser/Parser.class
+SHA-256-Digest: sz8ar1vdlBnbNyORbsYJw+2jiSxOvbT2mYSF+qYQi50=
+
+Name: org/apache/batik/css/engine/sac/CSSClassCondition.class
+SHA-256-Digest: ieZPg+QiGeIA02iFXEkJR4gRcu5GITd6XhH96HYNv2A=
+
+Name: org/apache/batik/css/dom/CSSOMValue$ModificationHandler.class
+SHA-256-Digest: FAdZnDZrlXLFgi0T8NJX89A9WQZPnPsEjU2zYzUA3yg=
+
+Name: org/apache/batik/css/dom/CSSOMComputedStyle.class
+SHA-256-Digest: DpzUgpjgwwGEADEEEpslBXTI+GadEcvw76sNIXuphTM=
+
+Name: org/apache/batik/css/dom/CSSOMSVGColor$AbstractComponent.class
+SHA-256-Digest: r4/saUcFW4pV31zdRzqp1SVsPU1ygvom4sBwqQOo9YY=
+
+Name: org/apache/batik/css/engine/value/css2/DirectionManager.class
+SHA-256-Digest: tA9koFRG14eEBiBhP1EnN0k/b2c8PKQL+MCKpJSmi3I=
+
+Name: org/apache/batik/css/dom/CSSOMSVGPaint$PaintModificationHandler.
+ class
+SHA-256-Digest: fgWIy00TRz2LONZgxZhXZEiBw3GYo1EkceZ/chHsRYc=
+
+Name: org/apache/batik/css/engine/sac/CSSConditionalSelector.class
+SHA-256-Digest: VdAGTfZJ/BZT6wfGEsRHr3Ri/moQgHmznUkcI0zEedY=
+
+Name: org/apache/batik/css/engine/value/svg/MaskManager.class
+SHA-256-Digest: 39EA59ZC8CrNGK6aS3yNCQYZlCZAGSOATUlTnLY8Sz4=
+
+Name: org/apache/batik/css/engine/value/svg/StrokeDasharrayManager.cla
+ ss
+SHA-256-Digest: A14ExBRhecjwX2jWKl5Og/kulQckagHC4kSuR5wxK38=
+
+Name: org/apache/batik/css/dom/CSSOMSVGPaint$AbstractModificationHandl
+ er.class
+SHA-256-Digest: MSIGtpsdM7MhUFu1DbQNV2RlUXBsWPp7GvU9R03EwqY=
+
+Name: org/apache/batik/css/engine/value/css2/CursorManager.class
+SHA-256-Digest: xIqo4RbysTrw8F4rz7G9fNw7OWkwbgoa+6KFsxJNMeU=
+
+Name: org/apache/batik/css/engine/value/svg/ClipPathManager.class
+SHA-256-Digest: tPkCg5y373g9vQhiiKG1bZKxsyf5tDQ9zTEbYGrGBgA=
+
+Name: org/apache/batik/css/engine/value/svg/StrokeMiterlimitManager.cl
+ ass
+SHA-256-Digest: hEG0u7rRVnPNdf+XK1I4JR0xgZDENZg/nPmk9VPPBBI=
+
+Name: org/apache/batik/css/dom/CSSOMValue$FloatComponent.class
+SHA-256-Digest: n8TLRR6AWc1H84xLl/XeBcopE63erw5jPpoQ+LwkAN0=
+
+Name: org/apache/batik/css/engine/value/RectValue.class
+SHA-256-Digest: rQuGWuP6i1EaQvbAPqZMlxRhozXUWWEfKhVE6WdT4Rs=
+
+Name: org/apache/batik/css/dom/CSSOMValue$RightComponent.class
+SHA-256-Digest: pIzy3uFg9R4MhrR/GFyJve5rjl57SsfYnvisDO3H3l8=
+
+Name: org/apache/batik/css/engine/value/svg/GlyphOrientationVerticalMa
+ nager.class
+SHA-256-Digest: hGKWO00dQgvhk7yxa9hdpDwiTlnU2HBjl/c00A+0Lx8=
+
+Name: org/apache/batik/css/engine/value/svg/KerningManager.class
+SHA-256-Digest: h5/adTQ5nB1uHHlbrJH9pe84qN/42PBsek4N3bkAw/Y=
+
+Name: org/apache/batik/css/engine/SVG12CSSEngine.class
+SHA-256-Digest: rAOIam83Ihj9toE2ownGLq3sYd8lRSmOiUTDrvQZ2Dg=
+
+Name: org/apache/batik/css/dom/CSSOMViewCSS.class
+SHA-256-Digest: 1WdEJKJ7hCAQahLvYFOh85ztFdzzkYSiCIIr0Tb2dxo=
+
+Name: org/apache/batik/css/engine/value/svg/AlignmentBaselineManager.c
+ lass
+SHA-256-Digest: x1naNcwR/fJG8qCXUQZizOndrxrvwvIB/nIViGsQVIc=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.css/po
+ m.xml
+SHA-256-Digest: xEl+8qpU7J94ypC0ElN36eBAD8ktcxCVhCH8W7fzq50=
+
+Name: org/apache/batik/css/engine/CSSEngine$2.class
+SHA-256-Digest: gdbkjUdCkfkg5gwV+vRy/A1Oe9weq9T+5owdL+/zDJk=
+
+Name: org/apache/batik/css/engine/value/Messages.class
+SHA-256-Digest: kiz+VzM0JKWGvUz5NuTaNioPi6pj3wSHEvo8WviKsEU=
+
+Name: org/apache/batik/css/parser/CSSLexicalUnit$PredefinedFunctionLex
+ icalUnit.class
+SHA-256-Digest: yNAHmnJzZ10Ltr/fLo39SOf0FQHv+jOZ4MGkLTugeg4=
+
+Name: org/apache/batik/css/parser/Scanner.class
+SHA-256-Digest: q1KM5hdO85NMB3v5681+qHcYu+XhQhK6UPvXR0Ay0Ug=
+
+Name: org/apache/batik/css/engine/CSSEngine.class
+SHA-256-Digest: uU57MyfXuIb5YiSHNi47NxyLkUD+/6XDqVBc2I0zDFQ=
+
+Name: org/apache/batik/css/dom/CSSOMSVGPaint.class
+SHA-256-Digest: /fS28YvX++Wt5o2YYua2OhP5Dfy5//bv/d182DJpN+Y=
+
+Name: org/apache/batik/css/dom/CSSOMSVGColor.class
+SHA-256-Digest: 9fBlF6Zek4MUyl3wJPHtcuYzIyX3YkAFKIhmFwvNoLU=
+
+Name: org/apache/batik/css/engine/value/svg/FillRuleManager.class
+SHA-256-Digest: x9hKdccgin2SBBLPGqvJzgNSBfzLZTzyorO/8/pmQos=
+
+Name: org/apache/batik/css/engine/resources/Messages.properties
+SHA-256-Digest: +wRvs4xBcLGv9Z2PizXP4wshPEC1pjOLQ76LDdQPgik=
+
+Name: org/apache/batik/css/dom/CSSOMSVGComputedStyle$ComputedCSSColorV
+ alue.class
+SHA-256-Digest: 2thlHLmhteQldFwp5YN7+oVeLI2jtO2Vg9RQE4JK3Ss=
+
+Name: org/apache/batik/css/parser/ExtendedParserWrapper.class
+SHA-256-Digest: gcvwjqqpaiiit8pokWfNgs2ovW7VKf0DnZYnaz1q5K4=
+
+Name: org/apache/batik/css/engine/value/svg/StrokeWidthManager.class
+SHA-256-Digest: yLHWQx9dk8O5GTd84GSD0J/45xXyMXBpYQ4tzMq6KQ0=
+
+Name: org/apache/batik/css/dom/CSSOMSVGColor$ValueProvider.class
+SHA-256-Digest: kf0zWg9NEJcefLcWh4iB56rFW2tgLYp3HNzEXeuw2LM=
+
+Name: org/apache/batik/css/parser/ParseException.class
+SHA-256-Digest: UfE0bwCyMvfBguWAuvQ68nBb2rIttg7mRFCAV68VDtg=
+
+Name: org/apache/batik/css/engine/value/svg/SVGColorManager.class
+SHA-256-Digest: IRkj4M+j35RrZeq16T/pR3Y03rg5SxLk9EhqTeE+9+0=
+
+Name: org/apache/batik/css/engine/value/svg/GlyphOrientationHorizontal
+ Manager.class
+SHA-256-Digest: enY379ZoSu8Y7jMBOFlzqj8n0a9cCfqkvUwlmwS+E4o=
+
+Name: org/apache/batik/css/engine/sac/CSSBeginHyphenAttributeCondition
+ .class
+SHA-256-Digest: h+LJyGvJ0QKuxYaonxSALdNTiR7zbwdcUTFYfQ+ag/o=
+
+Name: org/apache/batik/css/engine/value/AbstractColorManager.class
+SHA-256-Digest: 9ZJeGcKdP0jP/FI72TVlObFbmwaIT8zU7CRvMtBVOFs=
+
+Name: META-INF/LICENSE
+SHA-256-Digest: 2SqUaWMjLW2B6BtGF8uXVLCs+vP40k0jV7upvbkKgl0=
+
+Name: org/apache/batik/css/dom/CSSOMStyleDeclaration.class
+SHA-256-Digest: P39pNiUqB2C5hNM0VT64dv8fJrJEvtt6X26l9r1iiXw=
+
+Name: org/apache/batik/css/engine/sac/ExtendedCondition.class
+SHA-256-Digest: /+hFfdTAqKjhMDgOaSH+QR6tvbcMQPOpZk5DpA1AGx4=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.css/po
+ m.properties
+SHA-256-Digest: J4KWO06TcNy1AZhEMECe30U7vbLUAiaPQw27i2bfeBA=
+
+Name: org/apache/batik/css/dom/CSSOMValue$AbstractModificationHandler.
+ class
+SHA-256-Digest: q91VTrahY3wCV61hoWT/RHJ9KHFyfaUuupwU5wQ3OVc=
+
+Name: org/apache/batik/css/dom/CSSOMValue$GreenComponent.class
+SHA-256-Digest: Kw4bBD26sxDxrf3yTPXDlDiW/qOi+pNrkaBxNvyWxd4=
+
+Name: org/apache/batik/css/parser/CSSSelectorList.class
+SHA-256-Digest: heaY7+WGRqfE9PEE6rUcfIm+/zGrVQYKPsar/nhkD7E=
+
+Name: org/apache/batik/css/engine/sac/AbstractCombinatorCondition.clas
+ s
+SHA-256-Digest: wdkvJCPYIFeZQBnpec0+lWGktkAFbkRTMtrdoP8YPk0=
+
+Name: org/apache/batik/css/engine/value/AbstractValue.class
+SHA-256-Digest: skvilJz7DVZ5f2Jeo1lb8SRatQBAB41E0Nyp0RuCuzY=
+
+Name: org/apache/batik/css/parser/CSSLexicalUnit$DimensionLexicalUnit.
+ class
+SHA-256-Digest: hhPx/DxE8/J6Og10p+HecnATGJqaS3wTKlYfLq1SORM=
+
+Name: org/apache/batik/css/engine/sac/CSSPseudoClassCondition.class
+SHA-256-Digest: 89sbf638Go01m0E6kQYH/K1LxJKVG0fPEy5XT/gCdDw=
+
+Name: org/apache/batik/css/engine/sac/CSSDirectAdjacentSelector.class
+SHA-256-Digest: 8rBhnFgeEo8S8e/NyxRng+GZgaMj2jbtNpr3bbBRUY0=
+
+Name: org/apache/batik/css/engine/Rule.class
+SHA-256-Digest: +fmOwHEuqTXq/rhf0vaFfiyDUQ0PgeBme/tJ1Mi146g=
+
+Name: org/apache/batik/css/engine/CSSEngine$DOMNodeRemovedListener.cla
+ ss
+SHA-256-Digest: af3htkM6GyBufntJsRDguVNq/vB0ciZzHY2PGefi5oA=
+
+Name: org/apache/batik/css/engine/value/svg/MarkerManager.class
+SHA-256-Digest: vXtAiP6wUNIArRC4ZGshEJYKigolyNnB0P325fI07WI=
+
+Name: org/apache/batik/css/engine/sac/CSSIdCondition.class
+SHA-256-Digest: xpchCJ7bBDSXLLxgSK/mn/3vPabyiLwJQld2Y4dw+qs=
+
+Name: org/apache/batik/css/engine/value/ShorthandManager.class
+SHA-256-Digest: hutQoX/XlY2mBSKJLCZyRgW6lS1dMAsISvknxG4OwdY=
+
+Name: org/apache/batik/css/dom/CSSOMSVGColor$RedComponent.class
+SHA-256-Digest: TozBc2kvuKNrbGu0CeRxrQ4Co4ZJfEwXZXuwZm7marI=
+
+Name: org/apache/batik/css/engine/CSSEngine$DOMAttrModifiedListener.cl
+ ass
+SHA-256-Digest: en8aWM6789avDv0U7qiH6zpFeySp5WnfpHO0gV2wJm0=
+
+Name: org/apache/batik/css/engine/StringIntMap.class
+SHA-256-Digest: dL7moMxFINS2gXtu+SrYTmwHv0WNIt0veCB6zUtoI/M=
+
+Name: org/apache/batik/css/dom/CSSOMSVGStyleDeclaration.class
+SHA-256-Digest: wdVunccLtXeW0d3JjirDvbHRpzbyqKkFF6KcfJ2szvY=
+
+Name: org/apache/batik/css/dom/CSSOMValue$AbstractComponent.class
+SHA-256-Digest: O4/fG9Q7YjVSkIh/OyO3iAL3rOO85TzE0PbOi27skDM=
+
+Name: org/apache/batik/css/engine/value/RGBColorValue.class
+SHA-256-Digest: bjl+NPrm0ytoHZn3sX0wpTsrv8xEGgs/rdO0LbfAkw0=
+
+Name: org/apache/batik/css/engine/sac/CSSSelectorFactory.class
+SHA-256-Digest: 8emq2EeHOEFVLQm6CmE0kurTS3F4Lw/OnCxmEE+btM8=
+
+Name: org/apache/batik/css/parser/DefaultOneOfAttributeCondition.class
+SHA-256-Digest: HbB1Kk7nNM2aO2CwanU5KYIVtBd5Z8x9DOMattSF6Nc=
+
+Name: org/apache/batik/css/parser/CSSLexicalUnit$SimpleLexicalUnit.cla
+ ss
+SHA-256-Digest: ROEHgFZig2FY/WEmDFCEIwr7G6lXW2ipmkx3aeBtqzo=
+
+Name: org/apache/batik/css/parser/AbstractAttributeCondition.class
+SHA-256-Digest: 1A0TeZBtjaGmJMLC8mwYrEQaUA/8cr16CIimMSnOWbk=
+
+Name: org/apache/batik/css/engine/value/svg/PointerEventsManager.class
+SHA-256-Digest: fqXPDDzmMcMyCKGkBvUDicSbokSm9aqdOvD9Qrv++6o=
+
+Name: org/apache/batik/css/engine/value/InheritValue.class
+SHA-256-Digest: i/R07v7PGjNnSjK1umvrYXUZndVMfNWTGkg6AE8TW10=
+
+Name: org/apache/batik/css/engine/CSSEngine$MainPropertyReceiver.class
+SHA-256-Digest: 8tgpfNBQDwgkbVS0yqSaZwz2v17k9n1/HiYuoTVknPA=
+
+Name: org/apache/batik/css/dom/CSSOMSVGColor$ModificationHandler.class
+SHA-256-Digest: FIFEH/vj3E4HS4sumtHbWn0mtGvPN222u36PCM39Ppg=
+
+Name: org/apache/batik/css/engine/sac/AbstractDescendantSelector.class
+SHA-256-Digest: wE6JhMzCZlZ7s8EaDgVU7mwdIJ2DKhGsn7aoD+6ErXE=
+
+Name: org/apache/batik/css/parser/DefaultDocumentHandler.class
+SHA-256-Digest: TtQ+bIRVJMqLU5+ZCocYwvzbpAGO+o+fWoR11H4jsfc=
+
+Name: org/apache/batik/css/engine/value/svg/ColorProfileManager.class
+SHA-256-Digest: rEKhh3/yoC4lLL7aIgaUQT/hGLEy2zWYphlRl24UgMM=
+
+Name: org/apache/batik/css/engine/sac/CSSChildSelector.class
+SHA-256-Digest: LWJb0yUDJRsb6BiTnzlJo2bqKUbb6uMM35gMtcM+EJQ=
+
+Name: org/apache/batik/css/parser/CSSLexicalUnit.class
+SHA-256-Digest: /49UOp/28kvMnEw1MK+8hOT77n2Ek44OjTFpV/dOkQ4=
+
+Name: org/apache/batik/css/engine/FontFaceRule.class
+SHA-256-Digest: OP4QUdaVuyOQOYL7mdPUSoxJpzRtaY5G6zIsV9mUtyw=
+
+Name: org/apache/batik/css/dom/CSSOMValue$BottomComponent.class
+SHA-256-Digest: mhRG88WtvkRPmJrbuJKVo55wFUXJsmQG51PSpBhYoEo=
+
+Name: org/apache/batik/css/engine/value/StringMap$Entry.class
+SHA-256-Digest: 81/YvkC04DxoRUNzKvWMEzQjCFiOJkMisFFvK7kz5pk=
+
+Name: org/apache/batik/css/parser/DefaultAndCondition.class
+SHA-256-Digest: X/r++RIECu0sYrIvE5XjgePCvtDvsFK6nS5q/vHzAa4=
+
+Name: org/apache/batik/css/parser/DefaultAttributeCondition.class
+SHA-256-Digest: RhHbZXkrU7T5/uEdDrxFe/JsxZC2IfEK65EQKQVmxOg=
+
+Name: org/apache/batik/css/dom/CSSOMValue$ValueProvider.class
+SHA-256-Digest: XUqYHTq1B8TXSF7gx9Pamec+M/g553cWdlBCXWCaFjo=
+
+Name: org/apache/batik/css/engine/value/svg/SpacingManager.class
+SHA-256-Digest: G/wAEjxL3G+o+pRQINiNHuUccwDlVgDSYUmV14U/CMU=
+
+Name: org/apache/batik/css/engine/value/AbstractValueFactory.class
+SHA-256-Digest: KZM28UX7TsQrClWHRGPxwnrMdVeZPDmSA2E7v68KaF0=
+
+Name: org/apache/batik/css/parser/ScannerUtilities.class
+SHA-256-Digest: ckLwKVen9e6o2v/m9PZlhYmoDGiJnBeX8312n4rvHT0=
+
+Name: org/apache/batik/css/engine/value/svg/ColorRenderingManager.clas
+ s
+SHA-256-Digest: kOZO4Rz+hFUkq7hF8/TvpvHfB2fTpNwOiFdAww9LUBo=
+
+Name: org/apache/batik/css/engine/CSSEngine$StyleDeclarationUpdateHand
+ ler.class
+SHA-256-Digest: BR8P5DHQAeif2aDqRekuAYTaSzSOfoTiZePf6DwcUQ8=
+
+Name: org/apache/batik/css/parser/DefaultLangCondition.class
+SHA-256-Digest: /bY0Kqfw/d4e9sKuoDowEfyM/HB3t7lckY0BQL8MdRM=
+
+Name: org/apache/batik/css/parser/resources/Messages.properties
+SHA-256-Digest: HTtOXL6XP4aY5WtDG8ixzoRNPCRoKJ0s8YxDjWwsd+Y=
+
+Name: org/apache/batik/css/engine/sac/CSSElementSelector.class
+SHA-256-Digest: HST0n2RY5AxSxh41Gd+XGWY7zTRkrOX/drLh12W1YZw=
+
+Name: org/apache/batik/css/engine/value/svg12/ICCNamedColor.class
+SHA-256-Digest: l7ynjrtCDobj/IcGBQp9RU7rVk8a+3uj3RTqa52wTcM=
+
+Name: org/apache/batik/css/dom/CSSOMStoredStyleDeclaration.class
+SHA-256-Digest: IZlNB5yZz+vWzk71SDqp9vHdgA2GrI3TJ7BY4Wa8U3c=
+
+Name: org/apache/batik/css/engine/value/css2/UnicodeBidiManager.class
+SHA-256-Digest: qImT4mv2lsuzpOCjwFqpvn5uMjXYsrY9iQeJu4O9kL8=
+
+Name: org/apache/batik/css/engine/value/css2/OverflowManager.class
+SHA-256-Digest: IfU4N6vLu5bs8Vs8CC7aOcmNAXuYoJycD67VwS4FRw4=
+
+Name: org/apache/batik/css/engine/value/svg12/TextAlignManager.class
+SHA-256-Digest: kquZzSnZcmoaspshzdSym1Rm4UbJkPqdRoI8utYso58=
+
+Name: org/apache/batik/css/engine/CSSStyleSheetNode.class
+SHA-256-Digest: btK1ipjjnmG3Dzo4LwXgyL/Noj36qvykBqzjCf4o7qU=
+
+Name: org/apache/batik/css/parser/DefaultIdCondition.class
+SHA-256-Digest: lVLdDPYEI5CcuPMlwvyuV85Ht61BG0OZ8bE+oXU2Nxo=
+
+Name: org/apache/batik/css/engine/CSSEngineUserAgent.class
+SHA-256-Digest: DpBTsWLYy/1j4LZhEzX1eWxoBJnSbB0zvo5f/nxv4xA=
+
+Name: org/apache/batik/css/engine/ImportRule.class
+SHA-256-Digest: 9iVqPzzYZqe+RjKmsG8sQ4+u7za9oUAT+Db3u9J+piA=
+
+Name: org/apache/batik/css/dom/CSSOMSVGComputedStyle$ComputedCSSPaintV
+ alue.class
+SHA-256-Digest: /wQ0HclqOzOyRQjo0w2UOXOm92sx6WA34Xkq+C3tkBU=
+
+Name: org/apache/batik/css/dom/CSSOMSVGColor$AbstractModificationHandl
+ er.class
+SHA-256-Digest: 5cq7Cd07o5eH0ay21eZx3jdx0p8URdty6tQ6CxDPDEM=
+
+Name: org/apache/batik/css/engine/sac/CSSLangCondition.class
+SHA-256-Digest: VvwdnmCHyniO7MXLAlA4ulHeFMgRZYIOeFU2XpFAu8c=
+
+Name: org/apache/batik/css/engine/value/svg12/DeviceColor.class
+SHA-256-Digest: 6KKNZqQb+bMFnWpsvr4cNkHRaSE2wl+S7MF+FC3zumk=
+
+Name: org/apache/batik/css/engine/CSSEngine$DOMSubtreeModifiedListener
+ .class
+SHA-256-Digest: H9tV0Oj+LaufoqLdxv0TcoKKcrjG+Fr0ow6v7CNtLGQ=
+
+Name: org/apache/batik/css/parser/DefaultConditionalSelector.class
+SHA-256-Digest: sgNW7X1IULoxf6zUpV+EyFC7qlOk+7OUn7nZBpncT8I=
+
+Name: org/apache/batik/css/parser/DefaultConditionFactory.class
+SHA-256-Digest: TZrHyZo0QjJEuCPTRQKv7Pka9D4bDgnzZd07Dsu8ypI=
+
+Name: org/apache/batik/css/engine/value/svg/TextRenderingManager.class
+SHA-256-Digest: t4Ypxdt+l28l7ju282dpTgu8hOlLHav+1HXHJRzubbo=
+
+Name: org/apache/batik/css/dom/CSSOMSVGStyleDeclaration$StyleDeclarati
+ onPaintValue.class
+SHA-256-Digest: xAGWpevaIrkZRUVk0hkAl2A6tHMOgnLeHHl7XD7vJ44=
+
+Name: org/apache/batik/css/engine/value/ShorthandManager$PropertyHandl
+ er.class
+SHA-256-Digest: 6J9KAFXePf/VzlRxnIu29atVZuOmt0LharbScFjkf0I=
+
+Name: org/apache/batik/css/dom/CSSOMSVGColor$BlueComponent.class
+SHA-256-Digest: Fc+iaDsYMcBJema0s2UK1Bw2DgGAeO1fhzptyn5RoOM=
+
+Name: org/apache/batik/css/parser/AbstractCombinatorCondition.class
+SHA-256-Digest: +Hjs4rDGwSxuuDC5+aUVSKUuNZcupbcERY5Q16Sco1E=
+
+Name: org/apache/batik/css/engine/value/ComputedValue.class
+SHA-256-Digest: S3t6GobnjYq8pVKu+DsFImM+y/8H8UWlBySK9qZIyr8=
+
+Name: org/apache/batik/css/dom/CSSOMValue$ListComponent.class
+SHA-256-Digest: ag3BbAp+eFtGL85DE3Fn52ADTEkOrHDDdbJAmjzWf3o=
+
+Name: org/apache/batik/css/engine/value/svg/EnableBackgroundManager.cl
+ ass
+SHA-256-Digest: +TaQ0QpegfZRDVlZE6bOLGMctd5OSYsHiH5L0yvm1wY=
+
+Name: org/apache/batik/css/engine/value/StringValue.class
+SHA-256-Digest: IQwfazgjyEEfEeas6f07yUysmsiMdT0rHJ1qeLXNXj8=
+
+Name: org/apache/batik/css/engine/CSSEngine$DOMCharacterDataModifiedLi
+ stener.class
+SHA-256-Digest: wDflvspmtNlZMFqHgbFBZAf6gzDI7th7Pr3lWC72Kk4=
+
+Name: org/apache/batik/css/engine/CSSEngine$StyleDeclarationDocumentHa
+ ndler.class
+SHA-256-Digest: YZsyRkOTq0NYebLQ6my890FPthqbhs33iahLWXxIzYM=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: p/C1GiXtO9n1dJhuy0TAcrCRcDjbiFaJ3+XcMj0PLsM=
+
+Name: org/apache/batik/css/engine/value/StringMap.class
+SHA-256-Digest: 5bHapA++DeWrEnDmAGnweSjLy1QOJ+vxMjFiJJ7IfFA=
+
+Name: org/apache/batik/css/engine/sac/CSSPseudoElementSelector.class
+SHA-256-Digest: oGrzE4xZZCAJ52bKboez9tnjGyzBXMCpZfvk5X5NOKs=
+
+Name: org/apache/batik/css/engine/StringIntMap$Entry.class
+SHA-256-Digest: QvUIu7hQQgSXsBvvwT+M7A8P/z245POnpMf6bOUVcBc=
+
+Name: org/apache/batik/css/engine/SystemColorSupport.class
+SHA-256-Digest: CBbvrTYEKbL0hbQldAKM+5yK0ThL2oV/RCY/fo+StBc=
+
+Name: org/apache/batik/css/dom/CSSOMValue$TopComponent.class
+SHA-256-Digest: AozB3UsWVLd1wODrhPPp6Q3KXOTgUQyPfiUEH9bLwr0=
+
+Name: org/apache/batik/css/engine/value/svg/SVGValue.class
+SHA-256-Digest: bpC7X6uM9X5uJ1SxMIJRcRNf0H+UGWG8YsIQdtQGMug=
+
+Name: org/apache/batik/css/engine/CSSNavigableDocument.class
+SHA-256-Digest: iLUScflAdCw57PsKX2dDe65XlXtzUk5zl42fCXkLA2Q=
+
+Name: org/apache/batik/css/engine/sac/AbstractSiblingSelector.class
+SHA-256-Digest: 4vvZRFPNucmZL17kPf5KOwOkh/7dxkAn6Dko9fN822I=
+
+Name: org/apache/batik/css/engine/value/svg/FilterManager.class
+SHA-256-Digest: N63o4qfxvbiYPBf1uklQljWYkeVlD57xJsgMuK8OmBg=
+
+Name: org/apache/batik/css/engine/value/svg/DominantBaselineManager.cl
+ ass
+SHA-256-Digest: fO7mirNe7qGqod0TYXBRPp0RUTMuLPPjVjLYIqgqyzU=
+
+Name: org/apache/batik/css/dom/CSSOMStyleDeclaration$ModificationHandl
+ er.class
+SHA-256-Digest: zeQPI3O2g5C3NBuYcvrltpEE41ZGRm6Z5uq53t9aflw=
+
+Name: org/apache/batik/css/engine/sac/CSSAttributeCondition.class
+SHA-256-Digest: DdN3KfjsAya1qzx456Oq4E5s5clqssf+lKvKryjkcYo=
+
+Name: org/apache/batik/css/parser/DefaultChildSelector.class
+SHA-256-Digest: 6TNGBE02L74HKhGE3oSoXyDuafb4Lye/wADT6GHWdpo=
+
+Name: org/apache/batik/css/engine/value/svg/OpacityManager.class
+SHA-256-Digest: V3T1erx41WENIN0HYgbUdAfG4tUBJWibWNCtGPkNzY8=
+
+Name: org/apache/batik/css/engine/value/css2/FontWeightManager.class
+SHA-256-Digest: JFsjpKMuAopHf90RafOIrSr8ZU6UnirZRk3qc5//MEU=
+
+Name: org/apache/batik/css/engine/value/svg/SVGPaintManager.class
+SHA-256-Digest: yb8Xk2regCHQqXgqU6JmqMcqTzfBMsPiFA14eCmo7IM=
+
+Name: org/apache/batik/css/dom/CSSOMComputedStyle$ComputedCSSValue.cla
+ ss
+SHA-256-Digest: eTD5w00fQKUxrfawZRO6dyVyGRXELtiSDk3jlZj8NjQ=
+
+Name: org/apache/batik/css/engine/CSSNavigableNode.class
+SHA-256-Digest: myqNnHVjpoEzHvjJ5TuOPHRg2PJCZytdCX3Ze5NQdIc=
+
+Name: org/apache/batik/css/engine/value/css2/VisibilityManager.class
+SHA-256-Digest: 0TkBLTmL7F9MNJ/lmIb7m89Al7ssMaNRuPatwyr1AQ8=
+
+Name: org/apache/batik/css/engine/SVGCSSEngine.class
+SHA-256-Digest: j3E5+0nF2oMvy6Ei0lIHCfBvDkO1IcJ4+vHOZCZyxIw=
+
+Name: org/apache/batik/css/parser/LexicalUnits.class
+SHA-256-Digest: rCvCv4mWofG7j9sggnZbH+JpsHrFAvk4SCJ9N+v4Hpg=
+
+Name: org/apache/batik/css/dom/CSSOMValue$BlueComponent.class
+SHA-256-Digest: MILkEKxyaunJ8bznVc/Om+RxMRWvos1YmacPW/++PPg=
+
+Name: org/apache/batik/css/engine/sac/CSSOneOfAttributeCondition.class
+SHA-256-Digest: Ot7XTqasI6cMhhAO+0/M8WecFmfis3Bn1G3rY/DPWAI=
+
+Name: org/apache/batik/css/engine/sac/CSSConditionFactory.class
+SHA-256-Digest: k4nBypTthKlPAGxSkWe3eDeHFCQnOZlMWsoDOn5F/qw=
+
+Name: org/apache/batik/css/engine/value/svg12/MarginShorthandManager.c
+ lass
+SHA-256-Digest: a6VqS3k9xoqJdh5I3FshTwS6nSHN0/9nF/TGfiOUB+s=
+
+Name: org/apache/batik/css/engine/value/svg12/CIELCHColor.class
+SHA-256-Digest: L+E1iPj6Es5zt4/AryR0tMoKwzNr7YzeaDnepug6yfI=
+
+Name: org/apache/batik/css/parser/DefaultSelectorFactory.class
+SHA-256-Digest: +KFcB9yEpKLbyaoNsqq1H6eNM7W6MmgAHTkIy/kVuto=
+
+Name: org/apache/batik/css/engine/value/RectManager.class
+SHA-256-Digest: KfGg9yu6SEtu7wPS6ftFpevzyA1LBXwBReAMROxlUw4=
+
+Name: org/apache/batik/css/engine/value/svg/ColorManager.class
+SHA-256-Digest: xTLS159+yejsH0oOjpXmkOsCyqEo38Ttf003Kwvr6to=
+
+Name: org/apache/batik/css/parser/DefaultPseudoClassCondition.class
+SHA-256-Digest: j5ZJ3MYCDcZ1yGOneirp7pXkNCz+7O5VEBY50GRRBHw=
+
+Name: org/apache/batik/css/parser/DefaultDirectAdjacentSelector.class
+SHA-256-Digest: +M9G2t/kmixeZd6svYoHwDNTZbq0jBa8k1Tuc/3+MpE=
+
+Name: org/apache/batik/css/dom/CSSOMSVGStyleDeclaration$StyleDeclarati
+ onColorValue.class
+SHA-256-Digest: kC4wAOeEN/9Sa8ZgWZWX35HKyicOBZ9OwkE638eMNcs=
+
+Name: org/apache/batik/css/dom/CSSOMStyleDeclaration$StyleDeclarationV
+ alue$1.class
+SHA-256-Digest: imh/y6Sy3e8KFcjcZWAt3SdUm0LL3X7jW6yQqcRfO5Q=
+
+Name: org/apache/batik/css/engine/StyleDeclarationProvider.class
+SHA-256-Digest: M0HxypiSfK+mD7wd77p371rh67F9vuDNJOxRLoVkXAA=
+
+Name: org/apache/batik/css/dom/CSSOMStyleDeclaration$ValueProvider.cla
+ ss
+SHA-256-Digest: VZlHI0vJQsSvsjWeQWWkFfh5l193gCuyIOxpqC6zcOw=
+
+Name: org/apache/batik/css/engine/value/svg/SVGValueConstants.class
+SHA-256-Digest: VlbycplUni1bqwSFmA6DZ14DdHMVEUDJEeBdYzXGLN0=
+
+Name: org/apache/batik/css/engine/value/svg/StrokeLinejoinManager.clas
+ s
+SHA-256-Digest: g+n1zHIuZ7oE/hHF0hfOyzne/loqC99cjI58g8Xz/LA=
+
+Name: org/apache/batik/css/engine/value/AbstractValueManager.class
+SHA-256-Digest: iN7sYt/Et2OSSfhYELYh//pVijkcPIeVnUYeINLsGcU=
+
+Name: org/apache/batik/css/engine/value/svg/ImageRenderingManager.clas
+ s
+SHA-256-Digest: +gFx0TX1LOaqEWu7gyCp43hCPowkZndmfZRNgDM/kHw=
+
+Name: org/apache/batik/css/engine/value/LengthManager.class
+SHA-256-Digest: lqKdPu6n8wLusNXvKjoUL3MQlhAvYf6KjqgsgTI4DaQ=
+
+Name: org/apache/batik/css/engine/sac/CSSDescendantSelector.class
+SHA-256-Digest: xpImevruN8nR8PvOFpJhNcwJeb5JMgaUkNicftTYEoU=
+
+Name: org/apache/batik/css/engine/CSSEngine$StyleDeclarationBuilder.cl
+ ass
+SHA-256-Digest: DkQPugqIFfKQyqIJOFNIjNigzaZQivJ9Bt5qxBpOyS4=
+
+Name: org/apache/batik/css/engine/CSSEngine$1.class
+SHA-256-Digest: rliFh3ffaow1P33SoXR4RWp4dAT7ydzdYxMwYxiT5wo=
+
+Name: org/apache/batik/css/parser/CSSLexicalUnit$FloatLexicalUnit.clas
+ s
+SHA-256-Digest: 6W8CuJbEeY6aQJPntrpdKD3zBtVOMWySIuqgWLcklGw=
+
+Name: org/apache/batik/css/engine/CSSEngineListener.class
+SHA-256-Digest: exH1D0uNbXlZmfMD7hpfvPk/2WSnNMeo5zFACGeT7ps=
+
+Name: org/apache/batik/css/engine/value/svg/ColorInterpolationManager.
+ class
+SHA-256-Digest: 7hecRBpJWOgAAjo/WFCQFZ0gOVvJsnr+mIr69+N690A=
+
+Name: org/apache/batik/css/engine/value/css2/FontVariantManager.class
+SHA-256-Digest: z2GyZY1iLWT9wCSLqdJkRguwMf4t6uFehvHg/kQG2cU=
+
+Name: org/apache/batik/css/parser/ExtendedParser.class
+SHA-256-Digest: tE7oceICfrJMQCEnWhPtbnEZOQduoEmlmpfqbdPOIQk=
+
+Name: org/apache/batik/css/parser/CSSLexicalUnit$StringLexicalUnit.cla
+ ss
+SHA-256-Digest: GAp+iAYu42AtZ0ub6RfsJ2u873ppipJQS7Bl9aX82kM=
+
+Name: org/apache/batik/css/engine/value/svg12/LineHeightManager.class
+SHA-256-Digest: KUc52UO+yssEDdK9j/kpFs70+hpAxZ3NW5JcBbWtyWo=
+
+Name: org/apache/batik/css/dom/CSSOMValue$LeftComponent.class
+SHA-256-Digest: saDWBJmD6uA0Zkufxt+ndAkA2eFUNtqLYrtPB+hgVx8=
+
+Name: org/apache/batik/css/engine/value/ValueConstants.class
+SHA-256-Digest: tO8m8zrecYqjBUhjsp8UsI6jKPN3bCfvsig29wXqIhs=
+
+Name: org/apache/batik/css/engine/CSSNavigableDocumentListener.class
+SHA-256-Digest: 1k+k5nd8P7gs0c4dPYNhOJ/OEOEI9f8HI4YWLnPSqIw=
+
+Name: org/apache/batik/css/engine/CSSEngine$DocumentAdapter.class
+SHA-256-Digest: glyNIpbZ+mI9lvFmZwicmPER+kBWG21kaSazG1FifrA=
+
+Name: org/apache/batik/css/engine/Messages.class
+SHA-256-Digest: c0mlo6KnG+SZAZoPH2dQiWiU3SaoXphMsKCUVpUMk6s=
+
+Name: org/apache/batik/css/engine/value/svg/ShapeRenderingManager.clas
+ s
+SHA-256-Digest: JFoI+FTP6AlMAt38vpnXHKht7xe/PVxclYHb+xymUyQ=
+
+Name: org/apache/batik/css/dom/CSSOMValue.class
+SHA-256-Digest: gCfUVe3jfJq1tOIyn9QNYgCdSPvK22PdoaMceYmaAKM=
+
+Name: org/apache/batik/css/dom/CSSOMSVGComputedStyle.class
+SHA-256-Digest: qn9CU3h4CxJB+2DlinVkVDB6czwFK/IP+cwTIRJsTqY=
+
+Name: org/apache/batik/css/engine/CSSEngine$DOMNodeInsertedListener.cl
+ ass
+SHA-256-Digest: SgxqAEdmm8G5G5v034eRSOaJ8GDRJ+CEt5JWBq2kmAY=
+
+Name: org/apache/batik/css/engine/CSSEngine$CSSNavigableDocumentHandle
+ r.class
+SHA-256-Digest: zHyoX3+SDLOt6Z6aqyLHV9oGt5AcocKW4z+evvihEJM=
+
+Name: org/apache/batik/css/engine/value/svg/GlyphOrientationManager.cl
+ ass
+SHA-256-Digest: 5GR9kcfJUnn6gJK0mnSUWG7mEmIJohcO3hmo9v6p6nc=
+
+Name: org/apache/batik/css/dom/CSSOMSVGStyleDeclaration$StyleDeclarati
+ onPaintValue$1.class
+SHA-256-Digest: 6NsMtzDGH8SndsU8AS3GOwvzpWBzuIT2tQhf47za7wM=
+
+Name: org/apache/batik/css/parser/AbstractElementSelector.class
+SHA-256-Digest: lsKM1fVx5DPJlXB/AQFOXLbChvwX5xRlclz94p8ktAA=
+
+Name: org/apache/batik/css/engine/value/css2/DisplayManager.class
+SHA-256-Digest: BlqDiWFy+L10U3Qb1WUomSZOuqzhO6/Z8F5e6sY+FmI=
+
+Name: org/apache/batik/css/engine/MediaRule.class
+SHA-256-Digest: AvDLStV30RLM46dE6Sr+oadXRHIn5IT1E9rLzYSN3KI=
+
+Name: org/apache/batik/css/engine/value/css2/FontStyleManager.class
+SHA-256-Digest: PdhBPBEZQaP87GouimLvdS9hChUaPgH5Yl1Hgj1e7ms=
+
+Name: org/apache/batik/css/engine/value/svg12/AbstractCIEColor.class
+SHA-256-Digest: SjC5m1tvdOausYfDaocAhgbAWmtNp6G6c4zOtkbstxg=
+
+Name: org/apache/batik/css/engine/StyleDeclaration.class
+SHA-256-Digest: ExTNjKq3z1qer4jKyYGa66PFl4voeaB5GoWCDqDQeRE=
+
+Name: org/apache/batik/css/engine/CSSStylableElement.class
+SHA-256-Digest: O55kHX7sglPXNGKWIvBrtUGtbevFTRXAXAHtGTOcg0E=
+
+Name: org/apache/batik/css/engine/value/svg12/SVG12ValueConstants.clas
+ s
+SHA-256-Digest: o7ib66iQ3iy/7VK1RazKudc3KnvKqF0i0nEeYUgvwvQ=
+
+Name: org/apache/batik/css/dom/CSSOMSVGColor$GreenComponent.class
+SHA-256-Digest: PL8IoEXgBW9FztaiXlEyOnDXQtCqLd3c1+11oU0Wx1U=
+
+Name: org/apache/batik/css/dom/CSSOMStyleDeclaration$StyleDeclarationV
+ alue.class
+SHA-256-Digest: EcdOOowvoZgw5cLfe4TGQ78iljUp8a92n0USKQxkFw8=
+
+Name: org/apache/batik/css/engine/value/svg/WritingModeManager.class
+SHA-256-Digest: aI9N05wkKFpnC4EfQhR5wZFeJTJFQ7/k7GM2dfrOoMA=
+
+Name: org/apache/batik/css/parser/CSSLexicalUnit$FunctionLexicalUnit.c
+ lass
+SHA-256-Digest: yeROb3zwlOJ97mQGTqAmc6dY3SIZyfBnesMEFP1V8dM=
+
+Name: org/apache/batik/css/engine/StyleRule.class
+SHA-256-Digest: LvLKvOFgKuSuBMUSJyjZn2xfE2v0gGbDSJ27j38b1O8=
+
+Name: org/apache/batik/css/parser/DefaultPseudoElementSelector.class
+SHA-256-Digest: ng2XXuiK7oGw+EhfEU7jR6XqpWfE8ngJLSng1fyDdrk=
+
+Name: org/apache/batik/css/engine/value/svg/BaselineShiftManager.class
+SHA-256-Digest: xzCEPHKalaMm+w1ATOh1bb4h7QWS6F6dGKVWdrBY4uE=
+
+Name: org/apache/batik/css/dom/CSSOMSVGColor$ColorNumber.class
+SHA-256-Digest: 6PxplT65rdVsLJF+1y7OdE5WiqblhV9lso+hi8ZASEM=
+
+Name: org/apache/batik/css/engine/value/svg/StrokeDashoffsetManager.cl
+ ass
+SHA-256-Digest: DbTGowjDQjGTvuYqwqxN7kZTcEFNJAetWf3pssFfvgE=
+
+Name: org/apache/batik/css/engine/value/URIValue.class
+SHA-256-Digest: A+x7KimBCMe1uHC4aVJ2JUuDuuYN5qTIIdN/P3wIXE4=
+
+Name: org/apache/batik/css/engine/value/ListValue.class
+SHA-256-Digest: Fppxs7MYczDgLgwIFin8XVigwibL02EEphMlmRrjQ9U=
+
+Name: org/apache/batik/css/parser/CSSSACMediaList.class
+SHA-256-Digest: 6pSCMF1P6youQWkcWblfnPu9ePWJ+q+pOy1urL+b/lw=
+
+Name: org/apache/batik/css/dom/CSSOMValue$RedComponent.class
+SHA-256-Digest: BmFrHGwsIy7QWIsBA6kHWX/flifoEfZlR6xqwniiSHc=
+
+Name: org/apache/batik/css/parser/DefaultDescendantSelector.class
+SHA-256-Digest: 1PDDJCGw3tbH4gyhXEX+NzDgfGezFXeKKAyNM2X3dS0=
+
+Name: org/apache/batik/css/parser/AbstractDescendantSelector.class
+SHA-256-Digest: G61icBHtrwCTK9XkgKDVTja+7vXRzPyYzGeTZRjVjZw=
+
+Name: org/apache/batik/css/engine/sac/ExtendedSelector.class
+SHA-256-Digest: ENg/E7OKRx7At3CgW78j9hApFIIVBh5+s/SsNVDECng=
+
+Name: org/apache/batik/css/engine/value/css2/FontFamilyManager.class
+SHA-256-Digest: kIlQVpKEKH+hYz90s2EP+Gtyofn8p6mGwJvZa1lxaqU=
+
+Name: org/apache/batik/css/engine/value/svg/StrokeLinecapManager.class
+SHA-256-Digest: X/XaRhM4Me59JyudILj+twjSd4ueoIh7zFJitys/rIE=
+
+Name: org/apache/batik/css/engine/sac/CSSAndCondition.class
+SHA-256-Digest: Mq/VFHI882zG8aPNLb4zv4gt4/OKLDIi6b5KYlYgYz4=
+
+Name: META-INF/NOTICE
+SHA-256-Digest: Ryqqb47cOYIf6ljIHEgxxkXRqE/KJJyf08nqYkznPJA=
+
+Name: about.html
+SHA-256-Digest: LRRd9L5XDcai+N/jaD0aDx9wOeq3idObLs3UjM6if3s=
+
+Name: org/apache/batik/css/engine/value/svg/ICCColor.class
+SHA-256-Digest: EbicIoI0n6G86LLrb3J/D0yZ/HKitHsZJoXYlgXwRYA=
+
+Name: org/apache/batik/css/engine/sac/AbstractElementSelector.class
+SHA-256-Digest: 7qvAxzu/7qwvhma42yB5vBtbaLv0OdOgNcbyrvaus00=
+
+Name: org/apache/batik/css/engine/CSSEngine$StyleSheetDocumentHandler.
+ class
+SHA-256-Digest: O725uFoMSgbDm4WkDhuKez4U2tiEZiT3L5VSxCZr67U=
+
+Name: org/apache/batik/css/engine/value/svg12/LineHeightValue.class
+SHA-256-Digest: 0eytEJGbuJtEEHwEViTjhuQ5kuVj1+eREN+sAVzIo+k=
+
+Name: org/apache/batik/css/engine/sac/AbstractAttributeCondition.class
+SHA-256-Digest: 9D1b1bkZw71imvtluaNwDPYUvkM3XBFqxMLHeD6Q/bk=
+
+Name: org/apache/batik/css/engine/StyleSheet.class
+SHA-256-Digest: M4lXdXtcSW16Y0n09Df6zXa95Zh5aN9tjNkV9OIpF18=
+
+Name: org/apache/batik/css/engine/value/css2/TextDecorationManager.cla
+ ss
+SHA-256-Digest: gMrMagrN+vo3e3FoVbqnH59cA9NRlQNFtp2dCvMDT+A=
+
+Name: org/apache/batik/css/parser/AbstractSiblingSelector.class
+SHA-256-Digest: EmP4bbOp6flRbT1uKfAfGvQQBByVbsjojbQXYR4iA1U=
+
+Name: org/apache/batik/css/parser/DefaultClassCondition.class
+SHA-256-Digest: 5G9jH4LJVuJpb3B+bKY4WD79RY67DIIn42aieLr78Bo=
+
+Name: org/apache/batik/css/parser/CSSLexicalUnit$IntegerLexicalUnit.cl
+ ass
+SHA-256-Digest: +HxfZMg8ZlanDWYJ5O/HuIXNcqrSBjhIhfsV2O4gMaI=
+
+Name: org/apache/batik/css/dom/CSSOMSVGStyleDeclaration$StyleDeclarati
+ onColorValue$1.class
+SHA-256-Digest: gWSGqi67z9kJdI+GIpS1AJGb7QauYVom5X3KNcvMOjk=
+
+Name: org/apache/batik/css/engine/value/Value.class
+SHA-256-Digest: WKcaxVBloyayD2BZsRPUO6Lqkm0IMh+q4U3V0VCeOCU=
+
+Name: org/apache/batik/css/engine/value/css2/FontSizeManager.class
+SHA-256-Digest: ebsvNjz0pwrYnFy21IvBJjmRI3NtQ51z/xTgIW9posU=
+

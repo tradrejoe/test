@@ -1,0 +1,76 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: +wkfRd5RFZX+uIw+IIqblIEO6nCheI6GhTxB9uNLm/s=
+SHA-256-Digest-Manifest-Main-Attributes: Mh93lmK7loz3h6IxoUaoe/7IaZJI3AQ
+ RySOchHR9NvM=
+
+Name: org/eclipse/e4/core/di/internal/extensions/EventObjectSupplier.cla
+ ss
+SHA-256-Digest: Yt1BM0yLhAg16og3G/7+nv+Lhn6E2HvkoRIWpnQZCbE=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/e4/core/di/internal/extensions/ServiceSupplier.class
+SHA-256-Digest: 9KnM1dh9e2i6nSTTIX/wOOu0IwJ6aL8CRA08Tj28oQY=
+
+Name: OSGI-INF/org.eclipse.e4.core.di.internal.extensions.EventObjectSup
+ plier.xml
+SHA-256-Digest: V7QVQ0kj0q5ysnSoyNS6A/OGReo6S95hR85DjxptLqA=
+
+Name: org/eclipse/e4/core/di/internal/extensions/PreferencesObjectSuppli
+ er.class
+SHA-256-Digest: eQ4HKxDEMoeyUR1D056PhyZaTf+Nh1FdTYgW7NAlcUQ=
+
+Name: org/eclipse/e4/core/di/internal/extensions/PreferencesObjectSuppli
+ er$PrefInjectionListener.class
+SHA-256-Digest: Q/yh3nZ3gkEdp/4kGVmam+HfBW8AN5Rlx5qLA7FRfGk=
+
+Name: org/eclipse/e4/core/di/internal/extensions/util/EventUtils.class
+SHA-256-Digest: RNYw2HLkrp1VBUDSZMsktecgQdwg9889O3MegCqkgNo=
+
+Name: .api_description
+SHA-256-Digest: Ji4pGpsiy5ERPgTyYTWYmt7UoIaTfTM5WOY88Se/YPQ=
+
+Name: org/eclipse/e4/core/di/internal/extensions/ServiceSupplier$1.class
+SHA-256-Digest: nWhwan0qVcxzseCVKk6o+f+kseZ1pTRSfcE84gypHDc=
+
+Name: org/eclipse/e4/core/di/internal/extensions/EventObjectSupplier$Sub
+ scriber.class
+SHA-256-Digest: SIIVocOKwq0srXJdH75jvmnrgYQ3F+mVxEGHIDauDz8=
+
+Name: OSGI-INF/org.eclipse.e4.core.di.internal.extensions.OSGiObjectSupp
+ lier.xml
+SHA-256-Digest: GRZioQtiBUPGOM8y8Y4nQPaBrauy99msbFrKWc+jrBM=
+
+Name: org/eclipse/e4/core/di/internal/extensions/ServiceSupplier$Service
+ SupplierTracker.class
+SHA-256-Digest: YnjZJS21rw43C5Ueg5J2W0ZkZkgAgu29vbHqECwHi+g=
+
+Name: org/eclipse/e4/core/di/internal/extensions/ServiceSupplier$Service
+ SupplierContext.class
+SHA-256-Digest: 1/IMdqo2IoSw48xC3ZHsgOl2mVdjtAopGlmj9hLx9S0=
+
+Name: org/eclipse/e4/core/di/internal/extensions/OSGiObjectSupplier$1.cl
+ ass
+SHA-256-Digest: pDN1hzKBiYImo1jWHBxic5ahM2dfJv1OA+3q8d1Iyuk=
+
+Name: org/eclipse/e4/core/di/internal/extensions/EventObjectSupplier$DIE
+ ventHandler.class
+SHA-256-Digest: PFjUrIl7nb1YOB4Qfv7cvQ3dDKge13zp9drjSmbY+Fc=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: qzF68lQmF7diWTkZbKdmWYv1l+FOdQQUQ02uk8Q2Trc=
+
+Name: OSGI-INF/org.eclipse.e4.core.di.internal.extensions.ServiceSupplie
+ r.xml
+SHA-256-Digest: jmWk1aVjhnheUg5SAAo7s/145v2SNlaMCZAG/kX7C64=
+
+Name: OSGI-INF/org.eclipse.e4.core.di.internal.extensions.PreferencesObj
+ ectSupplier.xml
+SHA-256-Digest: UHvFdfxk2VZ8vOE+85ArvGbZOQ7rz4hfDBl4vOtJy6o=
+
+Name: org/eclipse/e4/core/di/internal/extensions/OSGiObjectSupplier.clas
+ s
+SHA-256-Digest: FZYLdPZeo2b/wUviiv+865KaolD/eXrWZrB5gX9WUng=
+

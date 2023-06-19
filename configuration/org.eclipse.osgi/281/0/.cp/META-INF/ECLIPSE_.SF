@@ -1,0 +1,21 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: YKd1UKrMkwVMtmev/V3Ig6ZzUDu01yq/42CT+A8wo5g=
+SHA-256-Digest-Manifest-Main-Attributes: DMdZY9wGl/+pXPR43n10HXUlDYJWoh3
+ Fof6yNp0WKqU=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: .api_description
+SHA-256-Digest: 1S6XyfK6iCNeqMCVZY2wfbwNAq1T4r8tCkapIosyWfo=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: BRl6BKYXsImjsHei2+oWLAdSPl/C4ln3LzhxgPJtgtE=
+
+Name: org/eclipse/e4/ui/internal/workspace/markers/Translation.class
+SHA-256-Digest: hsgTaqae12EILH8n+QPoOE2Ad4yUdk+7kixUU2C0i90=
+
+Name: org/eclipse/e4/ui/internal/workspace/markers/NameAttribute.class
+SHA-256-Digest: glDVVmF+vL8F2WATkqJH6X93f8qv7b5OrWBv6RgHi74=
+

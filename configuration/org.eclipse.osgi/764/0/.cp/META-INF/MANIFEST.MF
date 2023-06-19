@@ -1,0 +1,122 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %Plugin.name
+Bundle-SymbolicName: org.eclipse.urischeme;singleton:=true
+Bundle-Version: 1.2.100.v20211001-1648
+Automatic-Module-Name: org.eclipse.urischeme
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.eclipse.equinox.common;bundle-version="[3.8.0,4.0.0)
+ ",org.eclipse.equinox.registry;bundle-version="[3.8.0,4.0.0)",org.eclip
+ se.core.runtime;bundle-version="[3.14.0,4.0.0)",com.sun.jna;bundle-vers
+ ion="[5.8.0,6.0.0)",com.sun.jna.platform;bundle-version="[5.8.0,6.0.0)"
+Export-Package: org.eclipse.urischeme;x-friends:="org.eclipse.e4.ui.work
+ bench.swt,org.eclipse.ui.examples.uriSchemeHandler,org.eclipse.ui.brows
+ er,org.eclipse.ui.ide.application"
+Bundle-Vendor: %Plugin.Providername
+Bundle-Localization: plugin
+Eclipse-SourceReferences: scm:git:https://git.eclipse.org/r/platform/ecl
+ ipse.platform.ui.git;path="bundles/org.eclipse.urischeme";tag="I2021100
+ 1-1800";commitId=2f90205ee996fff00a19cfc20b0eeca5e17499ca
+
+Name: plugin.xml
+SHA-256-Digest: BGc+o9PFypKkw9cw0G7BVDsiDIm5nupJIAh9IAibxN0=
+
+Name: org/eclipse/urischeme/AutoRegisterSchemeHandlersJob.class
+SHA-256-Digest: IJt3rK7OK8LGhoHrNl0cn+tisS5J/89ZfB2ZU8U1Uo8=
+
+Name: org/eclipse/urischeme/internal/registration/RegistryWriter.class
+SHA-256-Digest: 2/UD17Kc80lF8vtObB9yGglauVB23meywT0lfRRdDF0=
+
+Name: org/eclipse/urischeme/internal/registration/RegistrationLinux.clas
+ s
+SHA-256-Digest: 3o+KXRXuUEYsX6KIpSNcB5tbbbTZS7DJQ2ozPKnBV40=
+
+Name: org/eclipse/urischeme/internal/registration/IRegistryWriter.class
+SHA-256-Digest: JyHfGY5Z0oqHBxt5WwHzM06sxceCQ2AneOgdPUVlMYk=
+
+Name: org/eclipse/urischeme/IUriSchemeHandler.class
+SHA-256-Digest: yeZ0eeqFOeJPQAkhESDc2bYdNuFuQsdtT5zhAr+U8Fg=
+
+Name: org/eclipse/urischeme/internal/registration/ProcessExecutor.class
+SHA-256-Digest: iiADe/nzdcB6hzW9i2PbODhnY5fBaGYwBxokzHvrtWM=
+
+Name: org/eclipse/urischeme/internal/registration/SchemeInformation.clas
+ s
+SHA-256-Digest: xgL0z1e//zsU41f9e6oJb59hgSyu9/0DffLZscUI8zg=
+
+Name: org/eclipse/urischeme/internal/UriSchemeExtensionReader$Scheme.cla
+ ss
+SHA-256-Digest: RgGQM4vf1cvD3BoDjroixc7nvrljMpkM549u2IJDNVk=
+
+Name: org/eclipse/urischeme/internal/registration/RegistrationMacOsX.cla
+ ss
+SHA-256-Digest: rszKb4e8N4L+zqMwRiYNPSU++vXbK149IikJKIf7MCY=
+
+Name: plugin.properties
+SHA-256-Digest: AlF/nzt8sxWHJ4cXctlyeIoT3WITj271QtUoXZY4koU=
+
+Name: org/eclipse/urischeme/internal/UriSchemeProcessor.class
+SHA-256-Digest: 4mDRYUL9F6WPnL+f185Ldx6My36aiPacBUFr1Cr8BsU=
+
+Name: org/eclipse/urischeme/internal/registration/PlistFileWriter.class
+SHA-256-Digest: 79dHGiu7q8JJYomrTWKy8LBxjegpUnYxntd7cx67Ch0=
+
+Name: org/eclipse/urischeme/internal/UriSchemeExtensionReader.class
+SHA-256-Digest: vzKs3F1V6b7iwxWS5cTzzwCLmnCxsGZ9veN9JrfWbmk=
+
+Name: org/eclipse/urischeme/internal/registration/IFileProvider.class
+SHA-256-Digest: i9WEL46rj4BCCUUD1ml7kqHxTCpjBl9xEXmZOCrWpuY=
+
+Name: schema/uriSchemeHandlers.exsd
+SHA-256-Digest: 8n5dbWSjhctH2cZFsR2HHTWRzI3+RMEOXxkAJilAueo=
+
+Name: org/eclipse/urischeme/ISchemeInformation.class
+SHA-256-Digest: 3JegxnWeao6NFabpFSmBPINON+Rd51swlzi7vNXbK+4=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/urischeme/internal/registration/RegistrationWindows.cl
+ ass
+SHA-256-Digest: MiXAujiHU3iJWMMj3ljuWM1x6jp5IrZUnI/1+Xh7cME=
+
+Name: org/eclipse/urischeme/IUriSchemeProcessor.class
+SHA-256-Digest: kD6ndiIzqUkkPJLZyuvq19RrOn7NMqVvb3s9JwM3Viw=
+
+Name: org/eclipse/urischeme/IOperatingSystemRegistration.class
+SHA-256-Digest: 7/bCtihyKLxsakvpWGK8KBhu/OogzeK9ERwA8UgxIeo=
+
+Name: .api_description
+SHA-256-Digest: SHJvxbnLmEsLsv9xQ5EnAeNedjPeklssnRqP1wHuM/Y=
+
+Name: org/eclipse/urischeme/internal/registration/FileProvider.class
+SHA-256-Digest: qRI++hs3vvmwd0uX2H1TBFo+uf1Rdc2TGTmCWhjMGkE=
+
+Name: org/eclipse/urischeme/internal/registration/IProcessExecutor.class
+SHA-256-Digest: 4CAr77PpQWtWYwy5N30/THwV96WPPH4hJdb92BdVWeQ=
+
+Name: org/eclipse/urischeme/internal/registration/WinRegistry.class
+SHA-256-Digest: 4Ofw80EQzYtezzoyUUxhWrGoJFCr9Ba+P7mSltqMuj8=
+
+Name: org/eclipse/urischeme/internal/registration/Util.class
+SHA-256-Digest: eQyXPjyqhHbf3/L1+hytVY9zmJLSEZsOUoHUmMzvbRM=
+
+Name: org/eclipse/urischeme/internal/registration/WinRegistryException.c
+ lass
+SHA-256-Digest: aflUdUjnJWWSVsJd13uHr3JOMQJvK/c3eXA2QQ/t2DM=
+
+Name: org/eclipse/urischeme/IScheme.class
+SHA-256-Digest: cUvYjPu+gErJ24SeaxA7XxQCIhmWg5U5qPQcmUPeq+g=
+
+Name: org/eclipse/urischeme/IUriSchemeExtensionReader.class
+SHA-256-Digest: q7fAd4wqzPdJ7JMrHX1X1p1Hs05OSDBPvnq4SKQnoYQ=
+
+Name: org/eclipse/urischeme/internal/registration/DesktopFileWriter.clas
+ s
+SHA-256-Digest: YgmN5ym+J79U5iYs9tiXPVt35QDGu9M+wrTGTU+n1x4=
+
+Name: org/eclipse/urischeme/internal/registration/IWinRegistry.class
+SHA-256-Digest: 2nXCI2emaEF4CdA7YCA60ssluzvoauTZS1nZYvjz8uc=
+

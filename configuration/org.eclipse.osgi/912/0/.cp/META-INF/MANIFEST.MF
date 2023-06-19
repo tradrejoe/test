@@ -1,0 +1,163 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.w3c.css.sac
+Export-Package: org.w3c.css.sac;version="1.3.0";provenance=W3C,org.w3c
+ .css.sac.helpers;version="1.3.0";provenance=W3C
+Bundle-Name: %pluginName
+Bundle-Version: 1.3.1.v200903091627
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.3,CDC-1.0/Foundation-1.0
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %providerName
+
+Name: org/w3c/css/sac/ErrorHandler.class
+SHA-256-Digest: zvPK7drvctsSNhzn2JAs4TwZMhLRBqKfSQzxSpDv3Kk=
+SHA1-Digest: IcPI3nHTHJWGUP0zhniVw63NUUU=
+
+Name: org/w3c/css/sac/ConditionalSelector.class
+SHA-256-Digest: hmrE1yPKvhtM+xgTdlpMkLmZ5uew02YgLS8q1PTCF4I=
+SHA1-Digest: 2F1tZW1CCZ1jm9F39kHE2H/Y5TA=
+
+Name: org/w3c/css/sac/Parser.class
+SHA-256-Digest: aBHBclizZAz+ayJUcyudex/Bj1LnqXpHHTDpw3bliZ4=
+SHA1-Digest: DDl71Por/Fnxctry7/FnO9mo7aA=
+
+Name: about_files/LICENSE-2.0.txt
+SHA-256-Digest: 2SqUaWMjLW2B6BtGF8uXVLCs+vP40k0jV7upvbkKgl0=
+SHA1-Digest: NV/tRSeBE64tS1EXrewu6DAklWI=
+
+Name: about_files/LICENSE.sax.txt
+SHA-256-Digest: k3zFvhubI/PmSNbgAVpCm5+jsFiywM035AGusxYRM+4=
+SHA1-Digest: MV5rGLEmP45NsFYn8MwFbOTI5Ew=
+
+Name: org/w3c/css/sac/ElementSelector.class
+SHA-256-Digest: jfx0mWkCdTRWxdX9XGi7wlGfn2/upc7UTU4QoaSP9nA=
+SHA1-Digest: 7dCL1nL4/ln6mMPjT7xvE+gT6e8=
+
+Name: org/w3c/css/sac/LexicalUnit.class
+SHA-256-Digest: vKbNxgrAgwsL+Ko4nYQv/PJmZ5WeBfXeddhqErY/52k=
+SHA1-Digest: zIjRbwNrrrJD9u/4JHHQXv1hgEY=
+
+Name: org/w3c/css/sac/SimpleSelector.class
+SHA-256-Digest: CHjrbGqoxxstgLdAGyVoiJp3uCzCWtK3oR9d+RxDA4U=
+SHA1-Digest: zo/p0DjD8Soi664erWRZuC1zadU=
+
+Name: org/w3c/css/sac/AttributeCondition.class
+SHA-256-Digest: ojkFiEl7FSU0geCmZMpp2rA3WJFvFE1iZ4CyupGxlic=
+SHA1-Digest: 7Y8/Jf2GlHczPyGwt4Nv3wWh61s=
+
+Name: org/w3c/css/sac/CombinatorCondition.class
+SHA-256-Digest: 5Gk7buRQp1Q+Y7u2hZc1yUdTIsG4sXT5E8KU5KVuB64=
+SHA1-Digest: gtYFDeUWRpJjbQlj/Fr6IS3YkD4=
+
+Name: about_files/LICENSE.sac.html
+SHA-256-Digest: mTz8Aipo4Oo6dlm4etPuG/IgEEZVlwaDia/LY58Toko=
+SHA1-Digest: Lm43K6cicnCl3mD87g/ba3dYNVg=
+
+Name: org/w3c/css/sac/CSSParseException.class
+SHA-256-Digest: UeCyyBskkPDj3y9qRHRSMhR/CdFnQxZOVNY5QYhatwk=
+SHA1-Digest: 9fzNhRt7cFsZmHMTJku8HHpeuIY=
+
+Name: org/w3c/css/sac/CSSException.class
+SHA-256-Digest: nOjvlFW3PodLzpJ/y8LEwNyesSa/LGGw7gc4QdWwSi0=
+SHA1-Digest: otdLu26TQOMmzG9JjoFGavcXPmI=
+
+Name: org/w3c/css/sac/Locator.class
+SHA-256-Digest: zEZZy6D23N9tC6uu2kPKv96aExw/Bjy1MDVuCILUyqQ=
+SHA1-Digest: vrny3oWNXqzceuz4q/pNMAoimW0=
+
+Name: org/w3c/css/sac/SelectorFactory.class
+SHA-256-Digest: RGHNPYahyL92vaF82OeTvzsrydnK3i7D0UkAXU/acf4=
+SHA1-Digest: cZGYRpL9mHU08oVWclBpqJ8PSOU=
+
+Name: plugin.properties
+SHA-256-Digest: sVM4TtWVGaR2afyjFmwGB6wtMH0s7qBYr5Uf4oor8K8=
+SHA1-Digest: QmqLUTzYiSGGN8E3xjvFKCyRulM=
+
+Name: org/w3c/css/sac/DocumentHandler.class
+SHA-256-Digest: u9XMUqvmziQIFRdyvXmtgGeW4B+d6IzlFhgMgHkWO1I=
+SHA1-Digest: SvHzrVfzmpb5fNqbm05+SteSkZI=
+
+Name: org/w3c/css/sac/NegativeCondition.class
+SHA-256-Digest: Pm8JYe/DQqqtjjkEqFzPJpFs55Eo75NkCAyCKy/CJ08=
+SHA1-Digest: pH2FI86wvHNNx5Fuhkwhk3cWQho=
+
+Name: org/w3c/css/sac/SelectorList.class
+SHA-256-Digest: IQwNupJxdDUDLBbzjr61d07tg1rUacWI54+1oWebTwM=
+SHA1-Digest: WygjFFkE1kWr9cClzTUSX24OJmQ=
+
+Name: about.html
+SHA-256-Digest: DUr+yMemQZp1Hzu+/X2vHF3mlDVY21tyan8TGfAQrfw=
+SHA1-Digest: Xx4aRRKc4AA58Q3qFMNpDfE76u4=
+
+Name: org/w3c/css/sac/NegativeSelector.class
+SHA-256-Digest: F0+ierQnr2i6HxYEs+soQID2JHsV7Ftva9F+lnXrr80=
+SHA1-Digest: BadEY4MPsFD1kTvlDCrTAPYCRfE=
+
+Name: org/w3c/css/sac/DescendantSelector.class
+SHA-256-Digest: nogjCMdaZ9BJNbV76Nut2z6Ipr+npBTs8Lqxace7eiU=
+SHA1-Digest: 6sHoK6gyaGaZYBaEiOMlwdvbmos=
+
+Name: org/w3c/css/sac/SiblingSelector.class
+SHA-256-Digest: rfSD16IiEfTlLO0KKyT2RzaXWvqp9nukWzZhvxBsTAY=
+SHA1-Digest: eQDOnk3nVzoYlcpQ0lP4AKrwgFo=
+
+Name: org/w3c/css/sac/LangCondition.class
+SHA-256-Digest: LyR0RfZDrLGrCfG1sfSvgM+vSd3jb2ThJOxWbb6MkEY=
+SHA1-Digest: WoFRqcBYpgZZO/gyit1N5z6iUV8=
+
+Name: org/w3c/css/sac/Selector.class
+SHA-256-Digest: sS1ZcJMSF/EZ2UrsOlBfok6bN3L/VhsbHZ5E9tvL8pM=
+SHA1-Digest: o/WksTE4G4H/pd0Do+leyO98/7w=
+
+Name: org/w3c/css/sac/PositionalCondition.class
+SHA-256-Digest: Z5DdHOBgngHgv/AQJ2CMHZTFChJuA0EkBJ66SpfsLfY=
+SHA1-Digest: kjv5/Iuklo/jXHfVKHY2aa0/5NI=
+
+Name: org/w3c/css/sac/Condition.class
+SHA-256-Digest: KtUkkSpFGSkW66cuVTInu/e05sjr08TVpIpnwFMfpMc=
+SHA1-Digest: G0Ben/a7Bx+N+dF8WijuTkj4c/U=
+
+Name: about_files/NOTICE
+SHA-256-Digest: eDLqXpw3ILrgQ2clNY8URRnGR3D14K5vwj/gIwSOwTs=
+SHA1-Digest: Q8g5daR2xAyTN29JD2zxErD/HfA=
+
+Name: org/w3c/css/sac/ProcessingInstructionSelector.class
+SHA-256-Digest: mivU8FBQI/5JtW6POhCm11hnTbFNZeMWxN/kTmD9XJE=
+SHA1-Digest: 3UtfUFzwU1tHD+ZKAMgTG7rSYtU=
+
+Name: org/w3c/css/sac/helpers/ParserFactory.class
+SHA-256-Digest: 5+c8IeVmwa2xI7NPaVySXrtSVHgLaOLqzggDbUGxR2k=
+SHA1-Digest: M+1Vmynr6b/0qnN4hMPolXnfwUU=
+
+Name: org/w3c/css/sac/CharacterDataSelector.class
+SHA-256-Digest: R21NzwnO+jry6I8l5uAcVTJfCCxAEntHbomcE+SPizE=
+SHA1-Digest: sIhRAByow7WbQ80v33DkfxwgaSo=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: SOnAUA0CB8dMRrZdLCRZFQ1WZBhIWcQsKFnHDxFJf44=
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: about_files/LICENSE-W3C-20021231.html
+SHA-256-Digest: xigXQxsWENsoEiVEyg/RwsgJ180+tDOfUz3tZj3VtQ0=
+SHA1-Digest: LnkV3MrqjMZEQvwe/kQzZM/ICZk=
+
+Name: about_files/README
+SHA-256-Digest: aMpwSZ0AOB4KlNuS57F8Cn+SFyGTu4J1zUYYlfCPX5Q=
+SHA1-Digest: 6ucCCJgwbMHFjoa+zJeAytt+bwA=
+
+Name: org/w3c/css/sac/SACMediaList.class
+SHA-256-Digest: tnRW+Md0Nh0L4jtzukJeaIeP1KEOPXh9w8eIPwO91/8=
+SHA1-Digest: kI7QevdC5bjF5XSyGO266BS+8mo=
+
+Name: org/w3c/css/sac/ConditionFactory.class
+SHA-256-Digest: qTsAqEY0LpI1FPbZB0aFi/sED1x7J6hcNpv88jV99H0=
+SHA1-Digest: 5aT6mq78AikzCl0ce4SRNQix5oU=
+
+Name: org/w3c/css/sac/InputSource.class
+SHA-256-Digest: j4C4puMdtrw+j/JKXdmyuDJWa6G/5+vvfNrG6gcNx0U=
+SHA1-Digest: QQZ3I5fpXZ+DGqUBr9UdxoF1C4M=
+
+Name: org/w3c/css/sac/ContentCondition.class
+SHA-256-Digest: 3U6eChjU4PS4YOf8lUSlzUtY6p1c58MOnJ7DqnHMjZc=
+SHA1-Digest: xDPzIdJ5U2QMl1kQaLvpmosbWhM=
+

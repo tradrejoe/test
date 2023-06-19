@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.equinox.p2.repository_2.6.200.v20220819-1949" version="1.2">
+    <plugin id="org.eclipse.equinox.p2.repository_2.6.200.v20220819-1949"/>
+    <package name="org.eclipse.equinox.internal.provisional.p2.repository" visibility="1">
+        <type name="RepositoryEvent" restrictions="2"/>
+    </package>
+    <package name="org.eclipse.equinox.p2.repository" visibility="1">
+        <type name="ICompositeRepository" restrictions="3"/>
+        <type name="IRepository" restrictions="3"/>
+        <type name="IRepositoryManager" restrictions="3"/>
+        <type name="IRepositoryReference" restrictions="3"/>
+    </package>
+    <package name="org.eclipse.equinox.p2.repository.artifact" visibility="1">
+        <type name="IArtifactDescriptor" restrictions="3"/>
+        <type name="IArtifactRepository" restrictions="3"/>
+        <type name="IArtifactRepositoryManager" restrictions="3"/>
+        <type name="IArtifactRequest" restrictions="1"/>
+        <type name="IFileArtifactRepository" restrictions="3"/>
+        <type name="IProcessingStepDescriptor" restrictions="3"/>
+    </package>
+    <package name="org.eclipse.equinox.p2.repository.metadata" visibility="1">
+        <type name="IMetadataRepository" restrictions="1"/>
+        <type name="IMetadataRepositoryManager" restrictions="3"/>
+    </package>
+    <package name="org.eclipse.equinox.p2.repository.spi" visibility="1">
+        <type name="RepositoryReference" restrictions="2"/>
+    </package>
+</component>

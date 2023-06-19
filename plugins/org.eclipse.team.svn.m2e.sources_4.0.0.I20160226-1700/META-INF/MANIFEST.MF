@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.team.svn.m2e.sources; singleton=true
+Bundle-Version: 4.0.0.I20160226-1700
+
+Name: src/org.eclipse.team.svn.m2e_4.0.0.I20160226-1700/about.ini
+SHA1-Digest: AFdf/yTfncGyk+scOhF6gPDxVdI=
+
+Name: about.ini
+SHA1-Digest: obX6MImO0cPbpWSAGnp4ni9k6pg=
+
+Name: Subversive.png
+SHA1-Digest: eRbbpm0wCXworxZwvRzVZvN7s5k=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: src/org.eclipse.team.svn.m2e_4.0.0.I20160226-1700/Subversive.png
+SHA1-Digest: eRbbpm0wCXworxZwvRzVZvN7s5k=
+
+Name: src/org.eclipse.team.svn.m2e_4.0.0.I20160226-1700/src.zip
+SHA1-Digest: uSbNBmY/+HrXRxIiouMajBsu2Rk=
+
+Name: about.html
+SHA1-Digest: TJE/VnPy57cRfceSrcf0Ew/GbX0=
+
+Name: plugin.xml
+SHA1-Digest: I0t+o6kXbySrxIY1bLaTaeai3Vc=
+
+Name: src/org.eclipse.team.svn.m2e_4.0.0.I20160226-1700/about.html
+SHA1-Digest: TJE/VnPy57cRfceSrcf0Ew/GbX0=
+
+Name: plugin.properties
+SHA1-Digest: 3QkoJ9+ojw6oMV2nm+ewXEz9yM0=
+

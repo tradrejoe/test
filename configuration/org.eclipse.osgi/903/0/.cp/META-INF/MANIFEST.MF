@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1517519378694
+Bundle-Copyright: Copyright (c) OSGi Alliance (2000, 2018). All Rights
+  Reserved.
+Bundle-Description: OSGi Companion Code for org.osgi.util.measurement 
+ Version 1.0.2
+Bundle-Developers: osgi; email=info@osgi.org; name="OSGi Alliance"; or
+ ganization="OSGi Alliance"; organizationUrl=https://www.osgi.org/
+Bundle-DocURL: https://www.osgi.org/
+Bundle-License: Apache-2.0; link="http://www.apache.org/licenses/LICEN
+ SE-2.0"; description="Apache License, Version 2.0"
+Bundle-ManifestVersion: 2
+Bundle-Name: org.osgi:org.osgi.util.measurement
+Bundle-SCM: url=https://osgi.org/gitweb/build.git, connection=scm:git:
+ https://osgi.org/git/build.git, developerConnection=scm:git:https://o
+ sgi.org/git/build.git, tag=hudson-build.core-1432
+Bundle-SymbolicName: org.osgi.util.measurement
+Bundle-Vendor: OSGi Alliance https://www.osgi.org/
+Bundle-Version: 1.0.2.201802012109
+Created-By: 1.8.0_152 (Oracle Corporation)
+Export-Package: org.osgi.util.measurement;version="1.0.2"
+Git-Descriptor: hudson-build.core-1432
+Git-SHA: ac877b9fdaa36e26adb939cf9dd425e77243f449
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-3.5.0.201709291849

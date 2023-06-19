@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.e4.ui.model.workbench_2.2.200.v20220817-1444" version="1.2">
+    <plugin id="org.eclipse.e4.ui.model.workbench_2.2.200.v20220817-1444"/>
+    <package name="org.eclipse.e4.ui.model.application" visibility="1">
+        <type name="MAddon" restrictions="1"/>
+        <type name="MApplication" restrictions="1"/>
+        <type name="MApplicationElement" restrictions="1"/>
+        <type name="MContribution" restrictions="1"/>
+    </package>
+    <package name="org.eclipse.e4.ui.model.application.commands" visibility="1">
+        <type name="MBindingContext" restrictions="1"/>
+        <type name="MBindingTable" restrictions="1"/>
+        <type name="MBindingTableContainer" restrictions="1"/>
+        <type name="MBindings" restrictions="1"/>
+        <type name="MCategory" restrictions="1"/>
+        <type name="MCommand" restrictions="1"/>
+        <type name="MCommandParameter" restrictions="1"/>
+        <type name="MHandler" restrictions="1"/>
+        <type name="MHandlerContainer" restrictions="1"/>
+        <type name="MKeyBinding" restrictions="1"/>
+        <type name="MKeySequence" restrictions="1"/>
+        <type name="MParameter" restrictions="1"/>
+    </package>
+    <package name="org.eclipse.e4.ui.model.application.descriptor.basic" visibility="1">
+        <type name="MPartDescriptor" restrictions="1">
+            <method name="isDirtyable" restrictions="8" signature="()Z"/>
+            <method name="setDirtyable" restrictions="8" signature="(Z)V"/>
+        </type>
+        <type name="MPartDescriptorContainer" restrictions="1"/>
+    </package>
+    <package name="org.eclipse.e4.ui.model.application.ui" visibility="1">
+        <type name="MContext" restrictions="1"/>
+        <type name="MCoreExpression" restrictions="1"/>
+        <type name="MDirtyable" restrictions="1"/>
+        <type name="MElementContainer" restrictions="1"/>
+        <type name="MExpression" restrictions="1"/>
+        <type name="MGenericStack" restrictions="1"/>
+        <type name="MGenericTile" restrictions="1"/>
+        <type name="MGenericTrimContainer" restrictions="1"/>
+        <type name="MSnippetContainer" restrictions="1"/>
+        <type name="MUIElement" restrictions="1"/>
+        <type name="MUILabel" restrictions="1"/>
+    </package>
+    <package name="org.eclipse.e4.ui.model.application.ui.advanced" visibility="1">
+        <type name="MArea" restrictions="1"/>
+        <type name="MPerspective" restrictions="1"/>
+        <type name="MPerspectiveStack" restrictions="1"/>
+        <type name="MPlaceholder" restrictions="1"/>
+    </package>
+    <package name="org.eclipse.e4.ui.model.application.ui.basic" visibility="1">
+        <type name="MCompositePart" restrictions="1"/>
+        <type name="MDialog" restrictions="9"/>
+        <type name="MPart" restrictions="1"/>
+        <type name="MPartSashContainer" restrictions="1"/>
+        <type name="MPartSashContainerElement" restrictions="1"/>
+        <type name="MPartStack" restrictions="1"/>
+        <type name="MStackElement" restrictions="1"/>
+        <type name="MTrimBar" restrictions="1">
+            <method name="getPendingCleanup" restrictions="8" signature="()Ljava/util/List;"/>
+        </type>
+        <type name="MTrimElement" restrictions="1"/>
+        <type name="MTrimmedWindow" restrictions="1"/>
+        <type name="MWindow" restrictions="1"/>
+        <type name="MWindowElement" restrictions="1"/>
+        <type name="MWizardDialog" restrictions="9"/>
+    </package>
+    <package name="org.eclipse.e4.ui.model.application.ui.menu" visibility="1">
+        <type name="MDirectMenuItem" restrictions="1"/>
+        <type name="MDirectToolItem" restrictions="1"/>
+        <type name="MDynamicMenuContribution" restrictions="1"/>
+        <type name="MHandledItem" restrictions="1">
+            <method name="getWbCommand" restrictions="8" signature="()Lorg/eclipse/core/commands/ParameterizedCommand;"/>
+            <method name="setWbCommand" restrictions="8" signature="(Lorg/eclipse/core/commands/ParameterizedCommand;)V"/>
+        </type>
+        <type name="MHandledMenuItem" restrictions="1"/>
+        <type name="MHandledToolItem" restrictions="1"/>
+        <type name="MItem" restrictions="1"/>
+        <type name="MMenu" restrictions="1"/>
+        <type name="MMenuContribution" restrictions="9"/>
+        <type name="MMenuContributions" restrictions="9"/>
+        <type name="MMenuElement" restrictions="1"/>
+        <type name="MMenuFactory" restrictions="0">
+            <method name="createMenuContribution" restrictions="8" signature="()Lorg/eclipse/e4/ui/model/application/ui/menu/MMenuContribution;"/>
+            <method name="createToolBarContribution" restrictions="8" signature="()Lorg/eclipse/e4/ui/model/application/ui/menu/MToolBarContribution;"/>
+            <method name="createTrimContribution" restrictions="8" signature="()Lorg/eclipse/e4/ui/model/application/ui/menu/MTrimContribution;"/>
+        </type>
+        <type name="MMenuItem" restrictions="1"/>
+        <type name="MMenuSeparator" restrictions="1"/>
+        <type name="MPopupMenu" restrictions="1"/>
+        <type name="MToolBar" restrictions="1"/>
+        <type name="MToolBarContribution" restrictions="9"/>
+        <type name="MToolBarContributions" restrictions="9"/>
+        <type name="MToolBarElement" restrictions="1"/>
+        <type name="MToolBarSeparator" restrictions="1"/>
+        <type name="MToolControl" restrictions="1"/>
+        <type name="MToolItem" restrictions="1"/>
+        <type name="MTrimContribution" restrictions="9"/>
+        <type name="MTrimContributions" restrictions="9"/>
+    </package>
+</component>

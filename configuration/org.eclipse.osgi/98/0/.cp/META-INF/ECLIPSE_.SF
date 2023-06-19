@@ -1,0 +1,1265 @@
+Signature-Version: 1.0
+Created-By: 11.0.10 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: wY9U99prf6HqXSVRBEdVquu9duj+YUyXHbe3uzisr8A=
+SHA-256-Digest-Manifest-Main-Attributes: gJtHrivg3A1QEhFXL5vpHfC0BtNjdHZ
+ YlcvQEfS41BI=
+
+Name: org/apache/xmlgraphics/io/ResourceResolver.class
+SHA-256-Digest: Q0RZ+R7OMU8cQ8FvIbOEloJBNgDtkoPem/9a7f5ds2Q=
+
+Name: org/apache/xmlgraphics/ps/PSPageDeviceDictionary.class
+SHA-256-Digest: G33yKbNTx/xL8we8DCCdqglJ76KLbmgDdfxb6Wz5lLE=
+
+Name: org/apache/xmlgraphics/java2d/TransformStackElement$4.class
+SHA-256-Digest: /Y5+VSwvHyTrm4xL2z3Y2WsZtasaa9s+V8ZYb1PoWVQ=
+
+Name: org/apache/xmlgraphics/java2d/color/profile/ColorProfileUtil.class
+SHA-256-Digest: lvc/Ra3wCy0BTstCRtGUlyfIU7NbAhhKDVbpoHKWpec=
+
+Name: org/apache/xmlgraphics/image/rendered/BufferedImageCachableRed.cla
+ ss
+SHA-256-Digest: +EdsAe5Z6Wsdaz44UsTocYo6ZkEdMj4qjtR1JXdF5qw=
+
+Name: org/apache/xmlgraphics/image/loader/impl/imageio/ImageLoaderImageI
+ O.class
+SHA-256-Digest: 85H+8YQ7w1oLMWVeq2ZMzoIazNGbRCQtI60/Fq8VxoI=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.xmlgraphics/po
+ m.xml
+SHA-256-Digest: VuC88kEy6ODiGl/FTByo5wHlilHiA6vTpWm4ue5qp5Y=
+
+Name: META-INF/services/org.apache.xmlgraphics.image.loader.spi.ImageCon
+ verter
+SHA-256-Digest: CRCOdaeTm8UooDDpwdHyGKCqPYuPr8ESKGLQjFZBYDE=
+
+Name: org/apache/xmlgraphics/ps/PSDictionaryFormatException.class
+SHA-256-Digest: /WwkX3eUrceSqhjs4/NcdNRCZhJvn9g4vvo+DS5p5jc=
+
+Name: org/apache/xmlgraphics/image/loader/impl/imageio/PreloaderImageIO.
+ class
+SHA-256-Digest: 3pwwPcpBmxBqHW9nez/nJngOcso8jXCgr2VRX2HodB8=
+
+Name: org/apache/xmlgraphics/image/loader/impl/PreloaderTIFF.class
+SHA-256-Digest: pIITgfY0WhoM2RkAxa54cSbAWCEw8zH1p1G769OddY4=
+
+Name: org/apache/xmlgraphics/image/loader/impl/PreloaderJPEG.class
+SHA-256-Digest: CGIQgQZDCqiHoJrWNLFkOxnkr0iqyQEu4Sgj0mW4hS8=
+
+Name: org/apache/xmlgraphics/java2d/GraphicsConfigurationWithoutTranspar
+ ency.class
+SHA-256-Digest: 9eU7GwFBy44RAFiz3gobRs6IFyeAI9rOptWmbf4EhUY=
+
+Name: org/apache/xmlgraphics/xmp/PropertyAccess.class
+SHA-256-Digest: wErJ4UxZuCDYF9RF3e4H1IRP37Or+zfwvbXuy9HdYJg=
+
+Name: org/apache/xmlgraphics/util/io/ASCII85Constants.class
+SHA-256-Digest: 1PZCAvogO/SddDI3y8ANEpHj80c9Il4qLHk2s0H4eEg=
+
+Name: org/apache/xmlgraphics/xmp/XMPSchemaAdapter.class
+SHA-256-Digest: nFyXEFEM6Dd/143tchrPiBT/XEUQCzzg9y9HHjH80Lg=
+
+Name: org/apache/xmlgraphics/image/loader/pipeline/ImageConversionEdge.c
+ lass
+SHA-256-Digest: tzSElyRNPwwoCuYJ0fvRx+FJ6qpt+0aeJOe6sTUpkCY=
+
+Name: org/apache/xmlgraphics/image/loader/impl/PNGConstants.class
+SHA-256-Digest: BIvgKNclEcftwLwXi8vIoUv5vbIfuMQG59nwI4OKO4A=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFImage.class
+SHA-256-Digest: uHFSxXS1gt85GXd2M0bz3niKcbBLqPYkrkOHXFDBZIg=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageRawPNG.class
+SHA-256-Digest: S+OgOY5GAU9cA2sd+R416ujgrVrP0BMqk8LQ8tlEcMM=
+
+Name: org/apache/xmlgraphics/xmp/XMPSchemaRegistry.class
+SHA-256-Digest: 08qHZK9qAEatk+ZyfIsRGj/l/VzZQnLhmA24+x9DD3g=
+
+Name: org/apache/xmlgraphics/util/DoubleFormatUtil.class
+SHA-256-Digest: +mPi7+Dr7ih0ZihbdXtXRaZ6ScmAbiPqlOGPdzgCi+Y=
+
+Name: org/apache/xmlgraphics/image/rendered/AbstractRed.class
+SHA-256-Digest: 2EiBex5NNz2BC8JukB3vytF7jcydjp0Uf29SFXE7v64=
+
+Name: org/apache/xmlgraphics/xmp/XMPArrayType.class
+SHA-256-Digest: wzhjGVM00RxQcMe5grrvXzJ/E7E96OssQY9nyYknT+U=
+
+Name: org/apache/xmlgraphics/java2d/ps/PSTextHandler.class
+SHA-256-Digest: lcgwRMjy4sXDCJAnM8peie7gDwZwLbuh4cKIPYz5tAw=
+
+Name: org/apache/xmlgraphics/xmp/merge/PropertyMerger.class
+SHA-256-Digest: PSJ0Liu9Zh3kOJVupEZwLeVLbC1McSQqjMIZSrGEGMc=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentBeginResource.class
+SHA-256-Digest: OD7eg3wc+x4KcB9bPXZBJxTIME6hsGOm6+FZzNpBjMc=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCAtend.class
+SHA-256-Digest: 9qb/4VvkxOMUrHp1icApxLf9ch5M+fL4ECQaMtb130Q=
+
+Name: META-INF/services/org.apache.xmlgraphics.image.loader.spi.ImagePre
+ loader
+SHA-256-Digest: Hzyd9tNoOffPaaypNH+V6wlbgGMeGrDJ5hlgbxm08ww=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderRawPNG.class
+SHA-256-Digest: +jiH1fj2iqHaaMN8otj11QRq4eT4fmsD2n+2tKcqQCE=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/ImageType.class
+SHA-256-Digest: dp7f5FRbY/GWZuexou2kK/GiurW80BkkND89y63kTSU=
+
+Name: org/apache/xmlgraphics/java2d/Graphics2DImagePainter.class
+SHA-256-Digest: GN8aZXyybw+UCXp1k5xk7AyxX0t1rxID/024iGiYZTM=
+
+Name: org/apache/xmlgraphics/image/loader/cache/TimeStampProvider.class
+SHA-256-Digest: PdvIZU6C2rn+eCUHbCv0tg1146qURIreMHcBZuJzi3I=
+
+Name: org/apache/xmlgraphics/xmp/XMPSchema.class
+SHA-256-Digest: BJtngh7EoYioOZp0YU5Lm2J2ZDUXMNE+CmLMBDIu+t8=
+
+Name: org/apache/xmlgraphics/xmp/schemas/XMPBasicSchema.class
+SHA-256-Digest: Rm8CQGjDekYnt3Btd9QFqOL9B/4mzYD6yKqENG4qPCk=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGRed$PNGChunk.class
+SHA-256-Digest: 9Vic3ieL+Byb2FmjWFM2wEAw1Ku+Co3m96rXmJINnCY=
+
+Name: org/apache/xmlgraphics/image/loader/impl/AbstractImageConverter.cl
+ ass
+SHA-256-Digest: ar/6rgfgUruXnCbYLiMacrEauQGEhm+E+fTXUiwvtBQ=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentDocumentSuppliedRes
+ ources.class
+SHA-256-Digest: wGzbuhVicpOCr7vDWHquMlZJ21gt5LzcqsA9l4l7bRs=
+
+Name: org/apache/xmlgraphics/image/codec/util/ImageEncoder.class
+SHA-256-Digest: +2KfXZvVbijlA/SucIpXuNtVUTTmWCijvanbosJ4KcE=
+
+Name: org/apache/xmlgraphics/image/loader/impl/JPEGFile.class
+SHA-256-Digest: /crCSoVVEesG8QqlhHcqv5kTteKrOctqsRenKJ17o6w=
+
+Name: org/apache/xmlgraphics/util/i18n/LocaleGroup.class
+SHA-256-Digest: e0DNE/gToQnPT0tSS+/KEO9uKoMYcWjt9u5vgicAcik=
+
+Name: org/apache/xmlgraphics/image/codec/util/ForwardSeekableStream.clas
+ s
+SHA-256-Digest: 3XeStribi+UZsXuacSNaXD+EOYecj/Logka3waIF3dY=
+
+Name: META-INF/services/org.apache.xmlgraphics.image.loader.spi.ImageLoa
+ derFactory
+SHA-256-Digest: 6ZrfdD3b8MYk2yil0odPZbM5bYalcBq86Ba1FHO9NVQ=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentBeginDocument.class
+SHA-256-Digest: Uw3ro2dq/m39oVEWw90N4Km6lPS/pLAAFwujs/j25qU=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderEPS.class
+SHA-256-Digest: 7BWO05mdA4+WrsSbSgpmeTuLnDCtiTB2w8y26jbZHvk=
+
+Name: org/apache/xmlgraphics/xmp/XMPProperty.class
+SHA-256-Digest: 0ZGt6W7vAbYoiK6jwd7xwMDXUpKOwExTqJeXfLwrH1w=
+
+Name: org/apache/xmlgraphics/image/loader/util/ImageInputStreamAdapter.c
+ lass
+SHA-256-Digest: nrVF/tfISeyNnzQo7svcts7/r5f12oHWhB3+EfsNZII=
+
+Name: org/apache/xmlgraphics/image/writer/imageio/ImageIOJPEGImageWriter
+ $1.class
+SHA-256-Digest: gLDWrUqgATiGAyFWZGnxKDiioWZQHIBycNX0nUkMjRM=
+
+Name: org/apache/xmlgraphics/image/loader/cache/DefaultExpirationPolicy.
+ class
+SHA-256-Digest: BvA3QLLk0bg5bGbK39KFIgE9vg7l/sS7NjonteRy34U=
+
+Name: org/apache/xmlgraphics/image/loader/spi/ImageImplRegistry$1.class
+SHA-256-Digest: 3I5+5t81wNJpdEPkXoV5Pm0udeewLiUeuhqQmHXuR3E=
+
+Name: org/apache/xmlgraphics/java2d/StrokingTextHandler.class
+SHA-256-Digest: IDRjMcKh27kmFNNX21l+3FAO41X4AsfQSBKbDk+iD9Y=
+
+Name: org/apache/xmlgraphics/ps/ImageFormGenerator.class
+SHA-256-Digest: 539wZpiuU54gAc9RmkdXjGQJ4Q/aLLsx0E4Q17GuBMo=
+
+Name: org/apache/xmlgraphics/util/io/ASCII85InputStream.class
+SHA-256-Digest: g8CMqOZhYryqilKNyBDgEZSvI2wwKo8UhXi3UyBKpdo=
+
+Name: org/apache/xmlgraphics/image/loader/util/ImageUtil$1.class
+SHA-256-Digest: wlnRLznk6zAx27h5y8exes1ygWfjvVOz/IvccNSB/eI=
+
+Name: org/apache/xmlgraphics/java2d/color/CIELabColorSpace.class
+SHA-256-Digest: H3LFYB16rNtQdR+Tv+9P2Ctq9NwDPW/I5vVpS9h1mcE=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentEndComments.class
+SHA-256-Digest: oQ4b34MHWlpwlVGKPAp5LTMURX1645VB/957MsAZ1uY=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderFactoryEPS.cla
+ ss
+SHA-256-Digest: huQmjlngBy7uvM9tzX6qE7Sm3dRO14EIh6vsXQ8HGss=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentPageBoundingBox.cla
+ ss
+SHA-256-Digest: TNVbSWrbqJo8bhIt8mvqksKFp3WVg+NTzOORNcdvIIU=
+
+Name: org/apache/xmlgraphics/image/loader/impl/PreloaderGIF.class
+SHA-256-Digest: zY2cCjao2RrYZ5rCdKgWbvBCpbz9nm32E+a9iMZyYFw=
+
+Name: org/apache/xmlgraphics/xmp/merge/ReplacePropertyMerger.class
+SHA-256-Digest: 9PLHbIXTmJx3SgWJm8oGH6z4ZYzypuhA15a9/kunfBQ=
+
+Name: META-INF/LICENSE
+SHA-256-Digest: luLHi06AZgxnmxAjoQ8zp8k1UX7vcBWYJEd1dl7m+G4=
+
+Name: org/apache/xmlgraphics/image/codec/util/ImageDecoderImpl.class
+SHA-256-Digest: huBQ3hdqD21j883KnMQv01GiyCuc1FENkvHj9LGO20c=
+
+Name: org/apache/xmlgraphics/image/loader/ImageSource.class
+SHA-256-Digest: l82V83YEKpyVrwW7RKlIh9GfDsfzyVQ0kbqt8t6zfwk=
+
+Name: org/apache/xmlgraphics/java2d/GeneralGraphics2DImagePainter.class
+SHA-256-Digest: q1svjmnBwVFT1JaNE9HOv8TdjgG0iuZwOzfEYp2Z+x4=
+
+Name: org/apache/xmlgraphics/ps/dsc/DSCParserConstants.class
+SHA-256-Digest: EzYDrNvfXG8qM3SMglVgb11JSq3q3dE23HweIFbMry4=
+
+Name: org/apache/xmlgraphics/ps/PSCommandMap.class
+SHA-256-Digest: hv95jxIn0EPMPr9dW8c049QWAh0JGoUk2ckpQEYdk7U=
+
+Name: org/apache/xmlgraphics/ps/ImageEncodingHelper$RenderedImageEncoder
+ .class
+SHA-256-Digest: 44OZfiKUFyyUT4zwUI0gYKS6KvRFDDT+f9O0QZ1HR+4=
+
+Name: org/apache/xmlgraphics/ps/dsc/EventRecorder$PSComment.class
+SHA-256-Digest: qhOy5SYl/W1ml+RKbAFYx9mmcsFCstpMrD+L2KxaqHY=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderFactoryPNG.cla
+ ss
+SHA-256-Digest: QpnxodCEF1J2clgUNnUdIYl3Q/kanhYCLwJiwu/zT7w=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentEndOfFile.class
+SHA-256-Digest: aSI1g+PR+pAAv3YSNLnWGlEFOkZDW/4IqSPnRJWNA6k=
+
+Name: org/apache/xmlgraphics/image/writer/internal/TIFFImageWriter$TIFFM
+ ultiImageWriter.class
+SHA-256-Digest: HEwV2ziiLvezpkx7jBU7zRV/MiiLIvf+GTAbSCq50jM=
+
+Name: org/apache/xmlgraphics/java2d/color/ICCColorSpaceWithIntent$1.clas
+ s
+SHA-256-Digest: AbdIZaf7zP+kTc75Mdr/WAJeCy32SyZgV55N1kzOmR0=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentDocumentNeededResou
+ rces.class
+SHA-256-Digest: PFVWvSadvX0tePfbIsZ/5aJDOV2fRnUydrTW3RX4bGI=
+
+Name: org/apache/xmlgraphics/ps/PSImageUtils.class
+SHA-256-Digest: c8jIosAz4dTJX28O/xyE+OuvIIaopT5WIGwZtRaFc7g=
+
+Name: org/apache/xmlgraphics/java2d/DefaultGraphics2D.class
+SHA-256-Digest: NPVEMofsSVjfFB6e2cwUpJvNLGxMc4eYFQ+kc9Oz+FU=
+
+Name: org/apache/xmlgraphics/image/writer/AbstractImageWriter.class
+SHA-256-Digest: uaLxi/dzYI8NDvjhDa36dGxnZLND/YMQUaLXtR/W3yQ=
+
+Name: org/apache/xmlgraphics/ps/dsc/ResourceTracker$Counter.class
+SHA-256-Digest: JjrPjt4AyjddlyR+eSTfqkRM3bWfN4d/aHX73cgZvmE=
+
+Name: org/apache/xmlgraphics/java2d/TransformType.class
+SHA-256-Digest: FHcu//W4U0QnxvUlXZS3xg26Exj0z/Vd/GAu9NXpY4k=
+
+Name: org/apache/xmlgraphics/util/io/SubInputStream.class
+SHA-256-Digest: E45pWJaR5UeNiz9KB5BPmxWet1AiFXsspwb7s3x4UvE=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFFaxDecoder.class
+SHA-256-Digest: twwG3c5NLs24gyp8uLQDlQqyIwSqO58hpwSv91cKD/k=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderPNG.class
+SHA-256-Digest: mbvKqFGb+IgYYHH7pBNdDXDXLAho7rROUKcX0Re/JQI=
+
+Name: org/apache/xmlgraphics/java2d/GraphicsConfigurationWithTransparenc
+ y.class
+SHA-256-Digest: 1wsLpa2Ab/nFILDhFoxFMe7uaXdqEuUDcJIuepr/bNw=
+
+Name: org/apache/xmlgraphics/util/uri/CommonURIResolver.class
+SHA-256-Digest: I/arSrFQ4KSls0/8jCL5Da60JGkwEhnVM//HzymTkqY=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGChunk.class
+SHA-256-Digest: XIkP7qf8AE2I+L85iggibz53ENfPu7n2KG6/ziNBQCw=
+
+Name: org/apache/xmlgraphics/xmp/schemas/DublinCoreAdapter.class
+SHA-256-Digest: RIuABFpyAc19qO0NBXGmwfexHAoXDXP1fIIF7YCL6yY=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFImageDecoder.class
+SHA-256-Digest: ssGqSZAAU6xRPsC19JRlEltDikWnaceaklj+uGubbSo=
+
+Name: org/apache/xmlgraphics/image/codec/util/ImageEncoderImpl.class
+SHA-256-Digest: NXbiFEGJuK3HOmx5g8CyK3a/OzQxtezc+gHDsr6IGy0=
+
+Name: org/apache/xmlgraphics/ps/DSCConstants$AtendIndicator.class
+SHA-256-Digest: VAl66+tCJvEpNPkspqd14UjZADhzGITk9Hqe9d+gbhs=
+
+Name: org/apache/xmlgraphics/image/rendered/Any2sRGBRed.class
+SHA-256-Digest: 5jyq7uBjC0TmGckMIRSEROu6THmVtSr3SM/TKtUKECk=
+
+Name: org/apache/xmlgraphics/image/loader/impl/CompositeImageLoader.clas
+ s
+SHA-256-Digest: Ale/fclb91mrn3I3ZAYEuhP3E2FNMS9daJfRf9IRwbU=
+
+Name: org/apache/xmlgraphics/image/loader/MimeEnabledImageFlavor.class
+SHA-256-Digest: BbB/SeUL7VSMUeCu9cuy2QfH6VPXYPiADST5lsjU4GM=
+
+Name: org/apache/xmlgraphics/ps/DSCConstants.class
+SHA-256-Digest: trOCbN0Gy43EjND5979hAdsAA+cp0sZbDPG8pwGEiBU=
+
+Name: org/apache/xmlgraphics/ps/PSFontUtils.class
+SHA-256-Digest: jrY/eedJW/u9/Tq+XtCtCQObdMKyVSPOUbnvWTnOzEE=
+
+Name: org/apache/xmlgraphics/image/loader/util/SoftReferenceWithKey.clas
+ s
+SHA-256-Digest: KJCPCyhqYF9yGBcrDB8R3fxsnef3ilsGC6cSzF8xPaY=
+
+Name: org/apache/xmlgraphics/ps/FormGenerator.class
+SHA-256-Digest: nx2U58C8125G9U7tUGdEvT7U59G86y6jlPUt452AGRU=
+
+Name: org/apache/xmlgraphics/image/codec/png/IDATOutputStream.class
+SHA-256-Digest: oSluuyf1lnGFiKKLEFIB3LHVV5zTR3O3mmmKNOe7sk4=
+
+Name: org/apache/xmlgraphics/image/loader/impl/AbstractImageSessionConte
+ xt$UnrestrictedFallbackResolver.class
+SHA-256-Digest: wdUl9MxiwS9rIgBmZRPMlN68x1/Ie9rWiSfz/0CQ9Y4=
+
+Name: org/apache/xmlgraphics/java2d/ps/PSTilingPattern.class
+SHA-256-Digest: bkdeFxH4fqBdJiLVmu2QuUcNzqlDq0DSSB0Eq1Y9Jr0=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFDirectory.class
+SHA-256-Digest: 5jM0v10WsA15xe8V+/amSnUNGXhza6B0iSKKaUzzU2c=
+
+Name: org/apache/xmlgraphics/util/dijkstra/DefaultEdgeDirectory.class
+SHA-256-Digest: mXiY93W7D0N7kZSLQevkRFrsaYEU27UIRRdj/UP/uls=
+
+Name: org/apache/xmlgraphics/java2d/color/ColorUtil.class
+SHA-256-Digest: 4XZaal54H9tzGedcJbPU8n+4OYU1py3xs16jRW8Vlag=
+
+Name: org/apache/xmlgraphics/xmp/merge/MergeRuleSet.class
+SHA-256-Digest: 03A33wUzz6x/3THlsLm78t3dhIJvqs2nffRbQoBTfCs=
+
+Name: org/apache/xmlgraphics/util/dijkstra/Edge.class
+SHA-256-Digest: 6Ech6OUoawzO72xHtGbW+XwgTVw3M+fVVWel3I1ywdE=
+
+Name: org/apache/xmlgraphics/ps/PSDictionary$Maker.class
+SHA-256-Digest: TpFzuxb7w25uCidX7qNZULSYZ/uijLn3LyiPc3hmQvk=
+
+Name: org/apache/xmlgraphics/java2d/TransformStackElement$1.class
+SHA-256-Digest: BCoaYnDz/jAGdPZErDljiwZt6VxdfpJK+Ticyzoj0wo=
+
+Name: META-INF/services/org.apache.xmlgraphics.image.writer.ImageWriter
+SHA-256-Digest: PLQu1O3txA1w/LLefLUl6vqF5L6vfVg6cZaELFliYao=
+
+Name: org/apache/xmlgraphics/util/i18n/Localizable.class
+SHA-256-Digest: 9xTpx6ukSc5emSNM97rDlrjPFCBwfmEOvJ64OV5ek04=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/AbstractEvent.class
+SHA-256-Digest: EaCXO5nJaLRYNbPIXzbcamuITyAvlouQ1QeL9vZJsfQ=
+
+Name: org/apache/xmlgraphics/java2d/AbstractGraphics2D.class
+SHA-256-Digest: WFpXfELWZLzEA3pQ7sFWJDXrKngSaBDfM6ToVAScXL8=
+
+Name: org/apache/xmlgraphics/ps/dsc/EventRecorder$PSLine.class
+SHA-256-Digest: ElYOV9HofPTuVAuk0yXK3cjR632TXW9NAIBCtY3Am9w=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFEncodeParam.class
+SHA-256-Digest: QmaNyRiDeBEIS9kzAjyPMo7ym95HuBqAQRg1iC03KdE=
+
+Name: org/apache/xmlgraphics/image/loader/XMLNamespaceEnabledImageFlavor
+ .class
+SHA-256-Digest: 9+RFxd77fHYx1j6vIqXF4oX1v+3ZnYONh5HgerKGPmA=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageRawStream.class
+SHA-256-Digest: cByLHtfsZG3efbNefj3MAn8y0zDx9jq5qhF7bzAFKgY=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/XAPMMAdapter.class
+SHA-256-Digest: haVpx9LDoEeMsI9eUN3ERbB9BkobdVafGEa9TasGPeI=
+
+Name: org/apache/xmlgraphics/ps/dsc/DSCListener.class
+SHA-256-Digest: nkozJ/5yj8Sq5ZIXdKrnPbXVZVxDWUKEOdQN8Qs5AhM=
+
+Name: org/apache/xmlgraphics/java2d/color/profile/NamedColorProfileParse
+ r.class
+SHA-256-Digest: pRjCp2TARvgQwaeK5RmTiXdEaYAx4Yy+QN6FJi3On+E=
+
+Name: org/apache/xmlgraphics/java2d/color/AbstractDeviceSpecificColorSpa
+ ce.class
+SHA-256-Digest: jb3NbadpkShBRDO9ZkwftxAtA99RucZHuTzKuQNjBFg=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCHeaderComment.class
+SHA-256-Digest: kdOrCXVMjo6uHfEr1u0fRO8AYAZxxMMhz7QwADrWR7A=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentPageHiResBoundingBo
+ x.class
+SHA-256-Digest: ud80u6dpb5+IJ4gDNo1pu4xET/XYFuRONtu1R+Hntwc=
+
+Name: org/apache/xmlgraphics/ps/DSCConstants$1.class
+SHA-256-Digest: SvpWXNyhP8k8yucoIrJizQhX3e1mEaFi36OdoKvRACI=
+
+Name: org/apache/xmlgraphics/util/UnitConv.class
+SHA-256-Digest: E20Jlf3ZKCfFCLrDC3o5FrtMhXcLAVvVzXfeLAYBwW0=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageConverterRendered2PN
+ G.class
+SHA-256-Digest: a0iecRA5f26Bo6AqMlUMHu57ElXcUxhxViiF6sU/9bw=
+
+Name: org/apache/xmlgraphics/xmp/XMPPacketParser.class
+SHA-256-Digest: xqVfpt6D5VmdCEeMbVQZHFiv7bAGsMZP1dfse/vMEUw=
+
+Name: org/apache/xmlgraphics/image/loader/impl/PNGFile.class
+SHA-256-Digest: pAt/gjdRSrx0G8RhV8sRPNLViWQfQHC3SC76hN6H0n0=
+
+Name: org/apache/xmlgraphics/image/writer/internal/TIFFImageWriter.class
+SHA-256-Digest: dPZFwcTbIeo6qPdJo+DP8caqmHxAjBGvPuAsA0yubQI=
+
+Name: org/apache/xmlgraphics/ps/PSProcSets$EPSProcSet.class
+SHA-256-Digest: BU+vsuJOlCVEENnHJ+Tfbsz1S7CoNx8PerEyWG8AcGo=
+
+Name: org/apache/xmlgraphics/image/loader/impl/PreloaderRawPNG.class
+SHA-256-Digest: yJ+nUC9K5CqjKS0Ptl67rQS8/vX+lbm8TGot2wSXClg=
+
+Name: org/apache/xmlgraphics/util/QName.class
+SHA-256-Digest: 3et6H1FgQCnPyjsCNS0SZ4wPh8J6eCPcAmf2coWJW8E=
+
+Name: org/apache/xmlgraphics/util/WriterOutputStream.class
+SHA-256-Digest: DFi7puBbQ72p5V/5w6TsSiw0UIRCCjyz3lbq+/H6mr8=
+
+Name: org/apache/xmlgraphics/xmp/merge/ArrayAddPropertyMerger.class
+SHA-256-Digest: fgG6vRzvshPcQUuBrS6byBTQ+FIshKnyqEMUvc1eJrA=
+
+Name: org/apache/xmlgraphics/io/Resource.class
+SHA-256-Digest: Xy0Au1t4UBte1LGycVAEo4+vBmTPMGa/1y2SyqeouQs=
+
+Name: org/apache/xmlgraphics/util/uri/CommonURIResolver$DefaultInstanceH
+ older.class
+SHA-256-Digest: uXcSsTCca0Cdm/v+xfuIpeqWLSqWx2Pxa7J8eyCXw+Q=
+
+Name: org/apache/xmlgraphics/image/loader/cache/ExpirationPolicy.class
+SHA-256-Digest: +455T6uFyq5Ppt2yyht46NUHenCtaccS1r3evtSiXsw=
+
+Name: org/apache/xmlgraphics/image/rendered/CachableRed.class
+SHA-256-Digest: Pik4+mNtl6Xy6bUBYTjBINMBmNCWf48mWD1ByOcIQ1M=
+
+Name: org/apache/xmlgraphics/image/writer/ImageWriter.class
+SHA-256-Digest: dxItlz3i4IbOJdYR9f+AvQeAn82NfvqJWFQWjAOs1k4=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFEncodeParam$1.class
+SHA-256-Digest: cQ6HNhJPdFEqi6zhx2VghEIs4mQtAwxutqWTPaomfH4=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentPage.class
+SHA-256-Digest: yyuYnNs/F5ZpEx3N4bGC7G9BsBB3ZLVtwmrauVxQXVc=
+
+Name: org/apache/xmlgraphics/image/loader/impl/AbstractImageSessionConte
+ xt.class
+SHA-256-Digest: ndM0CsAsKv11bkl45d7OusFBOa2pbutf6V+rAqw/iNQ=
+
+Name: org/apache/xmlgraphics/image/loader/ImageProcessingHints.class
+SHA-256-Digest: 6MeL7h0kLdg9g/HVfrf8q0j47Q45p22Ss3azEmRsDcE=
+
+Name: org/apache/xmlgraphics/java2d/TransformStackElement$2.class
+SHA-256-Digest: kG76AhJ630G2+XsTDBajBB+2EOr9UjkJldqmi1QmTtI=
+
+Name: org/apache/xmlgraphics/xmp/XMPComplexValue.class
+SHA-256-Digest: tZKGM6bpdntPei3SXlUEsx/Pvn/EAkYorKe4jRbhk8w=
+
+Name: org/apache/xmlgraphics/ps/PSDictionary.class
+SHA-256-Digest: j2Fa8vCsnKB/0r53sn1bJkO3AIQIKD9LlxOuqM5ANPg=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGImageEncoder.class
+SHA-256-Digest: 786D4MJpgKrTi0uk+0HPGOkKLpna6AKu1bJao0dN3LQ=
+
+Name: org/apache/xmlgraphics/image/loader/ImageInfo.class
+SHA-256-Digest: VHL/3enGFv7M1ZUuI5PfaX/VQ8EsNGGECI8lP3p5KEM=
+
+Name: org/apache/xmlgraphics/java2d/color/ICCColorSpaceWithIntent.class
+SHA-256-Digest: QwePGRU3G5V5G+MPjNq0cpUZNXNVf7wHWreUzIiBKiE=
+
+Name: org/apache/xmlgraphics/java2d/color/DefaultColorConverter.class
+SHA-256-Digest: SRKP3754Ch2xnpX9ENzB+DazBoHA2W5X/F+TyfsJQRs=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.xmlgraphics/po
+ m.properties
+SHA-256-Digest: Ck7e003Fmkp85xblNsOaH3yb6gCjekFlhzoeQaFMJ4Y=
+
+Name: org/apache/xmlgraphics/image/rendered/Any2LsRGBRed.class
+SHA-256-Digest: 4KLzx/kuFlDwr7biTxfTaMZTIkunTvnrMLFJ00zg7I0=
+
+Name: org/apache/xmlgraphics/ps/dsc/FilteringEventListener.class
+SHA-256-Digest: Q/dkfLXV5i1S8YE/h6SjdCcA2YxTdJD0LT57/qZ3u9U=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageXMLDOM.class
+SHA-256-Digest: eU6COfJBO/5liR5CfoYyd0WNjGzVbzD8pGGsLW1zbV0=
+
+Name: org/apache/xmlgraphics/ps/dsc/tools/PageExtractor.class
+SHA-256-Digest: qydHZcPTsEXjmrdmn1EqxUcsC0bApf224u2v9YFwTRw=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGEncodeParam.class
+SHA-256-Digest: r498mh6tQGKr9RtfpiDrrI+Dcrr39dCzXuBheWXiaV8=
+
+Name: org/apache/xmlgraphics/util/io/ASCIIHexOutputStream.class
+SHA-256-Digest: SId4pG4/YjAtWMuHRTnEARD51leeW6olAz2asjMCNhs=
+
+Name: org/apache/xmlgraphics/image/loader/impl/AbstractImageLoaderFactor
+ y.class
+SHA-256-Digest: jMHJ37wpRhe00bNE4cgPQNpMiSSdiIHlGX4MbdcJMLY=
+
+Name: org/apache/xmlgraphics/java2d/color/RenderingIntent.class
+SHA-256-Digest: 7gQLzCzFhe0j9v700rN3ogUjJPNvJsVXK7nbiQ9vM4s=
+
+Name: org/apache/xmlgraphics/ps/dsc/tools/DSCTools.class
+SHA-256-Digest: YunFt1da7dYkQAf46bIIWih6MS53XTSHrNqxJkygyzU=
+
+Name: org/apache/xmlgraphics/util/dijkstra/DijkstraAlgorithm.class
+SHA-256-Digest: mbQcLVjy+go204hI/a4I+QiKeXNeLYy8OFo8H0IaXjg=
+
+Name: org/apache/xmlgraphics/util/uri/DataURLUtil.class
+SHA-256-Digest: pg4vq13ahqj7eMfiNWQ8y+5XTogiMt2N0FkfZVCZIGo=
+
+Name: org/apache/xmlgraphics/xmp/XMPConstants.class
+SHA-256-Digest: aUgiQ3onGEQyCkrsauNMeFFHZe0UZ/Pk71ne4aavfKY=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGSuggestedPaletteEntry.cl
+ ass
+SHA-256-Digest: cCSaNp0XH4o5l8BUkFoHxWw00JsYf66E9JbIu6AyncQ=
+
+Name: org/apache/xmlgraphics/image/codec/util/ImageDecoder.class
+SHA-256-Digest: +10EIGCWCpsl00NMIgkn7BrWq5At6EleVpKAdyxLoM4=
+
+Name: org/apache/xmlgraphics/image/writer/ResolutionUnit.class
+SHA-256-Digest: Fb0VmCBVz00b9BFs8yFOdcThUxSbs8cAfWSkOSi2pdM=
+
+Name: org/apache/xmlgraphics/java2d/CMYKColorSpace.class
+SHA-256-Digest: o9d9Ir7A+R1ywN5vk7SwWT5oIiKl39i9oCeMqviHr/8=
+
+Name: org/apache/xmlgraphics/image/loader/RefinedImageFlavor.class
+SHA-256-Digest: /xVeFWm1C9e9X5quxr1npOe6kWYbnOPqnd5cOS70S9k=
+
+Name: org/apache/xmlgraphics/java2d/AbstractGraphicsConfiguration.class
+SHA-256-Digest: l+iBU74+rW0krTUxn8rORRxGWqULw8ILhQqNvmFSH0Y=
+
+Name: org/apache/xmlgraphics/ps/dsc/DefaultDSCHandler.class
+SHA-256-Digest: 2FFM1MBYtMJFcbiSp8hFX253nQp57W2bTfg1Np1g2Lo=
+
+Name: org/apache/xmlgraphics/image/writer/default-preferred-order.proper
+ ties
+SHA-256-Digest: TUBXh6D5EJgpVOn8AR8H2ZfvCIx1zvwHdCMhxniGSvc=
+
+Name: org/apache/xmlgraphics/ps/PSDictionary$Maker$Token.class
+SHA-256-Digest: ET5oZCvqnM1fJ+yNX2K+49IBU7/Q25IZdA90HqV863I=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/AdobePDFSchema.class
+SHA-256-Digest: +vaCV6jFOnNaE9KTbAp5/SiCrGXGMGGPnoISAI3o2To=
+
+Name: org/apache/xmlgraphics/image/loader/pipeline/ImageRepresentation.c
+ lass
+SHA-256-Digest: aOue6V9s3MP/Oj1Veyrw1QlngaewIR1IQ/G3oStW3ws=
+
+Name: org/apache/xmlgraphics/ps/PSState.class
+SHA-256-Digest: pwa39IuUalnQfDmDIdbuhZ00Nsqo9Wwm62NhaJUQBas=
+
+Name: META-INF/services/javax.xml.transform.URIResolver
+SHA-256-Digest: FUZ3Qc2XFoUmdyypqX89tyBk0Z5xtk2hC8QTdJCapqU=
+
+Name: org/apache/xmlgraphics/image/loader/pipeline/PipelineFactory$1.cla
+ ss
+SHA-256-Digest: eaoYgJYBu9P+2zWz3wLTBSWlDOhDlfUiwRcpFWxIWqs=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageRawEPS.class
+SHA-256-Digest: VERfTpQC378Jtw+8XLaaz3KIQOQZHgREBpgqOr07MFA=
+
+Name: org/apache/xmlgraphics/java2d/color/NamedColorSpace.class
+SHA-256-Digest: ERCHv33jzYm8nFCtBb4tPQhRaGzsCIuG0aSlrSBdDYk=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageBuffered.class
+SHA-256-Digest: Oo+QBc52zV4R9NYVYnqQ3AJhARygX7P9fyrpZf4zt0c=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/PDFUAAdapter.class
+SHA-256-Digest: Al50BlmLsw9THbs1bSSTc3Rjo3WKkNZt5CBOJ8EKV18=
+
+Name: org/apache/xmlgraphics/java2d/color/ColorWithAlternatives.class
+SHA-256-Digest: x9R7+tRV8dqlWcGVMjye4amPMpvVqarNfUcnFUZqCBM=
+
+Name: META-INF/NOTICE
+SHA-256-Digest: qWVJfXpfcDMSYZAevzmH6PUFa6BnhV9Oa9ieEjIk4i8=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/PostScriptLine.class
+SHA-256-Digest: 6FqrRN/6YRdqyk3ov1jIA2HARzVwUXsc6EI/jxEYYJ8=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderFactoryInterna
+ lTIFF.class
+SHA-256-Digest: 1gNFxM5oh3tG3wyjicbswbX4l+HQLLxCDYOZMLBmjzs=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/AbstractDSCComment.class
+SHA-256-Digest: 25dNth8Je9m3vmltHG5IzYv+tk1Y67pxYyztMkcx0xA=
+
+Name: org/apache/xmlgraphics/image/codec/util/SingleTileRenderedImage.cl
+ ass
+SHA-256-Digest: 2//i6faxg0xcdRlChT0ZXLhcqV5sOziglAfVgEfnPbQ=
+
+Name: org/apache/xmlgraphics/image/codec/util/ImageEncodeParam.class
+SHA-256-Digest: Cn+j/SEw5yQJyG6dA4Q2AXkdvZwGgvCE0PseSgpBunU=
+
+Name: org/apache/xmlgraphics/image/writer/imageio/ImageIOJPEGImageWriter
+ .class
+SHA-256-Digest: jI1/RSm+dzMz38pDJqbMlR60d+KYVl89zrHW9iPG/xc=
+
+Name: org/apache/xmlgraphics/image/codec/png/CRC.class
+SHA-256-Digest: HBk7RQ1B2WgPvQNt9/uHGqVBKelPSgmNeL/VB6WT/Tw=
+
+Name: org/apache/xmlgraphics/image/loader/impl/PreloaderEPS$EPSBinaryFil
+ eHeader.class
+SHA-256-Digest: 3ub6phXjdT4RD+6+tNP5qdhYDCUXiFp6g6iiYlou0WE=
+
+Name: org/apache/xmlgraphics/image/writer/imageio/ImageIOImageWriter.cla
+ ss
+SHA-256-Digest: fex+/p1VUvbWG8Lko7KGzLhXjPUCCRJ2p0HG2+Avavk=
+
+Name: org/apache/xmlgraphics/image/loader/ImageFlavor.class
+SHA-256-Digest: WqIl3lkV2XHIwO6OGRocF2k+/rtFEyFNo20g3X7VtnQ=
+
+Name: org/apache/xmlgraphics/image/writer/imageio/ImageIOTIFFImageWriter
+ .class
+SHA-256-Digest: 9MNVJkWbsI+F7ChrGxIi5vFfxL2VWwAB/xgFJoTE1Bs=
+
+Name: org/apache/xmlgraphics/ps/dsc/DSCHandler.class
+SHA-256-Digest: wsCeY5rrhg0EJkE6vZR9ZXQfW6untakkpXlRRCBpv4c=
+
+Name: org/apache/xmlgraphics/util/io/Finalizable.class
+SHA-256-Digest: D6Jn6UiOzhdmEOhdp7SirqkQBYPqngSE2b0UhGn/lUs=
+
+Name: org/apache/xmlgraphics/image/loader/ImageException.class
+SHA-256-Digest: 4B/05zbxQmUsq5NOxwM/NodpWB7Bvn2KvMXrZodcJ84=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageConverterBitmap2G2D$
+ Graphics2DImagePainterImpl.class
+SHA-256-Digest: 4g4UF3QO67r+MLIAaUnuS9joLB7UHQIRzQaubMxyuis=
+
+Name: org/apache/xmlgraphics/image/loader/util/SoftMapCache.class
+SHA-256-Digest: y3WvVX21zhW4QZH0bJ5lIAUvlS4NQdNukQXoaZzfQZk=
+
+Name: org/apache/xmlgraphics/xmp/XMPArray.class
+SHA-256-Digest: RhsFEaNv7AUbQC/ylW2U0J0Hgf8aC3gjzLglTmna8po=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGChunk$ChunkType.class
+SHA-256-Digest: 1u/7N0TyAJ+MygFyxt+d3UScqqgnU1xVK3D5B2L+MwU=
+
+Name: org/apache/xmlgraphics/image/loader/util/Penalty.class
+SHA-256-Digest: oEuIjn+sPTZnXNMjmSwQhuXRzA1x1PCVFAM4bjwFKS8=
+
+Name: org/apache/xmlgraphics/java2d/ps/AbstractPSDocumentGraphics2D.clas
+ s
+SHA-256-Digest: iNeiYzxuluJkWNe2wZTMXcCWbY6MzKdEDUsA9Yqs9fg=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/AbstractResourceDSCComment.cl
+ ass
+SHA-256-Digest: safHsHeHrkUrXOWJXwMjmzXvvn6ZclYzvWWlYWU5U5w=
+
+Name: org/apache/xmlgraphics/image/writer/MultiImageWriter.class
+SHA-256-Digest: lyoxHVMyCg0bb2VYq1pkyDZL1D6plzWXFWl3XTtg5NU=
+
+Name: org/apache/xmlgraphics/xmp/schemas/XMPBasicAdapter.class
+SHA-256-Digest: F3chiFu1+WdbhimkQEK6Ng4MgEcBLgEfwnqFF0+Y7mU=
+
+Name: org/apache/xmlgraphics/fonts/glyphlist.txt
+SHA-256-Digest: 34T8MzZ3M1pf5N+AgSX76SrIocbgI03lCbTfZ0EkDrw=
+
+Name: org/apache/xmlgraphics/image/loader/impl/imageio/ImageIOUtil.class
+SHA-256-Digest: BsfIVhrmD8tyPY4oY8eQmyg8knpEdmnVcHl+M9nyxb4=
+
+Name: org/apache/xmlgraphics/ps/ImageEncodingHelper.class
+SHA-256-Digest: rz7+djZFtuDLk6C4n+Qfhb15WZMtTkrXPRKmNi5gkik=
+
+Name: org/apache/xmlgraphics/util/DateFormatUtil.class
+SHA-256-Digest: YyLVdM3IYpI+/L+Upw69tsgyDWLHc3lzVT6FJJKBDf4=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/PDFVTXMPSchema.class
+SHA-256-Digest: vYjuHmlLRYu3WoF81BbTYpmRCF7DAyo0B1qV9DLOArs=
+
+Name: org/apache/xmlgraphics/image/loader/impl/PreloaderEMF.class
+SHA-256-Digest: X6bDSHmYT7BCzKz0hlftPSytXb5PatmFh0M+8DEL4r0=
+
+Name: about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: 70sq4AoiKPmbnFMVhYi1e9oPczCS6WKy+maEqwyunWY=
+
+Name: org/apache/xmlgraphics/java2d/color/ColorConverter.class
+SHA-256-Digest: xOHXEaz01qRcsN25J/vA6ko+lC3qZk3Z0SQ1LfRFwZg=
+
+Name: org/apache/xmlgraphics/image/codec/util/FileCacheSeekableStream.cl
+ ass
+SHA-256-Digest: bL+/i5b2ygLSJ5cSZE5nvRsp/W1zyJzWhq4WGMepysQ=
+
+Name: org/apache/xmlgraphics/java2d/color/ColorSpaceOrigin.class
+SHA-256-Digest: ubUAy+CQ/AnZfSnbK7mfkLkHpbGEKrrCxW+PydTo2L0=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentPageResources.class
+SHA-256-Digest: Wy2g822xZZOvpEv2aEdnxwByU4QBu302aBFE47ToNQk=
+
+Name: org/apache/xmlgraphics/image/loader/ImageSize.class
+SHA-256-Digest: 1iS97sY3zsmbclU4aLZcVwmi9z+XMwgWA0eoEJI2zXg=
+
+Name: org/apache/xmlgraphics/util/dijkstra/EdgeDirectory.class
+SHA-256-Digest: MiOyN1JN8qhmsFjZkb6Dw2qx/2cC9ovIItFUavHoJzM=
+
+Name: org/apache/xmlgraphics/ps/dsc/DSCCommentFactory.class
+SHA-256-Digest: UL+ji9/TcbWQN3TteRkNERF1Rnmlw9bKt7INJ1+x6xw=
+
+Name: org/apache/xmlgraphics/image/writer/imageio/ImageIOImageWriter$IIO
+ MultiImageWriter.class
+SHA-256-Digest: AgUqPnWa1k9sAUdVE8HVoK8PQnL9+woYWcpsp213Xgg=
+
+Name: org/apache/xmlgraphics/image/loader/spi/ImageLoader.class
+SHA-256-Digest: CS5vw6yMpFQdY5VydmibUuOpHbyFi6zyRpK10bWX/Gg=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/UnparsedDSCComment.class
+SHA-256-Digest: Jpk39xkKpN189sE2yqu5pls4eEr7E1qC8PcIHMC8qOo=
+
+Name: org/apache/xmlgraphics/ps/dsc/tools/PageExtractor$1.class
+SHA-256-Digest: 2L19zISZMA7t6mGiTiC6tmDyf7Jy4Sn8iJjBf9TCdBA=
+
+Name: org/apache/xmlgraphics/image/loader/pipeline/PipelineFactory$Pipel
+ ineComparator.class
+SHA-256-Digest: 4+J6Tul1kt26a5tyXUx/mKf9pDN4Un/oiU1O1maIXXs=
+
+Name: org/apache/xmlgraphics/image/writer/ImageWriterRegistry.class
+SHA-256-Digest: /NedodFxYPfSjYN9JQjh+bUNxNIvCCj/BWg7aArlVAY=
+
+Name: org/apache/xmlgraphics/xmp/XMPSerializer.class
+SHA-256-Digest: AnpeIuG3zXewbMVvqIx1p/4Sl0nKj+7uI/odoMGF/1g=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderRawJPEG.class
+SHA-256-Digest: 0by1nwwcIEvDPZVFG8DHHcmzNpUWGgRDjo91sdqT+aE=
+
+Name: org/apache/xmlgraphics/image/writer/ImageWriterParams.class
+SHA-256-Digest: rTbtiFNpR6twL4LmzjIARBuoEWjl10XRjfA6XYIVZao=
+
+Name: org/apache/xmlgraphics/image/GraphicsConstants.class
+SHA-256-Digest: 2auckp3C0fhTVVmfsyFURVPc8Nyv3fYde97w7ubsBzA=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderRawCCITTFax.cl
+ ass
+SHA-256-Digest: Qgyv/RLW4hv4WptQ21SzpR3HOTY6F3g7iZlyg/7MTGs=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentLanguageLevel.class
+SHA-256-Digest: C3r2h8p9x4vSIBrOwqRWMow6vexg7nv7Q/BCfsJ4cg0=
+
+Name: org/apache/xmlgraphics/ps/dsc/DSCParser$MyDSCListener.class
+SHA-256-Digest: Pa0acQAtdTlw1CkQqCl4FZFd8AmNojBmLyOF+2s1YLs=
+
+Name: org/apache/xmlgraphics/xmp/XMPParser.class
+SHA-256-Digest: jGM1y7/IUDVcDsraP/ACoUfuB0AcmRks9iQzWiV68Hw=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/PDFXXMPSchema.class
+SHA-256-Digest: 56npULLHkRGBv2PPpqdTRVChNCWmIcmZXogxbCQbWrQ=
+
+Name: org/apache/xmlgraphics/ps/dsc/EventRecorder.class
+SHA-256-Digest: di5tbN5qJIC5tngetP4Zirrsi/UJiw+Y1/G1xtM2HUs=
+
+Name: org/apache/xmlgraphics/image/loader/spi/ImageImplRegistry$MyIterat
+ or.class
+SHA-256-Digest: 6t5OcKruKLGyqhuoFS3gwA0UmAKrb+P0KaMXF2W1gA8=
+
+Name: org/apache/xmlgraphics/ps/PSGenerator.class
+SHA-256-Digest: j5hnKCXgc5YKyzHin8ijZJ7spkv1tSzA7GiJai/SOao=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFImageEncoder.class
+SHA-256-Digest: 0QcOZjL4BJjHlKDDKdvtGncQmQPc73Av01KlLX88wos=
+
+Name: org/apache/xmlgraphics/ps/PSResource.class
+SHA-256-Digest: AXAdp99ebtRyWUP/DlOsoI+BmeJbbIkwd28++qxr2Mo=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageGraphics2D.class
+SHA-256-Digest: h+9EfgrZM3CNnpDzuolSomMlSv0NVbHeWjrcuFnajTs=
+
+Name: org/apache/xmlgraphics/java2d/TextHandler.class
+SHA-256-Digest: +EJcMeRz0PSSkzHVD90Cb2v3l1RSHwYI534d9gdtRAk=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderFactoryRaw.cla
+ ss
+SHA-256-Digest: wT/mad5jNkb5Pl3Lxs8xGZP416DXzJWcXrazlyZIhSw=
+
+Name: org/apache/xmlgraphics/ps/dsc/NestedDocumentHandler.class
+SHA-256-Digest: A/4woPkQ6eYROoB42H1sQCdPCR7UvzOTG0kKubF2AeE=
+
+Name: org/apache/xmlgraphics/image/loader/util/SeekableStreamAdapter.cla
+ ss
+SHA-256-Digest: +us1JgMfCieZJJIMVVKHVmeJP39OT3RFxThCxYBT/hM=
+
+Name: org/apache/xmlgraphics/image/loader/impl/imageio/ImageLoaderFactor
+ yImageIO.class
+SHA-256-Digest: n4fZl8dON0fdBUgkUYHWujzFwW1GPgNvjtoamsFK5/M=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFImageEncoder$Context.c
+ lass
+SHA-256-Digest: 8fdvy/61PNtOsjAwIVvUD2n9XVOr6ZipmQir3SJFft0=
+
+Name: org/apache/xmlgraphics/java2d/ps/PSGraphics2D.class
+SHA-256-Digest: ir6YagdtrZxbHE3NO2OAe51Cs1dA3t+8kk8bvv0ytxI=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentHiResBoundingBox.cl
+ ass
+SHA-256-Digest: GGh26cnZR3dHYHUbDT34ahtKE7PYTTweHf6jClEktYk=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCComment.class
+SHA-256-Digest: 1VT99WMeI87faos35nBcpYLVTxiCi7Cv8eGLXmICukM=
+
+Name: org/apache/xmlgraphics/image/loader/cache/ImageCacheListener.class
+SHA-256-Digest: O/Lcezllt2dMTVEsMiRB188J0xBtT0xFP39Ahdji+MM=
+
+Name: org/apache/xmlgraphics/java2d/Dimension2DDouble.class
+SHA-256-Digest: sRz1O4AKzU9FxoYArOM0Q6sOf0SA9TkEeCwWRLz0S58=
+
+Name: org/apache/xmlgraphics/image/loader/spi/ImageConverter.class
+SHA-256-Digest: 7/dIUOMXrk8k2W8x5iQnqTIsISbcpcp4dWPe+VYpwbI=
+
+Name: org/apache/xmlgraphics/xmp/XMPHandler.class
+SHA-256-Digest: AukjDIEaYU+BmXM8919uB3rxkSsarS+U2hqySh6PoUM=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageConverterBuffered2Re
+ ndered.class
+SHA-256-Digest: Mm9UxMpd5s3s3oJFnPJPX1tpViXL5G/YXWo9PUNEJYU=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderRaw.class
+SHA-256-Digest: nL9Bov+zL0F+VMoki0GZD87s7jZu713K09x5IG0hvps=
+
+Name: org/apache/xmlgraphics/xmp/merge/NoReplacePropertyMerger.class
+SHA-256-Digest: IPzOkDV+IfC/vEHCnTeVxiOetRXLhUGxTgJe5nZylgw=
+
+Name: org/apache/xmlgraphics/image/writer/internal/PNGImageWriter.class
+SHA-256-Digest: GaFHerv4hlrwFFGHJgYjNw31AOYJ5zZipee8qmvhA0k=
+
+Name: org/apache/xmlgraphics/util/ImageIODebugUtil.class
+SHA-256-Digest: WpUD7bFg463xnYFjG9Tz2m0QhkyTjQzP1Vft0XhraDI=
+
+Name: org/apache/xmlgraphics/image/GraphicsUtil.class
+SHA-256-Digest: IcsNjjOjDXkN+Ati7aE5YbjBjD/dl0JEvC0Lc6KUevU=
+
+Name: org/apache/xmlgraphics/java2d/TransformStackElement$3.class
+SHA-256-Digest: lv+1KjXvoCzneC+zj6aBUWMyAhLoeO+OYvMVc47LWF0=
+
+Name: org/apache/xmlgraphics/image/loader/pipeline/PipelineFactory.class
+SHA-256-Digest: HYMnp1lVwLNnZyTiH/Az9UU47VoPNATmg2qIsZsau4s=
+
+Name: org/apache/xmlgraphics/ps/dsc/ResourceTracker$1.class
+SHA-256-Digest: BQhWJtgRBF+0g3t1ruLQJrlqNR6UaXILz1JA3Mjb9mc=
+
+Name: org/apache/xmlgraphics/ps/dsc/ResourceTracker.class
+SHA-256-Digest: XI83IvRVzlIBihbqf3hema9VtmI3rqiytxviwSi0JNg=
+
+Name: org/apache/xmlgraphics/image/loader/pipeline/ImageProviderPipeline
+ .class
+SHA-256-Digest: kLP6XKFEHIaTuC9jLTPDFNHlVbSbAZ+Xgr4BqiutIIk=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentPages.class
+SHA-256-Digest: zBjiQ2dCewhTo0xK8Z3j9Tg3Zuw4pJyKoCMxpGOyUUg=
+
+Name: org/apache/xmlgraphics/image/loader/util/ImageUtil.class
+SHA-256-Digest: rk+5UpEeUAfubazvHWZoaLE/IYhT1VAYWLBE5Eaf3sQ=
+
+Name: org/apache/xmlgraphics/java2d/color/GrayScaleColorConverter.class
+SHA-256-Digest: p75RlrTABGXMc8NQN7uT8KXodXAhoxKB25ofCSM1+SA=
+
+Name: org/apache/xmlgraphics/xmp/XMPStructure.class
+SHA-256-Digest: KQ5zUR8TyHC4vA4SDGdsOUwdTBLMb2c4s1SJjKs0uKQ=
+
+Name: org/apache/xmlgraphics/ps/PSDictionary$1.class
+SHA-256-Digest: +rgzmtrWUXlC3BP67C0TnTI3Z/AwhEhwOa51qt2JRuo=
+
+Name: org/apache/xmlgraphics/java2d/GenericGraphicsDevice.class
+SHA-256-Digest: 0ASHfHQnEUhP8b7SkLxvqpH0ocRLYN72IJ/+bIFn9BY=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageRendered.class
+SHA-256-Digest: wd62u0LrnBlugd7DDdCFjJ0OOzg5VGfcMMf0OUgsbKg=
+
+Name: org/apache/xmlgraphics/ps/PSProcSets$StdProcSet.class
+SHA-256-Digest: A1h/q2wmGQhksnoUYzAZH/DPH5OpS2XPYNYSKVcxR2I=
+
+Name: org/apache/xmlgraphics/image/loader/impl/AbstractImageSessionConte
+ xt$ObservingImageInputStreamInvocationHandler.class
+SHA-256-Digest: 2SecezsIDy7RC6FV/ooRpQns9QIrQgKI8AiUj79bWso=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/ImageInfo$ImageInfoBuilder
+ .class
+SHA-256-Digest: EMz5CcwEQavjiDfGgJstsF7K0LyDxIDYPOCPw2d1E1M=
+
+Name: org/apache/xmlgraphics/io/URIResolverAdapter.class
+SHA-256-Digest: IJaKq/1lJE2E8cogI62zZbhx14jG1MiyD6exlAdRz7s=
+
+Name: org/apache/xmlgraphics/ps/dsc/DSCParser.class
+SHA-256-Digest: Jz/zyIr/ktWBG3QF5dXDaiShbLas3Ngz0MsE1wRfdjE=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGEncodeParam$RGB.class
+SHA-256-Digest: WHUVRd0D0vlKrtOOITtLtIHCVL52A7SC8ZFiIBPOSiA=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/ImageInfo.class
+SHA-256-Digest: Hi1EjnZNUazoFJeEbMhMtYrXfUXXPqkO6rXECwjjOdA=
+
+Name: org/apache/xmlgraphics/image/writer/Endianness.class
+SHA-256-Digest: 5QQIhSOc32NaA1N1PnlV80thj14OVydU3TDmLBKy9jE=
+
+Name: org/apache/xmlgraphics/image/codec/util/SimpleRenderedImage.class
+SHA-256-Digest: 5p/fc/Bz8G9TH6gJbYRlRGQyeWl15806WCpDVerPnlE=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageRawStream$InputStrea
+ mFactory.class
+SHA-256-Digest: NiBb6iH1bmab6Dohc3w5QHPbveWiyzXE9KY81zocy2s=
+
+Name: org/apache/xmlgraphics/ps/PSProcSet.class
+SHA-256-Digest: WaUTE3pJ+L4JmRMec4xXC855QCvP3c248WfHmjmLJRc=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGImageDecoder.class
+SHA-256-Digest: VoCTugtC6syekIGL26EMqDsc+7Kq+A6SvtdmulXXvu8=
+
+Name: org/apache/xmlgraphics/fonts/zapfdingbats.txt
+SHA-256-Digest: quRvrnV3CyEoPEm63sBG2A9tdM6sCY6PMuTutkzMqyc=
+
+Name: org/apache/xmlgraphics/util/MimeConstants.class
+SHA-256-Digest: cXMZIZ+AnW7isMCerbZZzTkCGCcY1FVTlGnDSEHJWVU=
+
+Name: org/apache/xmlgraphics/image/loader/impl/AbstractImageSessionConte
+ xt$RestrictedFallbackResolver.class
+SHA-256-Digest: t9l9bgzXj93YBRl8wfKV6Ab3s4Q6Q5i13xlssG/23wA=
+
+Name: org/apache/xmlgraphics/java2d/TransformStackElement$5.class
+SHA-256-Digest: uvPymzc5J6hUQjKDDmKF9onpUxEmFriBqW5Mr3vVr/s=
+
+Name: org/apache/xmlgraphics/util/io/RunLengthEncodeOutputStream.class
+SHA-256-Digest: Y7O1AZTvox7Jnd8ksGCYMkbiYjOE8JeaTNG+vqbAqMU=
+
+Name: org/apache/xmlgraphics/ps/Identity-H
+SHA-256-Digest: DzbWrxPmPntsD5mqCbc8wcAbDSCYesiFM3uwdK1GVu8=
+
+Name: org/apache/xmlgraphics/util/dijkstra/DijkstraAlgorithm$1.class
+SHA-256-Digest: Wos/DVXUNkJHralodVtZcg+Hk8ice7OZ9Zk1jUwvn1g=
+
+Name: org/apache/xmlgraphics/image/loader/SimpleRefinedImageFlavor.class
+SHA-256-Digest: 98Pge4p7AWcO9w3Jy5g1DMEYZOp2YfArD1B9YOqKsoM=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageConverterBitmap2G2D.
+ class
+SHA-256-Digest: 54UJIL+RMCDoy+Tsz2t1IQrOZGcCF+sQNAK9PrLtBBo=
+
+Name: org/apache/xmlgraphics/image/rendered/FormatRed.class
+SHA-256-Digest: yWrhJmgdUkkNPgsOdCqjPAVrvLsYXySbSF7fbnvJfsY=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/AdobePDFAdapter.class
+SHA-256-Digest: HCxPTXtEz2/6wsBytowiliwzQpuJcVtIzoDFfULOu2s=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCEvent.class
+SHA-256-Digest: OpQg0d569ym8+DTGxxrrsjgY8d4nXTHAxOEgfIBxWPU=
+
+Name: org/apache/xmlgraphics/image/loader/Image.class
+SHA-256-Digest: pkaRRQES1e8ew3YXWXxJ1GCnr+0o/wwhkihs/SSy4hw=
+
+Name: org/apache/xmlgraphics/image/loader/ImageManager.class
+SHA-256-Digest: nIQG9QRNnA+MUnHgdAiq6lSRyror87uv8gXAqAlpmJk=
+
+Name: org/apache/xmlgraphics/ps/dsc/DSCException.class
+SHA-256-Digest: Ya9es4zuKxhz9/Zsfv/C52HOVSnt/kUZeHAMSTmBWRo=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderRawCCITTFax$Fi
+ llOrderChangeInputStream.class
+SHA-256-Digest: waVWtJSmIM0ojUznQOlC8n0aeeHuVusFOzVv/o48lIg=
+
+Name: org/apache/xmlgraphics/java2d/color/ColorSpaces.class
+SHA-256-Digest: uDCiGOcUxPbdwmC03i3nqK1a+rw/CgjchC+bMSa5f/0=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFDecodeParam.class
+SHA-256-Digest: 7i7pyTNuCWOuY/8vcmbNy4lBxovboJ4fhPWCkuyW13I=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFLZWDecoder.class
+SHA-256-Digest: cjPyQI2GHADwx9mCXZQfN0nAi/9jwIgFFvHxl31uH8c=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/PDFUAXMPSchema.class
+SHA-256-Digest: Z3L4DqjW7jUXP985nje60klp7BtYu+4Sk3KleW/UhN4=
+
+Name: org/apache/xmlgraphics/util/Service.class
+SHA-256-Digest: GpDpPRLES9Cys303Rp2F8AMSXszWsdQPHW4t5cimd1o=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/XAPMMXMPSchema.class
+SHA-256-Digest: Pc+v3PaZC3RU8nqK4zLrvx+Ma5mBMX2Y4cU4NcKG7xQ=
+
+Name: org/apache/xmlgraphics/image/loader/ImageSessionContext.class
+SHA-256-Digest: TPBcAsvZ+BWVb+EWEoZXHEVnxjLhp9jP/nX8jmf9ahc=
+
+Name: org/apache/xmlgraphics/java2d/ps/EPSDocumentGraphics2D.class
+SHA-256-Digest: LiSvXsWxzd1Vis8umByhiWHtKtY46a4LJA63KEDxCfw=
+
+Name: org/apache/xmlgraphics/ps/ImageEncoder.class
+SHA-256-Digest: YlNj/Mo0+F/ACRrNoN1PvLeTL+PZqS5J10iMtKFDN5w=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/AbstractResourcesDSCComment.c
+ lass
+SHA-256-Digest: ForlcWvKE1EJcPvHeYOEpk38IgphS+A+wf0rTpfnkKc=
+
+Name: org/apache/xmlgraphics/util/io/Base64EncodeStream.class
+SHA-256-Digest: W/XPNkl5wtlUfvtbkKv2UqtQptHJ7118BZWZamnvduw=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentTitle.class
+SHA-256-Digest: RrEQrVhVdwX72gb4c9rAK2uuiiQfgbWeIs4xGBgfAv8=
+
+Name: org/apache/xmlgraphics/image/loader/impl/DefaultImageContext.class
+SHA-256-Digest: IdNGHFF9BT0duYzLevVDwKPPjvThXdyOfKXs1sMMOgw=
+
+Name: org/apache/xmlgraphics/image/loader/impl/AbstractImageLoader.class
+SHA-256-Digest: v9Anl1y9rEXiBeQ6fXWO9ghiYi0uOaIAaBzwgTf/L9M=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: 9T4GZevdTmzxd0bQLZo+uLzrX1q1wRYJ0ui3VkB4Bz8=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/ImageInfo$1.class
+SHA-256-Digest: irVXDxtw714fsojWOTHdXA9Y7flkxJJLD7IqCfF45Mk=
+
+Name: org/apache/xmlgraphics/util/uri/DataURIResolver.class
+SHA-256-Digest: bfU9uVQJM6arKJ1qglT0gEMPGRXfd6U3njxEiJkrX6Y=
+
+Name: org/apache/xmlgraphics/image/loader/spi/ImageImplRegistry$ImageLoa
+ derFactoryComparator.class
+SHA-256-Digest: E4GvgkXuyQp+bG4n51xnVM6BXZVXtwy6x/LdO9u00d0=
+
+Name: org/apache/xmlgraphics/util/i18n/ExtendedLocalizable.class
+SHA-256-Digest: OalliTx316vVdI4ESW6jlI0G+ykb9llTiylVXFUEWek=
+
+Name: org/apache/xmlgraphics/image/loader/impl/PreloaderBMP.class
+SHA-256-Digest: xolUfk8dyh3qnXErKWHeABYbXxiYgmn7E9HtzExm0U4=
+
+Name: org/apache/xmlgraphics/image/loader/cache/ImageKey.class
+SHA-256-Digest: /0iet73QVRxte9BdelS4LfpADRCDz+skEMJRVKdfUy4=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/PDFAAdapter.class
+SHA-256-Digest: H6ogATRujAYxZgplkKLVVZavJcABT/rOp5MPiuLAEtA=
+
+Name: org/apache/xmlgraphics/fonts/Glyphs.class
+SHA-256-Digest: qoxN8/yKRlrBSqyK8uwnqDeysB2ddj82tl4ziQglIbw=
+
+Name: org/apache/xmlgraphics/image/loader/impl/AbstractImage.class
+SHA-256-Digest: p/2RtmQ+7AwG5XI16AdSneict4Gn/J5naQXJWVrh/fA=
+
+Name: org/apache/xmlgraphics/java2d/ps/PSDocumentGraphics2D.class
+SHA-256-Digest: X5eL7HJa6wWYbhHFIxP9v9LpyYp/o/NeOsE9GfWFo6Y=
+
+Name: org/apache/xmlgraphics/xmp/schemas/DublinCoreSchema.class
+SHA-256-Digest: 0TnJP5aIk/+yMtJJsB5mqXlQTfZxhOA5qKe5J+4T130=
+
+Name: org/apache/xmlgraphics/image/loader/impl/AbstractImageSessionConte
+ xt$FallbackResolver.class
+SHA-256-Digest: LC02cQ2E3CrVlYnc5KOPH9quCHsnJRlky75K1RpHnUs=
+
+Name: org/apache/xmlgraphics/image/loader/cache/ImageCache.class
+SHA-256-Digest: a7pnH53Eh5TInKkefVUhEaoYoHqm/2YvLb8kBZ8ph+g=
+
+Name: org/apache/xmlgraphics/io/TempResourceURIGenerator.class
+SHA-256-Digest: myKoRTpiO8gCbHqW9PVMu22sV+A6fj1YIcjfDlOslww=
+
+Name: org/apache/xmlgraphics/image/loader/cache/ImageCacheStatistics.cla
+ ss
+SHA-256-Digest: IQgwx5TDtsoFCxZP3gc4jNGnsYoI7bExjLCYkzpEcDc=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGRed.class
+SHA-256-Digest: MZ7K74a8z0ngn0+ZeVJjVHRT5zKT0dR8g700TRjdHls=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/PDFXAdapter.class
+SHA-256-Digest: D5ONAB6+etv5tD6ChLGdwssTLVDmjGU2b3flUoEOWsE=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFField.class
+SHA-256-Digest: 6zLNwt5GmeVmIPb73rCUpBDxwaDpEbayoBNgfOpttho=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/ExtraSamplesType.class
+SHA-256-Digest: +I8bE+hY9NvZbDN2BCsGfCni9tWIfJAagoNUAuymLzA=
+
+Name: org/apache/xmlgraphics/xmp/Metadata.class
+SHA-256-Digest: UP4EqQSDIpGMETkzScEDyIdTVk6Ewv7NkKB5BmCD6sk=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGDecodeParam.class
+SHA-256-Digest: /B+Ln4H8nrU4CL8LSFVRolurTOLv4Iw4NZe1TOSoK40=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/PostScriptComment.class
+SHA-256-Digest: 02q+sK5VAhbRQ8eiNcp6IeVEref3iJnxm/UPCNU80w4=
+
+Name: org/apache/xmlgraphics/java2d/color/ColorSpaces$1.class
+SHA-256-Digest: 0uKEa3UgQqeQIaZmpgBC71R4Dmxu0Pp7q3sWz1nMXpg=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGImage.class
+SHA-256-Digest: v9kJfT9ysLTE2zdhsMJ2L1lWsXbaNU/Km89fTT4kSm0=
+
+Name: org/apache/xmlgraphics/util/i18n/LocalizableSupport.class
+SHA-256-Digest: t8pQpp8CxuJwmwtbAPoLwhLd3EZBYlHPc30T4J54XqA=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/PDFAXMPSchema.class
+SHA-256-Digest: I3hGy5CXgcAQgy9ZAMY+Zhj2KDoWafGvss61Kc+19X0=
+
+Name: org/apache/xmlgraphics/image/loader/impl/JPEGConstants.class
+SHA-256-Digest: u1zumQZB4qtYCkyDOIwjJ1+Djbq1tM8hT18ir7Fi+bg=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageConverterG2D2Bitmap.
+ class
+SHA-256-Digest: HC8M2L7LEvBDXwMmWaVImn2VOQYiUgpIefkZ2y7qFLM=
+
+Name: org/apache/xmlgraphics/ps/dsc/DSCFilter.class
+SHA-256-Digest: 7ud9AkWc5uy0GXkwY/ujCeGCIk99jvDCKxmNmYOkojM=
+
+Name: org/apache/xmlgraphics/util/io/Base64DecodeStream.class
+SHA-256-Digest: 64ynqO14JichxF7eeHLpAHSGvff0BrCfI92zChjj5Kg=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageRawJPEG.class
+SHA-256-Digest: 1LIpKmqWvXhuG7wExdnZbbhrACE/K4bohcSJkbqJugo=
+
+Name: org/apache/xmlgraphics/image/loader/spi/ImageLoaderFactory.class
+SHA-256-Digest: tXOAK/GmlB6UAXRi444B7kAgejQXppE/AcnIwzULFso=
+
+Name: org/apache/xmlgraphics/util/io/ASCII85OutputStream.class
+SHA-256-Digest: d1LshPBs7fLwF/E2mW8rx5Sbj9nvxyFfdmY0ojquOqs=
+
+Name: org/apache/xmlgraphics/java2d/GraphicContext.class
+SHA-256-Digest: LaoZ0EUPUnD3H7EyYLPm0Fd5k9RsNA+bFWy3n4/Xb3s=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/CompressionValue.class
+SHA-256-Digest: G5JecTRT3gi5ldbOVRFeg91j+OTMjhLDBAMgHi7NSdQ=
+
+Name: org/apache/xmlgraphics/image/codec/util/ImageDecodeParam.class
+SHA-256-Digest: bDaTyMh1EUOkOAVEKVq+TGnTqWh6uSvmVUdEXdbicD4=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageRawStream$SingleStre
+ amFactory.class
+SHA-256-Digest: ANH8PfZL2iUKRYfpJIBkXST3/1cX12QHHbR9AGyBBVU=
+
+Name: org/apache/xmlgraphics/image/loader/spi/ImagePreloader.class
+SHA-256-Digest: +1sSZFmQmhnlrPOuMGqzeKDwYqSYkeh1RB+9/8F67YM=
+
+Name: org/apache/xmlgraphics/image/loader/impl/PreloaderEPS.class
+SHA-256-Digest: qe0oNmyLo9GLM0HUg7HdMnrjGgXMjUaY/Q+QinV5ulE=
+
+Name: org/apache/xmlgraphics/ps/dsc/DefaultNestedDocumentHandler.class
+SHA-256-Digest: S6hbs2UQDVyUv/TOIfiJMYJMWaQxjOq8rL+Ss90hXFw=
+
+Name: org/apache/xmlgraphics/image/loader/SubImageNotFoundException.clas
+ s
+SHA-256-Digest: 7IUlvjAGp9AcBOZK25/lQBezCTJC2RxoWdv2FQ2+j0E=
+
+Name: org/apache/xmlgraphics/image/writer/ImageWriterUtil.class
+SHA-256-Digest: NrqVhwqQ508ciR1IfqX11MONxTGi4WN1CtcEOv/4GbI=
+
+Name: org/apache/xmlgraphics/image/loader/ImageContext.class
+SHA-256-Digest: TMDmENy/b+0ZAbVWb2yxoZigDLybHYoItc0w19h8nqk=
+
+Name: org/apache/xmlgraphics/java2d/TransformStackElement.class
+SHA-256-Digest: iHWybVDScWctT/Hy5QRX36dzyh0SaWGPmiAki1VQgSI=
+
+Name: org/apache/xmlgraphics/image/loader/impl/DefaultImageSessionContex
+ t.class
+SHA-256-Digest: 98hmt/UOqHykpNPHqYy/Bb9XS/Pm3vgULLUaL5MozYA=
+
+Name: org/apache/xmlgraphics/io/XmlSourceUtil.class
+SHA-256-Digest: q2y8NFy89xNEsvPjFoZNapZD8ma4v37Q1r8kmo5ow4o=
+
+Name: org/apache/xmlgraphics/image/codec/util/PropertyUtil.class
+SHA-256-Digest: ajmdLhbgidnCRCZL8ji688BI09DmJeX40/aE2vrQaAE=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentBoundingBox.class
+SHA-256-Digest: ZBZHtXbcK83Ucujv41jjSzYWCKihNxipoKxmCEk5EMM=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGEncodeParam$Palette.clas
+ s
+SHA-256-Digest: +UGWdboDamnRq9ZBar3cM4gziAEjP2lyulZgvtTCVlY=
+
+Name: org/apache/xmlgraphics/util/XMLizable.class
+SHA-256-Digest: P/wv4ilE53RmAsyPgciR8pOa5bypOMDEoQ4c//cw/v4=
+
+Name: org/apache/xmlgraphics/ps/PSImageUtils$2.class
+SHA-256-Digest: 0wAf2BYQvXT+UgWO+7HHbhHpkXaxZhJ6e6vlA1JAbZA=
+
+Name: org/apache/xmlgraphics/image/codec/tiff/TIFFImageEncoder$1.class
+SHA-256-Digest: f+vqsoPpgOFPe+S4YqwuUyLFvaA0Hzrs1UZZeA9Kryc=
+
+Name: org/apache/xmlgraphics/ps/PSProcSets.class
+SHA-256-Digest: f8D5lI2JAAgzmsyp7IuPU75H8/s4E7vWTMAOSvXEik4=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGImageDecoder$1.class
+SHA-256-Digest: yqhyClU0GMOJR3SC/fjFCRk7Y6bLS+Hx8EkzA732YJ8=
+
+Name: org/apache/xmlgraphics/java2d/color/profile/NamedColorProfile.clas
+ s
+SHA-256-Digest: tg+/QAe9Gd0dE/WpFI8I9P8U9QQMQkDUCpuCBhUSBx4=
+
+Name: org/apache/xmlgraphics/image/codec/png/PNGEncodeParam$Gray.class
+SHA-256-Digest: GUda+r3wpwxWk5J820CFgYpAWmr1PefSLDrVGa1fCbI=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderFactoryRawCCIT
+ TFax.class
+SHA-256-Digest: myTwOuKWGYBwYEwSawi8XXc2y9/EFh2B1/+NpB7D7B0=
+
+Name: org/apache/xmlgraphics/util/dijkstra/Vertex.class
+SHA-256-Digest: 6eTgZcKO0zFJJLVs8oJZboZ6CcCv0AwcPCdJNaIBuc4=
+
+Name: org/apache/xmlgraphics/xmp/schemas/pdf/PDFVTAdapter.class
+SHA-256-Digest: LLFsgf/DhMTn2xPO6i0uWy7IvkkhGvKZQZCX2FgSq7M=
+
+Name: org/apache/xmlgraphics/image/codec/png/ChunkStream.class
+SHA-256-Digest: 13Y+UU6cXFADNkxvUaHOEcnYzl1eS7ZA2H2FHMI+5XY=
+
+Name: org/apache/xmlgraphics/image/codec/util/SeekableOutputStream.class
+SHA-256-Digest: zoxKbB/PmMEk8J0u8WJ30BTaA5vJwO0Pgz1liRqHB2s=
+
+Name: org/apache/xmlgraphics/image/loader/spi/ImageImplRegistry$Preloade
+ rHolder.class
+SHA-256-Digest: sU3ywkQ5VT/M0z/vPFOHQJwjTi/nAUn9GI1ii7dRmIg=
+
+Name: org/apache/xmlgraphics/ps/dsc/events/DSCCommentIncludeResource.cla
+ ss
+SHA-256-Digest: JLyOKA/p1Qqk4xvLIOhkr+B/2dodV/hHbwThWKXX5v8=
+
+Name: org/apache/xmlgraphics/util/io/FlateEncodeOutputStream.class
+SHA-256-Digest: qLKg3uyVKMLUXZko4N0kbXPbsRExOrB83jZe6k0/Vz4=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageRawStream$ByteArrayS
+ treamFactory.class
+SHA-256-Digest: sG8By893z7lsQx+s+UNI24yudqXQ1ZckN9dO/ufz81k=
+
+Name: org/apache/xmlgraphics/ps/PSImageUtils$1.class
+SHA-256-Digest: MGBV2Lt8mcQVhMRrEsJD72FWXMLUzAyQ4x0Kji+yTxg=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageRawCCITTFax.class
+SHA-256-Digest: xBTg2StnmNBLZv3aRoevJNrZVvhi0pAWJNR8Q7D/bgs=
+
+Name: org/apache/xmlgraphics/image/writer/imageio/ImageIOPNGImageWriter.
+ class
+SHA-256-Digest: FafdI35nayHz354Ob37jGlTu0cVPmIjUuGjtgAV+RJY=
+
+Name: org/apache/xmlgraphics/java2d/color/DeviceCMYKColorSpace.class
+SHA-256-Digest: C+jGEaEL94/l5GisF4dppkLwSTnmqKd7mRlRP1WEseQ=
+
+Name: org/apache/xmlgraphics/image/loader/spi/ImageImplRegistry.class
+SHA-256-Digest: O4KVEHKLkcmBJTvKaOLNbApqnMABlw/6QVHZ6kKlyu4=
+
+Name: org/apache/xmlgraphics/image/codec/util/ImageInputStreamSeekableSt
+ reamAdapter.class
+SHA-256-Digest: UjJbMBicHhiLgZ6kMdwW21N6zJsXiL2yDOTvlzgdahc=
+
+Name: org/apache/xmlgraphics/image/loader/impl/ImageLoaderInternalTIFF.c
+ lass
+SHA-256-Digest: xOwTxqMte9sYGXFT4yYvn6hHGP9V8fKDaogLwO7wgbU=
+
+Name: about.html
+SHA-256-Digest: u/XVUzKREkVfa5ZSGkbBBvuVGjhgbzYrCGbM/rbu6y4=
+
+Name: org/apache/xmlgraphics/image/rendered/RenderedImageCachableRed.cla
+ ss
+SHA-256-Digest: Qy+i7HxsxnC7Mf3+lWOHwBwlro2JMB3MffWt/olLQCc=
+
+Name: org/apache/xmlgraphics/io/TempResourceResolver.class
+SHA-256-Digest: 3A1Rechqxe0PyLPq/XTRiO1EK7lyTGRqqPLPtiBlnyE=
+
+Name: org/apache/xmlgraphics/image/codec/util/MemoryCacheSeekableStream.
+ class
+SHA-256-Digest: rdm/k+KRufq2b/90b9wqyHGQkSgWfWa1udz5ZRWg5bE=
+
+Name: org/apache/xmlgraphics/image/loader/impl/AbstractImagePreloader.cl
+ ass
+SHA-256-Digest: MauciXwXqvCGsoUfDW75nPBWM/qbSCYwxbsY1rAX8sQ=
+
+Name: org/apache/xmlgraphics/image/codec/Messages.properties
+SHA-256-Digest: FplvW20EkaunopggsCf1sTYu1JFpQ7M8hJDAt8XILNA=
+
+Name: org/apache/xmlgraphics/image/codec/util/SeekableStream.class
+SHA-256-Digest: 2lsB8TNxO4I+DhHPqUCcUX6Zi0rR6erNSc01SoNDKwM=
+
+Name: org/apache/xmlgraphics/util/ClasspathResource.class
+SHA-256-Digest: 3nQkDkQxwl/XW1zvRMIZZtsky06PECSYLgGHzcTkAd8=
+

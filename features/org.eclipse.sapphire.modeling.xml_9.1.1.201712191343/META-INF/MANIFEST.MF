@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_131 (Oracle Corporation)
+
+Name: epl-v10.html
+SHA-256-Digest: T9ZK7tNA1ipkqNpLNx7+D20NdF9NLb76y6hsZG02vHI=
+
+Name: feature.xml
+SHA-256-Digest: XrNZWBHx79ouL0qenowUxGY6Cmy+LoYNikvtWD64quw=
+
+Name: feature.properties
+SHA-256-Digest: dPxYB8rsXt3iBTcG5E6sB01/vv7SFOmF5e+L0rURhHU=
+
+Name: license.html
+SHA-256-Digest: XRTr9U1iYwUuDgsJqV5sfiBwE/6QjegggCG5/idkBXo=
+

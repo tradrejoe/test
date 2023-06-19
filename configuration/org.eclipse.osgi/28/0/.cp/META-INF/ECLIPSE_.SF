@@ -1,0 +1,122 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: aqycm7yhUA+fLV/FtWwa7wxYKWk19
+ YoArXGK0p4Xz28=
+SHA-256-Digest-Manifest: pPMPQWkH0RgR05oO2J4DUzDMGKwg2/lz/oM/BEvdNG0=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: META-INF/mimetypes.default
+SHA-256-Digest: T02LXWvd6alPHDz9qyewFcM+Uod4CP4nFI0shQ6Ax2Y=
+
+Name: javax/activation/MimeTypeParameterList$RFC2045Parser.class
+SHA-256-Digest: qiHA8lFwgOPanuswVkHDnQ+OxtgRxNjoM+GvHzn+cvo=
+
+Name: javax/activation/DataContentHandlerFactory.class
+SHA-256-Digest: iuSe3ORv1Ns9UcQx6akZJ5i5r0yKkqtZOVB6s++XCVA=
+
+Name: javax/activation/DataContentHandler.class
+SHA-256-Digest: QPpoqrqjdt3PeS6pt/qff9uY1GnlgAvF+zdsPnQEsqM=
+
+Name: org/apache/geronimo/activation/handlers/ImageJpegHandler.class
+SHA-256-Digest: 48V2USgk/wmR4IE3JbNGXAwzgwjfsRYkVVXbYsf4r8M=
+
+Name: javax/activation/CommandObject.class
+SHA-256-Digest: eJBme5f7h3jVo0Coc0KHt+L9DNQSLEUwAdCC09k16Tk=
+
+Name: META-INF/mailcap
+SHA-256-Digest: I7qbA2WXezcJ+Y9LOw8mksGqNyOIuo/lJJX66QfxH54=
+
+Name: META-INF/NOTICE.txt
+SHA-256-Digest: qKBxAka1jvpApkUS712Fbulmy3dIYmCJTcGEjM0EZms=
+
+Name: javax/activation/FileTypeMap.class
+SHA-256-Digest: 3GUamhqwZvBwsy3UTNLBc6Mun2X8cHO1E7jeNjCTt1s=
+
+Name: javax/activation/CommandInfo.class
+SHA-256-Digest: kShUSWpFOQQ5uchw0TzN3CkoEYmEdXlzUcfC177IJfw=
+
+Name: plugin.properties
+SHA-256-Digest: fm/8Gy1YTKGHKajB7/wvMX9acknl909+pDiStbc4MgY=
+
+Name: javax/activation/MailcapCommandMap.class
+SHA-256-Digest: zFKp1jdkxR36lOztOPOgSJN2JcyUFbE+pzAakhErjt4=
+
+Name: javax/activation/UnsupportedDataTypeException.class
+SHA-256-Digest: SRC85GfQtfAfl8K68j3qA+/DzQzjSZlAY/Wy0wWaTks=
+
+Name: javax/activation/DataHandler$ObjectDataSource.class
+SHA-256-Digest: IMOODhJanbp0G63eAZ6NwYm77j87JjwPQULa+CFRQMA=
+
+Name: javax/activation/URLDataSource.class
+SHA-256-Digest: 8lE/1jAISHf1NTt/4vp0lVUVjrUOIAMk1Zmnq7S1t4c=
+
+Name: org/apache/geronimo/activation/handlers/AbstractImageHandler.cla
+ ss
+SHA-256-Digest: GPU+aIX8GhcHkR0IKAeYO0LwQFQLJ0x0nByR02K7TSc=
+
+Name: org/apache/geronimo/activation/handlers/MultipartHandler.class
+SHA-256-Digest: wCYmaGfdkzk0IvV2gCJW7xEHzUCDWBEiWHw4gaAZ1O4=
+
+Name: about_files/LICENSE.txt
+SHA-256-Digest: HZlZ2zguVFDxeShXlS7nWgtAUfxRoSS5aEuwOtSTtYc=
+
+Name: javax/activation/MimeTypeParameterList.class
+SHA-256-Digest: GXgmM3ytxbS+OnarhNZBYEp+/il/IBPdjOrCAfDBDDo=
+
+Name: about.html
+SHA-256-Digest: zT+TAjApGBFfXhJjnDKgNxbtdiv834CHUuI35thXTVE=
+
+Name: META-INF/LICENSE.txt
+SHA-256-Digest: E+oMrxjWtmySioZl9VYrr7QCE6wCo6Vnq8yTxIXHtWU=
+
+Name: org/apache/geronimo/activation/handlers/TextXmlHandler.class
+SHA-256-Digest: 6NVQtsG9Fvj4BAjyZGH5kCRMe9qoW5BantR4M0nE0l0=
+
+Name: org/apache/geronimo/activation/handlers/ImageGifHandler.class
+SHA-256-Digest: Feo8oOY2XYBaTDbd3rJ9kXVAV3D2r6XpikiGv1JeOzI=
+
+Name: javax/activation/MimeTypeParameterList$1.class
+SHA-256-Digest: Q56WA9/RfA5eA6dlPFF3HEP+LWXJoZx/cw9n4a0Su4c=
+
+Name: javax/activation/DataSource.class
+SHA-256-Digest: qnfqbdR7G46tAm4MlQoXP+uiCB/y7aDlG/oB5XtA0Z8=
+
+Name: javax/activation/DataHandler$ObjectDataSource$1.class
+SHA-256-Digest: YDu1Gt8ScCMpyFOp+WV8L+9RvGEh5E9knvl5S3PjP9o=
+
+Name: javax/activation/CommandMap.class
+SHA-256-Digest: PT/eBaEDKyF4dkN+iYMvDbNSQBBZlc+CS3SqtIGU+3s=
+
+Name: javax/activation/MimeTypeParseException.class
+SHA-256-Digest: hJVzjiCmyDTdZIEffW5hYGOQj6PwqF0z0mDf33pyzlk=
+
+Name: javax/activation/DataHandler.class
+SHA-256-Digest: 7wJjORd4fPpETfvyJaPC2EbLQbWOmnyxVHgTbchxvf4=
+
+Name: javax/activation/MimeType.class
+SHA-256-Digest: Sb4kCdwUNhnwbvgXSYF5A1ZY0NMm114UVXMVqOpBdeg=
+
+Name: javax/activation/FileDataSource.class
+SHA-256-Digest: 4ah1ZpzZ8+Z7IuhqvgkWQRJj2kP6/0ZZ8MbmgPWNm5s=
+
+Name: org/apache/geronimo/activation/handlers/TextPlainHandler.class
+SHA-256-Digest: JZ/Svt8iy+z9D+1pzJVLlaqgI8k7PA1hyJBvMg1BkIw=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: rEULrt3GCNggFeuBb9QugPCG48TouWYgzDw3Q1PhCCQ=
+
+Name: org/apache/geronimo/activation/handlers/TextHtmlHandler.class
+SHA-256-Digest: ODDH8tdtW8/SJkz20FckKXRUjm8pXv65oLRNkbNrlTw=
+
+Name: javax/activation/ActivationDataFlavor.class
+SHA-256-Digest: UXluhchAkak0BuAgiHlOGp40sCL+zYrGKE/kL55jHlE=
+
+Name: org/apache/geronimo/activation/handlers/AbstractTextHandler.clas
+ s
+SHA-256-Digest: PJp/Q6vsxR10lvZpfDDl/v/icgHckkUwG16ePCRaIEs=
+
+Name: javax/activation/MimetypesFileTypeMap.class
+SHA-256-Digest: P9vPq9XqW83bHFVKCJOIpZuiDaHIfOBbNXC/32+xzsI=
+
+Name: about_files/NOTICE.txt
+SHA-256-Digest: yX9+1nl9mpUbjN48QnG5IxbZiu9XdufkAtuzRIVMCc4=
+

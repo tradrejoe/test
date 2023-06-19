@@ -1,0 +1,285 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: eGTc8N97SpwBjm9Kati+jY/vAo/xq
+ 3cQd2u1W9y3BSg=
+SHA-256-Digest-Manifest: sH3l69Mn8sqNXxRykcbediB3Jc2YSDtud7sf6foTWEo=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: org/apache/batik/util/BatikSecurityManager.class
+SHA-256-Digest: R7EE8yVGO1BQtXTNZipca90faT3yq6QFWpSexysYEXM=
+
+Name: org/apache/batik/util/RunnableQueue.class
+SHA-256-Digest: 1d/ewDZklSFG3LqRrO0osFDIHy7C659M7zH2q8k6zPI=
+
+Name: org/apache/batik/util/DoublyIndexedTable$TableIterator.class
+SHA-256-Digest: cMFunTPpCGOiOTjjfcFYcSFpOH0A6lbEdyclRXqQXw8=
+
+Name: org/apache/batik/util/resources/Messages.properties
+SHA-256-Digest: SqMdCLPnuKnjuNO8rPlX6u19NnbFGyYu/hSM4vpTrug=
+
+Name: org/apache/batik/util/CleanerThread$SoftReferenceCleared.class
+SHA-256-Digest: +617HbkzxC7FbK1KX85ZTEPI/uy+EbwJxoEGgLToMI8=
+
+Name: org/apache/batik/util/XBLConstants.class
+SHA-256-Digest: 9DqrPtCZOx98h2U/rIqLk27dsz62rrSM/2eGGPR7Hag=
+
+Name: org/apache/batik/util/io/Messages.class
+SHA-256-Digest: qMwwHltW1Ms8yZuk+Ej8XUM2lV3ZF/P/DpH3sKq7bFY=
+
+Name: org/apache/batik/util/SVGFeatureStrings.class
+SHA-256-Digest: 3LzsdnbGGepDjaB4/i6CHxip7Y9L7eoiuW+g5iw9CEA=
+
+Name: org/apache/batik/util/ClassFileUtilities$ClassFile.class
+SHA-256-Digest: hPSs1XzAtnyXg26yXtNFRJMufhby8qI0QTbTpXDIBzY=
+
+Name: org/apache/batik/util/Base64DecodeStream.class
+SHA-256-Digest: pTCM1z0xT53TuRYisCo51UhZ7Ops2qPKgJA9Bt+Urj8=
+
+Name: org/apache/batik/util/SVG12Constants.class
+SHA-256-Digest: Utb8f3z0CDOBxDxrEHa+o9R+NcWOc8GtYuaSaRkSLOg=
+
+Name: org/apache/batik/util/ParsedURLData.class
+SHA-256-Digest: 9aIa/iYXS37Q0jRMPKu+TV48ipUJ1N9x14Q35Vp83x8=
+
+Name: org/apache/batik/util/ClassFileUtilities$Triple.class
+SHA-256-Digest: Bf3J4n06KBAG3Ir1rk5UwF1kMMLRrqYdad5NMrtTsm8=
+
+Name: org/apache/batik/util/SoftDoublyIndexedTable$Entry.class
+SHA-256-Digest: h8G0HelIuNsVsQiN5tlVWk9UASfvsq9Gv2LzI3Q/HaE=
+
+Name: org/apache/batik/util/SVGConstants.class
+SHA-256-Digest: mqds5XByAIAE7xIN3ceqz0Fn1uxKhE5a2Rn8P0Dn1fI=
+
+Name: org/apache/batik/util/DoublyLinkedList$Node.class
+SHA-256-Digest: 809LBu5SglRTLly9231W9yB5dx6pUbs4sEcYcSFvj70=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.util/p
+ om.properties
+SHA-256-Digest: rH2mOurKuEthcqaYhKfZmXMlUXIFU3yrRJMZIOHC9Yk=
+
+Name: org/apache/batik/util/ParsedURL.class
+SHA-256-Digest: nkFvTAkRdtUTaoZCw2QDtThaj5uthyogPKF4qVFYB64=
+
+Name: org/apache/batik/util/Messages.class
+SHA-256-Digest: mOnw5f/Jh28YgtQO5ZDVdFCWKWGOZ8mAw2SOEPnFvkQ=
+
+Name: org/apache/batik/util/CleanerThread$PhantomReferenceCleared.clas
+ s
+SHA-256-Digest: Aq4JDh5XmTv0/QsUbuLrrdYzGzTuZq7Z6kY7cg2CcVI=
+
+Name: org/apache/batik/util/EventDispatcher.class
+SHA-256-Digest: yrd1xi48MLNql3QlS2DTimw54pJMpIUohgDI5wc51uo=
+
+Name: org/apache/batik/util/MimeTypeConstants.class
+SHA-256-Digest: Z74NUY3VpB95/PkH8Rj52nteQ40De5uwuoJKGccCvW4=
+
+Name: META-INF/LICENSE
+SHA-256-Digest: LrptLnlAZef2H5MaJHWgI43HftW21S8i5kGmxFn7Xb4=
+
+Name: org/apache/batik/util/RunnableQueue$IdleRunnable.class
+SHA-256-Digest: w6vud0o7YrnDPevKEBMiMdvl5dQNUKdXQQkzZhHg0dE=
+
+Name: org/apache/batik/util/Base64EncoderStream.class
+SHA-256-Digest: OrwSBSTqiI2t6emdQKF5+V/RjAp9nWg/RXo75e0LDEw=
+
+Name: org/apache/batik/util/RunnableQueue$RunnableQueueState.class
+SHA-256-Digest: Q/Zmmxaw6A7cDGm3WmU6EzygxW/6piCGZyF9ORhVybQ=
+
+Name: org/apache/batik/util/resources/Messages.class
+SHA-256-Digest: gQx/vwhJq4kDyluzYpKosOGnQ5BOtsFaHCzvrF4LL+s=
+
+Name: about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: 70sq4AoiKPmbnFMVhYi1e9oPczCS6WKy+maEqwyunWY=
+
+Name: org/apache/batik/util/RunnableQueue$RunHandler.class
+SHA-256-Digest: K3lXHb9UI0dk7bCM3CFK0MdRpc+eEVzf/GcQ59jW58I=
+
+Name: org/apache/batik/util/CSSConstants.class
+SHA-256-Digest: nL5NHGvkwwrVbxPhmroUYHrs7lppEShD6EA1iiPDFeo=
+
+Name: org/apache/batik/util/resources/ResourceFormatException.class
+SHA-256-Digest: Dnhp+71V4ef5FwFTMOF7z/ZymJdaQpW00jd/WHvhIcM=
+
+Name: org/apache/batik/util/ClassFileUtilities$Jar.class
+SHA-256-Digest: kx10OMsiUSOdvlNosRwbAOvuSR+qJjdONAV9nNHin5Y=
+
+Name: org/apache/batik/util/io/CharDecoder.class
+SHA-256-Digest: jYGYwoN6EulqJvh9ItY1HaeiJjN1oMsjuViH67ozjvE=
+
+Name: org/apache/batik/util/SVG12CSSConstants.class
+SHA-256-Digest: S5q4m3a14ZiZelQuDWEdkNBwGnNjRMJxGXrKqzHeVmg=
+
+Name: org/apache/batik/util/AbstractParsedURLProtocolHandler.class
+SHA-256-Digest: aNOM6IAy76gSYAWiT+hqHSwMLJvFm273Rz1UkXTozuk=
+
+Name: org/apache/batik/util/PreferenceManager.class
+SHA-256-Digest: YL/Yzd/OpxdYbsVFimIt24fmwFd9YbEVVj4qYxtaVf4=
+
+Name: org/apache/batik/util/ApplicationSecurityEnforcer.class
+SHA-256-Digest: AePZz2VEZQg67SpHOhr+0h9YfmoR4gquofRQnv6fg/c=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: WbuSO9cNke33zC0j6n7sgM96PHpTwwK3ntbv1NUJS9w=
+
+Name: org/apache/batik/util/io/StringNormalizingReader.class
+SHA-256-Digest: dMNPwPd/1y8GcZ6gcsKL53KasurNTqBsZ+dARiD6SbE=
+
+Name: org/apache/batik/util/RunnableQueue$Link.class
+SHA-256-Digest: NXOJGrAev8Cqrj5oSd6x5Ps+1zrfgoK16p/k8B0q6wI=
+
+Name: org/apache/batik/util/RunnableQueue$1.class
+SHA-256-Digest: zVBfkH5ne1ej+Eyw3U5cBB0zuaBUjqjwriVMvGrxtQY=
+
+Name: org/apache/batik/util/io/StreamNormalizingReader$CharDecoderFact
+ ory.class
+SHA-256-Digest: vCZEGPVsDgIxcGTYzO2qNb1EM7014uNy+cML3tz0cg0=
+
+Name: org/apache/batik/util/CleanerThread$WeakReferenceCleared.class
+SHA-256-Digest: aXnNmMLbPxFvnhw2FKJv4OprzEzyLNKG4g34LA+AhIQ=
+
+Name: org/apache/batik/util/EventDispatcher$Dispatcher.class
+SHA-256-Digest: 0+hW2fvi9YZAyiUmykbFqz4dpX4L59uRqYmyhDvB65M=
+
+Name: org/apache/batik/util/Platform.class
+SHA-256-Digest: A6j9jZbvYZUEx5BtkjfpEwTsqjN0vveXuDEtYMeZIos=
+
+Name: org/apache/batik/util/RunnableQueue$RunHandlerAdapter.class
+SHA-256-Digest: Lnpfb0EpdJVzCkr/5uHLpRG/t0Vm9/LW7w/FOJVnng4=
+
+Name: org/apache/batik/util/io/GenericDecoder.class
+SHA-256-Digest: ZwGHkE+2oqz+R6DdmoZ1X1BiuP8Zniq33OxXyXW5V7U=
+
+Name: org/apache/batik/util/ParsedURLProtocolHandler.class
+SHA-256-Digest: dpEWTto5tKhHdvH3kBR7z2J7w1oswEhMXl2aep89wTI=
+
+Name: org/apache/batik/util/ParsedURLDataProtocolHandler.class
+SHA-256-Digest: yVa/ZiXoui8NeYGFiFk/JxK21eHQMKeefaEe6ZUuYGE=
+
+Name: org/apache/batik/util/DOMConstants.class
+SHA-256-Digest: b6CjxJZkP6CMPBMZB2B5lpo9UCxJjlgi2XV1yAvFeqk=
+
+Name: org/apache/batik/util/io/StreamNormalizingReader$UTF8DecoderFact
+ ory.class
+SHA-256-Digest: Ts0/Eb7D/uuJDCZLhqgvj4sHhfNmyo/qJOt2XZi2tZs=
+
+Name: org/apache/batik/util/resources/XMLResourceDescriptor.properties
+SHA-256-Digest: z9fs0zltrpZF29Y49SRcvwDVzoPCZ82qHbsNMLmN2mI=
+
+Name: org/apache/batik/util/XMLResourceDescriptor.class
+SHA-256-Digest: rydHsR2JFkMFVeU0MnFffJhNWC7L/CaNeqgR6xXOSwc=
+
+Name: org/apache/batik/util/ClassFileUtilities.class
+SHA-256-Digest: vM2z1YHcWAXKxIsJG/JV4N7fw9x7h1wuoSuSkF2twqU=
+
+Name: org/apache/batik/util/SoftDoublyIndexedTable.class
+SHA-256-Digest: UWowRdLVBANvqptQlIB8KiEGldo7ghp8/ssN0Bf4o0M=
+
+Name: org/apache/batik/util/DoublyLinkedList.class
+SHA-256-Digest: +DKUX/bm7eauFvhSq4SkgFsrNQgA+QUWmNFvwo67mGI=
+
+Name: org/apache/batik/util/SoftReferenceCache$SoftRefKey.class
+SHA-256-Digest: J2oAwHrbad+LpVNPFQHBp5Gj8Lst4wqHI9W2Mtu9aOY=
+
+Name: org/apache/batik/util/io/UTF8Decoder.class
+SHA-256-Digest: 1JIrkhS7ZkbRPaOMLQ5Po4C2WCo27Hs3DnUaQzOfn5U=
+
+Name: org/apache/batik/util/Service.class
+SHA-256-Digest: G6kQhMq/dGOOjVII1/cBlEwYSS7tOD42u8eKcRu0trI=
+
+Name: org/apache/batik/util/io/StreamNormalizingReader.class
+SHA-256-Digest: Jvr9GUCDkL37G4NwuaHftlD/rpmwvnFNOxAtuSGjHNo=
+
+Name: org/apache/batik/util/resources/ResourceManager.class
+SHA-256-Digest: Ykusgsd/xJKrTAuAB3TrOJE8NIEPfEUrGejJl7mYwSM=
+
+Name: org/apache/batik/util/SVGTypes.class
+SHA-256-Digest: HVX/4LGit5QK3iICLlL6x3vkfBarQYmRzBIeB6O7hc8=
+
+Name: org/apache/batik/util/CleanerThread.class
+SHA-256-Digest: VdO+zmNp8Z7rU2HUFNsuT4LKk0huvxHuGhYiOjoAzdc=
+
+Name: org/apache/batik/util/io/UTF16Decoder.class
+SHA-256-Digest: 3Bcep2k8yfup6x4H4A6CPBLatFwoACdy+aFI/ffhQiw=
+
+Name: org/apache/batik/util/RunnableQueue$LockableLink.class
+SHA-256-Digest: p9pSyWMxvQ92OSDI+nppOHegQpVzRZwsJXDImhgsKDg=
+
+Name: META-INF/NOTICE
+SHA-256-Digest: Fmj6Ogt+M4GK7JeZfVZhfpinhJ/YubsxM4Xjdu+tUqY=
+
+Name: org/apache/batik/util/io/resources/Messages.properties
+SHA-256-Digest: Geok2Twyo0sARHrqvAFI2C56W6qZPVo9cPcWzHC1XYg=
+
+Name: about.html
+SHA-256-Digest: JuNMYcV4Drztzn2VPqdv3SxbzKTdCYswdiPXjoeFce4=
+
+Name: org/apache/batik/util/SMILConstants.class
+SHA-256-Digest: A+7jrf6e9fMZ5QTPpcpilUj5I1EMjhgoWPchnuSwKKI=
+
+Name: org/apache/batik/util/io/StringDecoder.class
+SHA-256-Digest: SHe24XMNuP/7/QgxXWAXPcI4tLUGzVSoyGtryKPOatw=
+
+Name: org/apache/batik/util/DoublyIndexedTable.class
+SHA-256-Digest: NCD00qSg0gV8cWqPlBPwpXTdgShBiX2hOx6fWZWOpU8=
+
+Name: org/apache/batik/util/io/StreamNormalizingReader$ASCIIDecoderFac
+ tory.class
+SHA-256-Digest: tcEPyzrfHdCn9LCy71sqetNHQwH07qnIj2VL617Tx7Y=
+
+Name: org/apache/batik/util/io/StreamNormalizingReader$UTF16DecoderFac
+ tory.class
+SHA-256-Digest: gp3umxdxqjTuh8zLRDDsvSJmP3Vdt6SPIMHAWH74zbE=
+
+Name: org/apache/batik/util/ParsedURLDefaultProtocolHandler.class
+SHA-256-Digest: 1P66tuaMKpSq/qcQXTTxvaMStiC/eaOvYk8hGN+ay4k=
+
+Name: org/apache/batik/util/HaltingThread.class
+SHA-256-Digest: OrN0Gq5yjxLUJarOdReK+kUT8Csj/kPa7tkShtAvjhk=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.util/p
+ om.xml
+SHA-256-Digest: I8sEm9WTLC9NiufZFtGZdHStHwRIoYuWA49QjFdoQsY=
+
+Name: org/apache/batik/util/SoftReferenceCache.class
+SHA-256-Digest: 7LwtlqbXpqwwAoHDnihwE+GCCd2Fas7z3YbFLKXatWE=
+
+Name: org/apache/batik/util/DoublyIndexedTable$Entry.class
+SHA-256-Digest: EQDOBDW5F1uxeleXGkKXSM5Rq384KNNz93nQTXR2Yp8=
+
+Name: org/apache/batik/util/io/AbstractCharDecoder.class
+SHA-256-Digest: EqYJXblOsRCGPMrM9/afujBffxHfcEMxvgzJj+LNhWs=
+
+Name: org/apache/batik/util/DoublyIndexedSet.class
+SHA-256-Digest: yZBeMYBrojCd3b86fSBZfdxzrYS364LA69/nSKj5+4k=
+
+Name: org/apache/batik/util/io/ASCIIDecoder.class
+SHA-256-Digest: 60WRICrM1ybJmmtewhr008I4GZlBxBGIXyacDLEAVj4=
+
+Name: org/apache/batik/util/io/StreamNormalizingReader$ISO_8859_1Decod
+ erFactory.class
+SHA-256-Digest: zC+zvVVB7kaghbwyNZTh6FlxSZbWBsQ7F4olyfziBRo=
+
+Name: org/apache/batik/util/io/NormalizingReader.class
+SHA-256-Digest: PdcDdGh6QxaBsoMphRy1iVsw8ClrVcOid7LaJXdgXGw=
+
+Name: org/apache/batik/Version.class
+SHA-256-Digest: P3lJ9PFO0hVae1+x0k6FFARtVi9c6eH1Ihx2/Uf1XmE=
+
+Name: org/apache/batik/util/CleanerThread$ReferenceCleared.class
+SHA-256-Digest: tMskOtxO5KOLdflVW5kncC+hugeZC1F6VmNS6zLAICg=
+
+Name: org/apache/batik/util/io/ISO_8859_1Decoder.class
+SHA-256-Digest: xIaHxGFM2jHhKsXK2KL3OmIhZodzzkqYQ8khfQYu+Kw=
+
+Name: org/apache/batik/util/EventDispatcher$1.class
+SHA-256-Digest: Qrecrr4l22HgoRcwVNDs36kNk/CntYq/NFiAcRKy/4Q=
+
+Name: org/apache/batik/util/ParsedURLDataProtocolHandler$DataParsedURL
+ Data.class
+SHA-256-Digest: jqXX7D8mVaUr8fOtGLsUtmWE9D9hfDhEQyuU2L36c0k=
+
+Name: org/apache/batik/util/ParsedURLJarProtocolHandler.class
+SHA-256-Digest: tnZJnFmGuQQ3Vk7i9PZVU8C0WpBDJOCFU27Mc+tNHV0=
+
+Name: org/apache/batik/util/EncodingUtilities.class
+SHA-256-Digest: LBpBziB+zC9jTpK5lsAQzaB+Gq6cAwC7VvOYdkfqW6w=
+

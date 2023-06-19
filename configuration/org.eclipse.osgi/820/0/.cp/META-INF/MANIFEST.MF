@@ -1,0 +1,833 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name.0
+Bundle-SymbolicName: org.eclipse.wst.validation; singleton:=true
+Bundle-Version: 1.2.801.v202007142017
+Bundle-Activator: org.eclipse.wst.validation.internal.plugin.ValidationP
+ lugin
+Bundle-Vendor: %Bundle-Vendor.0
+Bundle-Localization: plugin
+Export-Package: org.eclipse.wst.validation,org.eclipse.wst.validation.in
+ ternal;x-friends:="org.eclipse.wst.common.tests.validation",org.eclipse
+ .wst.validation.internal.core;x-friends:="org.eclipse.wst.common.tests.
+ validation",org.eclipse.wst.validation.internal.delegates;x-internal:=t
+ rue,org.eclipse.wst.validation.internal.model;x-internal:=true,org.ecli
+ pse.wst.validation.internal.operations;x-friends:="org.eclipse.wst.comm
+ on.tests.validation",org.eclipse.wst.validation.internal.plugin;x-frien
+ ds:="org.eclipse.wst.common.tests.validation",org.eclipse.wst.validatio
+ n.internal.provisional;x-internal:=true,org.eclipse.wst.validation.inte
+ rnal.provisional.core
+Require-Bundle: org.eclipse.core.resources;bundle-version="[3.4.0,4.0.0)
+ ",org.eclipse.wst.common.frameworks;bundle-version="[1.1.200,2.0.0)",or
+ g.eclipse.core.runtime;bundle-version="[3.4.0,4.0.0)",org.eclipse.wst.c
+ ommon.project.facet.core;bundle-version="[1.3.0,2.0.0)",org.eclipse.cor
+ e.expressions;bundle-version="[3.4.0,4.0.0)"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/webtools
+ -common/webtools.common.git;path="plugins/org.eclipse.wst.validation";c
+ ommitId=9200809ecb5d8b98af3b1e58277169c39f8dab50
+
+Name: plugin.xml
+SHA-256-Digest: 4D68bOB47I6+QqyEnyZPyst0yPGzE2Rv3WdBlBrjsjs=
+
+Name: org/eclipse/wst/validation/internal/model/GlobalPreferences.class
+SHA-256-Digest: 40IyjDDNtSg3Osg529WqkEZ8g5htVXFvhtzZazJC99Y=
+
+Name: org/eclipse/wst/validation/internal/InternalValidatorManager.class
+SHA-256-Digest: busBLs4szwfLnfYgW1RYfWz+0+6qE5L2LKqiz/FGCsw=
+
+Name: org/eclipse/wst/validation/internal/core/MessageFilter.class
+SHA-256-Digest: V7V5J7JcYoXCD3alVPr5zH7w6JpoCO+NPgBQeSlcriU=
+
+Name: org/eclipse/wst/validation/internal/PreferencesWrapper$Preferences
+ WrapperTransient.class
+SHA-256-Digest: 0qJ9uLIedv1sX+F6HIYLYrqKVd9V0J+XC9Ze+mbKaAY=
+
+Name: org/eclipse/wst/validation/internal/operations/ReferencialFileVali
+ dator.class
+SHA-256-Digest: G3pU/kLTfb8ARMrvKZZ8/4fgkLuXJzdvWTaF0SE1YqQ=
+
+Name: org/eclipse/wst/validation/internal/ValBuilderJob$1.class
+SHA-256-Digest: m/gUPF3lfYvmcfaCYEStUtsPkuTHKq6JYJSPMrJNra0=
+
+Name: org/eclipse/wst/validation/internal/delegates/ValidatorDelegatesRe
+ gistry.class
+SHA-256-Digest: U4DKJ5kbnhKg5tv2sYPUUIS9h/+ddODgLlVIQinBJz4=
+
+Name: org/eclipse/wst/validation/internal/plugin/ValidationPlugin.class
+SHA-256-Digest: 7/JPHGx8ZEygvALByUz/k4yh47em5eD7gFsiJBZC8d8=
+
+Name: org/eclipse/wst/validation/ValidationResult.class
+SHA-256-Digest: x4WgnZKmqbX3HHFxmGTKoQm+KdowZAVi9b4zTCPPNu8=
+
+Name: org/eclipse/wst/validation/internal/ConfigurationConstants.class
+SHA-256-Digest: BxfqpZU1vswHIrECyIop8UjWBk2vdYhA5PSssEcQ6A8=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidationOperation
+ $1$1.class
+SHA-256-Digest: 9HZWoGqY7dbsJAMFw/RWFyIg3fzCQlmWgGOBPaFZcuU=
+
+Name: org/eclipse/wst/validation/internal/core/ValidationException.class
+SHA-256-Digest: 5prCEcwjPuh8CRk9zA8xdp+NNMBq43J26FcoUFHawws=
+
+Name: org/eclipse/wst/validation/internal/DisabledValidatorManager.class
+SHA-256-Digest: H23zXDJO9rVBAKWTtqlgdCEC+7xp/gq6wPC+eLTBk+A=
+
+Name: org/eclipse/wst/validation/internal/model/FilterRule$ProjectNature
+ .class
+SHA-256-Digest: T/MH5aDAEp4zunVOdILiqtxB+t11GB84PN33fzBw3UI=
+
+Name: org/eclipse/wst/validation/ValidationResults.class
+SHA-256-Digest: W8o9z1zVcUF+ixRl8LRCr4PD57RlFfff8T+CrH7YWb4=
+
+Name: org/eclipse/wst/validation/internal/IValidationSelectionHandler.cl
+ ass
+SHA-256-Digest: +gq6e6OXJXvKsOluuJ47bn6c87/5jwkxyR5jgo0HS04=
+
+Name: org/eclipse/wst/validation/internal/EventManager.class
+SHA-256-Digest: ZySoc5hahgMRGvWDu0FzGwdCIOHVHWVZj4gg5BYvbiE=
+
+Name: org/eclipse/wst/validation/internal/operations/LocalizedMessage.cl
+ ass
+SHA-256-Digest: JhqmbsDWk7X6WfpiBsnPjlIEktF72xAWYntW3taLAyI=
+
+Name: org/eclipse/wst/validation/internal/provisional/core/IValidatorExt
+ ender.class
+SHA-256-Digest: VLAosZ0ac+XK0aQWFI9wFN9ZgiVorr9bHxIVSaL5rkg=
+
+Name: org/eclipse/wst/validation/Friend.class
+SHA-256-Digest: iTUAUVe0cV7ycyCMbN/eg6KIC5xIbbvr6WlxE19NKHc=
+
+Name: org/eclipse/wst/validation/internal/delegates/ValidatorDelegateDes
+ criptor.class
+SHA-256-Digest: mW+fbTomvqNZXEHXdpZ/jra8JSZ62EcDKWNHnscA2QA=
+
+Name: org/eclipse/wst/validation/internal/VThreadManager$Jobs.class
+SHA-256-Digest: mBED9yhpM2Rsrbx3d9b64WygZCjKXYVWWlNAKmYhqRQ=
+
+Name: org/eclipse/wst/validation/internal/ExtensionConstants$Rule.class
+SHA-256-Digest: Oi8EcUQ2yHq861voAFRounwq3SMBWv4p3JsFdunRK3I=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.validat
+ ion/pom.properties
+SHA-256-Digest: YrmBu1Ys31wbc+7+zel0+MGAg3rXrBdpTPZCo6ngtn0=
+
+Name: org/eclipse/wst/validation/Validator$V1$V1Copy.class
+SHA-256-Digest: wI1gmcAyvxN0rlbLGesukqzkOYUOI+mcupLaWLRbDmc=
+
+Name: org/eclipse/wst/validation/internal/package.html
+SHA-256-Digest: UEtk2+PTfRFTdnJ1jj9BXlpWtpCM8LzHwgT4IFF2Kyo=
+
+Name: org/eclipse/wst/validation/AbstractValidator.class
+SHA-256-Digest: O0ynZqJ26Zw9FC0bmJiYwHayCHoSBTtK13hwpkyJh0M=
+
+Name: org/eclipse/wst/validation/MessageSeveritySetting.class
+SHA-256-Digest: M0ATJ0EHh1ZeCE8E/fj1vfyt6eEJ8o10btQQUuhBPBc=
+
+Name: org/eclipse/wst/validation/internal/FilterUtil$2.class
+SHA-256-Digest: 30I5WpP0pc4dLb3ya+NPOCJXN1cTYzL4XM/c0IOTwOY=
+
+Name: xsds/removeV2Validator.exsd
+SHA-256-Digest: oYAB3+zW7hDhgXhGnAG8NS+vJ95e7k163/o96oo6Qgg=
+
+Name: org/eclipse/wst/validation/internal/ValidationRegistryReader.class
+SHA-256-Digest: YdczrjIAC8gccxuuF4dRtmQGsxd4Cn78ZJkX97PYQuU=
+
+Name: org/eclipse/wst/validation/internal/ValManager$HasValidatorVisitor
+ .class
+SHA-256-Digest: pX4cfVNgyk3eh32p6nDHgWyHbVU+VOYM5jdCxxtOaxg=
+
+Name: org/eclipse/wst/validation/internal/PerformanceMonitor$Counters.cl
+ ass
+SHA-256-Digest: gMOHGxGQCyPILmA9HyG++FhfbJFadmzR/p25akTpZcQ=
+
+Name: org/eclipse/wst/validation/internal/ContentTypeWrapper.class
+SHA-256-Digest: PwyTs4FfkMBz+fhfPzpdoUgzldTI5z+tAkdJ7R9yUKw=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidationBuilder.c
+ lass
+SHA-256-Digest: NDT+jus50UqngtJ3mZ5c9s538KophX7PfieE3UlRPIs=
+
+Name: org/eclipse/wst/validation/DependentResource.class
+SHA-256-Digest: qmf52djzsiSu96hNHFoFQlUfXBoCxrKVeT1hKVdElmU=
+
+Name: org/eclipse/wst/validation/internal/model/ProjectPreferences.class
+SHA-256-Digest: 3eAXNhGy4eKWH/pfIfAN6rVdlEj2kSCFAIvBlGc+hTc=
+
+Name: org/eclipse/wst/validation/internal/ExtensionConstants$RemovedVali
+ dator.class
+SHA-256-Digest: 6pR9EdkPIXR9yhb0MTkoY//CtM2iJuA1UfSN8ErQci4=
+
+Name: org/eclipse/wst/validation/internal/FilterUtil$1.class
+SHA-256-Digest: S2stE+Ecqj4p+H/CI1drcZhRYVkbgTMWmwFPUe8Xp1A=
+
+Name: org/eclipse/wst/validation/internal/IValChangedListener.class
+SHA-256-Digest: oVjLr52jz4Buar+UydQYqORDt3xDBTuggam/fSVT/2Y=
+
+Name: org/eclipse/wst/validation/internal/provisional/core/IReporter.cla
+ ss
+SHA-256-Digest: 527d1NZS9jNIw29r0y01HpBrLQWbgGjhEzEccCquBZM=
+
+Name: org/eclipse/wst/validation/IPerformanceMonitor.class
+SHA-256-Digest: UWvh+CZwru5+tJF4CkfHANpzV1XFiSHHg7oC5fURBSM=
+
+Name: org/eclipse/wst/validation/IValidatorGroupListener.class
+SHA-256-Digest: UXgd6tRO3ZAtdvFvxgkL1sYl4Ejv/00pWUCW85CxW7c=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidationConstants
+ .class
+SHA-256-Digest: dVZY9ESVidj5mOZbIc1122WtqI+bhG2m5DdqO2kmWiw=
+
+Name: org/eclipse/wst/validation/internal/ResourceConstants.class
+SHA-256-Digest: OaGVDHGHs+Eney108BYjgSxwnaeXCCB7XEyerPY6gHM=
+
+Name: org/eclipse/wst/validation/internal/RegistryConstants.class
+SHA-256-Digest: Qrdxto0u9JKfwAFmelG8NLcz1R4p1kTDDPCp5N3ESoA=
+
+Name: org/eclipse/wst/validation/internal/provisional/core/IMetaModelCon
+ text.class
+SHA-256-Digest: BeZr7SF0NhcVkQkDYK9skUwamCiFjNpoB/Oh63oac3M=
+
+Name: org/eclipse/wst/validation/IDependencyIndex.class
+SHA-256-Digest: I7qA1LgSiIbU6VYm62+TW7pZJQMf4ezAd+GRRR4kdWA=
+
+Name: org/eclipse/wst/validation/internal/operations/ResourceHandler.cla
+ ss
+SHA-256-Digest: zyhRGGC3z4EDrPQFBRcwQLAqSZ8zbgHULfTwBEH+TV0=
+
+Name: org/eclipse/wst/validation/internal/PerformanceMonitor.class
+SHA-256-Digest: XWYLKxxWD+lIAkzkVeFwKDJOsznE9czbkU4avOOmv74=
+
+Name: org/eclipse/wst/validation/internal/core/Message.class
+SHA-256-Digest: Y933s5vCLm+BcVe7arVtVE7OUqj7z8pTV7n59AKQLqs=
+
+Name: org/eclipse/wst/validation/IMutableValidator.class
+SHA-256-Digest: UFxQzqttuTNgv5TqBvwfyp8cDETrtssE9oDKb3r2/SQ=
+
+Name: org/eclipse/wst/validation/internal/ValidationResultSummary.class
+SHA-256-Digest: kt2Qguu514h5uAX+iSroRQChLrhxzmjBpqzaOk5gmmQ=
+
+Name: org/eclipse/wst/validation/internal/core/FileDelta.class
+SHA-256-Digest: gGZSRrHEmTPT6t2klWoyjjjmdp+f1tZC7lbJwaTvrBQ=
+
+Name: org/eclipse/wst/validation/internal/operations/ReferencialFileVali
+ datorHelper.class
+SHA-256-Digest: Hb/Mqeor0MdWMgkXYhDyHlPI8rXEHstrSvpnOn1/oeY=
+
+Name: org/eclipse/wst/validation/MutableWorkspaceSettings.class
+SHA-256-Digest: NHXdiLhEQ52Sm7YN0MMrf6dqb9ffqYEtogWoq5nhNOo=
+
+Name: org/eclipse/wst/validation/internal/FilterUtil$VMDRecorder.class
+SHA-256-Digest: fB8Qm3dcIKgnYcH9+wgbkxZINQgUbfKxLe/MVIyTqEc=
+
+Name: org/eclipse/wst/validation/internal/ValManager$1.class
+SHA-256-Digest: 6v+nd+OGZGeXK4Zds32vuVgMlmt5Uj6eLnB2IMrbmzc=
+
+Name: org/eclipse/wst/validation/internal/FilterUtil$VMDDeltaVisitor.cla
+ ss
+SHA-256-Digest: X22mjqFH6vkTLu3fTS78hrbx/WjG3C6Hdij+VGCwjOA=
+
+Name: org/eclipse/wst/validation/internal/ReferencialFileValidatorRegist
+ ryReader.class
+SHA-256-Digest: a1mUE8k2+2eWCiVv7oTeuiFBBBQbIz0iauThcQfdQlM=
+
+Name: org/eclipse/wst/validation/internal/provisional/core/IMessage.clas
+ s
+SHA-256-Digest: /W48Le8A8jgyI+Y/tmyM1Vosa1jmd9m+W1VI//1IjgU=
+
+Name: org/eclipse/wst/validation/internal/PreferencesWrapper$Preferences
+ WrapperPersistent.class
+SHA-256-Digest: XSclXNQT7k7u81i58d7ceGLp+3JsxNP3UX14y0e+p6A=
+
+Name: org/eclipse/wst/validation/internal/Tracing$DeltaLogger.class
+SHA-256-Digest: nzRQJ/rRkBEvjUtHXMBb7VCBVbxNoodVGZRUeo1yNZM=
+
+Name: org/eclipse/wst/validation/internal/Deserializer.class
+SHA-256-Digest: aaTMDEV4N6yCOhfzIxhOeGJk4FRpN5z/7zrerQf9zeE=
+
+Name: org/eclipse/wst/validation/internal/delegates/IDelegatingValidator
+ .class
+SHA-256-Digest: mltatV29YL2z99sdzmuxIPwZmHXu+XZ5/5hCg31yBL4=
+
+Name: org/eclipse/wst/validation/internal/ValidationSelectionHandlerRegi
+ stryReader.class
+SHA-256-Digest: 4bSdbEMj6bLWgk+ma9ZnDX3rLQp521QUxOl7EVaNUz0=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidationOperation
+ $ValidationLauncherJob$1.class
+SHA-256-Digest: WrWoH/eG+PlJsZNms0PvOtVIeV5wSXQRydn2Ap5BVb4=
+
+Name: org/eclipse/wst/validation/internal/provisional/core/MessageLimitE
+ xception.class
+SHA-256-Digest: so7mGBADyr+e/vZWvmAyvcDTUVmCzu3B/rPMQrb5MT0=
+
+Name: org/eclipse/wst/validation/internal/model/FilterGroup$FilterExclud
+ eGroup.class
+SHA-256-Digest: UPCj+d7paDvlvFBhhXE94X79OIjKIuf3r+GcSGi9gFw=
+
+Name: org/eclipse/wst/validation/internal/model/FilterRule$ContentType.c
+ lass
+SHA-256-Digest: 8RxjekcnV1NvLRycyok4wvLntYQ3jpxSw6wods32AR0=
+
+Name: xsds/validatorExtSchema.exsd
+SHA-256-Digest: ERkBXyF/4nVpw3sRKyjoVp6pzzWdVh78TMrS0lNDOqc=
+
+Name: org/eclipse/wst/validation/internal/ValManager$ValidatorProjectMan
+ ager$ValProjectMap.class
+SHA-256-Digest: mxnMDhcvDFZp+tCaXjxS6kK62pRb3Nu2Nu7A4IYZYHI=
+
+Name: org/eclipse/wst/validation/internal/operations/TaskListHelper.clas
+ s
+SHA-256-Digest: Q3+nZmT9112nH8Dx9cUiWeTRtQGL0xEmb5BkxTjP5aQ=
+
+Name: org/eclipse/wst/validation/internal/model/FilterRule$Facet.class
+SHA-256-Digest: ucZJLpbJIA6QWIdhJM0DhuZQQ2AVazuJXJS+1zrRglM=
+
+Name: org/eclipse/wst/validation/internal/ValType.class
+SHA-256-Digest: y4mQhkdCOdqUwD5/dd7Td83EL5T636BEFaJR8axeWOk=
+
+Name: org/eclipse/wst/validation/internal/ValidationConfiguration.class
+SHA-256-Digest: w1OHnGD8/WXuMaiuuAxy8MaaRZ3+0gZegk01oylcA+A=
+
+Name: org/eclipse/wst/validation/MessageSeveritySetting$Severity.class
+SHA-256-Digest: dipGdemAEn8Y4+Ue/jhew1jxih50x5jquO3bp81M6lo=
+
+Name: org/eclipse/wst/validation/internal/ValidatorActionFilter.class
+SHA-256-Digest: KBoa0QIsZ9CYBfFIJHiG2ZSH3VXbbLDw89rV3juN3UE=
+
+Name: org/eclipse/wst/validation/internal/operations/IRuleGroup.class
+SHA-256-Digest: 82qbvOIW4NgpFOZUITtq6Oe1pA6QcUQ61RHZ7/Bb8dk=
+
+Name: org/eclipse/wst/validation/internal/EventManager$1.class
+SHA-256-Digest: hObq0ldYzTN6a73oCvL2eKW0Yv4oR8PmJ8udkvAjvE0=
+
+Name: org/eclipse/wst/validation/internal/model/FilterGroup$FilterInclud
+ eGroup.class
+SHA-256-Digest: 7oG90AhHj585ue2OtGj8WW8HCqv0HltBmjyOyMlMObs=
+
+Name: org/eclipse/wst/validation/internal/model/ValidatorHelper.class
+SHA-256-Digest: h+WG0jE/QJ/VpgVh0SdmsEP3ncjx8dQcThSp/AzXUtE=
+
+Name: xsds/validator.exsd
+SHA-256-Digest: 0xmp0wyo2mz342pVTfc2pqZbyvHbm1fK9VyuNEPkpxM=
+
+Name: org/eclipse/wst/validation/internal/ValBuilderJob$ValidationReques
+ t.class
+SHA-256-Digest: ij0eV0kT/CLj/SCW+6/rv3RDC4BmKJP0BrgkOMBwIhA=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidatorManager.cl
+ ass
+SHA-256-Digest: 1XZc0eaUyC5H4WgbnALitKKPahXmcBfc3suFW4Hd5Gs=
+
+Name: org/eclipse/wst/validation/internal/DebugConstants.class
+SHA-256-Digest: /4GPFChJcFvllPORIrJP0OPiBtuEyveR5hgl7FGdJeo=
+
+Name: org/eclipse/wst/validation/internal/core/IFileDelta.class
+SHA-256-Digest: b3dKC9KPtD5MKvPhIjgObqjw+DPU9fi91ylt3S5waWo=
+
+Name: org/eclipse/wst/validation/internal/ExtensionConstants$RuleAttrib.
+ class
+SHA-256-Digest: HNf6ocOgF6Oj1chp4CTUXdMcKPbdnIJB10ZFomJM8NU=
+
+Name: org/eclipse/wst/validation/internal/PrefConstants.class
+SHA-256-Digest: hS7aPbkKGNVC/Ak7cF5DGrHMj3x8gmzPM2BfnBE4sSE=
+
+Name: org/eclipse/wst/validation/internal/model/FilterRule$FilterRuleCas
+ eSensitive.class
+SHA-256-Digest: 4aZQRm1lq8LxKnhBV9UKGVobjf+ir/1SJhcqG5rZmdE=
+
+Name: org/eclipse/wst/validation/internal/ValBuilderJob$3.class
+SHA-256-Digest: PhC/Si+pYwFo25BxFSIMlqLTWlsy0PNsdWybPQWOBWE=
+
+Name: org/eclipse/wst/validation/internal/ValidatorExtensionReader.class
+SHA-256-Digest: LHkKEEgNKtfByuE2BrUO/5AJOaSDQJYC87CrtWICX8E=
+
+Name: org/eclipse/wst/validation/ValidationEvent.class
+SHA-256-Digest: n8AGn5jUOiUwh4+z7OAMRvjWghx/E0lFXyd2dtKlEvo=
+
+Name: org/eclipse/wst/validation/internal/ConfigurationManager.class
+SHA-256-Digest: OOLP/dRdQuSnc0wgiBbLXxkZLXM0VzqSB38gx/GaA74=
+
+Name: org/eclipse/wst/validation/internal/provisional/core/package.html
+SHA-256-Digest: qaL3rQtTD69ZYz7aijUC02h1Q7H9PdVjc7pPvG86vQ4=
+
+Name: xsds/validatorgroup.exsd
+SHA-256-Digest: L2ktBPI81I+D6F5L6RFtZqsHysRjYT7iMeZxP2gh9wA=
+
+Name: org/eclipse/wst/validation/internal/operations/WorkbenchReporter.c
+ lass
+SHA-256-Digest: Y0jTJXK4IISVJoQ1aDfy6kWGgGm9XyF1fZuPEO8n+cM=
+
+Name: org/eclipse/wst/validation/internal/GlobalConfiguration.class
+SHA-256-Digest: kJ1rKDWFRFp4uj1pkx4/HRNd03VT1dFkWMaA9YyuKOo=
+
+Name: org/eclipse/wst/validation/internal/model/FilterRule.class
+SHA-256-Digest: X7zER4Rl3VqqIN1s4TjrEdvk5jBKQxvxr3bncoyq/g4=
+
+Name: org/eclipse/wst/validation/internal/ValPrefManagerGlobal$Singleton
+ .class
+SHA-256-Digest: N97bR1xl7c9YddrzX+PtA05trTuRbQeryEltQw6y6WU=
+
+Name: org/eclipse/wst/validation/IPerformanceMonitor$CollectionLevel.cla
+ ss
+SHA-256-Digest: 8EqBF0Tji6LrrfF+5PJ6eaOOLV4c2N6U8dcolqiE0x0=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidatorSubsetOper
+ ation.class
+SHA-256-Digest: AruaAON809ADgHa6SQR3qnLvCtC2CWhPuYAuLT/axlU=
+
+Name: org/eclipse/wst/validation/internal/ValMessages.class
+SHA-256-Digest: KpXpfd44K4bra+s3B6BGVuIwN6+OBa+9ATIFYuHudA4=
+
+Name: org/eclipse/wst/validation/internal/ValBuilderJob$2.class
+SHA-256-Digest: gdYPP8/LgQCui4p1067Pm+S7R3NuoO7bgikNp0qvYEI=
+
+Name: org/eclipse/wst/validation/internal/ValConstants.class
+SHA-256-Digest: bPYIecfXOhPoAQxW6Qc3f5DUXZ6fS8alOfH5QSERNTY=
+
+Name: org/eclipse/wst/validation/internal/operations/IWorkbenchContext.c
+ lass
+SHA-256-Digest: D7QRcUiGVbIhj30CHLRguTluu/2gasMDTqHVNScOqR4=
+
+Name: org/eclipse/wst/validation/internal/ValidatorFilter.class
+SHA-256-Digest: qPDhzuL2Sv8wUgx9eMsBqmt0RcuHMle5N6ir47OqVu0=
+
+Name: org/eclipse/wst/validation/internal/VThreadManager$1.class
+SHA-256-Digest: QpdBCiahPVnwvFuW8jSxcjWylAmHaNnwA/94w0oj6jo=
+
+Name: org/eclipse/wst/validation/internal/ExtensionConstants$MessageCate
+ gory.class
+SHA-256-Digest: T7sa3/83s+W+h5hnxmhxF2EGmThrFJlRzr9XBCsX27g=
+
+Name: org/eclipse/wst/validation/internal/model/FilterRule$FileExt.class
+SHA-256-Digest: yAZqlAVjYDkTcGXq7O5hZpgsnUJbGCmnSE7SWQKCHuo=
+
+Name: org/eclipse/wst/validation/internal/ExtensionConstants$Group.class
+SHA-256-Digest: ggNzrK/ovTuMKCi5z7TAp/J+3UbHLT9w1YcMQH7ESls=
+
+Name: org/eclipse/wst/validation/internal/PreferencesWrapper.class
+SHA-256-Digest: A6LH4Z5f16ExOmbIHiMUWVsxVzdCzJSQZD6tiaeoVkI=
+
+Name: org/eclipse/wst/validation/internal/operations/WorkbenchFileDelta.
+ class
+SHA-256-Digest: 01v616cAkSjEbHtMCxrEWU8zEj8ZwF+G5V0g+wbnE3U=
+
+Name: org/eclipse/wst/validation/internal/model/FilterRule$TargetRuntime
+ .class
+SHA-256-Digest: OFIH0vAHZIZB9vuemkMkNtRGpuWLeWMD4Y5n/yPoCnY=
+
+Name: org/eclipse/wst/validation/internal/provisional/core/IValidator.cl
+ ass
+SHA-256-Digest: qXx40T1uxvIQ33WcF7QEHyTCzw+xdCYmVb3FslvXl4k=
+
+Name: org/eclipse/wst/validation/internal/ValPrefManagerGlobal$Global.cl
+ ass
+SHA-256-Digest: FMG06BWEa4PyAvfqMkTv72VPGd1ZAH1CFJMczJMcx6w=
+
+Name: org/eclipse/wst/validation/internal/ValPrefManagerGlobal.class
+SHA-256-Digest: xCookrYcjuUqAh1vxiaNGGmy4AytwcqDlEX+n8xSxus=
+
+Name: org/eclipse/wst/validation/internal/operations/IResourceUtil.class
+SHA-256-Digest: mbnRdxwA3m/c0/cze67tBVIszhhWPITNVIC058x7xsQ=
+
+Name: org/eclipse/wst/validation/internal/delegates/ValidatorDelegatesRe
+ gistryReader.class
+SHA-256-Digest: mmQiJ852BvtCGK0aTQO75XocUeCpGZ/AeK9Or+YbWsM=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidatorJob.class
+SHA-256-Digest: h202G50Dp/QuodGOLGFOOhOh44v2HQd00ogBY9bqCeo=
+
+Name: org/eclipse/wst/validation/package.html
+SHA-256-Digest: h1fDLqBudGYrW7SFPCguqAlfbfW5lEBHOfeB3jYKAOo=
+
+Name: org/eclipse/wst/validation/internal/ValManager$ValidatorIdManager.
+ class
+SHA-256-Digest: fL73MHb8KwrLzgV0u88H+/byRRr91dCTUY0cmUIOL/o=
+
+Name: org/eclipse/wst/validation/internal/provisional/core/IValidationCo
+ ntext.class
+SHA-256-Digest: fVnCAgdvyTvslnI4BLAzEhRKnWCa/5WcHSl6UdAEmwM=
+
+Name: org/eclipse/wst/validation/internal/ValBuilderJob$4.class
+SHA-256-Digest: LYLbiA6Ppo9vsOWtTM8WE+Ex9tnifHVf2EZUOB3yeTE=
+
+Name: org/eclipse/wst/validation/internal/ExtensionConstants$Exclude.cla
+ ss
+SHA-256-Digest: 7mTaWy95jdD6KZJhVHhJklNjz1IIdVIJwZtaYgTaDT8=
+
+Name: org/eclipse/wst/validation/internal/DisabledResourceManager$Single
+ ton.class
+SHA-256-Digest: PvSXIj2LfwkF1/Hn+4WAx1LKrxkTWvhKdM642paujvo=
+
+Name: org/eclipse/wst/validation/internal/core/ValidatorLauncher.class
+SHA-256-Digest: zKqdwPLHtZJUcLgIWSrPA5mwU75v5PshD1wuSPC3aPM=
+
+Name: org/eclipse/wst/validation/internal/ValManager.class
+SHA-256-Digest: 1naopFW9FAj2pGzJz6grXl3PpzoOJgkWlZVflXzRUa8=
+
+Name: org/eclipse/wst/validation/internal/PerformanceMonitor$Collecting.
+ class
+SHA-256-Digest: dxwX7rDFNXqo/l2GPQFS7MlEHHxj8BuTYDTMzSGmh+g=
+
+Name: org/eclipse/wst/validation/internal/TaskListUtility.class
+SHA-256-Digest: iZpSo4NBzxYV1pcyl3uGQJVLoX1ASIt9SiyUGph0Ql8=
+
+Name: xsds/validationSelectionHandler.exsd
+SHA-256-Digest: uwXca2/3Rird1WqJ967cwJF83TIY9fIxBZephF/SXVU=
+
+Name: org/eclipse/wst/validation/internal/ValManager$UseProjectPreferenc
+ es.class
+SHA-256-Digest: vgDyCPW07DQ9Co2M5Eq6KgGUE+0HUETMUnNudQ9pSh8=
+
+Name: org/eclipse/wst/validation/internal/model/FilterRule$File.class
+SHA-256-Digest: plnqyVMVf/+xHEtIzKAP5HbsJWtfWR+LKHm6YwvXFaI=
+
+Name: org/eclipse/wst/validation/internal/ValidationRunner.class
+SHA-256-Digest: hptWJ/6207tfGBUI1F03sII56efVOSdscGZEN60BDQ0=
+
+Name: org/eclipse/wst/validation/internal/messages.properties
+SHA-256-Digest: 67/WCuoJDgqk5orOsNujKPoBIEfQjd8xlSrAkqxXdqI=
+
+Name: org/eclipse/wst/validation/internal/ExtensionConstants$FileType.cl
+ ass
+SHA-256-Digest: XJlme22i/EifaGpi0zWBeyv2GiXEldd8xFvZzjJtkGs=
+
+Name: org/eclipse/wst/validation/internal/IProjectChangeListener.class
+SHA-256-Digest: RBdCaPpvUuHE26WbBfdlToTiP1feRRwbmE/0ld8j8Io=
+
+Name: org/eclipse/wst/validation/ValidationState.class
+SHA-256-Digest: KoLYU5pWj7wBNdkC2AwiBFtn1s8obQMawGv9PZ+uoGE=
+
+Name: org/eclipse/wst/validation/internal/ValProperty.class
+SHA-256-Digest: r362LhLMiERduUZ2Ht/dPMTFRnJ0aVe+OCDK/W7yFJQ=
+
+Name: org/eclipse/wst/validation/internal/Serializer.class
+SHA-256-Digest: QjMkkPZAhb58cx3PNcp5npbt2m4c/eIpmP57sGuQTuA=
+
+Name: org/eclipse/wst/validation/internal/ValidatorGroupExtensionReader.
+ class
+SHA-256-Digest: WQoame627kcS5PfvABYE+8luTYUhJCP7+QR547RQx0A=
+
+Name: org/eclipse/wst/validation/internal/ResourceHandler.class
+SHA-256-Digest: 5xneP2BHBwPsX/oOVcZBwgDeMX8wjz8yRJFfAgYNlpU=
+
+Name: org/eclipse/wst/validation/internal/model/FilterRule$FilePattern.c
+ lass
+SHA-256-Digest: pmOJdv9cqksM6g2DHPnxTrUC+aEe6VPzli2Uc0XoFJc=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidationOperation
+ $ProjectRunnable.class
+SHA-256-Digest: g0+DYLAnXVyevvUffzNP9bWasNKi8ve3YoL6fuocubg=
+
+Name: org/eclipse/wst/validation/internal/ValOperation.class
+SHA-256-Digest: F7pF6OYwiBdr8NrjzHta+UnfDZRWCilUc8zrodQvedM=
+
+Name: org/eclipse/wst/validation/internal/delegates/DelegatingValidator$
+ DelegatingReporter.class
+SHA-256-Digest: u1PdpvQMmPIo7xxeZQipwRTvR8c5022M5w5NrBOgbdI=
+
+Name: org/eclipse/wst/validation/internal/NullValidator.class
+SHA-256-Digest: GBDdNe4cp+CXiFrcscJ9KgLNRP/z+tskYLPGGAN+FxE=
+
+Name: org/eclipse/wst/validation/doc-files/faq.html
+SHA-256-Digest: /bsCUoH4CVKZuxy+fp67nqmojYH33h027mPp1Nelukk=
+
+Name: org/eclipse/wst/validation/Validator$V2.class
+SHA-256-Digest: +FqW6PvIBXsBgLkuCaWaov4ngfChXYo6xPJHYsF1zfQ=
+
+Name: org/eclipse/wst/validation/internal/SummaryReporter.class
+SHA-256-Digest: zOhR/pEmp0OKjZacDApk6QTTUI+qXRBZlCNNn/hwd5g=
+
+Name: org/eclipse/wst/validation/internal/ValBuilderJob.class
+SHA-256-Digest: MdQlILNEvXKhi9h9sxJNeP3/0TYeV7Ex6PaTDiWpOeU=
+
+Name: org/eclipse/wst/validation/internal/ValManager$ValidatorCache.clas
+ s
+SHA-256-Digest: 9me7Jajjs1OcPphPnTvXvPDrMGkT7sWUcMzvcJQUPT4=
+
+Name: .options
+SHA-256-Digest: /USNPrdNMEWJyHjcojBrbDOnvFG3RHCeCb7YZjGvCm4=
+
+Name: org/eclipse/wst/validation/internal/model/GlobalPreferencesValues.
+ class
+SHA-256-Digest: cT/zdnbauvwLP/9seiq06XMf0bfLpGZ5Q2GxeTH3MIQ=
+
+Name: org/eclipse/wst/validation/internal/ValidationFactoryImpl.class
+SHA-256-Digest: c+h1NyP8rE2F0D4x/KucW1FUByDpUiGwLy4+u+BUx9I=
+
+Name: org/eclipse/wst/validation/internal/ValPrefManagerProject.class
+SHA-256-Digest: Mnt+SHBFC1DqAsSu69sUckpEJ8ANDxAs3TrEan+ThPM=
+
+Name: org/eclipse/wst/validation/internal/operations/EnabledValidatorsOp
+ eration.class
+SHA-256-Digest: jFfSTz+twKme2FixuH5K6VhffKV9D8KW/At28eJ2JKw=
+
+Name: org/eclipse/wst/validation/internal/operations/MessageInfo.class
+SHA-256-Digest: 1TYiLRf6TwlecqdjZ66pDGgaG5E54us6DkeunxI8JUM=
+
+Name: org/eclipse/wst/validation/internal/ExtensionConstants.class
+SHA-256-Digest: 0OiRvoDM7lgMbxZaRkE5uMBhWEOXSZLBDjYnuaU8XBI=
+
+Name: org/eclipse/wst/validation/Validator$Level.class
+SHA-256-Digest: 4eqY/W0uNdU5MizU4qIeLlXdUJpeAPmMF0QIGKMURcM=
+
+Name: org/eclipse/wst/validation/internal/operations/AllValidatorsOperat
+ ion.class
+SHA-256-Digest: Xh3IWgujRmCFUjtU791k5OLs/8S8vrHrnjPpfeESVHI=
+
+Name: org/eclipse/wst/validation/internal/ProjectUnavailableError.class
+SHA-256-Digest: dBGZSbY8u59lGKncvziwaHkIfszrkp+ManyxU5fCCKg=
+
+Name: org/eclipse/wst/validation/internal/PreferencesWrapper$WrapperMang
+ er.class
+SHA-256-Digest: htnOA3rEBtm+szxM/B95RhGw8UlqEss8mqv4ax0DDNM=
+
+Name: org/eclipse/wst/validation/internal/ValidatorTypeFilter.class
+SHA-256-Digest: 8IFZPiTEKMwArwVIeTiizT7K1gLUJFznr5FHsUz95Cg=
+
+Name: org/eclipse/wst/validation/internal/ValManager$3.class
+SHA-256-Digest: VEy82GXoMAWdekgwDJjINNjdaVFdRKsLsqsdXAUb+8g=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidationOperation
+ .class
+SHA-256-Digest: Yrk0fGc8NKLksIpWw2Ku/ZoI/6rnFJCc6UPYVQuyL78=
+
+Name: org/eclipse/wst/validation/internal/ValManager$ValidatorProjectMan
+ ager.class
+SHA-256-Digest: adePT6u8hmoRNVgLjE6BO3MUEwdZGeOtJPLdUMTgAvU=
+
+Name: org/eclipse/wst/validation/internal/ValidatorNameFilter.class
+SHA-256-Digest: PTAe3aRK3DzOu9kaWi6qbDa1r4Maid/duKdVoZcHB6A=
+
+Name: org/eclipse/wst/validation/internal/Tracing.class
+SHA-256-Digest: hM1+3+Vxj+26GAQAVZT59+UMFFe7NxwEaYDAurOGotw=
+
+Name: org/eclipse/wst/validation/internal/core/IMessageAccess.class
+SHA-256-Digest: enwW9wXSVrIH6JuRLFZVZX9vqiv8RherlRcISMuIkY8=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.validat
+ ion/pom.xml
+SHA-256-Digest: k/yF7f2DZ2lf4xQbYeL1dTpzBK0YEkOUErA6szyn5S4=
+
+Name: org/eclipse/wst/validation/ValidatorMessage.class
+SHA-256-Digest: d1ca3J7qIY7KLj6RD7mIgljoL4B2bDn+YtsPRZBbU6g=
+
+Name: org/eclipse/wst/validation/ReporterHelper.class
+SHA-256-Digest: qZVEGT/hh3dWU5COAYbxBT4vXP705XQKon9QzOqjQdA=
+
+Name: org/eclipse/wst/validation/internal/DependencyIndex$Depends.class
+SHA-256-Digest: WhUXJ+Db5g0m2ZpKWWc4xeieO/6JVuWCYEmuz89owHY=
+
+Name: org/eclipse/wst/validation/internal/MarkerManager.class
+SHA-256-Digest: XS4KoDOArgI8cY4ER30iXlSigWP2WhEJoebQ/WWmTzU=
+
+Name: org/eclipse/wst/validation/internal/operations/DefaultResourceUtil
+ .class
+SHA-256-Digest: 90e/gtBum71sM6UINuBqxfoJbwCYGOJa8Izh54ao9Ok=
+
+Name: org/eclipse/wst/validation/internal/operations/ManualValidatorsOpe
+ ration.class
+SHA-256-Digest: 2unrLnd9ztd1xVy2SZDc+MK6dzNznFErQ+ilGkM0MCM=
+
+Name: org/eclipse/wst/validation/internal/ValManager$2.class
+SHA-256-Digest: N5kgKyLz7qt1ROadB4tovmH/exuA0koMpex1JO8SK3Q=
+
+Name: org/eclipse/wst/validation/internal/DisabledValidatorManager$Disab
+ ledValidationFinder.class
+SHA-256-Digest: lAEtaBV+cEV3n6nPIiYmv/ADKJbg2J9bRkw9xY2Y2nc=
+
+Name: org/eclipse/wst/validation/internal/DisabledResourceManager.class
+SHA-256-Digest: Gfca2tKOzvJW0Z0R7/EM8TIDjTFDeg8Zn6/v3+TDfuA=
+
+Name: org/eclipse/wst/validation/internal/operations/OneValidatorOperati
+ on.class
+SHA-256-Digest: Ht6bfLsGUplfZAu5xXRFdqXZX7wDAJJ4Jh2cpZUVwIY=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidationUtility.c
+ lass
+SHA-256-Digest: ac6ZZ9kIW6zX0BGppcQKz434ZS3ylksxVl6CyREa8s4=
+
+Name: org/eclipse/wst/validation/internal/operations/ManualIncrementalVa
+ lidatorsOperation.class
+SHA-256-Digest: lq8EvKrTALALsxzAHF0xEn+7Rt0/w5aKlfRQTdMvUFI=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidationOperation
+ $ValidationLauncherJob.class
+SHA-256-Digest: yAKKjvAqHHwUOB91U7BsPUWkhsecwoqIA4BgQCbqHz4=
+
+Name: org/eclipse/wst/validation/Validator$V1.class
+SHA-256-Digest: AZ2+c08rfczHUmwmnPKQRfmxb1Zc9RuWONb6P97u0EQ=
+
+Name: org/eclipse/wst/validation/internal/ValBuilderJob$ResourceCounter.
+ class
+SHA-256-Digest: 38I5a3hH687WrAVq/dDyBRBRZlukPo3GzjQ1z5yKVEA=
+
+Name: org/eclipse/wst/validation/internal/ValManager$Singleton.class
+SHA-256-Digest: JhHAis6d2ES/zz6Xc8qNsAZowecd1xI0Hch/v83OaqQ=
+
+Name: plugin.properties
+SHA-256-Digest: PXZXhEv9huLqKYHmUNvJHLSLSnRj0WxU547kbIEztTk=
+
+Name: org/eclipse/wst/validation/internal/operations/EnabledIncrementalV
+ alidatorsOperation.class
+SHA-256-Digest: YhLr1PpMSlDPgoamywW2AtWVqhDCgzxr4puNXWXHTw8=
+
+Name: org/eclipse/wst/validation/internal/IProjectValidationHelper.class
+SHA-256-Digest: 7+IeeyjQG4oVpOkcxhAU18xh5Gf/6USng6JChwdttiM=
+
+Name: org/eclipse/wst/validation/internal/FullBuildJob.class
+SHA-256-Digest: qaqBc0ucsJZTbCv2due2MGvAnrjfCXBidBW+qgHD6e8=
+
+Name: org/eclipse/wst/validation/internal/DependencyIndex$DependsResolve
+ d.class
+SHA-256-Digest: Cb5Re957I/EYHY/io9yc9bKmifKtcL5BvbuDZak8c0k=
+
+Name: org/eclipse/wst/validation/internal/Misc.class
+SHA-256-Digest: 4mPKzJ9untTk/cURy2M0xLW46ATnrrE889V5oZRD8IU=
+
+Name: org/eclipse/wst/validation/internal/core/EmptySchedulingRule.class
+SHA-256-Digest: Lt4IgE6R0ZRpUvIUSdjjq22QVWxCsh+7gesM5gTivqQ=
+
+Name: org/eclipse/wst/validation/internal/ValPrefManagerGlobal$Msgs.clas
+ s
+SHA-256-Digest: QFKpZDZJV66Vm/isN5Yg8pM6OW9W9b4qVGmca6ywyN0=
+
+Name: org/eclipse/wst/validation/internal/PerformanceMonitor$ToFile.clas
+ s
+SHA-256-Digest: BHD6IJwX851w8C5TSqs+84eGCrl954DfNxn2v3EeS6k=
+
+Name: org/eclipse/wst/validation/internal/ValManager$4.class
+SHA-256-Digest: Bw3hvVZPK+K7qi2muZAnrhOVMcqRDvVTyV2vEpYldf4=
+
+Name: org/eclipse/wst/validation/internal/ValBuilderJob$Visitor.class
+SHA-256-Digest: tu+S912Gc4Aow0HEt/+KkUrF4P9u/t9nR5t2whxla5Q=
+
+Name: org/eclipse/wst/validation/internal/DisabledValidatorManager$LRUSe
+ t.class
+SHA-256-Digest: zy3dY98fMRTk4Ms5HIpJDDmWxZoPTxhKWKE9TiF0ed0=
+
+Name: org/eclipse/wst/validation/internal/DependencyIndex.class
+SHA-256-Digest: aPYOpqDOywb/vhoVHPj0ZmJKWm3mcniw6B6mP/bnSSI=
+
+Name: org/eclipse/wst/validation/internal/ValidatorMutable.class
+SHA-256-Digest: Uh7/Vx7nu+yx2CSASmfNDKUFBG3on4bv/dFsQdXB1t4=
+
+Name: xsds/validationHelper.exsd
+SHA-256-Digest: Y9RJ4rI4DvaAiPL4Piy3N2lhlt3UFK+xrkg17kZ/qh0=
+
+Name: org/eclipse/wst/validation/internal/MarkerManager$Singleton.class
+SHA-256-Digest: tbR1lXAsVSehY7puAtYwJ6yrCjN02u3hR9mHHqJKw+c=
+
+Name: org/eclipse/wst/validation/ValidationFramework.class
+SHA-256-Digest: 16t4O57QchdFst+waUHH0N2khpcQMxo4P0z5KTtIFc4=
+
+Name: org/eclipse/wst/validation/Validator.class
+SHA-256-Digest: 465xvsYTolE1LCLOSrjL/JHo1/Uv54axlqD1tBWCrpA=
+
+Name: org/eclipse/wst/validation/internal/delegates/DelegatingValidator.
+ class
+SHA-256-Digest: A7OR8iOON1TIBO/MiFg9gxQxCVuXlERYCgN3xcenwyE=
+
+Name: org/eclipse/wst/validation/internal/ReferencialFileValidatorExtens
+ ion.class
+SHA-256-Digest: l77nRdFtwAtB4nSkEdgRz1Wdfsb1nH0jaPnXbVuMm8o=
+
+Name: org/eclipse/wst/validation/internal/model/FilterGroup.class
+SHA-256-Digest: NDWi0+YimXD9FL0mNQOR/6wpLqK8uhp7fSoijiw8IJk=
+
+Name: org/eclipse/wst/validation/ValidationFramework$Singleton.class
+SHA-256-Digest: WPoCJFVCZra5Om5k9l2RJZRntsOc1OGxy3KBaGX6Qlw=
+
+Name: org/eclipse/wst/validation/internal/operations/WorkbenchContext.cl
+ ass
+SHA-256-Digest: nu+zGZk2S38TB7IOdfe8OdNgvljs5ox7/DJAHTZTELQ=
+
+Name: validate_base.properties
+SHA-256-Digest: rb6UTUKvoGhU2/ZB2B1l/8u0ATN77z/OqkCTKnWBSWE=
+
+Name: org/eclipse/wst/validation/internal/ValidationRunner$2.class
+SHA-256-Digest: gsl3C7tf0MCVksMAk3+CAYH2tcq1UisIJo7gksWTfz8=
+
+Name: org/eclipse/wst/validation/internal/operations/ValidationOperation
+ $1.class
+SHA-256-Digest: DuvfplYZcX4vnbdUta9Pf4xoUkk1R2CtXop1rQCzSAk=
+
+Name: org/eclipse/wst/validation/MutableProjectSettings.class
+SHA-256-Digest: adB1QTvbR/KgNX6uIWumXi8yEKnuotZJByy5Lgz6hAg=
+
+Name: org/eclipse/wst/validation/internal/plugin/ValidationHelperRegistr
+ yReader.class
+SHA-256-Digest: msM6Mr0uADfE+lIoj48iAAjMDuNfoHQj/qhb4EbSbQQ=
+
+Name: org/eclipse/wst/validation/internal/FilterUtil.class
+SHA-256-Digest: rxKuEo5qXbWKMK1RdTDceyo/L553KgpLX0i5cjd7eIM=
+
+Name: xsds/validatorDelegates.exsd
+SHA-256-Digest: e7lgnWwof2pDHKycFG27b2x4pRnm1fRxu3cjC5fuSl0=
+
+Name: about.html
+SHA-256-Digest: uNtdcam2UGRj5nbnesFNLRgKf5AFSxB9QgGcPDz4vOU=
+
+Name: org/eclipse/wst/validation/internal/ValidatorMetaData.class
+SHA-256-Digest: 9orXDWVweOlhUKIisBs1uEBIO2j+iqqeXW4XZ7z/EEs=
+
+Name: org/eclipse/wst/validation/internal/ValManager$5.class
+SHA-256-Digest: JaL4STf4dHQJ9EgMl3SP198vvGMLH87plxjJtdDaCAA=
+
+Name: org/eclipse/wst/validation/internal/model/IValidatorVisitor.class
+SHA-256-Digest: B7myL/F9TpgmlS7wRHU3O0YGOdFdH3ymwYIn/51HrLo=
+
+Name: org/eclipse/wst/validation/internal/ResourceUnavailableError.class
+SHA-256-Digest: 3OFzG8aelqfrDWe4V6wqxOTBuduiQIfGH7idXDuCnBw=
+
+Name: xsds/referencialFileExtSchema.exsd
+SHA-256-Digest: diXs2gTWzy8pprhZaapz+iT8MQayWggJlrpH2tS5vZA=
+
+Name: org/eclipse/wst/validation/internal/FilterUtil$VMDResourceVisitor.
+ class
+SHA-256-Digest: jRSum8CoYiMwxNwBsvhG3MJSqsw1B5g7WGYZ27sRRZg=
+
+Name: org/eclipse/wst/validation/internal/VThreadManager.class
+SHA-256-Digest: AocP8XUheYrwYtwkX5dtHg17lnm+hWQxIZHV/3HY7r4=
+
+Name: org/eclipse/wst/validation/internal/ValidatorMetaData$MigrationMet
+ aData.class
+SHA-256-Digest: pe1UCK/35Cub3xhMUKekSD5omKjO76Y4dwcpn5nWEVg=
+
+Name: org/eclipse/wst/validation/internal/ValidationRunner$1.class
+SHA-256-Digest: v9ET9ZK7F+PuLov1yOTY+7qlO8+eg8oYNfCi7qDLVbI=
+
+Name: org/eclipse/wst/validation/internal/ExtensionValidators.class
+SHA-256-Digest: 2rBArmxBDr/x4uGv1fXWaz4Kq0+LqmahAGfjT9yNtsI=
+
+Name: org/eclipse/wst/validation/internal/provisional/ValidationFactory.
+ class
+SHA-256-Digest: D4ukFCZ/7K0KZnIJuGFQF5YlbBdZYgEMKiL7suyntPM=
+
+Name: org/eclipse/wst/validation/internal/provisional/core/IProjectValid
+ ationContext.class
+SHA-256-Digest: T2YvTWxzmw3vu91QaEQYnwBn4d5wWYPBB9AVNMNpG0s=
+
+Name: xsds/exclude.exsd
+SHA-256-Digest: 5bU+owzkFHcQzzsrw2qj3irrdtKVdEPm2r+O2G0ALUs=
+
+Name: org/eclipse/wst/validation/internal/DisabledValidatorManager$Singl
+ eton.class
+SHA-256-Digest: WZUFWF9QJrDVgwxswJ8MFDDJmWXEX2QaYwlDP+ViPU4=
+
+Name: org/eclipse/wst/validation/internal/provisional/core/IValidatorJob
+ .class
+SHA-256-Digest: Jh6BzmuxhyqWt8XuRLwuixz/dSrqZKcJDDTY5JhkynU=
+
+Name: org/eclipse/wst/validation/ValidationFramework$ResourceAdder.class
+SHA-256-Digest: ePQVYIV3PwQlG5sm7+uRf8m4RNylSNAX7S6+ipx044c=
+
+Name: org/eclipse/wst/validation/PerformanceCounters.class
+SHA-256-Digest: PVZogV/M1Y8yHYfi2REDgcIuynzY6YXdXtBNf+o7w2c=
+
+Name: org/eclipse/wst/validation/internal/ProjectConfiguration.class
+SHA-256-Digest: Lm7NJthUvE5a+PRYv5n7v4N6jJ76Ep5ua7QS5ch7cEs=
+

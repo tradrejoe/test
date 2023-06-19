@@ -1,0 +1,126 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-SymbolicName: org.eclipse.equinox.bidi;singleton:=true
+Bundle-Version: 1.4.200.v20220710-1223
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Export-Package: org.eclipse.equinox.bidi,org.eclipse.equinox.bidi.advanc
+ ed,org.eclipse.equinox.bidi.custom,org.eclipse.equinox.bidi.internal;x-
+ friends:="org.eclipse.equinox.bidi.tests",org.eclipse.equinox.bidi.inte
+ rnal.consumable;x-internal:=true
+Require-Bundle: org.eclipse.equinox.common;bundle-version="3.6.0",org.ec
+ lipse.equinox.registry;bundle-version="3.5.0"
+Import-Package: org.eclipse.osgi.framework.log;version="1.0.0",org.eclip
+ se.osgi.service.localization;version="1.1.0",org.eclipse.osgi.util;vers
+ ion="1.1.0",org.osgi.framework;version="1.5.0",org.osgi.util.tracker;ve
+ rsion="1.4.0"
+Bundle-Activator: org.eclipse.equinox.bidi.internal.StructuredTextActiva
+ tor
+Automatic-Module-Name: org.eclipse.equinox.bidi
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-equinox/equ
+ inox.git;path="bundles/org.eclipse.equinox.bidi";tag="I20220710-1800";c
+ ommitId=5417ee984302e5f7751be760f57b0e6c3a6c6c34
+
+Name: org/eclipse/equinox/bidi/custom/StructuredTextTypeHandler.class
+SHA-256-Digest: HnqqqatT00R5QvK71Var9UJYHSjf7uTHXolGnW93yJg=
+
+Name: org/eclipse/equinox/bidi/custom/StructuredTextCharTypes.class
+SHA-256-Digest: 541no9DnLhslBs071tdttotKjeVQe4gwB1Gx58ALHo8=
+
+Name: org/eclipse/equinox/bidi/internal/consumable/StructuredTextJava.cl
+ ass
+SHA-256-Digest: saDikCp0WnnfU+v4CwZiO0QgdCVTNdUcVkADFYVvoLA=
+
+Name: plugin.xml
+SHA-256-Digest: pWvbytvfvfJ2OlJ/NYtg4g1dXRYT7UxBmzdSdt6URUg=
+
+Name: org/eclipse/equinox/bidi/advanced/StructuredTextEnvironment.class
+SHA-256-Digest: oPLJsr7/t4BHHaK4N9iGc63NSnnS5O28zagx/6lv6mA=
+
+Name: org/eclipse/equinox/bidi/internal/consumable/StructuredTextComma.c
+ lass
+SHA-256-Digest: SpMrlP3lrxLE8iWQJerxnbjzP6Gtv9jditI8ba+n9o4=
+
+Name: org/eclipse/equinox/bidi/internal/consumable/StructuredTextUndersc
+ ore.class
+SHA-256-Digest: DeP99NEqyroRRPA8lqcw0+A8ciDHwjHKWG/N5kyskGs=
+
+Name: org/eclipse/equinox/bidi/StructuredTextTypeHandlerFactory.class
+SHA-256-Digest: PtPnJabBmKJZeYZkiguRSM92y3x8VmFkmsqZfqarurA=
+
+Name: org/eclipse/equinox/bidi/internal/StructuredTextActivator.class
+SHA-256-Digest: F4i98B6jJijqJteNEQTOxkoUNFviOu+eQRD8Qco3yMo=
+
+Name: org/eclipse/equinox/bidi/internal/consumable/StructuredTextXPath.c
+ lass
+SHA-256-Digest: ucMlno/beUNK/zoeiXIFKcWd9jvfVQVo1fqUTwgXScw=
+
+Name: org/eclipse/equinox/bidi/internal/StructuredTextStringRecord.class
+SHA-256-Digest: Yqptv1jP4IuRLT7Sc0FkytvY91FyuudmgrVDaGCp1bk=
+
+Name: org/eclipse/equinox/bidi/custom/StructuredTextOffsets.class
+SHA-256-Digest: VndX3Xq9uuZOUyv7IeuMcVi6XHK94Zhc6RzKSWF7xBs=
+
+Name: plugin.properties
+SHA-256-Digest: pKRANjXcFntXI5Cutl5ebnhpbQT/ULqkIbqEswa1O70=
+
+Name: org/eclipse/equinox/bidi/internal/consumable/StructuredTextSql.cla
+ ss
+SHA-256-Digest: gneWhQLlAVGKEo2NI5+tpWplrZlji5vh15WJ2rl8Gwo=
+
+Name: org/eclipse/equinox/bidi/StructuredTextProcessor.class
+SHA-256-Digest: e4APj/GdiGc9/Hdj3a4cwhTrNcD/3mskyundZSVf/rQ=
+
+Name: org/eclipse/equinox/bidi/internal/consumable/StructuredTextRegex.c
+ lass
+SHA-256-Digest: R7DfT3/vg0sz0mZnRvxZtbRxDTahBuYOX0BO+HTZZFk=
+
+Name: org/eclipse/equinox/bidi/internal/consumable/StructuredTextFile.cl
+ ass
+SHA-256-Digest: xaxDLmYiTl+/P/xIDzO3nLrXToZLnNshht0aYMqh8Ks=
+
+Name: org/eclipse/equinox/bidi/advanced/IStructuredTextExpert.class
+SHA-256-Digest: CvXiUe+Gx/YuvOr4rpUMKjkI8psSrlfd4aI28rZajXg=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/equinox/bidi/advanced/StructuredTextExpertFactory.clas
+ s
+SHA-256-Digest: mxW6zHDfY553OWWmjD07aV7SuTPwGob3NThfz9n17qw=
+
+Name: org/eclipse/equinox/bidi/internal/consumable/StructuredTextURL.cla
+ ss
+SHA-256-Digest: Cpxvpnme/ySvYUsDwawADgbfq97ITFoVF6s5+ngovJw=
+
+Name: org/eclipse/equinox/bidi/internal/StructuredTextImpl.class
+SHA-256-Digest: iHgDqnI2GUN38yITcG4XaWmJ5vzNgTDw+Cni7OFGbYw=
+
+Name: .api_description
+SHA-256-Digest: 8LfKV85YC1SytLDpzibMB0Xkvh0r+z/26LwJcMh0RBw=
+
+Name: org/eclipse/equinox/bidi/internal/StructuredTextSingle.class
+SHA-256-Digest: TEiamXKzucw7Xpt6tHb0q69TcFgF3NXELeeBDxm7aqI=
+
+Name: org/eclipse/equinox/bidi/internal/StructuredTextDelims.class
+SHA-256-Digest: Khx2uDJJz4IffZFBLK85pjzJRiNN7xvnWyXIenQu6eg=
+
+Name: org/eclipse/equinox/bidi/internal/StructuredTextTypesCollector.cla
+ ss
+SHA-256-Digest: /ARvbhLZr9Hld97jG5OJ74/RFStcMGsEK4V1xYjMhPs=
+
+Name: org/eclipse/equinox/bidi/internal/StructuredTextDelimsEsc.class
+SHA-256-Digest: J45ff1lrGD6Q3FE6dgV58QwxcPs+LLf5xXPgh22en5U=
+
+Name: schema/bidiTypes.exsd
+SHA-256-Digest: 0l6baATAagluqKQHky2LoOI0cOJQ4eZgxCXtmqmwojA=
+
+Name: org/eclipse/equinox/bidi/internal/consumable/StructuredTextEmail.c
+ lass
+SHA-256-Digest: ur1KQNNrRslf7TMItCbLQoTnNeE8kM8OMYUkv/OzAao=
+

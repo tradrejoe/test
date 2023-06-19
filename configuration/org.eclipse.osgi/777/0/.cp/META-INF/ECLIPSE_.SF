@@ -1,0 +1,168 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: 3pGygo7Wdh7bhwOx423CPbQvjqepqYTG2rjg7rR+Lyw=
+SHA-256-Digest-Manifest-Main-Attributes: jAJIQ7eUdWeyMtMOr6w3l5P80gl/88g
+ Oo+q2dytu4zk=
+
+Name: org/eclipse/wst/common/core/util/UIContextDetermination$UIContextD
+ eterminationRegistryReader.class
+SHA-256-Digest: 6MilW/SWEOYsolsb9IuouzXZL+v8U25wxpzJog7xzgI=
+
+Name: plugin.xml
+SHA-256-Digest: aZFnotK/w4Is3lRQToqJGWsla9rGO1FLFtFiabbCBVA=
+
+Name: org/eclipse/wst/common/core/search/pattern/SearchPattern.class
+SHA-256-Digest: 6/LGHTSGpKoV8g9NKffcaIyrOsusG29N4vG60kWX5Hg=
+
+Name: schema/uiTester.exsd
+SHA-256-Digest: pm/Ay2oojepa6e4uS7hydLoWNhh+ob3YVNvLl7WU5cs=
+
+Name: schema/searchParticipants.exsd
+SHA-256-Digest: FqVGVwjHvR/JkjiDAFxLjQabyJ4KJV7NiM5cquWJ1r8=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ core/pom.xml
+SHA-256-Digest: LiW+fXDQE7XMO+tFxN25cQjEzQUdkEGXRbxHjHaAE5I=
+
+Name: org/eclipse/wst/common/core/search/internal/Messages.class
+SHA-256-Digest: OjCZH/SrTwlqTXP2+ZQLSJdyJx1M685AaGWdXJIcO4w=
+
+Name: org/eclipse/wst/common/core/search/pattern/ComponentDeclarationPat
+ tern.class
+SHA-256-Digest: bw2oyusnSHs/qXiPJ8mG1kbOttvukqqApFeJ4JMaDto=
+
+Name: org/eclipse/wst/common/core/search/document/SearchDocumentSet.clas
+ s
+SHA-256-Digest: h7OjzEBf0DPeIuR7M9tyYl2ZRmhuQfo37JcGtkELlSc=
+
+Name: org/eclipse/wst/common/core/search/scope/WorkspaceSearchScope.clas
+ s
+SHA-256-Digest: HmjtfYeZxutrw7sKKKaP2qPoYTPM3IiABQaJaHnuLuI=
+
+Name: org/eclipse/wst/common/core/search/scope/ProjectSearchScope.class
+SHA-256-Digest: IrumKO703y8yHSw93VUoKX3BmaJWVVvaFltk4dfxEWk=
+
+Name: org/eclipse/wst/common/core/search/scope/SearchScopeImpl.class
+SHA-256-Digest: VjqapNBNks6Ya+qeB4ytZTgGE+3W45zX/IBzeciniYk=
+
+Name: org/eclipse/wst/common/core/search/scope/WorkingSetSearchScope.cla
+ ss
+SHA-256-Digest: HjGDugVO4cgMguxmIxxftSzqaBDBUk/Mu8RnEL+sN4M=
+
+Name: org/eclipse/wst/common/core/search/SearchEngine.class
+SHA-256-Digest: j5FIeDI3A/o6Ri8iMvVtnWpQQX3TQSWz73/U24y6Pls=
+
+Name: org/eclipse/wst/common/core/search/pattern/FileReferencePattern.cl
+ ass
+SHA-256-Digest: 8S2gzbgnAgB2BNj2nCDsoAaJvxxPmeZNh7+HRr90rNY=
+
+Name: org/eclipse/wst/common/core/util/RegistryReader.class
+SHA-256-Digest: yhrWNfhVG28igRB95aEp0B84JP3Oe57gwhF1l4tr5ik=
+
+Name: org/eclipse/wst/common/core/search/pattern/QualifiedName.class
+SHA-256-Digest: VmVAO1ical3onBbDG7kCghcHcZH/XnYljamThzE14m8=
+
+Name: plugin.properties
+SHA-256-Digest: aXOeUCy5WumvF44UmFMhi1VRK5uwB8XpFOQ4N1b6LpY=
+
+Name: org/eclipse/wst/common/core/search/internal/messages.properties
+SHA-256-Digest: 8irpUB4kRiBcGWk8t32o6GPbe+FAdA8P0QDlXJ0HI7g=
+
+Name: org/eclipse/wst/common/core/search/document/SearchDocument.class
+SHA-256-Digest: EARMTRRoOl546a10yUae9O4Y8ao8FNFpz5RYovE6WJs=
+
+Name: org/eclipse/wst/common/core/search/pattern/ComponentSearchPattern.
+ class
+SHA-256-Digest: l+KQL8RFzWiSwc6lyRiMNuXoVYG0leN378R7AeMZtKA=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ core/pom.properties
+SHA-256-Digest: HG/KwTHOXXp84FoX7tr9VzFu6UJC4hq5JwCtATCbygA=
+
+Name: org/eclipse/wst/common/core/search/scope/ContentTypeSearchScope.cl
+ ass
+SHA-256-Digest: A0U+sCg7Hq5WxxFFChI8UUv0Adq8QFkEks5IHYXGbwc=
+
+Name: about.html
+SHA-256-Digest: rZdZdbJtFiw298EzlEydJC5gajKbkkBfRettUMDggmY=
+
+Name: org/eclipse/wst/common/core/search/internal/SearchParticipantDescr
+ iptor.class
+SHA-256-Digest: 562HYba0tUSJoLONyrPsJRZJWtu7FhOyL8Abi5QeUls=
+
+Name: org/eclipse/wst/common/core/search/scope/SelectionSearchScope.clas
+ s
+SHA-256-Digest: qUK5alG7Z98L+Zzp1JnJyjaZ45xYNYuSVip4axs+LN8=
+
+Name: schema/uiContextSensitiveClass.exsd
+SHA-256-Digest: Ph5r0Pm07HUpXQButc/sodfEDcrn/AmM06YWD9G4Obk=
+
+Name: org/eclipse/wst/common/core/search/document/ComponentReferenceEntr
+ y.class
+SHA-256-Digest: n6YlH3L6M6BVhBVMHIDuZ5Mc/YyNe0lRNC2NFW/edhM=
+
+Name: org/eclipse/wst/common/core/search/internal/SearchParticipantRegis
+ tryReader.class
+SHA-256-Digest: 1BuHTvGuFYbaxgiIWKoHxLQDufxouuduZBtz0WJq8+0=
+
+Name: org/eclipse/wst/common/core/search/pattern/ComponentReferencePatte
+ rn.class
+SHA-256-Digest: DuppmjvirInPRrmNBuJZ1NWvfLSfe8Z1A6BPDPntWLs=
+
+Name: org/eclipse/wst/common/core/util/UIContextDetermination$UITesterRe
+ gistryReader.class
+SHA-256-Digest: onQfmEkXZXewPRIZPEeWSJMr0D5Yl7wx00wXe1Kemc0=
+
+Name: org/eclipse/wst/common/core/util/UIContextDetermination.class
+SHA-256-Digest: 9xD7TrW0EbLKvpQVB7zo+F98xUma7xVjUwwgLAq9Zp4=
+
+Name: org/eclipse/wst/common/core/search/scope/SearchScopeImpl$1.class
+SHA-256-Digest: 9GrJ6e15yuruBjrr4w5XmQscjCxb59hulu6dUXO2+I8=
+
+Name: org/eclipse/wst/common/core/util/UITester.class
+SHA-256-Digest: nXYa+l06SVmUSXThV19nA3Xo8czRrt3XKeasrpLMxo8=
+
+Name: org/eclipse/wst/common/core/search/scope/SearchScope.class
+SHA-256-Digest: JmCzgtt6GjBDVi7Jnb8fFIWfo/0XF6s7lxfWKv2UUdE=
+
+Name: org/eclipse/wst/common/core/search/SearchParticipant.class
+SHA-256-Digest: mvko6DLYTMFYfZuifE8ZcwsWBcFBlYr2nrMtoiodUTs=
+
+Name: org/eclipse/wst/common/core/search/SearchPlugin.class
+SHA-256-Digest: SuBy/tsKHF+WdEm1CFCFgvFSRvVZxsoyIP6tAnOMa50=
+
+Name: org/eclipse/wst/common/core/search/SearchRequestor.class
+SHA-256-Digest: PRTwa7S4J8Sv+4P0dPESiBjzKrv8VlWIPGn5tm5kFyA=
+
+Name: org/eclipse/wst/common/core/search/SearchMatch.class
+SHA-256-Digest: OB6Diqw905AeVH3TJ0dYoaasaWT/DUm1oEX6T8cvIBc=
+
+Name: org/eclipse/wst/common/core/search/document/FileReferenceEntry.cla
+ ss
+SHA-256-Digest: IB2IYU0SV1ZsLTQFonEDvHxcW8KYhs/e7SgYWzz0094=
+
+Name: org/eclipse/wst/common/core/internal/ProductPropertyTester.class
+SHA-256-Digest: 1H2ytxHyMkMfhNdzwytlY84xa7sUpldkrx1TDRKLPOI=
+
+Name: org/eclipse/wst/common/core/search/document/Entry.class
+SHA-256-Digest: cglzApLTN6LHgmXi8SHf1/VqTvja1HQwWbfMsyzmJBs=
+
+Name: org/eclipse/wst/common/core/search/document/ComponentDeclarationEn
+ try.class
+SHA-256-Digest: eGm8h2FMCsWJNh05EZ56jwDUgChHB46NZUaGL6/FKHY=
+
+Name: org/eclipse/wst/common/core/search/internal/SearchDocumentSetImpl.
+ class
+SHA-256-Digest: 8Lzjt7xYa5NDcbX1+ebHArA3dwNQ0ASyncTJpdlZlLo=
+
+Name: org/eclipse/wst/common/core/search/ISearchOptions.class
+SHA-256-Digest: p3znSrjo2wJXSU6gmC60D2I9cYAZ6g3yb37an0dLnds=
+
+Name: org/eclipse/wst/common/core/search/util/CollectingSearchRequestor.
+ class
+SHA-256-Digest: lpMvz5ZiD357ikOa7OBpjl3EPD7uqrSn7d0VorfOIBY=
+
+Name: org/eclipse/wst/common/core/search/internal/SearchParticipantRegis
+ try.class
+SHA-256-Digest: IJYRG5uPAivjxmLmhJHvrE+3u+jFXflm0X/L73nSpx8=
+

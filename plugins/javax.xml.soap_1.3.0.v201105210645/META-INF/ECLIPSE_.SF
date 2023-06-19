@@ -1,0 +1,102 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: p0caEOy3hGHh4OZ8yz66TWZSiQJrJ
+ DdE2cjt3dXkjdM=
+SHA-256-Digest-Manifest: e6xeDZ+rFzSYWdqxN9E48jLHCPBdz6gBLYvbo9uFjns=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: javax/xml/soap/Text.class
+SHA-256-Digest: S7gOV+FG6d1Um6DFSlY6k1Gy0a8KTAbhmN7rcvvbz3w=
+
+Name: javax/xml/soap/SOAPEnvelope.class
+SHA-256-Digest: 99/r776+yNWnT+cQjXBS7y0lXijfnIvcCkJlFptzyt4=
+
+Name: javax/xml/soap/Detail.class
+SHA-256-Digest: 8CuY18bGqsA2Pblh+xEnnhmdEBb9NcalNMm2Rq1SaB0=
+
+Name: javax/xml/soap/SOAPFactory.class
+SHA-256-Digest: EbgiifN9ZIp8Rpb6PmsrAhIT+HR/u+m4CzGY+Ifiq3M=
+
+Name: javax/xml/soap/SAAJMetaFactory.class
+SHA-256-Digest: +2C5GxjgBSm7eRDAu9tHU7LTvnIuUeY6zszML3zPMoI=
+
+Name: javax/xml/soap/AttachmentPart.class
+SHA-256-Digest: GgFBbZvx0N5RX2e1SM7+3J0n75ZBpB/IpJgUgHj5Vtk=
+
+Name: javax/xml/soap/SAAJResult.class
+SHA-256-Digest: QT+cDC661oL6bK+8TWXJHCgDJMBEc2tJ6bL6dvMjAIw=
+
+Name: javax/xml/soap/SOAPConnectionFactory.class
+SHA-256-Digest: SVpmDtgWhooSDtnbyAGaninNDGRR//N2hJsZ5y4gbiU=
+
+Name: plugin.properties
+SHA-256-Digest: rRLHBGZsWI7JJKVfm9AnGzpD01OkRbBpFPqwRVND1J4=
+
+Name: javax/xml/soap/MimeHeaders$MatchingIterator.class
+SHA-256-Digest: gv9y3ve39QAYsC1BaDpBqYfZ4CDv3IOSCV5dvl2Kg2Q=
+
+Name: javax/xml/soap/SOAPPart.class
+SHA-256-Digest: pPZT58WE2PJq7ONCp4d86l5UTxAeru06nLeAzW67z3c=
+
+Name: about.html
+SHA-256-Digest: KdnE/WrE25iiQTV/ik13L+rU2Iz+6rJ1mWahtf05gHA=
+
+Name: javax/xml/soap/MimeHeader.class
+SHA-256-Digest: spDEtxjDVaqXxDPc6w+ke1NkgsWNO6qmL1nSj5VeY3c=
+
+Name: javax/xml/soap/SOAPBody.class
+SHA-256-Digest: EhFGAHbIrrsJvjx5peBADV6L86F16gOj5gSsEiECCr8=
+
+Name: javax/xml/soap/SOAPHeader.class
+SHA-256-Digest: ijgN+R9UF4sz4M+SEiG0jDwqLpAf9kBBMMfMAZuL2XY=
+
+Name: javax/xml/soap/SOAPException.class
+SHA-256-Digest: 4MxTh3I9iCMcDrd4zqs1s79thvIplgMfAXu3s6FRXd0=
+
+Name: javax/xml/soap/SOAPFaultElement.class
+SHA-256-Digest: P96E6abBWFPDJLJw/wDxTQ2ePbmI1Rw5plykG3L9sCU=
+
+Name: javax/xml/soap/SOAPBodyElement.class
+SHA-256-Digest: +Z9G3VppW73CrwQtNHAS+ET4J3c1v/kSiLuDbMKoQ4M=
+
+Name: javax/xml/soap/SOAPConnection.class
+SHA-256-Digest: txIeGIuOi2CqIyetJ6Wkws8jhkYjNqGHYqj5KOGQ3OA=
+
+Name: javax/xml/soap/FactoryFinder.class
+SHA-256-Digest: VGPodByf4fCT/ChNHfBFhxpwuZA/pa9NQXG8V8PwUjQ=
+
+Name: javax/xml/soap/SOAPMessage.class
+SHA-256-Digest: 6mqwHmyDJ2iIXOqvqssoAxZJPvl1Eh+wfudKeC9/N/Q=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: rEULrt3GCNggFeuBb9QugPCG48TouWYgzDw3Q1PhCCQ=
+
+Name: javax/xml/soap/MessageFactory.class
+SHA-256-Digest: h9aQgtZdcApc5OPo41TYLgraD9fmdSrxdjELQn9tGuo=
+
+Name: javax/xml/soap/DetailEntry.class
+SHA-256-Digest: O2dirTw9bafMAWzYlzAFMVWmFiOISaItvE/Ta3pU10g=
+
+Name: javax/xml/soap/SOAPElement.class
+SHA-256-Digest: 9lvj1bU/PeofTTRjikNtSxisrSeDlTL6hQMCavCm32M=
+
+Name: javax/xml/soap/SOAPElementFactory.class
+SHA-256-Digest: 2UoyVsZGI3b7qV2i88px3Z0yOuEeyGKly+f74aKhGc4=
+
+Name: javax/xml/soap/MimeHeaders.class
+SHA-256-Digest: UmH8zNsLxJNpdrSLFavHnE5TxkwnoGwQNbbFBFBhjt4=
+
+Name: javax/xml/soap/Node.class
+SHA-256-Digest: BD+DY7LtV694i7X/QUqpsd6RPD9IeXkgcXfH6cdCnpw=
+
+Name: javax/xml/soap/SOAPHeaderElement.class
+SHA-256-Digest: VAJGBw96F4celWLS38adu3kvatQgpM2+S0DPPVhuV7c=
+
+Name: javax/xml/soap/SOAPConstants.class
+SHA-256-Digest: UVPAvk+Kr7LH+GgFm4/BClXAZm/rWmKRG307Co3UEec=
+
+Name: javax/xml/soap/Name.class
+SHA-256-Digest: bWrfr1OcEjF0E9IKGIV9KuaPuL+opWRvUBsdnmZuTEI=
+
+Name: javax/xml/soap/SOAPFault.class
+SHA-256-Digest: 0ItUtRjYZ73jC2vQz4CszChCTwP+5e5FwiYyHKWMYHE=
+

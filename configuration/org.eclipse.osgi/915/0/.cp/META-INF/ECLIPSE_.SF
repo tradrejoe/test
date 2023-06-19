@@ -1,0 +1,510 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: kItiii51WHI4OYCwWHJkHvgAdCDIr
+ 4st07+bQ0Np9PM=
+SHA-256-Digest-Manifest: eIykMdNhTlgyia7OccZUh0m0tCSLeFD+ScoCJYa6xrY=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoQuadraticSmoothAbs.class
+SHA-256-Digest: OoFmjqfrZ6L6yt0WrBe0hY7J4u8wPGVExc/CoIaP8hY=
+
+Name: org/w3c/dom/svg/SVGSymbolElement.class
+SHA-256-Digest: 9AKTNfVK/6MfoZjSss+hIudNq8u4Lr6wkEfV4eACqGM=
+
+Name: org/w3c/dom/svg/SVGElementInstanceList.class
+SHA-256-Digest: F/qgmng2wHcGVL/sNKcYYRgWD0tm0ugi1cKsZoRPN3s=
+
+Name: org/w3c/dom/svg/SVGRadialGradientElement.class
+SHA-256-Digest: Wbz/mAy9/A9r4FHIIwPjnsmk77Kkh+JzMoXD01nyqKE=
+
+Name: org/w3c/dom/svg/SVGRect.class
+SHA-256-Digest: a5VGTGbbbiRbB7S2GmAbc65PpE6185TyOewjBXEvH+c=
+
+Name: org/w3c/dom/svg/SVGPointList.class
+SHA-256-Digest: KF+8+e13gJDVXLgWOQFfjPKdJCBGtvQPap2o13wNZV0=
+
+Name: org/w3c/dom/svg/SVGSVGElement.class
+SHA-256-Digest: KldR4CO/QprHFaPqGHA0Y4TBBfL5NfuikpUx5FtqobE=
+
+Name: org/w3c/dom/svg/SVGPathSegArcRel.class
+SHA-256-Digest: swbNmfnxuxUaBeVE8Ig1z7WHf4GfZWYZD34NOye/GDQ=
+
+Name: org/w3c/dom/svg/SVGHKernElement.class
+SHA-256-Digest: TBG2u4K0o0RSVWPo4KueE7s20IaVW44MQD6Q5AUH8/0=
+
+Name: org/w3c/dom/svg/SVGAnimatedRect.class
+SHA-256-Digest: 5deJvVZ33LaxBJsejZN66cLjtFz2YPaB0BSwdtKsV44=
+
+Name: org/w3c/dom/svg/SVGFEDiffuseLightingElement.class
+SHA-256-Digest: I+U5iIvNmSWmokFjkcwSgQEU+WY3rHcgi/bA8j0fvmY=
+
+Name: org/w3c/dom/svg/SVGClipPathElement.class
+SHA-256-Digest: COHXD95Q4raIWNZ8824rrk+yKhxcFzlImg470KqjHkA=
+
+Name: org/w3c/dom/svg/SVGFEMorphologyElement.class
+SHA-256-Digest: HwE3sztWoSOKxB7fxe/4dFndRq8c19sqPLtGsLjKkCI=
+
+Name: org/w3c/dom/svg/SVGAnimateTransformElement.class
+SHA-256-Digest: nX/EZFrsxzh8NCGb+wbLIt8kmmRyyBy4M9lbsVvMfmQ=
+
+Name: org/w3c/dom/svg/SVGAnimatedInteger.class
+SHA-256-Digest: Y07EsqsM9yfh05+4K6BuHlzhHz7x9+4WamBxojL3M4M=
+
+Name: org/w3c/dom/svg/SVGCSSRule.class
+SHA-256-Digest: P+1EgTeAxOt65vOAwqyq3D5uadZufaC/Hj2x39/ysrg=
+
+Name: org/w3c/dom/svg/SVGAnimateColorElement.class
+SHA-256-Digest: GhQiX9x0bq49b6BUa8JgSRqgMZHUVKbdC3AVZEXycFQ=
+
+Name: org/w3c/dom/svg/SVGDefinitionSrcElement.class
+SHA-256-Digest: pfdjhjbY6wF6Z5lUUDDfPKn1KmxIyDVJVMXXsqTxcgI=
+
+Name: org/w3c/dom/svg/SVGPathSeg.class
+SHA-256-Digest: jvLYsGCqpewHK0TvLSMXupTm4MPDeAvgHC8ECS2inM0=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoQuadraticSmoothRel.class
+SHA-256-Digest: RN/xX/EPkWCZPMaKYW0ZTrAWX+UEKKAi5L4mw40ULpc=
+
+Name: org/w3c/dom/svg/SVGMetadataElement.class
+SHA-256-Digest: zsPIWmDn0MgyTyAupP3r+/f8lHQp7dr46Jf1n+lgEe0=
+
+Name: org/w3c/dom/svg/SVGPathSegMovetoAbs.class
+SHA-256-Digest: q1yp7LFtE0eXhRlpKVWnz0eYve0E9d8FrgP1dakfFu4=
+
+Name: org/w3c/dom/svg/SVGTSpanElement.class
+SHA-256-Digest: 2SD4HcVKE6EiENdmHY7QyJUh8ikdbih5cYSmqhirpW0=
+
+Name: org/w3c/dom/svg/SVGFEOffsetElement.class
+SHA-256-Digest: RvnPnTZxmz1m4Atuhrs012fA6t1NHpLmdbCFjt8n3LY=
+
+Name: org/w3c/dom/svg/SVGFESpotLightElement.class
+SHA-256-Digest: wCO46vf/miGjzCwhq7PCG2N/6sQic//DtkT8o7rcw74=
+
+Name: org/w3c/dom/svg/SVGDefsElement.class
+SHA-256-Digest: 6IzVAehz+8R1+Hjwm3kA7K79Il7foJthCFFDp5LbKHM=
+
+Name: org/w3c/dom/svg/SVGFEFuncAElement.class
+SHA-256-Digest: S4LIHqw/PUStMyc8juZF0FAigaQVSyMdbtJIcYkEA2s=
+
+Name: org/w3c/dom/svg/SVGGElement.class
+SHA-256-Digest: MdMyzviXTvnpE92b5s0sv0hJGFZFEEJyBu1EZig24gE=
+
+Name: org/w3c/dom/svg/SVGAngle.class
+SHA-256-Digest: g/WNjA5FzU8RIH64hLPcv8M63f523SIyls//Y0HJhis=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoHorizontalRel.class
+SHA-256-Digest: AxalqoTH7JvAZmB9N9vC69xlw3jE/RlC5QHqn9RmzM4=
+
+Name: org/w3c/dom/svg/SVGPatternElement.class
+SHA-256-Digest: xWL7Tz66VIF/ch4AtWjh/ZGXLiOpcDjc3rPceiHJmbM=
+
+Name: org/w3c/dom/svg/SVGEvent.class
+SHA-256-Digest: zQCttj86qKx5OlFQkN1M2M7lf3YMxnRZIVhwgBnTgc0=
+
+Name: org/w3c/dom/svg/SVGStyleElement.class
+SHA-256-Digest: BhMG/XYut7CrpxmSbj46FFJXPa/YmwMwwTpRWl7cXtk=
+
+Name: org/w3c/dom/svg/SVGPathSegClosePath.class
+SHA-256-Digest: M5H9rzlbiuRG5LUqazZBF4DDVVmbj3Rip/l/l9urOHA=
+
+Name: org/w3c/dom/svg/SVGAltGlyphItemElement.class
+SHA-256-Digest: uUahgd2nuBq+2YI0IMWdo8MEId4YoujarbpCHFyh7pI=
+
+Name: org/w3c/dom/svg/SVGStylable.class
+SHA-256-Digest: JvURa/6WZ+FhWVowGbZhgqMkW4QO0EcDZO8BiZfCqMM=
+
+Name: org/w3c/dom/svg/SVGDocument.class
+SHA-256-Digest: f2ilFHFS0wl3+D63z6gqOvfltGij4k1WTEvIChtVD0M=
+
+Name: org/w3c/dom/svg/SVGCursorElement.class
+SHA-256-Digest: KUiKcUzcllYaB0ztQiyrd3pkqR8lx3dAz/rCKOC+W2g=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoAbs.class
+SHA-256-Digest: ZWpunc86UsDbexb1sfwtUXgf/opnG78cIjPbDKhG8kM=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoRel.class
+SHA-256-Digest: jJIwfA4sv6P1Db8mvoQYeWCwrYRKkZgEXwd8N0ce03s=
+
+Name: org/w3c/dom/svg/SVGFEDistantLightElement.class
+SHA-256-Digest: ekXCqGiXFarAO7QdIpoW+RLqY7aFJyBNXRvDqE71rHs=
+
+Name: about_files/LICENSE-2.0.txt
+SHA-256-Digest: cO3M3vJWa0LhzdOaTu6fBFjxsQTKjt53DPR9cd5vwwQ=
+
+Name: org/w3c/dom/svg/SVGFontElement.class
+SHA-256-Digest: RgOPcJF+LawSS/ttKGOssubf2eCK9tjJnGFjeH04X3c=
+
+Name: org/w3c/dom/svg/SVGAnimatedPreserveAspectRatio.class
+SHA-256-Digest: yPbD+0K/2vsK/i78BkL8mk1365Y4Uj4TD30lknoYc0w=
+
+Name: org/w3c/dom/svg/SVGImageElement.class
+SHA-256-Digest: gojv2LoXfTh1Wnxck3qMqGKADEfF8ZuIxL6ZnyS077w=
+
+Name: org/w3c/dom/svg/SVGAnimatedTransformList.class
+SHA-256-Digest: M5Lzsd2ZZ5HAWqxrfXYmdcuK6IOX7QCEwcdL6E2YBwE=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoCubicSmoothAbs.class
+SHA-256-Digest: xRN3c6yXl5YF3NMdNFu8/DdYUkFARqyZ8fba6S0TnnI=
+
+Name: org/w3c/dom/svg/SVGMarkerElement.class
+SHA-256-Digest: qL3C9Lr42TMM/JKgxep7LArPGHniaGZR6Lp2QieQQM0=
+
+Name: org/w3c/dom/svg/SVGFilterPrimitiveStandardAttributes.class
+SHA-256-Digest: dxR15PXGxBdfmOndtHXKBd9i9BzXnRO1q9tKBRnJaBE=
+
+Name: org/w3c/dom/svg/SVGLength.class
+SHA-256-Digest: FSf0e0HdK432hWf1d3e7+q8N9XjHu1rfaI68dD/EkjE=
+
+Name: org/w3c/dom/svg/SVGCircleElement.class
+SHA-256-Digest: TkvVSazT4KR8FbrPQsyD5ut1Lm1wn1UhjBJhdgjZuXI=
+
+Name: org/w3c/dom/svg/SVGRenderingIntent.class
+SHA-256-Digest: NHBp78URIxmJ5fIoYu1Hm5EprPTkkOCtgPE7RI/79L4=
+
+Name: org/w3c/dom/svg/SVGUseElement.class
+SHA-256-Digest: KfPiHrxPqr2vrZQJubwAN5jDe0TsBahN8XLW74IKdOo=
+
+Name: org/w3c/dom/svg/SVGFontFaceElement.class
+SHA-256-Digest: FMi+qTv97BtLgvczfTrVjH//uUdqm8WxMxeMkhfFYr0=
+
+Name: org/w3c/dom/svg/SVGAnimatedAngle.class
+SHA-256-Digest: 3qYbDR7tMTYvhvx+rEksaFHIL1gi2Y11Is/e3K1zcto=
+
+Name: org/w3c/dom/svg/SVGTransformList.class
+SHA-256-Digest: bL95M59yS+odiR4/vYbUOkSXHPbL7UU7zhHztLxpzOk=
+
+Name: org/w3c/dom/svg/SVGScriptElement.class
+SHA-256-Digest: Xl2QeSmQfgpfwrSm08/Y5nTJBayFHEfdiiu6KByaECk=
+
+Name: org/w3c/dom/svg/SVGViewSpec.class
+SHA-256-Digest: yhEqGTcUDMVEGwkwqor7nunUmLNwf44Fyth/YrDwxEQ=
+
+Name: org/w3c/dom/svg/SVGPathSegMovetoRel.class
+SHA-256-Digest: JmGTUL06mtYkAURwgEekByrdZ3ttbnGGbLOO8g03hkc=
+
+Name: org/w3c/dom/svg/SVGTitleElement.class
+SHA-256-Digest: MGfCZ1gQYHAYZYvJFYZw0fmXfzkHOi8p2VkJHupb62w=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoHorizontalAbs.class
+SHA-256-Digest: oCJGjH4QPm1uDcMMGZ7GuPeYGSnC3zQMabVNFkotjKU=
+
+Name: org/w3c/dom/svg/SVGFETurbulenceElement.class
+SHA-256-Digest: MC0w4kHtWm7V2WRex+Y0gpphomtBDEMcSPZCIBhgnC8=
+
+Name: org/w3c/dom/svg/SVGFontFaceSrcElement.class
+SHA-256-Digest: B7JTpiVO29HzwDpDupouUG0TztJ9vMjrzBK02QlD58c=
+
+Name: org/w3c/dom/svg/SVGNumberList.class
+SHA-256-Digest: N9btK3mtXGxuwWFBpduYWPUkASdCcgVa80fAUZH1Rqk=
+
+Name: org/w3c/dom/svg/SVGGradientElement.class
+SHA-256-Digest: YKhnopsT+f+ZkRtLn0EpLvvxCdTdd0uRSkLQfww5xg8=
+
+Name: about_files/NOTICE
+SHA-256-Digest: dkURfNroNdOA/xFSvmKF3CZs9uyhlazu9g5RZbq/KH4=
+
+Name: org/w3c/dom/svg/SVGAnimatedEnumeration.class
+SHA-256-Digest: 60x26QIfyU2KS11r7luMOVS05a7AHLJzZaJL+SwdRGc=
+
+Name: org/w3c/dom/svg/SVGAltGlyphDefElement.class
+SHA-256-Digest: xCMeB2CBfBksahMyXT+eNkBQHqJmJ1tuKtZXqAKPLwc=
+
+Name: org/w3c/dom/svg/SVGGlyphElement.class
+SHA-256-Digest: 5aFscrah/I2hXD9+9zO74KDwpTWZzKyyMvRtJp1UnLE=
+
+Name: org/w3c/dom/svg/SVGAnimatedBoolean.class
+SHA-256-Digest: NGolZT7yDWTJ36WTC/UutZuSIEoQk4LtogPRTYBLfe8=
+
+Name: about_files/README
+SHA-256-Digest: mww28Xb9FjhW9Cpzzbp1SlLm6XmBaeOl5rq4Mv83xbs=
+
+Name: org/w3c/dom/svg/SVGColor.class
+SHA-256-Digest: CZpepWKslPu5TPB8uyyqofHQrAIaifSAdWjveje0230=
+
+Name: org/w3c/dom/svg/SVGFEFuncRElement.class
+SHA-256-Digest: R5LqLdtWkVPvqdBae/FKO1c5ynpKtQwYrpqDmdgmIJo=
+
+Name: org/w3c/dom/svg/SVGTextPositioningElement.class
+SHA-256-Digest: FrGMbZmCGClDinZHHSWxOXQMzyHv62G4QeZU/Mh4FWg=
+
+Name: org/w3c/dom/svg/SVGSetElement.class
+SHA-256-Digest: wkEBQ74ML3ubzOeJPbCyyVHjREKTCu4sm0Gvw04MAK8=
+
+Name: org/w3c/dom/svg/SVGZoomEvent.class
+SHA-256-Digest: HJTSX0j9Yk4Dm6xh7Trz5fwXg3sEsHHGGNpjMNs+vkI=
+
+Name: org/w3c/dom/svg/SVGLineElement.class
+SHA-256-Digest: FiHtO2BaNovxQ/cdWcizkwz3syjN+cQajhAwgTj79c8=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoCubicSmoothRel.class
+SHA-256-Digest: 8P2VsbLZmAv5rfa/6Ut7JNMexVDAh9sEbnNC5pXij6Y=
+
+Name: org/w3c/dom/svg/SVGTransformable.class
+SHA-256-Digest: xMJK2+/sN1nBYI68rZ33RIzXmZmiHyMnF1XdpgVI++U=
+
+Name: org/w3c/dom/svg/SVGPathSegArcAbs.class
+SHA-256-Digest: 8IQPVpNlWBLioINnLyYuCY8CjGpnNV6RnsI/nE9PxB8=
+
+Name: org/w3c/dom/svg/SVGStopElement.class
+SHA-256-Digest: ldlOnxo9sY4gahdRY/cc//syXWTsMITU1mq2pnMjqI4=
+
+Name: org/w3c/dom/svg/SVGTextElement.class
+SHA-256-Digest: Ct5TUYDzXnsYr13EwJj8jXTKUpkkk5GFXNmQg+BP0BI=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoCubicAbs.class
+SHA-256-Digest: if+V3eCBjlNIsZ/+K+MYTIySi+SR5uFFWS47p4ODdII=
+
+Name: org/w3c/dom/svg/SVGRectElement.class
+SHA-256-Digest: wN39ss+uZ0UyZ6PQymfMrK13F0r56iuM2Y1ZutlF+Sc=
+
+Name: org/w3c/dom/svg/SVGFontFaceUriElement.class
+SHA-256-Digest: L4ApOP5w09niyFz+jKKhcmbYeTF5TDfGC8seqmNlg/Y=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoCubicRel.class
+SHA-256-Digest: 5uwy1KIiLKMXvRwkPxRgBAGUn9rb2YluTZExoPsELPs=
+
+Name: org/w3c/dom/svg/SVGURIReference.class
+SHA-256-Digest: +hJFVEtpTSF7ZIKGcoxB/HUFV4AyATMre4ztALL+0KQ=
+
+Name: org/w3c/dom/svg/SVGICCColor.class
+SHA-256-Digest: /Zbw7IMpSRFSwZhLQSQORmE4AjMvPfK68dwdzl6KMdY=
+
+Name: org/w3c/dom/svg/SVGFEConvolveMatrixElement.class
+SHA-256-Digest: XfEWzJKk4juUkenhUH1Tu1gxry3yNh9vvIlokOHHCv4=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoQuadraticAbs.class
+SHA-256-Digest: FvLb0yyZUswNhILOqtu2KL9V1AnuNn7yfmsv5yU6Re0=
+
+Name: org/w3c/dom/svg/SVGPathSegList.class
+SHA-256-Digest: ULHESGM3uB2QJMmZM1AuDhROY5vGzfmSAdJqx4XAWXw=
+
+Name: org/w3c/dom/svg/SVGPolylineElement.class
+SHA-256-Digest: w+oXBeQ/WUKdEMUlb0x0Bmgt1lbaNQkMOOuWF321pzk=
+
+Name: org/w3c/dom/svg/SVGNumber.class
+SHA-256-Digest: XmWFCvOV27tshGV4GLqodBqRmE8impTVil/ROTfP/48=
+
+Name: org/w3c/dom/svg/SVGForeignObjectElement.class
+SHA-256-Digest: vT/8N0FFuApR3sytJDJ+IgLfBOdpx7v/o8uKEkSYwGw=
+
+Name: org/w3c/dom/svg/SVGFEDisplacementMapElement.class
+SHA-256-Digest: 4BMQpfft1wa8drqsGQBmanXcw1TWXdsQngim8CuWVQk=
+
+Name: org/w3c/dom/svg/SVGAnimatedLength.class
+SHA-256-Digest: Ikc8C9JLZ/dIK2As5Qlolatunb64xHucrVTo08EEqWY=
+
+Name: org/w3c/dom/svg/SVGStringList.class
+SHA-256-Digest: BxazNnFrvk7kGdBGL+MfXAXfi+oPg9aKk6geKqr3f5g=
+
+Name: org/w3c/dom/svg/GetSVGDocument.class
+SHA-256-Digest: IVWIHzTEDsZJmnya96esXGfdH92ECbVyJ3JAxav3q30=
+
+Name: org/w3c/dom/svg/SVGZoomAndPan.class
+SHA-256-Digest: fdTOUGoppNIa2PO3IYL3s9hKr+qCnKDYl/RId6bspaI=
+
+Name: org/w3c/dom/svg/SVGAnimatedString.class
+SHA-256-Digest: QHw4S4xE28syi84ltokVq14I55yMXwFFHeyEHrOFxg4=
+
+Name: org/w3c/dom/svg/SVGMPathElement.class
+SHA-256-Digest: MXIMwBgZXKMH7+qSr/n4YqSw7W55WWwGj9VDzjT0WbM=
+
+Name: org/w3c/dom/svg/SVGComponentTransferFunctionElement.class
+SHA-256-Digest: 37+VI2evb5x6Q6NftqtxOI+EaSVGDBTIr8Sbmh1XCgU=
+
+Name: plugin.properties
+SHA-256-Digest: HwvONFBhTrq+j7MF78lnW81EO6DUU232qMLzo/sCL8o=
+
+Name: org/w3c/dom/svg/SVGFECompositeElement.class
+SHA-256-Digest: SNFWIsRMTvXKZ3Y7pF3nR6J0QX1131qM4YswgV5yUg0=
+
+Name: org/w3c/dom/svg/SVGPreserveAspectRatio.class
+SHA-256-Digest: 4QNINmhPbrl/qey5fva6rTWbXRw+3pQSOSg1112ZpHI=
+
+Name: org/w3c/dom/svg/SVGLengthList.class
+SHA-256-Digest: Yoh5rA/t/3NK9V+WxkqTH4O/bslVbXelQ0dxulHe7eQ=
+
+Name: org/w3c/dom/svg/SVGElement.class
+SHA-256-Digest: BdR7OVF20E4eV4vshC/wFkhzdc9I7twTp4m4q5UhZp8=
+
+Name: org/w3c/dom/svg/SVGPoint.class
+SHA-256-Digest: wIJjtz0rJEa/f5tAvrUl9fxV+p2h0sFEbbMfreaRvrA=
+
+Name: org/w3c/dom/svg/SVGAElement.class
+SHA-256-Digest: BfdGEyRDQk/T5u5RtEC7FgKMbGXRt4txoShqTdLaYX4=
+
+Name: org/w3c/dom/svg/SVGAnimatedNumberList.class
+SHA-256-Digest: OUo5KjXlfiYalU3owtQXxGxVU16sMAXHw84EDjUe8tw=
+
+Name: org/w3c/dom/svg/SVGFEFuncBElement.class
+SHA-256-Digest: A6xEuureX7GO59SWq8yRgXXYkJDR+cC96UOYbVQZ6f4=
+
+Name: org/w3c/dom/svg/SVGMatrix.class
+SHA-256-Digest: 6R3rSjt2rDlHxvtX25Xr6Hmu7kmKrkgYeQDBS5mcQ78=
+
+Name: org/w3c/dom/svg/SVGFEImageElement.class
+SHA-256-Digest: LbkdPDrqFyXO/ck+/ZNB0xu713rNv5TlsUPWQYlHz2Y=
+
+Name: org/w3c/dom/svg/SVGLangSpace.class
+SHA-256-Digest: O/nztTn4AFd+NCqaKoLnOiHeud2LxI3fY2ZvDm2PcUc=
+
+Name: org/w3c/dom/svg/SVGFEBlendElement.class
+SHA-256-Digest: AFndmoVpXiojeQ0UsDHJYqIXuL7OvMhsNug2bWOwzjc=
+
+Name: org/w3c/dom/svg/SVGFETileElement.class
+SHA-256-Digest: 23HiMPWG3Uqy+cp+ZWDdF6pduJog1IfaYHHK1JsPDVw=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoVerticalRel.class
+SHA-256-Digest: 4bZZzjP0ETdq9OW49pJR+jRB1+KynKeeIC8E9fwQe0s=
+
+Name: org/w3c/dom/svg/SVGTRefElement.class
+SHA-256-Digest: mzFpE5wdHvxypRLsA10EsnHYA3cdypt4+lokzlE2IeA=
+
+Name: org/w3c/dom/svg/SVGAnimatedPoints.class
+SHA-256-Digest: yl7crJyybCljYvtZ8XtHvuRCc4WGDC3Kgs21HR+JSSU=
+
+Name: org/w3c/dom/svg/SVGTests.class
+SHA-256-Digest: +0vhm9YOAULm1yMIHSH9Dtp/0xfyqp4CQ8nJS/eJwhY=
+
+Name: org/w3c/dom/svg/SVGExternalResourcesRequired.class
+SHA-256-Digest: hlVfkhT7E7dEcjjYEREI3JjvY+jIvMg+j4RtoPQIz68=
+
+Name: org/w3c/dom/svg/SVGMissingGlyphElement.class
+SHA-256-Digest: i9ztgOkDUD6eGgkQjIvb2M+9Uo0fnjFw2wXaGdC+6iY=
+
+Name: org/w3c/dom/svg/SVGFontFaceFormatElement.class
+SHA-256-Digest: vLEGjo2eTL7P1LlzIrxgiKaoPhUl/o0KpL6Q+D06l44=
+
+Name: org/w3c/dom/svg/SVGPathElement.class
+SHA-256-Digest: JUWPZkLlkBb0c+GPo033+PoMn8B4RsNL6SEYXgiqfsM=
+
+Name: org/w3c/dom/svg/SVGVKernElement.class
+SHA-256-Digest: JZdg5TYG2i2RPUg2QouPO9+vSfptuYqR19oeDJ1/plI=
+
+Name: org/w3c/dom/svg/SVGPathSegCurvetoQuadraticRel.class
+SHA-256-Digest: cb3b3rxJOkC49cqg9eO2p7WkkSn0qUEzK8rtgORWUrY=
+
+Name: org/w3c/dom/svg/SVGUnitTypes.class
+SHA-256-Digest: gOi0XozkOP4oTh80VJCbKFtCUB1iNQnPr9Q+qFZKZIM=
+
+Name: org/w3c/dom/svg/SVGFEColorMatrixElement.class
+SHA-256-Digest: nrNZkLTJN7ST0hR5f7dOh9rzRafFPSITlpwawRzFtvg=
+
+Name: org/w3c/dom/svg/SVGException.class
+SHA-256-Digest: /9L5islgzqVMVR7jVnEhyggBYpjkvUIZYHvr4Y12OLU=
+
+Name: org/w3c/dom/svg/SVGAnimateMotionElement.class
+SHA-256-Digest: oB3TZmBfc6SYkdLYB7w/yn8X8fvvrkIXww7zgk9uL+E=
+
+Name: org/w3c/dom/svg/SVGDescElement.class
+SHA-256-Digest: fKR0lUZGB3MCTpTYAwgNznruNr8zA5OcYxdZvvi67n8=
+
+Name: org/w3c/dom/svg/SVGTextContentElement.class
+SHA-256-Digest: ajmhql4n5ak6Z3zmYPQTB/YbEpQ3RRdvHH1JvNg2zUk=
+
+Name: org/w3c/dom/svg/SVGAltGlyphElement.class
+SHA-256-Digest: 3nMT+qZT8i8u+Xt/LPA/8hCsRovCZldYaEXKYZrmiII=
+
+Name: org/w3c/dom/svg/SVGFEMergeNodeElement.class
+SHA-256-Digest: 2XQAzEOcaxobleX96tY/aahE+S8Evd0ANYDrykXuU8I=
+
+Name: org/w3c/dom/svg/SVGFEMergeElement.class
+SHA-256-Digest: nso8D2ahl2L9H4J7RK/ip05BqDlILzQtv3XZOOixyHw=
+
+Name: org/w3c/dom/svg/SVGGlyphRefElement.class
+SHA-256-Digest: vxEtRp5JED+c4t291u8LFVR2MNf8W9fr8naSwugWXSs=
+
+Name: org/w3c/dom/svg/SVGLocatable.class
+SHA-256-Digest: NhDLY+gN1B7pc6oc2tFyaNkCVIgoXK5v7q733RZ4G1g=
+
+Name: org/w3c/dom/svg/SVGTextPathElement.class
+SHA-256-Digest: 4AWP/OMngkv6PJ9d7MhnG+CIQOQT+1I8Z4Y9PDWE1Q8=
+
+Name: org/w3c/dom/svg/SVGFontFaceNameElement.class
+SHA-256-Digest: n2/AB4nl5ftxdE0BbK3NlMRx3CGiCbZfekVYF9kvSHQ=
+
+Name: org/w3c/dom/svg/SVGElementInstance.class
+SHA-256-Digest: I+ehRLZtMnXLFofJWLGawI5JinGp5gkhcVtlfTBlIgA=
+
+Name: org/w3c/dom/svg/SVGColorProfileRule.class
+SHA-256-Digest: 2rcjw18/o4bVnIvT01buTnDNnEpveIP7KoH1+sGd8Fk=
+
+Name: org/w3c/dom/svg/SVGPaint.class
+SHA-256-Digest: e8Gm4m5aWCMIuPUHC3nfUNMDtOCioM0fjQ7QLLlR0is=
+
+Name: org/w3c/dom/svg/SVGAnimatedLengthList.class
+SHA-256-Digest: UEt6AhHE+kZ+7/utV+JZORoZi28GqwMIBf+GNeUpn1U=
+
+Name: org/w3c/dom/svg/SVGAnimatedNumber.class
+SHA-256-Digest: tdPK8NHuWGJSJae/ZiL/Fs5RcbRvWDomM+4WHv1Hbr0=
+
+Name: org/w3c/dom/svg/SVGAnimateElement.class
+SHA-256-Digest: AFqiidu7c/uA4nyzJR1aX/pjfZTPugzOxTGrucaOgUs=
+
+Name: org/w3c/dom/svg/EventListenerInitializer.class
+SHA-256-Digest: QEwlgRbiQH6S9LtEmpjxbavIHoDdNR6R2DeUsXskv70=
+
+Name: org/w3c/dom/svg/SVGMaskElement.class
+SHA-256-Digest: 6t1Z0oBpvzUUCPw8EpxNDnO0or8JmIN3nxdoWKnx4w8=
+
+Name: org/w3c/dom/svg/SVGFEFuncGElement.class
+SHA-256-Digest: 9ibLcE57QvMLFhd98/xME/875VyBfWj3WeTejR7/j7g=
+
+Name: about.html
+SHA-256-Digest: fZabJZQZqmW1D0UhjI3QVEX7ZvAvFYUTKaLHWA+ar/k=
+
+Name: org/w3c/dom/svg/SVGLinearGradientElement.class
+SHA-256-Digest: mYF/dFtB39cCh3eDQcYuIBaAQQF/XXoFgD9/VYLiFHY=
+
+Name: org/w3c/dom/svg/SVGViewElement.class
+SHA-256-Digest: Mi8dVnnTY26UHG4juudU0XA10Z3yAUfyVoB8ipGxl48=
+
+Name: org/w3c/dom/svg/SVGPolygonElement.class
+SHA-256-Digest: Buorah/fwIaKQMfs7AG2jNLNK6NIsRw2JNryn5lKMuo=
+
+Name: org/w3c/dom/svg/SVGAnimatedPathData.class
+SHA-256-Digest: STTbz1ggFBTR3VdZMBbQCYbfmyC8s2ZNW9RALGj/mUM=
+
+Name: org/w3c/dom/svg/SVGPathSegLinetoVerticalAbs.class
+SHA-256-Digest: Xh1MwXBr7MDWKw2ZnSayyjEXfoTvSyveANUH3Dcvpdg=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: rEULrt3GCNggFeuBb9QugPCG48TouWYgzDw3Q1PhCCQ=
+
+Name: about_files/LICENSE-W3C-20021231.html
+SHA-256-Digest: Ap2UdUYTtARMyxOg9jBdT7WpBWTl+Oq0HBk+JHxYboc=
+
+Name: org/w3c/dom/svg/SVGFilterElement.class
+SHA-256-Digest: l+9yan2TrJmAZmY/T6xUycscTWPNrZ9ngVFtf+5N7N4=
+
+Name: org/w3c/dom/svg/SVGFEComponentTransferElement.class
+SHA-256-Digest: murHyia9b0+8UYRAptrqn7IWHL5cOLUIRU3dTzqda88=
+
+Name: org/w3c/dom/svg/SVGEllipseElement.class
+SHA-256-Digest: IBUrHCb3R/uecIe+1VdDVV3HhPsUFr7f+lBUF3AfQ/4=
+
+Name: org/w3c/dom/svg/SVGColorProfileElement.class
+SHA-256-Digest: bPCPOuIcTan532vtmjM5H5rkF/cTTZT9V5EDBYYnjTc=
+
+Name: org/w3c/dom/svg/SVGFEGaussianBlurElement.class
+SHA-256-Digest: ckHCJo6L768RU2nibXG/r3uFORE4apZ+UCcubstRjFU=
+
+Name: org/w3c/dom/svg/SVGTransform.class
+SHA-256-Digest: OG17zcppZqyKGwG/sh6JPDSsP1u5KagAg7wheSiOn8g=
+
+Name: org/w3c/dom/svg/SVGFitToViewBox.class
+SHA-256-Digest: 2a0/Z3li4KABa80rl6T5qYGAraROlovhaqmhVwYhml4=
+
+Name: org/w3c/dom/svg/SVGFEFloodElement.class
+SHA-256-Digest: P8pRTGb46uDDUroOxbAYpkToXhgsWAXORHT3YwatYTQ=
+
+Name: org/w3c/dom/svg/SVGSwitchElement.class
+SHA-256-Digest: FZo9A1x1WYaHfqfLL4PQceP6dLxu/sO7gwlWw5SCoXU=
+
+Name: org/w3c/dom/svg/SVGFESpecularLightingElement.class
+SHA-256-Digest: pXaQrcREMKyPDBJH/g8aiKmU/QZA/0GcnTtl+00qrl8=
+
+Name: org/w3c/dom/svg/SVGFEPointLightElement.class
+SHA-256-Digest: 7ArhZNn36optWyKGAv+FDbVG1unuDAFa0fIjJNH9+2A=
+
+Name: org/w3c/dom/svg/SVGAnimationElement.class
+SHA-256-Digest: B4coNRI4U/KhBtfsAs9KP1logzx4/2ys6CJJ6l3PzpY=
+

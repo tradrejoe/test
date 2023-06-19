@@ -1,0 +1,356 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.wst.common.frameworks; singleton:=true
+Bundle-Version: 1.2.202.v202108200212
+Bundle-Activator: org.eclipse.wst.common.frameworks.internal.plugin.WTPC
+ ommonPlugin
+Bundle-Vendor: %provider
+Bundle-Localization: plugin
+Export-Package: org.eclipse.wst.common.frameworks.datamodel,org.eclipse.
+ wst.common.frameworks.datamodel.properties,org.eclipse.wst.common.frame
+ works.internal;x-internal:=true,org.eclipse.wst.common.frameworks.inter
+ nal.activities;x-internal:=true,org.eclipse.wst.common.frameworks.inter
+ nal.datamodel;x-internal:=true,org.eclipse.wst.common.frameworks.intern
+ al.enablement;x-internal:=true,org.eclipse.wst.common.frameworks.intern
+ al.enablement.nonui;x-internal:=true,org.eclipse.wst.common.frameworks.
+ internal.operations;x-internal:=true,org.eclipse.wst.common.frameworks.
+ internal.plugin;x-internal:=true
+Require-Bundle: org.eclipse.core.resources;bundle-version="[3.4.0,4.0.0)
+ ",org.eclipse.core.runtime;bundle-version="[3.4.0,4.0.0)",org.eclipse.c
+ ore.commands;bundle-version="[3.4.0,4.0.0)",org.eclipse.wst.common.envi
+ ronment;bundle-version="[1.0.200,2.0.0)";visibility:=reexport,org.eclip
+ se.emf.ecore;bundle-version="[2.4.0,3.0.0)",org.eclipse.wst.common.core
+ ;bundle-version="[1.2.0,2.0.0)"
+Eclipse-LazyStart: true
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/webtools
+ -common/webtools.common.git;path="plugins/org.eclipse.wst.common.framew
+ orks";commitId=9200809ecb5d8b98af3b1e58277169c39f8dab50
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/DataModelPaus
+ ibleOperationImpl$OperationStackEntry.class
+SHA-256-Digest: KpoN8qlSZ0sYfYjRpm/3bS2yVK3u1LzNAKvYNjEqdOo=
+
+Name: org/eclipse/wst/common/frameworks/internal/activities/WTPActivityB
+ ridgeHelper.class
+SHA-256-Digest: s9nsyuqOVRd1GHoRm+k6CE2TP90ObdD+CbwGsdimm8A=
+
+Name: plugin.xml
+SHA-256-Digest: TjsY/uYdM/L2qc+jCs+cND5DqSLsSgLPeRW9OAHdvTk=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/AbstractDataModelOpera
+ tion.class
+SHA-256-Digest: VTHYg6nOu8rDe/VuPAE0wObKnrUsQW3Tl/qVr7cXtDw=
+
+Name: org/eclipse/wst/common/frameworks/internal/operations/ProjectCreat
+ ionDataModelProviderNew.class
+SHA-256-Digest: FuAGa0fs68IpIJ9AFbcK4UnnmmXAvdBb2fO+KeoPKTc=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/AbstractIden
+ tifiable.class
+SHA-256-Digest: m+utWSqeO1mOqLrJORuuo1WMorx8FCl4R4UEb8K2ABk=
+
+Name: org/eclipse/wst/common/frameworks/internal/WrappedException.class
+SHA-256-Digest: 4SJv51j7IP/Faf8okda4INyTdlyJJsUcAUPiLF1DWCs=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/Util.class
+SHA-256-Digest: oTW7WMSzZAAfqurvfRj8vYBkd92kApnCtjTsO0Znwuw=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/FunctionGrou
+ p.class
+SHA-256-Digest: 5T2cfnSI28zHkupaGNs+NSdRYJCiM7FvyAOx45BUooI=
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/DataModelExte
+ nsionReader.class
+SHA-256-Digest: nBRyeiTfBygfcvhzJURrCPaCPbFTTZBjRMJt7ebDfds=
+
+Name: org/eclipse/wst/common/frameworks/internal/ISaveHandler.class
+SHA-256-Digest: L5NnNOB8whZDOWYOX5bMC2rI3+ZC+JveQLt3nhhMtuM=
+
+Name: org/eclipse/wst/common/frameworks/internal/operations/ComposedExte
+ ndedOperationHolder.class
+SHA-256-Digest: f25Wkt8P737h8SRs6Sd2pSWM+kBwMD3/V0iYG52NIt8=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/DataModelEvent.class
+SHA-256-Digest: W7ATh0zWwNp4atjyVgOU03Kgm5nzZDPgd5v6aYseKBE=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/DescendingGr
+ oupComparator.class
+SHA-256-Digest: NvsrO2bOB4+p87oLHUVdsj1kFssoKVYqJfT74B1Xt8g=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/EnablementId
+ entifierEvent.class
+SHA-256-Digest: hwjnIeIYzmuot/BliMoAglcQnVw/p8mDPSPJ3qCWJkU=
+
+Name: org/eclipse/wst/common/frameworks/internal/ConfigurationElementWra
+ pper.class
+SHA-256-Digest: mF6JJuh30yGUoROP94gPy38TMnaFetIaewzEp0x2kyA=
+
+Name: org/eclipse/wst/common/frameworks/internal/WTPProjectUtilities.cla
+ ss
+SHA-256-Digest: +VrnfAwNAVH1XNOZOx1rKpL2xOPUIjlhLDSriL4oHxA=
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/IWorkspaceRun
+ nableWithStatus.class
+SHA-256-Digest: fMvl7yy2ydz9NmXanvT8Z4jwbsjZaev+JT4902rRHTI=
+
+Name: plugin.properties
+SHA-256-Digest: keI201ho+kMEqu5mWpiHtwwa5SNciNj7eSZYf5BBpW4=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/DataModelEna
+ blementFactory.class
+SHA-256-Digest: /3WUGBEnBS1O2lrNTVhWVNXhf53FVUEMtBzeLrgy9P4=
+
+Name: org/eclipse/wst/common/frameworks/internal/SaveFailedException.cla
+ ss
+SHA-256-Digest: wJwwvYamsL1lyGlJSuYnfAjgN3OMwPcQWk6P9iRb+04=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/nonui/WFTWra
+ ppedException.class
+SHA-256-Digest: G/ldEE0GhJ9UDtyfzKp0saboEfqhaoR4WmC8Xt5+1qI=
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/DataModelPaus
+ ibleOperationEventImpl.class
+SHA-256-Digest: 9U2zJhed3adGRVVD/xDi0v55q+/jtIUaD2zdqlqjPRg=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/DataModelFactory.class
+SHA-256-Digest: dKFLa42276X3KQZ6rbmUloraNZL9MUQgsQaWpIQBRyo=
+
+Name: org/eclipse/wst/common/frameworks/internal/operations/OperationExt
+ ensionReader.class
+SHA-256-Digest: KkZom+vozJTN9Fce5l4RFU6RbmUnPECzsFhw4eGu4iU=
+
+Name: org/eclipse/wst/common/frameworks/internal/operations/OperationExt
+ ension.class
+SHA-256-Digest: txPoOEMHePYVjBn2vxjna58wTSDmN+H/4JVbfnE5ANU=
+
+Name: org/eclipse/wst/common/frameworks/internal/WTPPlugin.class
+SHA-256-Digest: iY20kG5r/7GCHryXC8ySIZl41o0uA+/osKbt90ctEkc=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/IEnablementI
+ dentifierListener.class
+SHA-256-Digest: 6DlCWjGaCRbzPTKh7JDX59yogxr0rb0bek4EuKzj7gA=
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/DataModelImpl
+ .class
+SHA-256-Digest: Eunvy48ulmpbihoQqn1bi6IN/n2TALV1zvvDeI11lPA=
+
+Name: org/eclipse/wst/common/frameworks/internal/SimpleValidateEdit.clas
+ s
+SHA-256-Digest: qsuN+vDgWav2cOEcR6bie4ZkXvrxyUEFxjD2JQHhD38=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/IEnablementI
+ dentifier.class
+SHA-256-Digest: BtnS/KrczVtm+3aaDEo4rMw2byF04CK6wCYNz5vS0WI=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/IDataModelOperation.cl
+ ass
+SHA-256-Digest: ETLIWOfO+ZhH5vdLvX5fbfgXQEbS7fsTAcVgVZMFwuI=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/nonui/Workbe
+ nchUtil.class
+SHA-256-Digest: 8xS5BwsBOYWnIpK6RYNDqppPgzbnVTzzgXbxHouJCgI=
+
+Name: org/eclipse/wst/common/frameworks/internal/activities/WTPActivityB
+ ridge.class
+SHA-256-Digest: TJRyQ9HiPPwVB79k1Ubbt7tuurtk28glFGvbnqvS1cA=
+
+Name: org/eclipse/wst/common/frameworks/internal/operations/ProjectCreat
+ ionOperationNew.class
+SHA-256-Digest: xjcVEmJYRImzoUO1gkUzcYBBukV+q5hX3M5otyMa3N0=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/nonui/IWFTWr
+ appedException.class
+SHA-256-Digest: 4vaGGRjPREDJwCiRy2jH2p7fnyd9EkAUpDJhXROrwr0=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/DataModelPropertyDescr
+ iptor.class
+SHA-256-Digest: 2mI8iZZAZNwcgHU41HIKSqNWy9xJTdX+odQecTrh0aE=
+
+Name: org/eclipse/wst/common/frameworks/internal/operations/IOperationHa
+ ndler.class
+SHA-256-Digest: wWuAE+6taYRBMrZ+fzOCHsr3ubZpX4ck/PJ5rJTb5Rk=
+
+Name: org/eclipse/wst/common/frameworks/internal/plugin/WTPCommonPlugin.
+ class
+SHA-256-Digest: 3usbYKP38vd1eLdf4aEChfM/uLj0rgxn3TB2dyGKv+0=
+
+Name: org/eclipse/wst/common/frameworks/internal/DoNotUseMeThisWillBeDel
+ etedPost15.class
+SHA-256-Digest: WMp09oLzlI/cDNU4vkibjasa7H5vZN+CDosh2dIrWDI=
+
+Name: org/eclipse/wst/common/frameworks/internal/WTPResourceHandler.clas
+ s
+SHA-256-Digest: rd9lKGWyZPHML6Td9nqJGDxWLGocP/Nn28Y2QcA+yO0=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/EnablementMa
+ nager.class
+SHA-256-Digest: ngZUY5Y5kMbvkxOgV2qOZpwM2NDkCghGrRKV1Q/fXl4=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/Identifiable
+ .class
+SHA-256-Digest: jOG0meDFdO8Vg2f9CnrB72MDYnR+OFAvEv3ebXQRpCQ=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/EnablementId
+ entifier.class
+SHA-256-Digest: 8nzrsb7b+EO8qYUbse5WPSTPcNrsfilIGOznJsTD1cI=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/IEnablementM
+ anager.class
+SHA-256-Digest: xE/I/f/0PVBXDrCqXnyHmmb/si/fENQUE/6D3BPki4A=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/AbstractDataModelProvi
+ der.class
+SHA-256-Digest: UAAxIsfCXYZCZKMQVosWyQcJ0KycBndNDH7xTg3U8yc=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/AscendingGro
+ upComparator.class
+SHA-256-Digest: ZRrpEwqf3u7soQhRoAzbXQebkArKbNYdlUzwN16uDhc=
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/IDataModelPau
+ sibleOperation.class
+SHA-256-Digest: 5k0Mj36ybOMXEcO8Q/6yGFdl5Gs82H6YdmBIUzSvkc8=
+
+Name: org/eclipse/wst/common/frameworks/internal/operations/IHeadlessRun
+ nableWithProgress.class
+SHA-256-Digest: aFF0Kp4dBtcz2msla8xV05nRx+QnuaHgeHuiF7D5Tl0=
+
+Name: org/eclipse/wst/common/frameworks/internal/Messages.class
+SHA-256-Digest: d7PuAvL5kk2rj3ESH1m/m8ZD3HwhG/4ocLs6NC25GGY=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/IDataModelProvider.cla
+ ss
+SHA-256-Digest: 6P055Jf23kX1GcLDgQEqjvE8fdyVt/HOfCHVQ7oczkM=
+
+Name: org/eclipse/wst/common/frameworks/internal/operations/OperationSta
+ tus.class
+SHA-256-Digest: Z83Qh6cJ+pxIukRT6+ueVDOaEYwlF84OPsSgTZ1sVOc=
+
+Name: org/eclipse/wst/common/frameworks/internal/AbstractRegistryDescrip
+ tor.class
+SHA-256-Digest: /5k0fX2yrCLgI6eJJGqxe6kV9mPUghPwj3XItJEdFM8=
+
+Name: org/eclipse/wst/common/frameworks/internal/SimpleValidateEditConte
+ xtHeadless.class
+SHA-256-Digest: ZJoCVTzliqvWmSsfYFr0MDOvCIHa+Gwf0Ba7ADYwk28=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/properties/package.xml
+SHA-256-Digest: GezwbAmytlKbJ50takPs/l+6HH7Cvr6FgMt/Bk2JOBI=
+
+Name: org/eclipse/wst/common/frameworks/internal/IWrappedException.class
+SHA-256-Digest: KbTKQYEfH4QdcVXeoefDshXUEY2b/TCVjAc7/k4nRcA=
+
+Name: .options
+SHA-256-Digest: SFynkidTMzxMPxxRHPsFhkH96OUJbhV87V1g76IhBJc=
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/WrappedOperat
+ ion.class
+SHA-256-Digest: E9lARgQ+DOzIuTC9bkf9z+pjXHj7aURkh7/j+aZeSYw=
+
+Name: org/eclipse/wst/common/frameworks/internal/SaveHandlerRegister.cla
+ ss
+SHA-256-Digest: 4kmZK/OEyhoxoo4Fb4dkgIv+EWX244q/d4Bh/XV5h0I=
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/DataModelPaus
+ ibleOperationImpl$1.class
+SHA-256-Digest: ANuhWGIJxUYnIR9bH9kJibChg9SwJPPzskuvxr1aJ9o=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/FunctionGrou
+ pRegistry.class
+SHA-256-Digest: v5UmcCuo4sKU+0qbHG3uZTg6XaKJkAibkebdTubKh5k=
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/IDataModelPau
+ sibleOperationListener.class
+SHA-256-Digest: sNU+78mfCGLy3pD6/vmopRJMWYDsq+3Eb3l7ni2c0gw=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ frameworks/pom.properties
+SHA-256-Digest: bGlEfKiNbib4JJTAAFuuXifCgaSJiXjpEI8OXTETeBQ=
+
+Name: org/eclipse/wst/common/frameworks/internal/operations/package.xml
+SHA-256-Digest: 8ZBJaROPqsK2Rkwfwxqouz9J9nVg6MrqHm9x8l2tiSA=
+
+Name: org/eclipse/wst/common/frameworks/internal/operations/IProjectCrea
+ tionPropertiesNew.class
+SHA-256-Digest: RdJThd22em5dBV8MKx2ICKjtHfrfVCLmTa/nIIhFrvY=
+
+Name: org/eclipse/wst/common/frameworks/internal/AdaptabilityUtility.cla
+ ss
+SHA-256-Digest: 1I1NAT/7Ia8Nqwe38UBpYH762Gv1NqXkzVQBTpPduZ4=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/FunctionGrou
+ pPatternBinding.class
+SHA-256-Digest: UMp7A6ZAIUrOoz2ww10McZ71W5gZ3pYgMnYO/pyvBVY=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/package.xml
+SHA-256-Digest: 0bTHV6i0bybImgxAR6PfTDTFKk9fsaw+pUTzHyqwXl8=
+
+Name: about.html
+SHA-256-Digest: uNtdcam2UGRj5nbnesFNLRgKf5AFSxB9QgGcPDz4vOU=
+
+Name: org/eclipse/wst/common/frameworks/internal/operations/package.html
+SHA-256-Digest: qZvSQoYOdwsuAIQ9hGCNWb/zGCPJXJz+BuPWble1OLs=
+
+Name: org/eclipse/wst/common/frameworks/internal/ISimpleValidateEditCont
+ ext.class
+SHA-256-Digest: LrN85okn1x9Lt9o3+qWdA5KQuZHxuTtdDlwipAlpViw=
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/DataModelPaus
+ ibleOperationImpl.class
+SHA-256-Digest: IhTn4Yot9l2qv4VEBv6ljtLkRs8VZdPKYjeksy51DM8=
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/IDataModelPau
+ sibleOperationEvent.class
+SHA-256-Digest: h/5YE52lI7TCjDyLmy8LAKodM4mDnbD4nbbNHbdEItw=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ frameworks/pom.xml
+SHA-256-Digest: iHhV1aukhjbEHuFi8U9yOPTJx2r3zSQ3a7c/77u08Kw=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/IDataModelListener.cla
+ ss
+SHA-256-Digest: PTqyH9/QX+NHfDIHTVy7zr8HRxvDBO/z5oGxMJyMT8g=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/IGroupInitia
+ lizer.class
+SHA-256-Digest: K+HIwsoK6PEX1erzEyisKLWmgv+R6eQJV2msDrseVyQ=
+
+Name: org/eclipse/wst/common/frameworks/internal/SaveHandlerHeadless.cla
+ ss
+SHA-256-Digest: 0QoqpBXHGH3Vscb6TCTD4iR4+vIOfGXil4Tjk0T8rT0=
+
+Name: org/eclipse/wst/common/frameworks/internal/enablement/Identifiable
+ Comparator.class
+SHA-256-Digest: /VRigCknzo2wyBLO2Ew0rfAQfB7v/WD90X32EkcRAWE=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/IDataModel.class
+SHA-256-Digest: QMcUFZeiu6CKOSWbPH7327Tg2U7eYn/4FL4ArfsC7u0=
+
+Name: org/eclipse/wst/common/frameworks/internal/ExceptionHelper.class
+SHA-256-Digest: pyLS/J3RW4vh+3AU1TUQRKv2xJYDOjHnOkYHO8LRb3E=
+
+Name: wtp_common.properties
+SHA-256-Digest: 40xR3q+sXX4yFeFIstc2jZuUwbmFZBM6lUc+BDLS+BQ=
+
+Name: org/eclipse/wst/common/frameworks/internal/datamodel/DataModelImpl
+ $1.class
+SHA-256-Digest: v4n+IECRE4cJFkzIu0OrEzQkUOa1m35darqs1BMgQfk=
+
+Name: org/eclipse/wst/common/frameworks/internal/HashUtil.class
+SHA-256-Digest: vJH/PTtKhRfr1UBI7HjujGi4SL/7vpQt8zzO2sgvz1w=
+
+Name: org/eclipse/wst/common/frameworks/internal/WrappedRuntimeException
+ .class
+SHA-256-Digest: 4v4TPF40COsSpPzTqremPvWoAjAaUFeCOeLZ/o1aXtE=
+
+Name: org/eclipse/wst/common/frameworks/internal/plugin/WTPCommonMessage
+ s.class
+SHA-256-Digest: JRTeu2H4OTL+0VehanmuHM83Jyy4UNJhWIaxtQkcO18=
+
+Name: org/eclipse/wst/common/frameworks/datamodel/IDataModelProperties.c
+ lass
+SHA-256-Digest: gY+jwXxiMdNxGMaXstpiJBCIWrjb/4GtdgUYnS4T1JU=
+

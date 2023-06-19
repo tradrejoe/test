@@ -1,0 +1,159 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: qCDMRUdU0leQN09UBFwrWmfn+7wSUbD1VGOsNUezi8g=
+SHA-256-Digest-Manifest-Main-Attributes: 3DtLfaYCwzL053KgsUJ4Dt1OQQt6r5Z
+ dJ0xEEuQnnzs=
+
+Name: org/osgi/service/component/annotations/FieldOption.class
+SHA-256-Digest: iVgcBoHnLnkVky8ALczx0/s3NxyNF3B2/avUCPB9xTU=
+
+Name: org/osgi/service/http/runtime/package-info.class
+SHA-256-Digest: ODexip/StZuLZ1MfjD6aCdZonnF/1sfDC/GH68IcECU=
+
+Name: org/osgi/service/http/whiteboard/HttpWhiteboardConstants.class
+SHA-256-Digest: huo3BqIUO6BF2vzBNJXHMRbgx7jJ+Ez7rYi3X6BpX+4=
+
+Name: org/osgi/service/component/annotations/ReferencePolicyOption.class
+SHA-256-Digest: +gnvt9jphLwqLDz12LyrLokBaXLCHxhjc/EJFcjKRJ4=
+
+Name: org/osgi/service/http/runtime/dto/ListenerDTO.class
+SHA-256-Digest: mrHLwfv2WeQY1nJ5lOP8F4YXc4gpvXrmyaQfvntnfp0=
+
+Name: plugin.properties
+SHA-256-Digest: QiFP6lO0viHiCNe+hbH1y2kNcYloAconnFMkN87e3A8=
+
+Name: org/osgi/service/http/runtime/dto/FailedResourceDTO.class
+SHA-256-Digest: ycEyz4ElZ8oFU36nzRA5UoSbQ3oDXn03vK1FzhmCTTs=
+
+Name: org/osgi/service/http/runtime/dto/FailedErrorPageDTO.class
+SHA-256-Digest: Ps9WNxoaloeILZ7DrW86BZ/v+kHHeW/eZx78UWHR4xo=
+
+Name: META-INF/p2.inf
+SHA-256-Digest: PXU/MFLbtOEDpLSHdvVgsWuntdBIxsZimF41crH6/k4=
+
+Name: org/osgi/service/http/runtime/dto/ServletContextDTO.class
+SHA-256-Digest: h1ea3gHaicfVnKGTKgWOHzHMSTpu233vCnMoHHkT0qU=
+
+Name: org/osgi/service/log/note.txt
+SHA-256-Digest: /RqV9XdSM+rKKLq6eYyGSRQl167S1RPKPVKsby6pfNQ=
+
+Name: org/osgi/service/http/runtime/dto/FailedPreprocessorDTO.class
+SHA-256-Digest: VUrtFYLd3pPaectJdokJam5NRITGBl0aR8o5OM/YgJw=
+
+Name: .api_description
+SHA-256-Digest: QecAAv3G5nM2TgL9O/fXLqUNSXpgLb1YZ0H+n+E8B10=
+
+Name: org/osgi/service/component/annotations/Reference.class
+SHA-256-Digest: gpLgBy3XgZdsDiNWIVhHt3sa8600QnQpB9BAtanYvIM=
+
+Name: org/osgi/service/component/annotations/Activate.class
+SHA-256-Digest: BpSJjbuZVCeootwb9iUFAJWEDo6qdnVR/jPMU7L5cVE=
+
+Name: org/osgi/service/http/runtime/HttpServiceRuntime.class
+SHA-256-Digest: +oi/8zzg1S1y0D0P3eMW0DXNBJaIthfPsG4IiFKq2ro=
+
+Name: org/osgi/service/http/whiteboard/package-info.class
+SHA-256-Digest: IJl+O6c8nd9PZ/qczSHovubzwYOUtW7gWr1BUgRrIy0=
+
+Name: org/osgi/service/http/runtime/dto/FailedServletContextDTO.class
+SHA-256-Digest: 9Ip7C/jZFdSytsct1e9O/r5IkZNeTIATdM63+OQsF0I=
+
+Name: org/osgi/service/http/HttpService.class
+SHA-256-Digest: Io5qMTK4C+YesLwOUhj34U9Kq9fm28KOa0YWhbMgrhc=
+
+Name: org/osgi/service/component/annotations/Deactivate.class
+SHA-256-Digest: ZPm/uv6a50blcobo1McGeVbCwj6zwIs4h4VZ1VNN0k4=
+
+Name: org/osgi/service/http/runtime/HttpServiceRuntimeConstants.class
+SHA-256-Digest: ejZaRXsIFUUrDATb8G4iJZ4VvsfHoi5MGVBuXMZp8n4=
+
+Name: org/osgi/service/http/context/ServletContextHelper.class
+SHA-256-Digest: QxsvrnKdF979NqntyYRt1Tx3kzk9eKDBfXeHkqMw3Fg=
+
+Name: org/osgi/service/http/runtime/dto/FilterDTO.class
+SHA-256-Digest: fG/HV+0oXOt2JRwzTzSen4wuJFlZnMxmednqhaKMyk4=
+
+Name: org/osgi/service/http/HttpContext.class
+SHA-256-Digest: wD0mHt9hV70S9TibMUxKo3LMZ7dibHBefUB4j/Ijf+8=
+
+Name: org/osgi/service/http/runtime/dto/FailedServletDTO.class
+SHA-256-Digest: yySe9j1SgsHekTRrSZK5KqJLr3zgW4QQ9Z0zaMboVi8=
+
+Name: org/osgi/service/http/runtime/dto/PreprocessorDTO.class
+SHA-256-Digest: YOzA9/YRfIwTg24XL/05t5zhpzHhLZu7xXuyxH838nM=
+
+Name: org/osgi/service/http/runtime/dto/ErrorPageDTO.class
+SHA-256-Digest: 8qCfTepoPkL6Yi9qKGMxSp4+Sdfn6LB76qDnWDbqSf0=
+
+Name: org/osgi/service/component/annotations/package-info.class
+SHA-256-Digest: 4QFqFAQse05y6VkaSYsVIQ9SoEZyUBccO6jgFtzpfF4=
+
+Name: about_files/LICENSE-2.0.txt
+SHA-256-Digest: pgHwXlfwoswdBsTcqm60MdG9UCR1vmm7cVCWX+ZHJaw=
+
+Name: org/osgi/service/component/annotations/packageinfo
+SHA-256-Digest: 5Tdz6nj0b8/zEl8jEdH4PlYEcklli+YZBJ4ondcjjbE=
+
+Name: org/osgi/service/http/runtime/dto/ServletDTO.class
+SHA-256-Digest: CCi12X+nUIjsQItnC3MrH9TsUZxTg0TpaR40jlrPCZM=
+
+Name: org/osgi/service/component/annotations/ReferenceScope.class
+SHA-256-Digest: HbURF2YE5Fc2XJUwNzfui/znB6FSTWaHO2+dJWbiCjg=
+
+Name: org/osgi/service/http/context/package-info.class
+SHA-256-Digest: 7RZOxt+ebBSYjgDVE/w4LKNF/Rr6q0ICiWP/5BqteM4=
+
+Name: org/osgi/service/component/annotations/ServiceScope.class
+SHA-256-Digest: jjM4MZJdFHPo3lzpmejQp5xDUtfBQLRsNbIoA01xC48=
+
+Name: org/osgi/service/component/annotations/ReferencePolicy.class
+SHA-256-Digest: IbXiZn4efEhLsofxh3JRLZAIcxW6X2nGkM1Uhu+AWzg=
+
+Name: org/osgi/service/http/runtime/dto/RuntimeDTO.class
+SHA-256-Digest: r7JSq506Vtif4Z+U7Ge5i7pUNDPaXv4tEjSYJZ4j0L0=
+
+Name: org/osgi/service/http/runtime/dto/package-info.class
+SHA-256-Digest: uCCOkMvRe/PqiYPqAcxqcu4Ok5vxGWBul2qxscCAELI=
+
+Name: org/osgi/service/component/annotations/ConfigurationPolicy.class
+SHA-256-Digest: ifeAmPO5wBS2ZcIHh+CoPnPJLYyY3rvbpCfCL5YlnlI=
+
+Name: about.html
+SHA-256-Digest: CAJXjmPWzSqwuJZMowFaas99UDq2PX5DNXiub86PDNA=
+
+Name: org/osgi/service/http/runtime/dto/FailedListenerDTO.class
+SHA-256-Digest: 1hhxzKLT9VHMlogZ5j3iZH95CSpk6wy5Gm+oIhHuyAo=
+
+Name: org/osgi/service/http/runtime/dto/ResourceDTO.class
+SHA-256-Digest: GVCLY/ep7pnHNzT855Rkc5UXodiAvbTrmlNnXwBcBtc=
+
+Name: org/osgi/service/http/runtime/dto/BaseServletDTO.class
+SHA-256-Digest: +qWwxRtAPBOpUh/bLWDc730EnUzPj+aP+uivswVxS5k=
+
+Name: org/osgi/service/component/annotations/Component.class
+SHA-256-Digest: 52KWZSAZwt/zoDvL0J4alK6nZRyqTH+E0/94Gwl3+YY=
+
+Name: org/osgi/service/component/annotations/ReferenceCardinality.class
+SHA-256-Digest: tAzd9ouXh2+Q68KyQsRyUn/nit3JHNZZqKmn5r3fecI=
+
+Name: org/osgi/service/http/runtime/dto/FailedFilterDTO.class
+SHA-256-Digest: GbSjjO4nHDE8FEs7a0hNjG/guy/Do69s4w1+6a9mDaY=
+
+Name: org/osgi/service/http/whiteboard/Preprocessor.class
+SHA-256-Digest: hK9gXcbLWagdCdtMYPaoUR3gLHo8UvBFov46ssXeeOE=
+
+Name: org/osgi/service/component/annotations/Modified.class
+SHA-256-Digest: CagE0tDzqZbd14JNc5mMouBxwpJSIhAIr1x7I/Nh3oY=
+
+Name: org/osgi/service/http/runtime/dto/DTOConstants.class
+SHA-256-Digest: w9+DX5uwsEAHAKVlKZtlQ5AoCygLaXWogg787fcu2ME=
+
+Name: org/osgi/service/http/NamespaceException.class
+SHA-256-Digest: w3lsBnwFOo4/cac+t3ZFSeb4PKSnIORS6JqlH19aCTs=
+
+Name: org/osgi/service/http/package-info.class
+SHA-256-Digest: kOjNAT727IpuPvPtqEKhvuqzfzJSxg+fybOBl2jGc/U=
+
+Name: org/osgi/service/http/runtime/dto/RequestInfoDTO.class
+SHA-256-Digest: 1aemhSYqW0RB1bRA6zpiTAwn3wrOzSmI4We7oXUBNWg=
+

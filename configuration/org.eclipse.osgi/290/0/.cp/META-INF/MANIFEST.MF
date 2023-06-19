@@ -1,0 +1,327 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.e4.ui.workbench.swt;singleton:=true
+Bundle-Version: 0.16.600.v20220607-1204
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Activator: org.eclipse.e4.ui.internal.workbench.swt.WorkbenchSWTA
+ ctivator
+Require-Bundle: org.eclipse.e4.ui.workbench;bundle-version="0.10.0",org.
+ eclipse.e4.core.services;bundle-version="1.0.0",org.eclipse.e4.ui.servi
+ ces;bundle-version="0.1.0",org.eclipse.jface;bundle-version="[3.18.0,4.
+ 0.0)",org.eclipse.e4.ui.dialogs;bundle-version="1.1.600",org.eclipse.co
+ re.databinding;bundle-version="[1.2.0,2.0.0)",org.eclipse.jface.databin
+ ding;bundle-version="[1.3.0,2.0.0)",org.eclipse.e4.ui.css.core;bundle-v
+ ersion="0.12.200",org.eclipse.e4.ui.css.swt;bundle-version="0.13.100",o
+ rg.eclipse.e4.ui.bindings;bundle-version="0.9.0",org.eclipse.e4.core.co
+ ntexts;bundle-version="1.0.0",org.eclipse.e4.ui.workbench3;bundle-versi
+ on="0.11.0",org.eclipse.e4.core.di;bundle-version="1.1.0",org.eclipse.e
+ 4.ui.css.swt.theme;bundle-version="0.12.0",org.eclipse.core.expressions
+ ;bundle-version="[3.4.200,4.0.0)",org.eclipse.core.runtime;bundle-versi
+ on="[3.18.0,4.0.0)",org.eclipse.e4.core.commands;bundle-version="0.9.0"
+ ,org.eclipse.e4.ui.widgets;bundle-version="0.11.0",org.eclipse.e4.ui.di
+ ;bundle-version="0.9.0",org.eclipse.emf.ecore.xmi;bundle-version="2.7.0
+ ",org.eclipse.e4.ui.model.workbench;bundle-version="1.0.0",org.eclipse.
+ e4.core.di.extensions,org.eclipse.urischeme;bundle-version="1.1.0"
+Require-Capability: osgi.extender; filter:="(&(osgi.extender=osgi.compon
+ ent)(version>=1.2)(!(version>=2.0)))"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Export-Package: org.eclipse.e4.ui.internal.workbench.swt;x-friends:="org
+ .eclipse.e4.ui.workbench.addons.swt,org.eclipse.e4.ui.workbench.rendere
+ rs.swt,org.eclipse.ui.workbench",org.eclipse.e4.ui.internal.workbench.s
+ wt.handlers;x-internal:=true,org.eclipse.e4.ui.workbench.swt,org.eclips
+ e.e4.ui.workbench.swt.factories;x-friends:="org.eclipse.e4.ui.workbench
+ .renderers.swt,org.eclipse.ui.workbench",org.eclipse.e4.ui.workbench.sw
+ t.internal.copy;x-friends:="org.eclipse.e4.ui.workbench.renderers.swt",
+ org.eclipse.e4.ui.workbench.swt.util;x-friends:="org.eclipse.e4.ui.work
+ bench.renderers.swt,org.eclipse.ui.workbench"
+Import-Package: javax.annotation,javax.inject;version="1.0.0",org.eclips
+ e.osgi.service.datalocation;version="1.2.0",org.eclipse.osgi.service.de
+ bug;version="1.1.0",org.osgi.framework;version="1.5.0",org.osgi.service
+ .component.annotations;version="1.2.0";resolution:=optional,org.osgi.se
+ rvice.event;version="1.3.0",org.osgi.service.packageadmin;version="1.2.
+ 0",org.osgi.util.tracker;version="1.4.0"
+Service-Component: OSGI-INF/org.eclipse.e4.ui.internal.workbench.swt.Men
+ uServiceCreationFunction.xml,OSGI-INF/org.eclipse.e4.ui.internal.workbe
+ nch.swt.StatusReporterCreationFunction.xml,OSGI-INF/org.eclipse.e4.ui.i
+ nternal.workbench.swt.E4Testable.xml,OSGI-INF/org.eclipse.e4.ui.interna
+ l.workbench.swt.ContextListener.xml
+Automatic-Module-Name: org.eclipse.e4.ui.workbench.swt
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.ui.git;path="bundles/org.eclipse.e4.ui.workbench.swt";ta
+ g="I20220607-1940";commitId=c67d6fc52e3a59c5d7d944a7cd80870cccb009ed
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/PartRenderingEngine$6.cla
+ ss
+SHA-256-Digest: QoHzA7twbmLFmA2z/6SFl4zLJz51vDoOJ4fLUyR9qmw=
+
+Name: plugin.xml
+SHA-256-Digest: ZHer/Vmz6/sHkjS+ZtpyiopOzotChGdD2W0x48XnZt8=
+
+Name: org/eclipse/e4/ui/workbench/swt/internal/copy/ShowViewDialog$2$1.c
+ lass
+SHA-256-Digest: h20SKLYmKz7n4l17cReW5fh2HMzMgGWQbFrAaH/PSBU=
+
+Name: org/eclipse/e4/ui/workbench/swt/internal/copy/ViewContentProvider.
+ class
+SHA-256-Digest: rqz5uZ6qNTmJsvUrCm0pgU2Ce4CpZDQdRhyzTx0pKxQ=
+
+Name: org/eclipse/e4/ui/workbench/swt/factories/IRendererFactory.class
+SHA-256-Digest: c0G8la52nHjjZCul6OAKAZgqazwdH/4K6xf0ZXcG2f0=
+
+Name: org/eclipse/e4/ui/workbench/swt/internal/copy/ViewLabelProvider.cl
+ ass
+SHA-256-Digest: m0aonkaDdixhiBHn2MpIJUXDTTRmFVKYl1M4xOJVroM=
+
+Name: org/eclipse/e4/ui/workbench/swt/internal/copy/ViewComparator.class
+SHA-256-Digest: paz8NYG3AkMa7Qrlofu4ywtavVNDf10ELDzC7ng7HwM=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/E4Application$2.class
+SHA-256-Digest: pfTvD+thjczDbsNIhxwLGzPp6kiUfzxXsxpAtMkkjJE=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/SelectionAdapterFactory.c
+ lass
+SHA-256-Digest: KozCWKbeouFpWxegRB65p+cNK11j1TpE/D/mPU4dSns=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/DialogSettingsProviderSer
+ vice$1.class
+SHA-256-Digest: DBnewh1356N+nTyRgEyLknVhEvh8NyHTIuA+Wg4DrPw=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/E4Application$5.class
+SHA-256-Digest: V/kTA0QeikFcpnSegwEtr5rfMidYZ310yg/jGbMiW6k=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/PartRenderingEngine$5$1.c
+ lass
+SHA-256-Digest: iIp66vws8s2hca31zRiLfNLZuF/aJxRFk+fmD9lfOvg=
+
+Name: org/eclipse/e4/ui/workbench/swt/util/BindingProcessingAddon.class
+SHA-256-Digest: hc0ooebTKtHqxEPl3fo272YPGy542sVEGLRbCGjIKrs=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/PartRenderingEngine$3.cla
+ ss
+SHA-256-Digest: X/uSYUM09aV95Q7VofFkh0ZjQ03bZ9kuhPJ9X38okWQ=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/StatusReporterCreationFun
+ ction.class
+SHA-256-Digest: FMhOqfVrw9x5Xbkfn3AKaqz1LK/nCzerOB5IvWuXgso=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/ShellActivationListener$1
+ .class
+SHA-256-Digest: OkE4wzxMGeY4qsVEEBgXVJF3LtzeoLnCBti+uHjLbf0=
+
+Name: images/dragHandle@2x.png
+SHA-256-Digest: NtsiJih/OsiM7oFYIKHYXhJbEQj8zCLM40AYRaQJ0K4=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/PartRenderingEngine$Styli
+ ngPreferencesHandler.class
+SHA-256-Digest: d5iDBUmijWBTx6jdwRC2wDRuRfYX/DYKWVUw2FWRqIs=
+
+Name: plugin.properties
+SHA-256-Digest: bLcY01mmuevzF2Tt+HuDUuWq56StcSvddo60+nDU71A=
+
+Name: org/eclipse/e4/ui/workbench/swt/internal/copy/ShowViewDialog$2.cla
+ ss
+SHA-256-Digest: n1d47DoxHhxGPN0Qjz5eF9gSpsZNPCuFwvVUzLh6wo0=
+
+Name: OSGI-INF/org.eclipse.e4.ui.internal.workbench.swt.E4Testable.xml
+SHA-256-Digest: 9PkYWaKCgWoj/hwFgJuugdN0BS/4NulKICqZwIe4i2g=
+
+Name: org/eclipse/e4/ui/workbench/swt/internal/copy/SearchPattern.class
+SHA-256-Digest: eM+XbbkW6zZsTxJZVWjDpFRxPb7qYNUbFF/C1FvDqgA=
+
+Name: icons/full/etool16/clear_co.png
+SHA-256-Digest: r0gldxwLdrQaJvsC5VBZRMkUSZOZ6kATuJJTis8aCXc=
+
+Name: icons/full/obj16/fldr_obj@2x.png
+SHA-256-Digest: 9NcgLBVAXbRWZc5jidZlxJ4UkPFdM0t9I6kEgcZgeHU=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/handlers/ShowViewHandler.
+ class
+SHA-256-Digest: SjJIPiHOPOHqge4EWZnCodfxr8Cj//0BXsJw1J5SE4w=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/WorkbenchStatusReporter.c
+ lass
+SHA-256-Digest: DVnE26jkcc4saIgIrotH75qY3w9KsWVMtwqpxOf4nC0=
+
+Name: .api_description
+SHA-256-Digest: 6T+YZ9S47sC9hvYWUMdKv4l6HoK1ZzIUz0pRl3Z5cXU=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/GenTopic.class
+SHA-256-Digest: 5MnVCAzR/juXKuMlOkjiziDOu4hae96mAjAHxHENa00=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/PartRenderingEngine$2.cla
+ ss
+SHA-256-Digest: XiUtjqaxmhX/+3MRMOMyOsKEM1FVgIF1bv/KG01tgdA=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/ShellActivationListener$2
+ .class
+SHA-256-Digest: 3kfbCgJkUjQKAGNv02UOq/ToTSLBQ/cPnkTYeCx7wxw=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/ResourceUtility.class
+SHA-256-Digest: 6IgMaMkOsti17xGqgmvbBqnw46nXZPeWVdV2O7SJSIw=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/messages.properties
+SHA-256-Digest: +4HTK55pXUxZZxV9s4jpUxUUd0tTR/i+CHOgN6Jiw2w=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/E4Application$3.class
+SHA-256-Digest: ou6kE09EgcNBFiofb0EUu6GmY0HCi+bCTC4ZqnxKb48=
+
+Name: org/eclipse/e4/ui/workbench/swt/internal/copy/ShowViewDialog$1.cla
+ ss
+SHA-256-Digest: EW7qJCrWss9osaZhS2ag3ZkbaespC6Eh+5eBAXUjHnY=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/WorkbenchSWTActivator.cla
+ ss
+SHA-256-Digest: irnSDyJC30Kccq4awG/V+aduKN4/Vd/5vDnPWsWOOeM=
+
+Name: icons/full/obj16/fldr_obj.png
+SHA-256-Digest: XGc7XamQlIFUASnWIjZj/E5dl8ScsJA2hQS+hOWOJmY=
+
+Name: OSGI-INF/org.eclipse.e4.ui.internal.workbench.swt.MenuServiceCreat
+ ionFunction.xml
+SHA-256-Digest: Hpv9CXt0bF3zxlAj4+8GIwROvEIXEvsLw2z6UhqK6Uw=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/handlers/ThemeUtil.class
+SHA-256-Digest: b7QcT30hQSALRnerNz/J35aRt/gy6R0OZK21LPQmJSA=
+
+Name: org/eclipse/e4/ui/workbench/swt/internal/copy/messages.properties
+SHA-256-Digest: 1NJypwiRBgYLpYXYMySVN2TYkeU163mRDJp77P28UEk=
+
+Name: images/dragHandle-rotated.png
+SHA-256-Digest: 39ys0RLKzsnNaoNCs0Y06tj96sIEpPFVaKimJxeN/x4=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/E4Testable.class
+SHA-256-Digest: UxswetvepCEhMGTW4G4fYoUaxURS4CDkyz7UwbJIUSY=
+
+Name: org/eclipse/e4/ui/workbench/swt/util/ISWTResourceUtilities.class
+SHA-256-Digest: nPIybLxhBhMgKQ8elzKFGp6XffyqZstxpkAqzsIjlCc=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/AbstractPartRenderer.clas
+ s
+SHA-256-Digest: OofOKht67+JQDN/1GKySTFVLbi+FDO7563wZ19Ur398=
+
+Name: org/eclipse/e4/ui/workbench/swt/internal/copy/ViewPatternFilter.cl
+ ass
+SHA-256-Digest: zmbCOAHJ4LeONW8F9S7L6OjlF9HUAUKnlfJibH40rxw=
+
+Name: org/eclipse/e4/ui/workbench/swt/internal/copy/WorkbenchSWTMessages
+ .class
+SHA-256-Digest: bZWt7fGXS8sG4wEhA3a0oKqqXS7JgXTK2ut/m0DcTHM=
+
+Name: .options
+SHA-256-Digest: msU9Tl0eEjnFIvuh4SB4Of+S3Pz6XCzUGiNSkKTrnJc=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/E4Application.class
+SHA-256-Digest: dPSIk1Zev2iCawSz7yEko+JZOoP67OspagYKwmCIJ2A=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/IEventLoopAdvisor.class
+SHA-256-Digest: zE/KJ37AN16SzmHxZBekknJikYu4RptpMJAtUQGTWfA=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/Policy.class
+SHA-256-Digest: Oa7LeALUAZecBFq9nyWM/f9KKJkPX7BobDdn/ANcfOc=
+
+Name: org/eclipse/e4/ui/workbench/swt/internal/copy/ShowViewDialog.class
+SHA-256-Digest: saFMWVATTwihf21s0Rtc6emAeF7bik1540nBPwC5l2I=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/MenuService.class
+SHA-256-Digest: 5HAqdnh0rVYBKNek57rTr8aZOY/B1IGGHK4HaQ6cp5o=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/WorkbenchStatusReporter$1
+ .class
+SHA-256-Digest: VHocD2icx5tgtFwjznk2GbUiIfp7ijM88G6eYvRnV70=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/E4Application$4.class
+SHA-256-Digest: hIfMU9LNEoo7ak8cuRkmR+OAeiKdkWI8hifz37Gn/zU=
+
+Name: images/dragHandle-rotated@2x.png
+SHA-256-Digest: EL6FXUq8pLWGGioxgyVD22/oqKFjU5EbCAcwhk/iLX4=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/MenuServiceCreationFuncti
+ on.class
+SHA-256-Digest: LkBl4wzSqB9S9aglEB4v2pRQyrbjXgiSEVKtmexK70I=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/PartRenderingEngine$8.cla
+ ss
+SHA-256-Digest: BGyemT13tjYh47oYOTYWdyHgqN77mVok1YCX6eWP8qY=
+
+Name: OSGI-INF/org.eclipse.e4.ui.internal.workbench.swt.StatusReporterCr
+ eationFunction.xml
+SHA-256-Digest: +B9i7ZmNL6w4SQNzB8QIWJpggKW79YcjLFP/5kbLZAY=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/PartRenderingEngine.class
+SHA-256-Digest: JQ10Je948oTysec+lLvKHqGTy0AYVWD2m+UTK7gmBwU=
+
+Name: icons/full/dtool16/clear_co.png
+SHA-256-Digest: 8r91elUfiCBxHN0UxBFMZ3bK0v08vIPAGB81MjHxlRQ=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/ContextListener.class
+SHA-256-Digest: bIBkdoMd+O7WV11es/F0+izPqh9FDrirkQpm5Mw/KPk=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/PartRenderingEngine$5.cla
+ ss
+SHA-256-Digest: gnu+6oNl5YrxmEKh2MnexzXdQWlt2aWaB7iKdpfaBE0=
+
+Name: icons/full/etool16/clear_co@2x.png
+SHA-256-Digest: tEUBYtQBQYu++P1J97z7sscdqP2c9IYbjUjF0ze3AfI=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/CSSConstants.class
+SHA-256-Digest: TUuVSNf5hBAc3QL+rSQn5mPsfqaCO9/r/tU9tRarucw=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/handlers/EclipseCommandUR
+ IHandler.class
+SHA-256-Digest: qpj66WU/DJiCsbojic7tRCro+8kaRdHUHIUhXnW8Bog=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/CSSRenderingUtils.class
+SHA-256-Digest: dTBFpagPBv6m2yZmR3sszrn6qqzX6Q7OEsjfZXcqL48=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/DialogSettingsProvider.cl
+ ass
+SHA-256-Digest: ZGEaWUGH0xEjnmP98V1deZJywfFMTCnQz7atyW2YZqg=
+
+Name: org/eclipse/e4/ui/workbench/swt/DisplayUISynchronize.class
+SHA-256-Digest: QfOjh3Zpl96FZUia48xtngpdupfJB9//aRn3r5nPaYg=
+
+Name: icons/full/dtool16/clear_co@2x.png
+SHA-256-Digest: FhV+hyFu1vsR21wvWKHBPOPF+27c9o913RIQ3B3qbsE=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/DialogSettingsProviderSer
+ vice.class
+SHA-256-Digest: E0A3nehaWGv7F4oZBtjBAeSDlszZoDJgArqDAhPVVRQ=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/E4Application$1.class
+SHA-256-Digest: XZFDYU2DNtzETlKKPSEDKpqUdWJkZqphS7T4ZXSf5l8=
+
+Name: OSGI-INF/org.eclipse.e4.ui.internal.workbench.swt.ContextListener.
+ xml
+SHA-256-Digest: PYJhVraazag6Zvqp3FjK3ieeKvPDj5wSARwRE756UvE=
+
+Name: images/dragHandle.png
+SHA-256-Digest: aVodfPiYeqW8cepuXNJ+uK0K9uBs/U5DhOM4d6URKII=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/E4WorkbenchSWTMessages.cl
+ ass
+SHA-256-Digest: 6LpzxrFQuLjBGMjcMcl2ZQZLceQ18pIscabrW1uYKN8=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/PartRenderingEngine$7.cla
+ ss
+SHA-256-Digest: TQ6rwcqirci53Ybn8ct4b/a9WfrC/3SH+sSoleIIw6I=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/ShellActivationListener.c
+ lass
+SHA-256-Digest: 87zaE4WBnLYFihoBx5lFHxyarPvR7YMHU6UKMs1fL8o=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/PartRenderingEngine$1.cla
+ ss
+SHA-256-Digest: Bbm+Ni68E92270jTregjfS/1x9sy42gehg7FP7mbQWU=
+
+Name: org/eclipse/e4/ui/internal/workbench/swt/PartRenderingEngine$4.cla
+ ss
+SHA-256-Digest: IQL3IPu9wXZ+Asq5YDSZkuHzJENX3gwjq0yd5ktkp6I=
+

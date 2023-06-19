@@ -1,0 +1,95 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: WSyNJiQgdyGJks8ujacIvyr1AHYANBktr7pwaH9nNG0=
+SHA-256-Digest-Manifest-Main-Attributes: B/UQ3JamYBImO55Ns2vq5B+AWgmaYJC
+ rE52L8nvmHAk=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/verifier/Verifier$1.c
+ lass
+SHA-256-Digest: lPmKyV/O+SQMLD94Tt6K60f2lIAiiwipPcPh+B6giKk=
+
+Name: plugin.xml
+SHA-256-Digest: JgG3uYfi2naqoXpXN4SX93SICeSeK1USBpqWdschMM8=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/StreamProcessor.class
+SHA-256-Digest: bUpiYmXify7c/74LEkrHevVzHFR1pmGDwJ0OvYWbQbI=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/ZipProcessor.class
+SHA-256-Digest: 6Tn371s+6L3g9LKeq1489nwSFYapJJCYb3/oL8wub9g=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/verifier/VerifyStep.c
+ lass
+SHA-256-Digest: uB7sJCvDhVmwjuOOEWKNGqFhgJPfq1dIExJz0JWCeCE=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/Utils.class
+SHA-256-Digest: l2xloe8pDb53ZwQSGsSBqkhlmIu2MP8ZbW6Wa930plI=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/verifier/Verifier.cla
+ ss
+SHA-256-Digest: 2RF2kRpGk4pXQMPgorKCzHQ2VoashzoDfn1T0vlhlGw=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/StreamProcessorJob.cl
+ ass
+SHA-256-Digest: Kveh/Tu0Xrfk5XVA9VLYydhPbTnNDgMZUn6I+TY18nY=
+
+Name: org/eclipse/internal/provisional/equinox/p2/jarprocessor/JarProces
+ sor.class
+SHA-256-Digest: FnTNyeRIzo+Pt3u2RP0183PvPqQjRXDYLeOYlj9jzRE=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/CommandStep.class
+SHA-256-Digest: wAu1RozOPE2JXtVL08rzY1ZCe0QrVF/kF26oeSOzx6c=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/PackStep.class
+SHA-256-Digest: UmZ+PTcUo2jkYUiCcWC40yCCgW276v7y4P+m2PZNJgU=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/pack-readme.html
+SHA-256-Digest: jVkWFVE6rdgkk+aRolax3g2Y5Os3CZ6RwSWv+jCa39M=
+
+Name: plugin.properties
+SHA-256-Digest: gm1hW0jToN1UQb3VneEHwP2pyL+WQQMRprvjww7aVE0=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/unsigner/Unsigner.cla
+ ss
+SHA-256-Digest: rKo/FeoWKJdKi4hhqQdAHCHR2e7Day8E4N1Zgp7mgDw=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/Main.class
+SHA-256-Digest: 1m+qkhMS/XfGflkTsTApgl2RrIcZzdiZm5I/O7hvDnY=
+
+Name: org/eclipse/internal/provisional/equinox/p2/jarprocessor/IProcessS
+ tep.class
+SHA-256-Digest: o3i2i/tvJmbc2wXrZQm977NrS5RS9vI+OMhZGa0++Kw=
+
+Name: lib/jarprocessor-ant.jar
+SHA-256-Digest: 3soXyIbuh4VZPJ+km6mN2TxbMjzCTv9tVGtqZnWrOxg=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/StreamProcessor$1.cla
+ ss
+SHA-256-Digest: pMCFGAsz9BZkijPtPBayqwkXD++IplDvCVK7As3KRlI=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/SignCommandStep.class
+SHA-256-Digest: 7dtFt6OFx1GPbawGTQsAs0Lz9OsTsISE0g0XkvANjOs=
+
+Name: org/eclipse/internal/provisional/equinox/p2/jarprocessor/JarProces
+ sorExecutor$Options.class
+SHA-256-Digest: KHqfdEL17Dpgsu5P2iELxAYso4y216ttcyVyX1f6+hU=
+
+Name: .api_description
+SHA-256-Digest: dkqFWIoeN3mYKjAqH0vbHiOdoBWCGJSXYo26ctJ0pLw=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/UnpackStep.class
+SHA-256-Digest: j7rx+v5G/j9rcSnYscdzAyZGWxg1uO01Q6/UFdqAPFE=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/unsigner/UnsignComman
+ d.class
+SHA-256-Digest: oXJcondhvs+8Xnwp5gJtsGXqjqI75q3Rsepe9ZWeB7Q=
+
+Name: org/eclipse/equinox/internal/p2/jarprocessor/PackUnpackStep.class
+SHA-256-Digest: sKJQGvCKZ6Lonc8vaqWncyXALh6pGIdqh8pjoypUEkc=
+
+Name: org/eclipse/internal/provisional/equinox/p2/jarprocessor/JarProces
+ sorExecutor.class
+SHA-256-Digest: gD3749g1lvTIJ61SSx2RN1l8uH40LqlJKWijK8yZHsc=
+

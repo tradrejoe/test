@@ -1,0 +1,51 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: CqXHrRgYZm3GVhnMiQMq/tvdlTPeD
+ RC4d/rKQhYr2ns=
+SHA-256-Digest-Manifest: PIW9NOvTFF1yonv0r0/VzHLjrORk8NyKYjxOpjSNZio=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: about.html
+SHA-256-Digest: R1NsOYW0xMn0S74BYL/E6s7Oe/ni0s5JDL+q/m9WxSM=
+
+Name: org/w3c/dom/events/CustomEvent.class
+SHA-256-Digest: uM9TBkW1hxe3Yj8GZMJ/+MBwODXEQDOj9fD5e3657t8=
+
+Name: org/w3c/dom/events/TextEvent.class
+SHA-256-Digest: TPnGkVq90rHrXbYETd32yZ5qef+ZjuzAxFEKNr68quI=
+
+Name: org/w3c/dom/events/MouseEvent.class
+SHA-256-Digest: kNRpI2LZjQl1M+b9aEHC+GAtotU6R/BCwSwwSdnA6AE=
+
+Name: org/w3c/dom/events/MutationEvent.class
+SHA-256-Digest: TIKaPLym/W70GZhr4ComREPcD8kKSbK7hJ7gyP9IJs0=
+
+Name: org/w3c/dom/events/Event.class
+SHA-256-Digest: UFVGTtIcpipwl/0cCvNExwZ/Mb/nawP9QbQ3kWWX9/s=
+
+Name: org/w3c/dom/events/EventListener.class
+SHA-256-Digest: rS0g+2BFuIos7f/07/ggnrNSR8hBMgv7uuhy/kZFQd0=
+
+Name: org/w3c/dom/events/MutationNameEvent.class
+SHA-256-Digest: 5S3F2xKkSjHfh+Bl4DoL2GjiuJj2ZnVZ1voW6uE+7wk=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: rEULrt3GCNggFeuBb9QugPCG48TouWYgzDw3Q1PhCCQ=
+
+Name: org/w3c/dom/events/KeyboardEvent.class
+SHA-256-Digest: 2fMRYLY/L4/IxUthRFpSmc5LPIKZUC5D/8TsoimB+Z0=
+
+Name: org/w3c/dom/events/DocumentEvent.class
+SHA-256-Digest: YXBNZInO1fmZw9iuYAjZK40HfCIxikXoUb1quaGzavI=
+
+Name: plugin.properties
+SHA-256-Digest: 2Ifdon5tscSDmbeyI+iw5bClsKc6wRf0eB1fgBhlw9g=
+
+Name: org/w3c/dom/events/EventException.class
+SHA-256-Digest: Ogqg2JJQG4IDw2p5xb/H+LnK08m+m0Ia9IzG4i4hST4=
+
+Name: org/w3c/dom/events/EventTarget.class
+SHA-256-Digest: wptnxtTxNXoNzZr3zxon0tUI4S1HKcMVKGjm96LPWYM=
+
+Name: org/w3c/dom/events/UIEvent.class
+SHA-256-Digest: KLlWTdjJjO97nFLkbjKOncWBLC4EJJtTMkbqgvDxkaU=
+

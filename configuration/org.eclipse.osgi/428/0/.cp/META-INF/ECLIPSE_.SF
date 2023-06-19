@@ -1,0 +1,219 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: Qyilc0MBO0YtAOldbFYpHOVibrhDZfbnpkYaWIocX+Q=
+SHA-256-Digest-Manifest-Main-Attributes: HvMce1WWBuvoZoLUa2UGTaNqZiRmUvh
+ bczCVVzpeigg=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/WorkspaceResourceNotif
+ ier$WorkspaceResourceCacheAdapter.class
+SHA-256-Digest: 0j1oinQ/LOSOrrpVCpLQiTy6uIlIrrXIbDy0Ko/Vcoo=
+
+Name: plugin.xml
+SHA-256-Digest: m+PhFWoo3+xoBx0779DxaAFwzU+c/ighivknTECeg7g=
+
+Name: org/eclipse/jem/util/emf/workbench/EMFWorkbenchContextBase.class
+SHA-256-Digest: rB43BYRsZFlUwXqXC5Q3sRd/HTiLCNSy6dd4fBPDrks=
+
+Name: org/eclipse/jem/util/emf/workbench/ISynchronizerExtender.class
+SHA-256-Digest: 4k85+2kuyRuMTFrF6NYc7QiVAoK3usC+oJrzLkGD40w=
+
+Name: org/eclipse/jem/util/PerformanceMonitorUtil.class
+SHA-256-Digest: 9m3D+qtU73bZZWDw9fsdFrKlfmLexpkXXEVb4v+yCDk=
+
+Name: org/eclipse/jem/util/logger/proxy/JDKConsoleRenderer.class
+SHA-256-Digest: 4DjW54LwuA7Bq/Quf5NklJW0mPBB79NnbfrVDaMilsQ=
+
+Name: org/eclipse/jem/util/CharacterUtil$StringBufferIterator.class
+SHA-256-Digest: ofJLNtPbD4ICFJexmJh9Az6JrhsvxFWsrGXiG+iUE+w=
+
+Name: org/eclipse/jem/util/plugin/JEMUtilPlugin.class
+SHA-256-Digest: wa52K21OOtmthHZVA3SqNNSmydOPxiXx6ftwgFFt1pI=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/ProjectResourceSetImpl
+ $ESynchronizedAdapterList.class
+SHA-256-Digest: hi7/VM1SQHukPg7fd84fQdh9UcbQ4C+GDN5Y5yK06qs=
+
+Name: org/eclipse/jem/util/emf/workbench/IEMFContextContributor.class
+SHA-256-Digest: o4aP8EMOkO7N0Oo3GUfE3wk8NiguLa9mfNkw09YhI44=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.jem.util/po
+ m.properties
+SHA-256-Digest: z7TAhMYDrSqx5SpVokSBHu5yX07J+sV7uwUaisnp7GA=
+
+Name: org/eclipse/jem/util/logger/proxy/Logger.class
+SHA-256-Digest: vITIUSCJm1ypfs+Qx3GpTtQEnWSUC8RrFt53hs4T8A8=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/WorkspaceResourceNotif
+ ier.class
+SHA-256-Digest: TRAwX9zJMIi5+7k2LoyNnaA0UPloFit2lKjznxqaP6w=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/nls/EMFWorkbenchResour
+ ceHandler.class
+SHA-256-Digest: pp2jTPw/CApKVx2apdUPiK4CcjZ/JfQfgfpTpnwY9vY=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/EMFWorkbenchContextFac
+ tory.class
+SHA-256-Digest: yI4O3Glb40F/VpBg8YDwwvzmd/FZK8ZW8AX0XcL7y5k=
+
+Name: org/eclipse/jem/util/PerformanceMonitorUtil$Types.class
+SHA-256-Digest: 8qvQFFy2sOBWPe0Khdotjyb7UYpsFj8TOlbFEumzDx8=
+
+Name: org/eclipse/jem/util/TimerTests.class
+SHA-256-Digest: 2hebqLOJMUkosvQyl/AsVCZSF5gdvAcZNxKGOGOAvN8=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/ProjectResourceSetImpl
+ $ImmutableEList.class
+SHA-256-Digest: Z4m1dIkRng51qKmlh9W14zj/8TmAzRRqTD37NGuNjW8=
+
+Name: plugin.properties
+SHA-256-Digest: TaRjdye91C+7gmMD+CTrT9+eCi0t9vGVqvAJ3xlVOe0=
+
+Name: org/eclipse/jem/util/emf/workbench/WorkbenchURIConverterImpl.class
+SHA-256-Digest: xZdLSCzJPkEZWijEkHYQnz8JMsUk0XGGUh6KLd/OAE4=
+
+Name: org/eclipse/jem/util/emf/workbench/WorkbenchResourceHelperBase.cla
+ ss
+SHA-256-Digest: UHm+ZulcWHBj1gj5Yx5EvYuX9p3edNVNtTl1aQWhDCM=
+
+Name: org/eclipse/jem/util/logger/proxyrender/AbstractWorkBenchRenderer.
+ class
+SHA-256-Digest: 0wcaPTzv5fvh+8+zmJA5bDviaLWipNNsxiFROotuVs8=
+
+Name: org/eclipse/jem/util/emf/workbench/WorkbenchURIConverter.class
+SHA-256-Digest: /9NEo2l1cLkfHW+7d3qnYEHU2hiZ97poPdg9cnW/1zg=
+
+Name: org/eclipse/jem/util/logger/proxy/ILogRenderer.class
+SHA-256-Digest: ipWutK69DONEFmFwzxL5GuveuaJmZdisY5MNRIlXyB0=
+
+Name: org/eclipse/jem/util/UITester.class
+SHA-256-Digest: lMGFoxzwcoiip80BOqVoV8nTUn6JVo1BMRMj9F+Yuwo=
+
+Name: org/eclipse/jem/util/CharacterUtil$AbstractCharIterator.class
+SHA-256-Digest: aK2jj8e+7BkGVYe524zYWiUzSd8AVY/qja4GLGvFw4I=
+
+Name: org/eclipse/jem/util/TimerTests$CumulativeInformation.class
+SHA-256-Digest: xEPQ/FsEIHFrQVnv7jXhmOva5rkmiTw+kE+cZ6yZ9iA=
+
+Name: org/eclipse/jem/util/NotPresentPerformanceMonitor.class
+SHA-256-Digest: +MmxZDOzE6jOnwCzFA+Wz/tGt3buhCwRkMicTOKrZ7s=
+
+Name: org/eclipse/jem/util/emf/workbench/FlexibleProjectResourceSet.clas
+ s
+SHA-256-Digest: TApXYVGu5uG8ZN66+5sxnUKFyHq/fFqQn9kNU5sWWtM=
+
+Name: org/eclipse/jem/util/logger/proxyrender/DefaultPluginTraceRenderer
+ .class
+SHA-256-Digest: dIPA+NF4vnnnqEavmpAlcfOTGx3vGEOOAY7GqX44mxo=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/EMFWorkbenchContextFac
+ tory$1.class
+SHA-256-Digest: g8xOyLwEp9glnRmTGcOht6CNwQzlYpaskCh+WHopg1E=
+
+Name: org/eclipse/jem/util/logger/LogEntry.class
+SHA-256-Digest: NSVdOgddfA3uYIYkxQasygdGxw+INTF54fdkV6IvoP4=
+
+Name: org/eclipse/jem/util/logger/proxyrender/ConsoleLogRenderer.class
+SHA-256-Digest: M6MvJjW+1FUSVSMZwkSX/nlmFtZHLMPJGgrCCDkHWPA=
+
+Name: org/eclipse/jem/util/PerformanceMonitorUtil$PerformanceListener.cl
+ ass
+SHA-256-Digest: RlFhz3JXNgK1rcQhK9oaxkU9YZBo7O1kP5kWXkmprMA=
+
+Name: org/eclipse/jem/util/plugin/JEMUtilPlugin$CleanResourceChangeListe
+ ner.class
+SHA-256-Digest: srN4EN9vUMSj6xOV3n5MBtlutgbOwPZTkWO1DuDebSU=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/ProjectResourceSetImpl
+ $1.class
+SHA-256-Digest: DRSBW8pdgaa5LmwbB45FfbkBSTvA16HlbrDfax77uLw=
+
+Name: org/eclipse/jem/util/UIContextDetermination.class
+SHA-256-Digest: AXbKlcNN3XoS9i+cPtW/bAIlD5kK6ucXMgZED3TZJM4=
+
+Name: org/eclipse/jem/util/CharacterUtil$StringIterator.class
+SHA-256-Digest: BJ4OiOw8vdUbwGwveiSsdE129VsR89Kl45oMVP9nyeg=
+
+Name: org/eclipse/jem/util/logger/proxy/Logger$LocalLevel.class
+SHA-256-Digest: /7HkXPND8l36AWTdtdnvlQo5yOGqEe6CTyTE4Df4ckc=
+
+Name: org/eclipse/jem/util/logger/proxyrender/IMsgLogger.class
+SHA-256-Digest: uNfj7cApsmVrNEBs2Kl4HeC1d56UJX837jlTuelSgLM=
+
+Name: org/eclipse/jem/util/emf/workbench/ProjectResourceSet.class
+SHA-256-Digest: TVXXm0QXZF6wdqcUQesJw1Iq2Dnt+eyV522F43IzE2k=
+
+Name: .options
+SHA-256-Digest: Ag1/WtM3xnsm2A4O2fJPUMYH4mxHF0fUEW2T8lncUsI=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.jem.util/po
+ m.xml
+SHA-256-Digest: r8/HMlm3YrGalwst/eeW59dsGFxrwbm6f35GzYzmarM=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/WorkspaceResourceHandl
+ er.class
+SHA-256-Digest: LbzzS+NRQ5w0rNf4chCwhwL2dFwG1yzl7vI080GYWUs=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/nature/EMFNatureRegist
+ ry.class
+SHA-256-Digest: fK9C1CBZJDOSGmm7IGLzFek0NtxJZ0L29xkLydzFEa0=
+
+Name: org/eclipse/jem/util/emf/workbench/nature/EMFNature.class
+SHA-256-Digest: SDO9JFZAWVBGnDRq4/KjvrUwT+t3pECICArj0FHeoXA=
+
+Name: org/eclipse/jem/util/emf/workbench/ResourceHandler.class
+SHA-256-Digest: IQ79xHnEGdGxlMJYMhKFWjnqNIWQYHJ4Fu1hnUKPpog=
+
+Name: org/eclipse/jem/util/emf/workbench/ResourceSetWorkbenchSynchronize
+ r$QueuingHashSet.class
+SHA-256-Digest: MG7X/d7uAEwBC4Xovi/RNWVGUCM89Z2JLXfcfqWR0Qg=
+
+Name: org/eclipse/jem/util/emf/workbench/ProjectUtilities.class
+SHA-256-Digest: rTWHKbj3J+cdL/8zn+JJkJR379dtvdQflZosNBhL9ak=
+
+Name: org/eclipse/jem/util/emf/workbench/WorkbenchByteArrayOutputStream.
+ class
+SHA-256-Digest: xoHhaE8r0Ke1zGZdWoDpgc2TxFETJosijaxPSggV+TM=
+
+Name: org/eclipse/jem/util/PresentPerformanceMonitor.class
+SHA-256-Digest: nt0Cs50PtqraQ5IapwE8UprFKmrsv9GZkGCaZT6NgHQ=
+
+Name: about.html
+SHA-256-Digest: 4e0FWB1Ehz9lFQuM4Rg9lKithq/znMwcwJ0yRpx0r/w=
+
+Name: org/eclipse/jem/util/emf/workbench/ResourceSetWorkbenchSynchronize
+ r.class
+SHA-256-Digest: k94NojNDvt+lwZGuu5qpVIOt0dm9j7GT8cfVcq8+uas=
+
+Name: org/eclipse/jem/util/logger/proxy/ILogRenderer2.class
+SHA-256-Digest: 1tA8rdC+97TpUi+I1VUgO1/Nm1IbARTMcqHNW7CgTmY=
+
+Name: org/eclipse/jem/util/RegistryReader.class
+SHA-256-Digest: UOtXfKkWDet+xM4/R8z1LNAKgxTCIEyAgyBuk3aGNlU=
+
+Name: org/eclipse/jem/util/CharacterUtil.class
+SHA-256-Digest: 6sioXZa0wH4/PvG80sh5jZ4oA00+bNc0b7KaW6DDF7A=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/ProjectResourceSetImpl
+ .class
+SHA-256-Digest: o55/ZTjYePnymA5jQdNV9970EhPYJ0Z2i5qNrH3hH0k=
+
+Name: org/eclipse/jem/util/PerformanceMonitorUtil$PerformanceEvent.class
+SHA-256-Digest: N9f36mYh2NE8nv7575QR2C/CTo/464+WPqV6Ncv95Dw=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/ProjectResourceSetImpl
+ $SynchronizedResourcesEList.class
+SHA-256-Digest: iw7QGCzRvtk7hrDryHG+SADxJ5sjdiLLkB904ItqM4s=
+
+Name: org/eclipse/jem/util/logger/proxyrender/EclipseLogger.class
+SHA-256-Digest: Nxmw1u160fx305ZpFvGkHgi801ugHQp5rsCURHoQ2Yg=
+
+Name: org/eclipse/jem/util/TimerTests$TimerStep.class
+SHA-256-Digest: FhD5fzZxXXOEeXN0RYiF2lPc1KaClQM9d4ksHiRvfq8=
+
+Name: org/eclipse/jem/internal/util/emf/workbench/ProjectResourceSetImpl
+ $ModuleURI.class
+SHA-256-Digest: A/zptqY2KmVQ5/njaLjy0dIQPqPfEEF5G1FrxXoZsxA=
+
+Name: emfworkbench.properties
+SHA-256-Digest: GalpBDB5vSB/1Knq3ITnJWtEMrFaHkB5uwNSNxUzdXc=
+

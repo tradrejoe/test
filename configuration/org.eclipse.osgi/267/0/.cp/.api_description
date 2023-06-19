@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.e4.core.di_1.8.300.v20220817-1539" version="1.2">
+    <plugin id="org.eclipse.e4.core.di_1.8.300.v20220817-1539"/>
+    <package name="org.eclipse.e4.core.di" visibility="1">
+        <type name="IBinding" restrictions="3"/>
+        <type name="IInjector" restrictions="3"/>
+        <type name="InjectorFactory" restrictions="4"/>
+    </package>
+    <package name="org.eclipse.e4.core.di.suppliers" visibility="1">
+        <type name="IObjectDescriptor" restrictions="3"/>
+        <type name="IRequestor" restrictions="3"/>
+    </package>
+</component>

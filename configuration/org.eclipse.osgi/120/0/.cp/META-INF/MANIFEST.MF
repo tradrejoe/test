@@ -1,0 +1,365 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.databinding.property
+Bundle-Version: 1.9.0.v20210619-1129
+Bundle-ClassPath: .
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.core.databinding.property,org.eclipse.core.d
+ atabinding.property.list,org.eclipse.core.databinding.property.map,org.
+ eclipse.core.databinding.property.set,org.eclipse.core.databinding.prop
+ erty.value,org.eclipse.core.internal.databinding.property;x-internal:=t
+ rue,org.eclipse.core.internal.databinding.property.list;x-internal:=tru
+ e,org.eclipse.core.internal.databinding.property.map;x-internal:=true,o
+ rg.eclipse.core.internal.databinding.property.set;x-internal:=true,org.
+ eclipse.core.internal.databinding.property.value;x-internal:=true
+Require-Bundle: org.eclipse.equinox.common;bundle-version="[3.2.0,4.0.0)
+ ",org.eclipse.core.databinding.observable;bundle-version="[1.3.0,2.0.0)
+ "
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Automatic-Module-Name: org.eclipse.core.databinding.property
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platform
+ /eclipse.platform.ui.git;path="bundles/org.eclipse.core.databinding.pro
+ perty";tag="I20210619-1800";commitId=435a3a7a9589845066c31a0e3e2358898e
+ 121058
+
+Name: org/eclipse/core/databinding/property/Properties.class
+SHA-256-Digest: US3yVOBbBnvl2sg8xOgcgA24PYIOQGSVdt9IYuPdJQw=
+
+Name: org/eclipse/core/databinding/property/map/SimpleMapProperty.class
+SHA-256-Digest: lvVt30J7IO9mDaj6oAT4w2YLtjHj7yHEwVfoDp6gXvI=
+
+Name: org/eclipse/core/databinding/property/ISimplePropertyListener.clas
+ s
+SHA-256-Digest: b0USxaodmv3HEvcsd98GZJWsLceX0Lqx3OaXe0xKXKw=
+
+Name: org/eclipse/core/internal/databinding/property/value/DelegatingCac
+ he$DelegateCache.class
+SHA-256-Digest: Nj25RbtXmokJEP8/TeYoAxTOfPIQhiDCmOv7M8ICaho=
+
+Name: org/eclipse/core/internal/databinding/property/PropertyObservableU
+ til.class
+SHA-256-Digest: jwLVRQh6V9VBErn8XVgs22emkduGSkoiWBDbulk3Wr8=
+
+Name: org/eclipse/core/databinding/property/set/DelegatingSetProperty$Nu
+ llSetProperty.class
+SHA-256-Digest: 181H8gcs0uPOMfqI9mQWDApwQAMn+BF+hS+yMvHuIpw=
+
+Name: org/eclipse/core/internal/databinding/property/SetPropertyDetailVa
+ luesMap.class
+SHA-256-Digest: f7O+wXLZgi42ujNT0okI/dvw5V2B2iaZ1n6FA5lwsjA=
+
+Name: org/eclipse/core/databinding/property/value/SimpleValueProperty.cl
+ ass
+SHA-256-Digest: 8fZivFig/A5dBsfD/o/QMXG14/jKK6yNjWDX+g17hi0=
+
+Name: org/eclipse/core/databinding/property/list/IListProperty.class
+SHA-256-Digest: ax+l6V/6xcTMVyfxxnahzs8dTXgM6IHLQUF0F78uPag=
+
+Name: org/eclipse/core/databinding/property/list/DelegatingListProperty$
+ NullListProperty.class
+SHA-256-Digest: xp4q6zjeOdxotodb1flGhDkbb5b/M8heo7Sc9gfOUzo=
+
+Name: org/eclipse/core/internal/databinding/property/value/ListSimpleVal
+ ueObservableList$2.class
+SHA-256-Digest: arc33qalB1SCFypoWpHuA4G28VgMlXms+dBlBPkORYw=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapDelegating
+ ValueObservableMap.class
+SHA-256-Digest: iYzfgzPQR1rh1eWYk1D1g9587TFo6+YMUPxOetngpm0=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapDelegating
+ ValueObservableMap$EntrySet.class
+SHA-256-Digest: Y29hHSxwPID8Ne/S4lumrl84FucqNr41Pd3LdV9wSFw=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapDelegating
+ ValueObservableMap$MapEntry.class
+SHA-256-Digest: VLLCMIDiTTAfRRjoShWmLEpQJhJA1+WgIVha+UfR/wU=
+
+Name: org/eclipse/core/internal/databinding/property/value/ListDelegatin
+ gValueObservableList$1.class
+SHA-256-Digest: FO5lERQR6UktF0Lz6+mumxj9qtAhQZV97BNYhNIIXRI=
+
+Name: plugin.properties
+SHA-256-Digest: jo0jcArAGZCs6VjVh3o/N3qJiRm0PGKCdYwAK58DcsY=
+
+Name: org/eclipse/core/databinding/property/set/UnionSetProperty.class
+SHA-256-Digest: XUxB/7G4/OUBwtqEj3hxcJDSvDVqK+WHD2TApZ0j/ps=
+
+Name: org/eclipse/core/databinding/property/value/DelegatingValuePropert
+ y$NullValueProperty.class
+SHA-256-Digest: lkaNpb1frDAZWd4OynAyKVYC+runPbM0YMlvyIuvSPM=
+
+Name: org/eclipse/core/databinding/property/SimplePropertyEvent.class
+SHA-256-Digest: W6ErHlYjhxNgJOl+j7S9m28Xoqhzgwrg1LwU0e5XGwY=
+
+Name: org/eclipse/core/internal/databinding/property/ListPropertyDetailV
+ aluesList.class
+SHA-256-Digest: SKr3jMLGGCmLL0mgzNhOSdhomtKFpMFRE4Oo1y1W0XU=
+
+Name: org/eclipse/core/databinding/property/map/DelegatingMapProperty.cl
+ ass
+SHA-256-Digest: b04F6xc/2JI+r7qPXgKGCYiwR7eBgWevWB8fgioJyAU=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapSimpleValu
+ eObservableMap$1.class
+SHA-256-Digest: Momk+bV/IR7VzADIsqzgPoCSvu9V1kCHVnBhRBukMiQ=
+
+Name: org/eclipse/core/internal/databinding/property/value/ListDelegatin
+ gValueObservableList$4.class
+SHA-256-Digest: QFbrThtG1sJuGkYaTlYpIhSnnxYDvL9Hjy6Q99HMgeM=
+
+Name: org/eclipse/core/internal/databinding/property/value/SimplePropert
+ yObservableValue.class
+SHA-256-Digest: aIJJVqUiAbcR9+lvGbAqeJy/r7AQAfU+Y2Yct+SOjgE=
+
+Name: org/eclipse/core/internal/databinding/property/value/SetDelegating
+ ValueObservableMap$EntrySet$1.class
+SHA-256-Digest: lYYkDiCH1n457psw2uHO6nWbHHcI3iROPmAhYhFiGsw=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapSimpleValu
+ eObservableMap$EntrySet.class
+SHA-256-Digest: BR7pU/P/LtGoEeUPMSfvSkNY+A/rUv7WP6WJDExlHmc=
+
+Name: org/eclipse/core/internal/databinding/property/ValuePropertyDetail
+ List.class
+SHA-256-Digest: X60NVsuOSOtuwHIkabvZ2OBfwT2K51KGtuDY/cPBUGk=
+
+Name: org/eclipse/core/internal/databinding/property/value/ListSimpleVal
+ ueObservableList.class
+SHA-256-Digest: YIrifQODZaJ5oWUxd8D41nG4eAIfSAw8ptwzpz/hnFM=
+
+Name: org/eclipse/core/databinding/property/value/IValueProperty.class
+SHA-256-Digest: rtAjT5Slq1tvNs448ZNalW+ANT1Ye6B1YpnPiH18yzc=
+
+Name: org/eclipse/core/internal/databinding/property/ValuePropertyDetail
+ Map.class
+SHA-256-Digest: HUBGw/Z/BG+LDiUYkBNoZO5ckacLb1VYTHAiQI5B1+w=
+
+Name: org/eclipse/core/internal/databinding/property/set/SimplePropertyO
+ bservableSet$1.class
+SHA-256-Digest: 8++C/VveArmIfZGAzMYj10gVDm5dz9b66DL8qoV1F/w=
+
+Name: .api_description
+SHA-256-Digest: xeGYc8eX89e92MJfLD6LqjqoqYDnkZ2REcs5SCMm+0Y=
+
+Name: org/eclipse/core/internal/databinding/property/value/ObservableVal
+ ueProperty$Listener.class
+SHA-256-Digest: 44EJkOlDqua90/WDS6Ai79CwDHqFPppJRvxDLdW+PkY=
+
+Name: org/eclipse/core/databinding/property/list/DelegatingListProperty.
+ class
+SHA-256-Digest: CDWKJjdz3jypekbVdhRsg0KyeDm5RxcvCdl4/82VG2k=
+
+Name: org/eclipse/core/databinding/property/set/DelegatingSetProperty.cl
+ ass
+SHA-256-Digest: VqwoeoCz+VjBw94dsEr4NFhuyFUpFdjfZyyIOJ16MlM=
+
+Name: org/eclipse/core/internal/databinding/property/value/ConvertedValu
+ eProperty.class
+SHA-256-Digest: VDXp7WLnWIMTOnu5v5dX1ua8UdedKPvB+Igp32Hl3mU=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapDelegating
+ ValueObservableMap$3.class
+SHA-256-Digest: DIHXI9l5yAJk1joZ/Y0ssNvTQAXt1qYSJdi0lqz0lKk=
+
+Name: org/eclipse/core/internal/databinding/property/list/SimpleProperty
+ ObservableList$1.class
+SHA-256-Digest: sB30tamogOKAazi0AwmSb2BGYuwtPgBaiOMDJaT59sk=
+
+Name: org/eclipse/core/internal/databinding/property/value/DelegatingCac
+ he.class
+SHA-256-Digest: 3V/+XEw2mM8KjpDH+HOVAJtKhIcIp5kN9n+5LSxq9Xs=
+
+Name: org/eclipse/core/internal/databinding/property/value/ListDelegatin
+ gValueObservableList$3.class
+SHA-256-Digest: V/VYU0vDu36hTXB7lpplkWea0qv7W++Ee6P8MV8XOQ4=
+
+Name: org/eclipse/core/databinding/property/IPropertyObservable.class
+SHA-256-Digest: 9ETn5SVFbIILxLY9KLEE1jtuDAW8++ZQgaisXjmBdUY=
+
+Name: org/eclipse/core/internal/databinding/property/ValuePropertyDetail
+ Value.class
+SHA-256-Digest: Jx48RimqTiqX3znU4Xu2+iL7H1IGKEEyUCDDEnFmCA4=
+
+Name: org/eclipse/core/internal/databinding/property/value/ListSimpleVal
+ ueObservableList$3.class
+SHA-256-Digest: df48oxWbSN9j4Dabeqd9CIrA8J4BE+S2qDUcsc/WRHg=
+
+Name: org/eclipse/core/databinding/property/map/IMapProperty.class
+SHA-256-Digest: DB1EjR/5TX2XG6O6uJUYlpsUDGXG17dMUy+ht/I4PVY=
+
+Name: org/eclipse/core/databinding/property/set/ISetProperty.class
+SHA-256-Digest: yi0/Y0eKVU7i02VKV1eGLrFqiYiIFidaPlaX7f7yY4g=
+
+Name: org/eclipse/core/internal/databinding/property/value/ObservableVal
+ ueProperty.class
+SHA-256-Digest: 7rd+cSfkyyneS6iE+nqhlXveokcqVWezCH91LhFdJQ0=
+
+Name: org/eclipse/core/databinding/property/value/ValueProperty.class
+SHA-256-Digest: YeuvoI/MntSXQdnpfs7eC+nFAbtE50IphyWWIACkLOs=
+
+Name: org/eclipse/core/databinding/property/IProperty.class
+SHA-256-Digest: VnhQ9Zckwss8VJgVdAwJdbhuMiGeOHmMxD4fEOVELJU=
+
+Name: org/eclipse/core/internal/databinding/property/value/SetDelegating
+ ValueObservableMap$1.class
+SHA-256-Digest: HbSPxW7Lqs+uL0183nlzQxJRo3dTnDr24lUFKDtWfjk=
+
+Name: org/eclipse/core/internal/databinding/property/list/SelfListProper
+ ty.class
+SHA-256-Digest: cEO+JsxG9UBWRknmMQ0Bd3I2hf5u+m8wEGPpL16tDcQ=
+
+Name: org/eclipse/core/databinding/property/set/SimpleSetProperty.class
+SHA-256-Digest: fgJ0/Hp9WdnxrYYMLTM4UzfeXI9/ffwXQR/c5TzrE4Y=
+
+Name: org/eclipse/core/internal/databinding/property/map/SelfMapProperty
+ .class
+SHA-256-Digest: TvkchAPHsIhrYAo8UPXxbCkEVYxKvnwiBmC8HGKNeLY=
+
+Name: org/eclipse/core/databinding/property/value/DelegatingValuePropert
+ y.class
+SHA-256-Digest: pssg5uAtN5QjJdXhEgmqUv0cRl+xtO8Piwg0jNZSaHg=
+
+Name: org/eclipse/core/internal/databinding/property/value/SetDelegating
+ ValueObservableMap$EntrySet.class
+SHA-256-Digest: ffqnfQiUMwWWTOxCEik34XbnFKKnsuqFH1HRLqj8yGk=
+
+Name: org/eclipse/core/databinding/property/list/ListProperty.class
+SHA-256-Digest: YpvTOHxQWVeC9khYJ2ALAfinQgd6t7pPAKVPsXBj7+I=
+
+Name: org/eclipse/core/internal/databinding/property/map/SimplePropertyO
+ bservableMap.class
+SHA-256-Digest: WBftCFS/amDw78CTDzUgH/0ZiDrPgmlD9R6AU8iDsFY=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapDelegating
+ ValueObservableMap$1.class
+SHA-256-Digest: ybGK0gXYaf8xRRy3VxDybSkiD+tUyGUQyXvukgROIIk=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapSimpleValu
+ eObservableMap.class
+SHA-256-Digest: LHGJ4kBxzJ0hAxO2jklduw3e9nVJmTr7rawREhN3drs=
+
+Name: org/eclipse/core/internal/databinding/property/value/SetDelegating
+ ValueObservableMap$MapEntry.class
+SHA-256-Digest: LODrhl4/uFGL8ZOOH3WwTUfKpj0tey+evlYr2U/UkNQ=
+
+Name: org/eclipse/core/internal/databinding/property/MapPropertyDetailVa
+ luesMap.class
+SHA-256-Digest: Tkn7tmB/9WyGCADGdaFtTAr4PIVkGukrwIY4yl2i9no=
+
+Name: org/eclipse/core/internal/databinding/property/set/SelfSetProperty
+ .class
+SHA-256-Digest: CvaYBmHVlnLoKQDEOGwL4DpQzh75Lv1PYLmAZeRedwc=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/core/internal/databinding/property/list/SimpleProperty
+ ObservableList$2.class
+SHA-256-Digest: GDfvTM3ZrpROgNe87UItUp+1xVQK0/5z14UAJxaD03U=
+
+Name: org/eclipse/core/internal/databinding/property/value/SetDelegating
+ ValueObservableMap.class
+SHA-256-Digest: fu9UK3Q7nUdJhwPSGPwzRaZmLV5W4CKjl4xmTV2Gl/g=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapSimpleValu
+ eObservableMap$EntrySet$1.class
+SHA-256-Digest: OJYSRMkNj26cytWS+X7hPiVT6K5k3f9WfUHVmdmI5Ug=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapSimpleValu
+ eObservableMap$MapEntry.class
+SHA-256-Digest: vrpjMTs7Tgk5mH87tniVudqgJCu/1CV1YN/w/tOaeoY=
+
+Name: org/eclipse/core/internal/databinding/property/ValuePropertyDetail
+ Set.class
+SHA-256-Digest: 9DSDIDW5trc/oKD7bd3Wt/T4d9pLL10wdqm3kaViPNM=
+
+Name: org/eclipse/core/internal/databinding/property/map/SimplePropertyO
+ bservableMap$EntrySet.class
+SHA-256-Digest: 3MR0ZimRozhdctmJaHNL2JU232RtAXk+ysrZkWki8Ww=
+
+Name: org/eclipse/core/internal/databinding/property/value/SelfValueProp
+ erty.class
+SHA-256-Digest: I12kMVk0Wimdex5G+GDjo/DuVMN3sYTJbeweSXtObVE=
+
+Name: org/eclipse/core/internal/databinding/property/value/ListDelegatin
+ gValueObservableList$2.class
+SHA-256-Digest: THsJEqSCmIITlkUxBw1xYpxjPxW9z9t1aLbzvx/yzgc=
+
+Name: org/eclipse/core/internal/databinding/property/value/SetSimpleValu
+ eObservableMap.class
+SHA-256-Digest: XC/FjiGekuKj6NtAppu7eHdf5G2P2e90wT0YHzV9TAg=
+
+Name: org/eclipse/core/databinding/property/list/MultiListProperty.class
+SHA-256-Digest: LVI41ENuyWbPLyoXSqHu6NEslD3OE+ns6ZyWNNaetvk=
+
+Name: org/eclipse/core/internal/databinding/property/value/ListDelegatin
+ gValueObservableList.class
+SHA-256-Digest: 7ykNV3X3+sDmi3Md76X4WCGD9JSSbU8DlwMIW7axGYc=
+
+Name: org/eclipse/core/databinding/property/set/SetProperty.class
+SHA-256-Digest: MfqeahKbDPnEznVe0GPygwCx/TjQ3GoB6vAPrThSEC8=
+
+Name: org/eclipse/core/internal/databinding/property/set/SimplePropertyO
+ bservableSet.class
+SHA-256-Digest: sSMiMewA5xKwPQzhbTWB7kj5IR5ZOrT5KfEhMrPM/J0=
+
+Name: org/eclipse/core/internal/databinding/property/value/ListSimpleVal
+ ueObservableList$1.class
+SHA-256-Digest: bcFHVKh0SPh53aBAEg8R2+iJORUwLEmdx7mPYEuOt7I=
+
+Name: org/eclipse/core/internal/databinding/property/map/SimplePropertyO
+ bservableMap$EntrySetIterator.class
+SHA-256-Digest: EnIw9oMOhpn7cVeaedoVfO513FT+PZokipkY8W/Qkq8=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapDelegating
+ ValueObservableMap$2.class
+SHA-256-Digest: sPphPUZV/JVdEDiG55o/EfXOQQggLOoQ4GDAM9l+fdU=
+
+Name: org/eclipse/core/databinding/property/NativePropertyListener.class
+SHA-256-Digest: HKOlF5Ji2gGMk486sgeb8e+5z3yb8Sk9A2fv0A1WQHs=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapDelegating
+ ValueObservableMap$EntrySet$1.class
+SHA-256-Digest: MQcG1JeP2jFsr++hj461jQE08tZWWDm7o+n4rQhipUg=
+
+Name: org/eclipse/core/internal/databinding/property/list/SimpleProperty
+ ObservableList.class
+SHA-256-Digest: uXScEYEgHeWLc3BqYswDhtrUy470kQ29bvOrpxzZZu0=
+
+Name: org/eclipse/core/internal/databinding/property/ListPropertyDetailV
+ aluesList$1.class
+SHA-256-Digest: yDeEXG/BZ4JWqTyRnvKcp6/UdXQg+9od28s4XcCiDr8=
+
+Name: org/eclipse/core/databinding/property/INativePropertyListener.clas
+ s
+SHA-256-Digest: DCdVIOdwXDtEcU94Zp8taOBGXorn/+0MeSsPr2pKUf8=
+
+Name: org/eclipse/core/internal/databinding/property/value/SetDelegating
+ ValueObservableMap$2.class
+SHA-256-Digest: upm+FXgnvVUV0O7e8jwi/SvMToHC7Yh+CCv64ivxV+M=
+
+Name: org/eclipse/core/databinding/property/list/SimpleListProperty.clas
+ s
+SHA-256-Digest: PfmoRGxbFiBKYc93aZ2q7Q10Ig3PQBXvoIOmOl8HYg4=
+
+Name: org/eclipse/core/databinding/property/map/MapProperty.class
+SHA-256-Digest: eil8pDjXGECNvoNA2u/DDRb7olvMRRITuhpRwwn2l8c=
+
+Name: org/eclipse/core/internal/databinding/property/value/MapSimpleValu
+ eObservableMap$2.class
+SHA-256-Digest: jcNHTZMe+Q9EWQyRYRjQLd56CBJBjIcLIcARmAC5/tU=
+
+Name: org/eclipse/core/databinding/property/list/MultiListProperty$1.cla
+ ss
+SHA-256-Digest: 2toWluBsMfgPugbNcxbwhTnt+suwEXRxfLoN6Dj97is=
+
+Name: org/eclipse/core/databinding/property/map/DelegatingMapProperty$Nu
+ llMapProperty.class
+SHA-256-Digest: pLf0usI6uyA8w0WRklv7iUuFNg3L/chZ2EG3vQ+ypfQ=
+

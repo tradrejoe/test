@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.ui.console_3.11.300.v20220811-1921" version="1.2">
+    <plugin id="org.eclipse.ui.console_3.11.300.v20220811-1921"/>
+    <package name="org.eclipse.ui.console" visibility="1">
+        <type name="ConsolePlugin" restrictions="6"/>
+        <type name="IConsoleConstants" restrictions="3"/>
+        <type name="IConsoleManager" restrictions="3"/>
+        <type name="IConsoleView" restrictions="3"/>
+        <type name="IOConsoleInputStream" restrictions="6"/>
+        <type name="IOConsoleOutputStream" restrictions="6"/>
+        <type name="MessageConsole" restrictions="2"/>
+        <type name="MessageConsoleStream" restrictions="6"/>
+        <type name="PatternMatchEvent" restrictions="2"/>
+    </package>
+    <package name="org.eclipse.ui.console.actions" visibility="1">
+        <type name="ClearOutputAction" restrictions="2"/>
+        <type name="CloseConsoleAction" restrictions="2"/>
+        <type name="TextViewerGotoLineAction" restrictions="2"/>
+    </package>
+</component>

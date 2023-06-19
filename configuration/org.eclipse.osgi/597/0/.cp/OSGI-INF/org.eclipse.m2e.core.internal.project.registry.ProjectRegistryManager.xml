@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager" activate="init">
+  <service>
+    <provide interface="org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager"/>
+  </service>
+  <reference name="MavenProjectChangedListener" cardinality="0..n" policy="dynamic" interface="org.eclipse.m2e.core.project.IMavenProjectChangedListener" bind="addMavenProjectChangedListener" unbind="removeMavenProjectChangedListener"/>
+  <reference name="Workspace" cardinality="0..1" policy="dynamic" interface="org.eclipse.core.resources.IWorkspace" bind="setWorkspace" unbind="unsetWorkspace"/>
+  <reference name="configuration" interface="org.eclipse.m2e.core.embedder.IMavenConfiguration" field="configuration"/>
+  <reference name="containerManager" interface="org.eclipse.m2e.core.internal.embedder.PlexusContainerManager" field="containerManager"/>
+  <reference name="markerManager" interface="org.eclipse.m2e.core.internal.markers.IMavenMarkerManager" field="markerManager"/>
+  <reference name="maven" interface="org.eclipse.m2e.core.embedder.IMaven" field="maven"/>
+  <reference name="stateReader" interface="org.eclipse.m2e.core.internal.project.registry.ProjectRegistryReader" field="stateReader"/>
+  <implementation class="org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager"/>
+</scr:component>

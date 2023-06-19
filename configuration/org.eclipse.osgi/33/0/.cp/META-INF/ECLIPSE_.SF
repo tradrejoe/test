@@ -1,0 +1,705 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: /AEBQH2u+kUGW+nuN9erN75vYJrVj
+ YrK1y+PIJaNXAA=
+SHA-256-Digest-Manifest: r33R5X7od9sCMdmNukYGj/YyeBXPNFcVy2Zc/d2KzOs=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$2.cla
+ ss
+SHA-256-Digest: v+zWG5QrDGPqkJFLIVjF1WsT6gMnFFwUSsnIx0XMLi0=
+
+Name: org/apache/geronimo/javamail/authentication/DigestMD5Authenticat
+ or.class
+SHA-256-Digest: 7R5vk06RuFlMLcjqDS+qlBpZXbURDooDiCEzoE9c+Ng=
+
+Name: META-INF/javamail.default.address.map
+SHA-256-Digest: HKS53B2l+y1Smdj97ZWa2oA3TB6rndcRFWR1kDQhKxY=
+
+Name: javax/mail/search/DateTerm.class
+SHA-256-Digest: 0CYerL5cYFuSlQzLQ68w3/tpdEcJd6/HjFDKR1USbFw=
+
+Name: META-INF/default.address.map
+SHA-256-Digest: Bnybs5De2weWoCCE+VzFoxLobrEEkjQb4qgECw+zRms=
+
+Name: javax/mail/Session.class
+SHA-256-Digest: nTEF4yDKbosSTWijVR67VRHacsg1o/+i12KjSsUtwx8=
+
+Name: org/apache/geronimo/javamail/store/pop3/message/POP3Message.clas
+ s
+SHA-256-Digest: SeErq+JLBDMz6eUUyEMsFvczaefmSZH53HsZ9Xuo9e4=
+
+Name: javax/mail/search/SentDateTerm.class
+SHA-256-Digest: lKHWqLAtIPYZR+yKH2241K0kbCOdQKm61XDP++XdQVI=
+
+Name: javax/mail/Multipart.class
+SHA-256-Digest: MpwWojUbZcnMSaJO+Nmq1zykUMsjRvchpO5Jb46JYzk=
+
+Name: org/apache/geronimo/mail/util/Hex.class
+SHA-256-Digest: 1d6oNdGK6DdlYqmRmTGshUTWgpgzz1B2qjEc0d4R3HQ=
+
+Name: javax/mail/event/MessageCountEvent.class
+SHA-256-Digest: 8GgjhXlI5p0AWUUaTUv7kOifleHSjTeweJv5jj6ks0A=
+
+Name: org/apache/geronimo/javamail/authentication/ClientAuthenticator.
+ class
+SHA-256-Digest: zoJ4WGVM8nnfpO1LTZuyaDxNzSlO0yyW/ebiCSKltM0=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$8.cla
+ ss
+SHA-256-Digest: +hE1Pnj6Bt+pygVuu5XDyr+BRG/6Ctp9we1n/ccusO0=
+
+Name: javax/mail/internet/ContentCheckingOutputStream.class
+SHA-256-Digest: AmZDhjG8gMCLX1Zrc6tyIz3v3nVuU5hWeatGZYuTElA=
+
+Name: javax/mail/MessageRemovedException.class
+SHA-256-Digest: 6N4I/fDHrBKScuEyD4yyTIlZ/Qa/9OgqUC898xfvt20=
+
+Name: org/apache/geronimo/javamail/store/pop3/response/DefaultPOP3Resp
+ onse.class
+SHA-256-Digest: p8YpAmRemB/uxKoWeWGmHwcct5U2hxnOOdfJ/ImF+Ho=
+
+Name: javax/mail/search/HeaderTerm.class
+SHA-256-Digest: xrAkKmEePjWYU9DxXaYm1r85IwXVBKP/8b52P12uB78=
+
+Name: javax/mail/event/MessageChangedListener.class
+SHA-256-Digest: d7aGaOXGo+EZO+IyZvyfqHWFYpD7J1JlWVAoFmhmQNQ=
+
+Name: javax/mail/internet/MimeBodyPart.class
+SHA-256-Digest: fwN3IV9sE+EDSp/ifgcXQqiszWnv9KfQcMWvWUvgIkQ=
+
+Name: javax/mail/Header.class
+SHA-256-Digest: DwbWBFSmzf67qo2ro3ySLbgg474Hs94zzuC2qvb4zrg=
+
+Name: javax/mail/event/FolderAdapter.class
+SHA-256-Digest: 1SlpgBJhs4uF7lpg7DawK/7XPD5XGDC4hg7MmmCUDss=
+
+Name: org/apache/geronimo/javamail/store/pop3/message/POP3MessageWithC
+ ontentInfo.class
+SHA-256-Digest: kN2uzx4X4KaeHSqbBfXaK8miNfaje7I06/l+XA97qgg=
+
+Name: javax/mail/internet/MimeMultipart.class
+SHA-256-Digest: 4LQKbdw3AQ+B8Awr5tN6ButehiPvJRdl0Sy8vxYNsu0=
+
+Name: org/apache/geronimo/mail/handlers/MessageHandler.class
+SHA-256-Digest: 92x5z/P5xsNGsVFuvF/Qj5A54aY14rSmym8LkZMG7h0=
+
+Name: org/apache/geronimo/mail/util/HexEncoder.class
+SHA-256-Digest: MGPFALh6hWvHZ6yvJ2G7Zz+Rz4ackx6SaoP/H+AG5Wc=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$15.cl
+ ass
+SHA-256-Digest: mFZtSUfYWZV81sb1ajHPRtiBF8kRZOn83pPZA5kcU4o=
+
+Name: javax/mail/search/RecipientTerm.class
+SHA-256-Digest: OUIDUnMPjku2lJnDcU+Ze6vPBTsOB2cezxK7nITnDxA=
+
+Name: javax/mail/internet/NewsAddress.class
+SHA-256-Digest: HeKagt6nXvvuuSkCbqJD1REiR0Ls/VCbIKT3RaJtyvc=
+
+Name: javax/mail/search/SizeTerm.class
+SHA-256-Digest: j+oEdhcWgjbwe7QTH++QBXsCpHQsW6hS0qC+x1QFYtA=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$7.cla
+ ss
+SHA-256-Digest: pqBvzc3oLtppJpc5ifi42wOzANfN6ctQfYe8h0t7vMs=
+
+Name: javax/mail/Session$1.class
+SHA-256-Digest: 2wywrEV22G676zyRc/0NmH9qpSsM+i4YNvNjYqrUPGI=
+
+Name: javax/mail/FolderClosedException.class
+SHA-256-Digest: Dtu+zsP8D5Eo2JJF1EHgq3IJ1kDeQv2kd8l5cptBJvY=
+
+Name: javax/mail/Quota.class
+SHA-256-Digest: HdJfoiNsiMKo+1egDCsZxFmMB6DRybzXvCYHiIFuXFc=
+
+Name: javax/mail/Flags$Flag.class
+SHA-256-Digest: u/RAPKN4d0HafRlMLhUEj4ou24Zfeg/n1TZnOXs5lAE=
+
+Name: javax/mail/event/ConnectionAdapter.class
+SHA-256-Digest: wgu9ZSSOP4FdIUf0ZA2lYjjv2oXLk00yx8mUaHIluIs=
+
+Name: org/apache/geronimo/javamail/store/pop3/message/POP3MessageFacto
+ ry.class
+SHA-256-Digest: YSyaqlVaVuddffavNqL6/Y8l/SxLcP2dcLCmDSx1BOk=
+
+Name: org/apache/geronimo/javamail/store/pop3/response/POP3ListRespons
+ e.class
+SHA-256-Digest: y3IebPasWD+nWgeKuHMlzTYSA5OO6SMRSkmVg56rIxE=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$14.cl
+ ass
+SHA-256-Digest: dk95Tm/XCzzCZG4JDQ8MgL7ZbXypvqTjV9O0RkytG4A=
+
+Name: META-INF/javamail.charset.map
+SHA-256-Digest: U237l49KkruMMu5ChwklIyeQpS4sy1y5D26Gs/DQOHA=
+
+Name: javax/mail/Session$ProviderInfo.class
+SHA-256-Digest: OxfLuiyQQBvD31+LP8k3pFB8nVfyiEnD6I7tWgW5JWo=
+
+Name: javax/mail/Quota$Resource.class
+SHA-256-Digest: VpppKLA5TLbTNr/OIPWGM6fAnwpDz6hvuluPswKYpWI=
+
+Name: javax/mail/search/SearchException.class
+SHA-256-Digest: jwY7o8F1pMnqb1agzb95CqZ3Gti+3rdHLmbowG8Db98=
+
+Name: javax/mail/MessageAware.class
+SHA-256-Digest: u/hQqUR7zFbyIzOv2pDoP/JuX4RbknyUiNTGKH0Gm30=
+
+Name: org/apache/geronimo/mail/util/SessionUtil.class
+SHA-256-Digest: 9LKdGyCDT5FHN/GelxJ5PWBe0QWvEGcJdQGkr7z+eDU=
+
+Name: org/apache/geronimo/javamail/transport/smtp/SMTPReply.class
+SHA-256-Digest: JioYLI5UrZ7NMzdZ/dqtQ1JZOGGd1LSpa7SF0CdZtKU=
+
+Name: org/apache/geronimo/mail/util/UUDecoderStream.class
+SHA-256-Digest: uSjH6Rd+M9ebQ/lJPyd0nqCW2xA3roF84EBaiVNnkh8=
+
+Name: javax/mail/MethodNotSupportedException.class
+SHA-256-Digest: ZYKITaLahG6yufBR+8w3tImFmyFQICeP3lel/eurHjo=
+
+Name: org/apache/geronimo/javamail/store/nntp/NNTPRootFolder.class
+SHA-256-Digest: GNE1Vi9klOF8XnD+5Er7nlzpHYHwpFMsSsfO/zkQf1I=
+
+Name: javax/mail/event/MessageCountAdapter.class
+SHA-256-Digest: FsCuXfHapEXoXmNf+IOy5yIo8UYHSH5Emb1qR0qyE1c=
+
+Name: javax/mail/search/StringTerm.class
+SHA-256-Digest: a2nKpEWYJXdXDRucw9430ZJI7kzQjEI15Qh51/eh1tM=
+
+Name: javax/mail/internet/InternetAddress.class
+SHA-256-Digest: P1X7xka5MDGtqdKmYH6IZWOVSZDMUhwuReBrZKo9oPo=
+
+Name: javax/mail/internet/ParameterList.class
+SHA-256-Digest: /8Cnao8y+MWVLL9ZF4OCFX4T5p5M7KVEFG0E0TB1L68=
+
+Name: javax/mail/Transport.class
+SHA-256-Digest: SNSb/PiTVoUEc6sfqsAjkNkXFDey61T2P+Cj6WnHG28=
+
+Name: org/apache/geronimo/mail/util/QuotedPrintable.class
+SHA-256-Digest: 0OY+y6fuWl4X6vJsrpMGq8qDql7s5pAgFt+HaSXotOE=
+
+Name: javax/mail/util/SharedByteArrayInputStream.class
+SHA-256-Digest: 53TeUz0iIBErC6XCo5I2KOkXkzdSbhuO6AafehenNNE=
+
+Name: javax/mail/search/SubjectTerm.class
+SHA-256-Digest: oQBGPlEI0TJ8BPwgUMvbQsuBSUDpuzaz57Zv+rc8Rdg=
+
+Name: org/apache/geronimo/javamail/store/pop3/response/POP3StatusRespo
+ nse.class
+SHA-256-Digest: Z2D6tDEQXLvzDW2O+50Mwy2it1zP11IGqetkajxMYTs=
+
+Name: org/apache/geronimo/javamail/util/MIMEOutputStream.class
+SHA-256-Digest: M5K7fbaP9BCgKLLv7NxQm80cjzgQbKmcTvH2cSUJHrk=
+
+Name: javax/mail/SendFailedException.class
+SHA-256-Digest: s+CD8mDDg+xT4D8dTiaTZ7CJihky3wyajUo+MukZeLY=
+
+Name: javax/mail/internet/MimeMessage$RecipientType.class
+SHA-256-Digest: HTENYKdenXJ1bmpic5c9uyEq+dUeSgduTtOiGc0FdrA=
+
+Name: javax/mail/internet/ContentType.class
+SHA-256-Digest: xA5Gj6I/p+cyKkcijI3/9lzUsEhnk0bINhD/pZHjQl8=
+
+Name: javax/mail/event/MessageCountListener.class
+SHA-256-Digest: 5qq0q/uPXn1umfShGwjpwxnaqzcPTjJomrvmKq0fGrQ=
+
+Name: javax/mail/internet/SharedInputStream.class
+SHA-256-Digest: t10l1HJHYxUDNfRaTsiuCYrUdRYo3tn34Tvrokh6spo=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3Store.class
+SHA-256-Digest: nLOF9RXI2WuBscEuuM72MoRRuHHjUyCOiur8apc2kWA=
+
+Name: org/apache/geronimo/mail/util/QuotedPrintableDecoderStream.class
+SHA-256-Digest: Q+rBl8YZjhsc3NKZSUxlYJR991m3/OO8JGnCsY3gSyY=
+
+Name: javax/mail/internet/AddressException.class
+SHA-256-Digest: GoUdfUf20Ducxcr4R/XQVEVyAuD4Vr3gM2gxiFBHJCA=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$1.cla
+ ss
+SHA-256-Digest: UPS1UF2q26wLsnHkB3+IUd115tNarBbx3ciUBYZ5WtI=
+
+Name: javax/mail/event/FolderListener.class
+SHA-256-Digest: N9GCP+VdREaWKj7LPCZ44tcNfbnz3haS5l/3y8jZB8w=
+
+Name: javax/mail/Address.class
+SHA-256-Digest: W8DRq4c5oJUnhnXqlj2JKY5l+t+eucikc+eq+cgDjnI=
+
+Name: javax/mail/FolderNotFoundException.class
+SHA-256-Digest: +TW3YsK9LyYLU2XisZwuKhhH0iWzFU6BGO0WRexRLAw=
+
+Name: javax/mail/NoSuchProviderException.class
+SHA-256-Digest: ziJe7I7INtfz5A1yTFk0Wf+YkG8WGsFpLnJkJaFagqU=
+
+Name: org/apache/geronimo/javamail/transport/smtp/SMTPSTransport.class
+SHA-256-Digest: FgAppl39yDeueZgBTfPLa69kOLlyw9PJnX1V3Gd8ntg=
+
+Name: javax/mail/event/StoreListener.class
+SHA-256-Digest: 7jqp8j9GEdTCT7qZsiMI2bCTu9eJ9ZB0dS1AWkXnye0=
+
+Name: org/apache/geronimo/mail/util/Base64EncoderStream.class
+SHA-256-Digest: Yw/xLQt4uua9vLMTmdX3bQ7rBJK6cGukwMK+bpWWDIQ=
+
+Name: org/apache/geronimo/mail/util/RFC2231Encoder.class
+SHA-256-Digest: hvTA9/q+tLVCQHNfrbDzoGQEBUW2bMavPVbhTy7PRA4=
+
+Name: javax/mail/search/BodyTerm.class
+SHA-256-Digest: Pydag6W1J671RWoENm/Bkx/Y8yPZOusngCm37DgK4Qw=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$4.cla
+ ss
+SHA-256-Digest: wTZaZ4c1or7NErlYfY8mx/pkZEPKT0dc1Hl7i6HL9bU=
+
+Name: org/apache/geronimo/javamail/transport/nntp/StringListInputStrea
+ m.class
+SHA-256-Digest: NWHsXZ1SmFPvZAc09dz03QMp5eI65oEvJq03iSfMiC0=
+
+Name: META-INF/javamail.default.providers
+SHA-256-Digest: UK7Z/f6xG1RniB/+6JScIR68f3PupwHWHsZpfREETFg=
+
+Name: org/apache/geronimo/javamail/authentication/DigestMD5Authenticat
+ or$NameValuePair.class
+SHA-256-Digest: czobQ5ZzsZBmQ+o7vTCGea52OMchtf+eoBe3hWXar4c=
+
+Name: org/apache/geronimo/mail/util/Base64DecoderStream.class
+SHA-256-Digest: 7R3E2LMaIy44gCve3GpBPhfA1GsVl24zaMHmAlwV3TY=
+
+Name: javax/mail/search/FlagTerm.class
+SHA-256-Digest: MBV0HQS/iSUSCmFZc9YLkSauEodyoJzW7JKfplWB96Y=
+
+Name: org/apache/geronimo/mail/handlers/HtmlHandler.class
+SHA-256-Digest: 8l1ler03z5LdwAI7m/t8/eNkln31BAJOVgY6M0IZSKA=
+
+Name: javax/mail/StoreClosedException.class
+SHA-256-Digest: uf+wTfFvEtKWlOrSyrgQ7W1Ud4V5OVv6EqH3/JEoodI=
+
+Name: javax/mail/Authenticator.class
+SHA-256-Digest: Vyowohz+rF59FQ/HrDzDZJFd1lZ+mzYAsW6IxBfsPWU=
+
+Name: javax/mail/event/StoreEvent.class
+SHA-256-Digest: tWf06EPMmDJTuN/zU7id9B+AcVUdY+POzFR2Pg+LorA=
+
+Name: javax/mail/IllegalWriteException.class
+SHA-256-Digest: uN9GfKzU9CHnmu0QLdV49S6nTHDEQxCAjn+m4UlEONM=
+
+Name: org/apache/geronimo/javamail/util/TraceInputStream.class
+SHA-256-Digest: n7Mq/dyp+1ExoceBGspqI0rkBK0xzvMScyy3BcDW/Nc=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: rEULrt3GCNggFeuBb9QugPCG48TouWYgzDw3Q1PhCCQ=
+
+Name: javax/mail/internet/ParseException.class
+SHA-256-Digest: 8QUgsaUYIZ/NRQaqHSbGD3bwSNiHzy7FDyHEF1jXs4I=
+
+Name: org/apache/geronimo/javamail/store/nntp/newsrc/NNTPNewsrc.class
+SHA-256-Digest: g8ok0Auf0J+THpGisejOIMAxhmiSvwpzKq/drv1B3Os=
+
+Name: javax/mail/internet/MimeMessage.class
+SHA-256-Digest: vBZ1RdjWQJJ2KfH8pbAdVKnpF1R0cayhens028PtdnQ=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$3.cla
+ ss
+SHA-256-Digest: ZQOlqN9X0jJP5FVEP7zcac+0/dTCS9dY3ARSuNhoix0=
+
+Name: javax/mail/Flags.class
+SHA-256-Digest: QNOxk7r8sKT7w74E/NfWm1NKeeTIO7Za5pDc3BmfJJ8=
+
+Name: javax/mail/PasswordAuthentication.class
+SHA-256-Digest: mO45GZHrJHRhPtKRFTBh+tHPcbwDrCD1eJ5+0eLEizM=
+
+Name: javax/mail/internet/HeaderTokenizer.class
+SHA-256-Digest: bZOWsMbcC3PONNSjCusNDGYwgim8WoBITpAso5TiWxw=
+
+Name: org/apache/geronimo/javamail/transport/smtp/SMTPTransport$SendSt
+ atus.class
+SHA-256-Digest: cDmXZ0DfNpM9LNG1F4dsg+Tuo/cbJT+Rul4b1c5Fo6Q=
+
+Name: javax/mail/search/MessageIDTerm.class
+SHA-256-Digest: XSzPi6CaMkRNdtcxV/udgw6B7ZFcWBuZtTNLuK0+Ny4=
+
+Name: org/apache/geronimo/javamail/transport/nntp/NNTPTransport.class
+SHA-256-Digest: U3mj4W3paStfKAaal04onE93Prjo5lnVMBgb0eNGlwE=
+
+Name: org/apache/geronimo/javamail/transport/smtp/SMTPMessage.class
+SHA-256-Digest: OKmc1PtbOmwoge3MEbYaZz3/HGNGwTmpkB8A0JXwBxk=
+
+Name: javax/mail/Message.class
+SHA-256-Digest: vSoKiJTfZULfyK3NXG+yOeZwuCw/AEt0UFqgczlo0aw=
+
+Name: javax/mail/EventQueue.class
+SHA-256-Digest: JdDX8gOrdlMbgOmKsHrW7xeXXnfj5DH0Q3nsDu9eJX0=
+
+Name: javax/mail/internet/MimePart.class
+SHA-256-Digest: QHdOcrciZh5uLwbJ54uGWKehZHQM4qdaPaeBE0NbpSY=
+
+Name: org/apache/geronimo/javamail/store/nntp/NNTPStore.class
+SHA-256-Digest: Nj16i5Imq2ZDfDtgzgTVWdTTbsZUdalfjxW3912ocTA=
+
+Name: org/apache/geronimo/mail/handlers/XMLHandler.class
+SHA-256-Digest: kYk/7bCWxLrg+pFT+CBHAHUyKkqlHRVZhAP9PvFkVcY=
+
+Name: javax/mail/internet/AddressParser.class
+SHA-256-Digest: pb1GHFCK5JvxhNVaIkg6MSb6+Acx1iAsvtbgaawML2Y=
+
+Name: javax/mail/Part.class
+SHA-256-Digest: nbSRRs2pquEmNjfKsQ+1Ral5oNbgf5njq2O3dtKHryA=
+
+Name: javax/mail/FetchProfile.class
+SHA-256-Digest: h6+cA1oULoUxKNRDUfbPmr+2MHYSNq3AimXKROTEVxQ=
+
+Name: javax/mail/search/SearchTerm.class
+SHA-256-Digest: ujdScDF3kKFemwYi75iFXYPqHj8pCUVWhMBeNZjqGhY=
+
+Name: javax/mail/internet/MailDateFormat.class
+SHA-256-Digest: x9WCHz/dHKXTQr2vCVJyNUVYoAksJOSv2aPxiT5H9wI=
+
+Name: org/apache/geronimo/mail/handlers/MultipartHandler.class
+SHA-256-Digest: V9Z4jWnIQVw6dPro7eUpTJXnor8EPCQ/VjlBytYq+3s=
+
+Name: javax/mail/ReadOnlyFolderException.class
+SHA-256-Digest: cbeail/+qkhLWJCiD5pSXg6Amy7jbMpF+VyY1Fztp2g=
+
+Name: org/apache/geronimo/javamail/store/pop3/message/POP3MessageWithE
+ nvelope.class
+SHA-256-Digest: HMEq5luEgKqdEb/0k7xUf7TC/yo9zmy2sia1gZV1cQc=
+
+Name: javax/mail/internet/PreencodedMimeBodyPart.class
+SHA-256-Digest: V6ltoejVka5BYkCRZux00ytyRJDgN4zu9j9rUvvQTIg=
+
+Name: org/apache/geronimo/javamail/transport/smtp/SMTPTransport.class
+SHA-256-Digest: /9BpO9eIkqSrwWY2YNAjvZgzn+3nw7VprD0/Bz65ct4=
+
+Name: org/apache/geronimo/javamail/store/nntp/NNTPGroupFolder.class
+SHA-256-Digest: vZj0XIWN9Xsx3E9VMPjEutl9gOPARGFvxNw+AA0+5Nw=
+
+Name: javax/mail/search/AddressTerm.class
+SHA-256-Digest: fAi94aHIqB2IQIkPCR98k5hv7MReW/a6pywYd67myvk=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$12.cl
+ ass
+SHA-256-Digest: Xn8yXcyFpamejyecY/rb9+YUNBit47ELCWuV9p3A3Hg=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$5.cla
+ ss
+SHA-256-Digest: mqECJtREq8UcGXyPPVsK+PysZTEMTgZL2ht/EDVUaGs=
+
+Name: javax/mail/internet/HeaderTokenizer$Token.class
+SHA-256-Digest: 4Gt82QSnzrcH2nmFWQabo2WA88WL/wBdeCpr6R0eWWc=
+
+Name: org/apache/geronimo/mail/util/ASCIIUtil.class
+SHA-256-Digest: mKze9Wq9ODbmUxeCQj0mBUK8pMIw3kte2/gvCadJim8=
+
+Name: javax/mail/internet/MimeMultipart$MimeBodyPartInputStream.class
+SHA-256-Digest: 0AqoSudfCdzXTTH96mUW6VhKA8mQySupHcyCHy/ZrEw=
+
+Name: org/apache/geronimo/javamail/transport/smtp/SMTPAddressFailedExc
+ eption.class
+SHA-256-Digest: +T7vpj1xrnuwBI6E/KcBxEo9HNlS3hPZpgRZ71SDNqE=
+
+Name: org/apache/geronimo/javamail/store/nntp/NNTPFolder.class
+SHA-256-Digest: jmdF4PBgYn7iceGvBhvSviu57D87MEOSoJu6zqTTCbE=
+
+Name: javax/mail/event/TransportAdapter.class
+SHA-256-Digest: gKB65Q+qfVyVoetw+98eoX0KHF2l9H61GehbNzslBEk=
+
+Name: org/apache/geronimo/mail/util/UUEncoder.class
+SHA-256-Digest: xcKYJiuxrJ2XDXsD83I5OcNVB9Fvk7YqM15BZoYf/zM=
+
+Name: javax/mail/internet/InternetHeaders.class
+SHA-256-Digest: u+y1pZ3c+mD/awCCNMtzE3j/zXsHV4t8qdUhsQDpD3o=
+
+Name: javax/mail/internet/MimePartDataSource.class
+SHA-256-Digest: 1UfUakW9kzw5WVu9tXVhd01+MMf1kPsRBizJi7wGzeg=
+
+Name: javax/mail/QuotaAwareStore.class
+SHA-256-Digest: o0QZ8damO9btaLNDtUAYzxN3QeSoVFayFR6NyS+JzVI=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3ResponseBuilder.clas
+ s
+SHA-256-Digest: 4eKqf+ZUoP2inkxh2TI4a2Tong4uiozh+jjSOzP+8Lo=
+
+Name: org/apache/geronimo/javamail/store/nntp/newsrc/NNTPNewsrcGroup.c
+ lass
+SHA-256-Digest: GO6U7CxKZ20nXb8cnPtmaT9qUDNw8jog7CpPxdaph4o=
+
+Name: org/apache/geronimo/mail/handlers/TextHandler.class
+SHA-256-Digest: DItjIikwYi6ZfH/dNcC6DL8w1+boRjWje5agOKKOAMA=
+
+Name: javax/mail/event/MessageChangedEvent.class
+SHA-256-Digest: EvvLlelAi3VqZFYG9SuhuCqMSuStNvt/5HvChcb2/V8=
+
+Name: javax/mail/event/TransportEvent.class
+SHA-256-Digest: C4rSA/C6NTx2EoVxt9bUdQdWK2lrpfTt0xp5aZ+PJkc=
+
+Name: org/apache/geronimo/mail/util/UUEncode.class
+SHA-256-Digest: NJeG6IrE646JHKHkrz5G3PqwJqyg2AcmQvbMJXVs+AQ=
+
+Name: javax/mail/search/RecipientStringTerm.class
+SHA-256-Digest: kF2X8jIWURRCtB6WYEI60PsVy6UAeL7meNMlTdBvMEw=
+
+Name: org/apache/geronimo/javamail/store/pop3/response/POP3ResponseFac
+ tory.class
+SHA-256-Digest: eJ45M27FLA1AqGJ4u254er/LqtG6PMlMlYzlKuHbDUQ=
+
+Name: javax/mail/util/ByteArrayDataSource.class
+SHA-256-Digest: fylOzn2fYBA8GQlNLj2cp1OUSR7PbudjI9NBFtA205w=
+
+Name: javax/mail/search/OrTerm.class
+SHA-256-Digest: Q5E0+GL0pIFPD8Eu+1H8dPKf406UNyy9vqFO3GiFRMI=
+
+Name: javax/mail/search/ReceivedDateTerm.class
+SHA-256-Digest: c9UGbydN5G/Esqdk66qszrlZHLxBZX5CqH5jG+2WdE8=
+
+Name: javax/mail/internet/AddressParser$TokenStream.class
+SHA-256-Digest: +cqCm3qf2y8oTnAgS2MKcauNgRi9f2WSCUg5wt/BGPk=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$6.cla
+ ss
+SHA-256-Digest: bsJJJkOqrd01e5AjOxISa9ORckZMitzrEYGJIwmeQiY=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$13.cl
+ ass
+SHA-256-Digest: 4ur7yIUCgrUNwourafgp+nU3nj5431ahcT45NowZKik=
+
+Name: org/apache/geronimo/javamail/transport/nntp/NNTPConnection.class
+SHA-256-Digest: 9W9Qw1QHDc0lJvw840xlATCQiq4ang3PdX98uJltw7c=
+
+Name: javax/mail/AuthenticationFailedException.class
+SHA-256-Digest: nkd90ZuhUjjm3QJvVwHbnjRNW1Pb2UxRr9lyHpZkkdA=
+
+Name: org/apache/geronimo/javamail/store/nntp/NNTPMessage.class
+SHA-256-Digest: 5dhBOfL0GIXOUD01jM/86rKWAT/OykK6c6dVTcviWEs=
+
+Name: javax/mail/search/NotTerm.class
+SHA-256-Digest: eBlkvRgw2Gwtki2M7J+DfALfSE2zmtkiz9GTdlWOakU=
+
+Name: javax/mail/event/ConnectionEvent.class
+SHA-256-Digest: N9lnBVvyH0MX6z8D2CuaWDtvjZYB84N6zO9E0z1ntG8=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3Folder.class
+SHA-256-Digest: afecL354bMwjH0CuayVn9vnGbRjawEAIGCb4MinGudo=
+
+Name: javax/mail/Service.class
+SHA-256-Digest: j/zZXiCSlCp1co1bt+Y9Fwh8lM+LIRCZYTiJg43aXco=
+
+Name: org/apache/geronimo/mail/util/QuotedPrintableEncoder.class
+SHA-256-Digest: sWexMoSFacBD4K8uBAgsAMvvmDgEKHl9rcLwPy2QYA8=
+
+Name: javax/mail/BodyPart.class
+SHA-256-Digest: 8fYJ7QaZpimSnMR1jS9NzfOD17o6XE5XuWBMaPoFYio=
+
+Name: javax/mail/Store.class
+SHA-256-Digest: bKKoBJjYpdSAmSvfElqeA+ph7zJvrWdsMZeURnBLXQQ=
+
+Name: javax/mail/search/MessageNumberTerm.class
+SHA-256-Digest: NBgMG118M/Ay19gbds7yTranBz8ivm0ds8zUoNhSjh0=
+
+Name: org/apache/geronimo/javamail/authentication/PlainAuthenticator.c
+ lass
+SHA-256-Digest: p9jsBg6lgxH2rvE3rMo8TchfZ6RHx21Sx+WZWp7AXDk=
+
+Name: org/apache/geronimo/mail/util/Base64.class
+SHA-256-Digest: NEx/vPCaEBBU0h/82l3qn8MQwJajkCJhaRiiMWA8STM=
+
+Name: org/apache/geronimo/mail/util/Encoder.class
+SHA-256-Digest: DuZTW8WG5uvH8zK5+mhFlABgfqMz5Q3FGkK9WkGC5pc=
+
+Name: javax/mail/search/AddressStringTerm.class
+SHA-256-Digest: SfnOykgFIod1XsMfKMiYMsBpx6j/SYhbIBv5IjJFqg0=
+
+Name: javax/mail/util/SharedFileInputStream$SharedFileSource.class
+SHA-256-Digest: RuWjZT20gVXK+YteBSGHvzDB/ZvlCgmEaHqWNnaSbRg=
+
+Name: org/apache/geronimo/mail/util/XTextEncoder.class
+SHA-256-Digest: utYzM/k2eb9sG9DHLQtZPIAT38AEmW5fvJTcZTyfp/Y=
+
+Name: javax/mail/internet/ParameterList$ParameterValue.class
+SHA-256-Digest: 6+t1IxGCCLyZgkeR+bx11bYveRzadM8v5QJtFUKrvik=
+
+Name: plugin.properties
+SHA-256-Digest: 0eDwAKBZXbLXvpaf0EFP1lLY6xjCi5MUzukx2I2UPWc=
+
+Name: javax/mail/MessageContext.class
+SHA-256-Digest: EtbcqDdUTQQc09psp0An7Esl8Xhqj3qrM+JaBvyRSb0=
+
+Name: javax/mail/search/FromStringTerm.class
+SHA-256-Digest: zH8y/db+jRACN1JFX5BW34g+VBLkT+9pagi7oJbhPfA=
+
+Name: org/apache/geronimo/javamail/store/nntp/newsrc/RangeList.class
+SHA-256-Digest: HKWBBnFeHpeMdJ5cqjrXG1qPUAxLrxx2CBYC3kNkqd4=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$9.cla
+ ss
+SHA-256-Digest: +dUUvnYz++MJAm011AztBnEhl44krkQwcCf9aye2p+8=
+
+Name: about_files/LICENSE.txt
+SHA-256-Digest: HZlZ2zguVFDxeShXlS7nWgtAUfxRoSS5aEuwOtSTtYc=
+
+Name: org/apache/geronimo/javamail/transport/smtp/SMTPSendFailedExcept
+ ion.class
+SHA-256-Digest: 7T7FjoaEKa9+MXjL6C89LR9FmA6hBiHK2TqII1Wcal4=
+
+Name: javax/mail/util/SharedFileInputStream.class
+SHA-256-Digest: sNLHkmyVGhC5QM9RtC1GDCIJqny31RUXDf0HOuS72hM=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3Command.class
+SHA-256-Digest: T7XjcXuvkKMHsugdzEoicDX09e/2Kyv/CyTO8mSm0i0=
+
+Name: javax/mail/event/ConnectionListener.class
+SHA-256-Digest: YCk9nsyq4JxPZ+qouOszAr+CWjYaEA9UB4iwBTk6U4U=
+
+Name: javax/mail/event/TransportListener.class
+SHA-256-Digest: 9yWZj9jwL4J/hc3l+JcKSN9JdzXOeWzt+PDmHbyNrlQ=
+
+Name: javax/mail/internet/MimeUtility.class
+SHA-256-Digest: WNryldYmm8egf0zyoZztRrdMSqXCuxkujRp2tq9Y2i0=
+
+Name: javax/mail/MessagingException.class
+SHA-256-Digest: zrgRFDjBXB0+Vu3qzJa6V9Rp5XYHlTob+NyjUY/r1kQ=
+
+Name: org/apache/geronimo/mail/util/QuotedPrintableEncoderStream.class
+SHA-256-Digest: d0ykyT+FLnngFblUZc+fg+5kZ4k0oEeLJsdDzdIKoYw=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3Constants.class
+SHA-256-Digest: cHmulS78aWbE9dJRFzfPzmNiHAsYKZC16bovOYI/+OE=
+
+Name: org/apache/geronimo/mail/util/Base64Encoder.class
+SHA-256-Digest: Pu1rwx6WBTqkI7X6dof73QzWQb0PyufTN1XvjpfDwCA=
+
+Name: about_files/NOTICE.txt
+SHA-256-Digest: yX9+1nl9mpUbjN48QnG5IxbZiu9XdufkAtuzRIVMCc4=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3Response.class
+SHA-256-Digest: tgPWODUh/NEr9F1n2kBxZLit8DqlgNCfQ3HKGpcXY58=
+
+Name: org/apache/geronimo/javamail/transport/smtp/SMTPTransportExcepti
+ on.class
+SHA-256-Digest: wn4grIdM1Tj6gh03E576K9VthhsROb8pIa7V+qhedL8=
+
+Name: org/apache/geronimo/javamail/transport/smtp/MalformedSMTPReplyEx
+ ception.class
+SHA-256-Digest: wv5nNhbUukg+MZRoK/iG3qOwoUsWGBCZJbBaDV/L8j8=
+
+Name: org/apache/geronimo/javamail/transport/nntp/NNTPReply.class
+SHA-256-Digest: c7+Sbp/r46FBoVPjK4QVRrOQoxHD2svzrza3gfhSJPs=
+
+Name: javax/mail/UIDFolder$FetchProfileItem.class
+SHA-256-Digest: MCiZBB1WV89E3UTmEdx2vHmvmfY7L7s2PyU1fR5jC+4=
+
+Name: javax/mail/Message$RecipientType.class
+SHA-256-Digest: 1Qp6VvM93tY6bN5cYiRwTb7rM57+seFNIXdyn/++GyM=
+
+Name: javax/mail/MultipartDataSource.class
+SHA-256-Digest: cxFY82WSVj4U4MAsYx79Zzr8rflPHW+yFaXUiCIk5IY=
+
+Name: javax/mail/search/ComparisonTerm.class
+SHA-256-Digest: V8FmCpDwcMOC9nTAFn4yamMof/FPykL2DYySE+4CZ4U=
+
+Name: org/apache/geronimo/mail/util/StringBufferOutputStream.class
+SHA-256-Digest: A5HyYd9JRL9wUYImYDheqT0mD/6ZPh6c8IWEVy7T254=
+
+Name: org/apache/geronimo/javamail/util/TraceOutputStream.class
+SHA-256-Digest: YoI6lDSGaI+h2bec3aMGGp2cAfTIza0cLpDRZEXAanE=
+
+Name: org/apache/geronimo/mail/util/UUEncoderStream.class
+SHA-256-Digest: Sa8NGmpdzXoYjTW6Zew+6KDEmiz8Dd/hVbDAxLy1bPo=
+
+Name: META-INF/mailcap
+SHA-256-Digest: TReOg5E1G1Yq+2Fo6WKz2j8CrlA0CuV8sFq0QCeW9LA=
+
+Name: org/apache/geronimo/mail/util/XText.class
+SHA-256-Digest: y35y5IDU4imWbaDZBBdWXufDqyzFrubqesJEvWLNgco=
+
+Name: javax/mail/FetchProfile$Item.class
+SHA-256-Digest: ajgVobx9Bxr04PmTriNtGenDPMlSyTPrScadEFaQYfg=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$11.cl
+ ass
+SHA-256-Digest: 4LXaQCQR07weZSDB79LDbgXFsoluxe2fYfbWlLydjcI=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3Connection.class
+SHA-256-Digest: BY6xhnFBFVOVqeQTVsdEaBC7QeSlTGxpL1UBpVU0P+4=
+
+Name: javax/mail/internet/InternetHeaders$HeaderLineEnumeration.class
+SHA-256-Digest: c2jzNmrqCP8VhltD6gCWv4phpItgZvfCgo0l65Gaq3w=
+
+Name: javax/mail/search/AndTerm.class
+SHA-256-Digest: 2ZENXy/gkdK0XvTs6pLGhNxNhFQdZDFHPXWXk41iiPg=
+
+Name: org/apache/geronimo/javamail/store/pop3/message/POP3MessageWithF
+ lags.class
+SHA-256-Digest: NLkZo1jgfZUKcmhABs8DMjJrrSDPDIsclC6zj/mWzMc=
+
+Name: org/apache/geronimo/javamail/authentication/LoginAuthenticator.c
+ lass
+SHA-256-Digest: RUAWVsjuzjNmFHwUcH7SFt8a7Q1XVgwzkxTCOg2/ctc=
+
+Name: javax/mail/search/IntegerComparisonTerm.class
+SHA-256-Digest: hc6HAUYEZjnLAwEt6OzGrInyKu4E5yOwuZGnlpN5pjY=
+
+Name: about.html
+SHA-256-Digest: gF5F5rE4Mz347aXFFYOzc6rzOB0V/4jbEwbLRqHNP5I=
+
+Name: javax/mail/UIDFolder.class
+SHA-256-Digest: RRb5n4sC0jqPwUlIf5lXdPa1j1oh9nReTrvswQuAr6I=
+
+Name: org/apache/geronimo/javamail/store/nntp/newsrc/NNTPNewsrcFile.cl
+ ass
+SHA-256-Digest: vxw9MMz1tGIA1KjW4+T0LTRnq4Vd1DpQvNXOLigrHkY=
+
+Name: javax/mail/Provider$Type.class
+SHA-256-Digest: aautjz0oXEuRui9UHA/p6AhTCkQYBWfmB645zKS5Tkk=
+
+Name: javax/mail/internet/InternetHeaders$InternetHeader.class
+SHA-256-Digest: WyHIEVTW7NPszEDdDTtrlfUFaC2qTjsbei92iUkRzm0=
+
+Name: javax/mail/Folder.class
+SHA-256-Digest: xHSYSDNMxr5bGpHLXmzHYtzrrxUOI/U8LQeaMD9ang4=
+
+Name: org/apache/geronimo/javamail/authentication/CramMD5Authenticator
+ .class
+SHA-256-Digest: Y2rJh4XRy8ko5f6GRXrM8ELpKIQcuLkicg0GrpR41/M=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory.class
+SHA-256-Digest: /wCScY0TuK8xJFghy+6yToci/D7H8IVNn94pNKb56iM=
+
+Name: javax/mail/internet/ContentDisposition.class
+SHA-256-Digest: GD+E6ZJ74jW6wTAfHRD2A/UjxF2HdfoUK7Pvsa0vl4E=
+
+Name: org/apache/geronimo/javamail/store/pop3/POP3CommandFactory$10.cl
+ ass
+SHA-256-Digest: CkM1udP8SJfvBCGSD4I3XFTXoXU6Ckv5Lt+FM2xexRM=
+
+Name: org/apache/geronimo/javamail/transport/smtp/SMTPAddressSucceeded
+ Exception.class
+SHA-256-Digest: b/l8rJ8ytSaJZrYDc6qUq3a2szrcEpGZVS2GV8YK3RY=
+
+Name: javax/mail/search/FromTerm.class
+SHA-256-Digest: Pw5HM4MrVP7n1BkT7rk7mjjGYbxW51cbkATKdxiJjbk=
+
+Name: javax/mail/Provider.class
+SHA-256-Digest: 6EBba0oj7gaae7Hb55WU9EXmt0xuegGuBvjQG+Ght/o=
+
+Name: javax/mail/event/FolderEvent.class
+SHA-256-Digest: 84JzBnZu+IHjXKUbacUhsIC+StJAR+O7hBq+WKxbBTU=
+
+Name: org/apache/geronimo/javamail/store/nntp/NNTPRootFolder$WildmatMa
+ tcher.class
+SHA-256-Digest: pRdGlRUxv4c5etIOS6EENV+097Slj1sgQuOnoBdUE1c=
+
+Name: org/apache/geronimo/javamail/authentication/DigestMD5Authenticat
+ or$DigestParser.class
+SHA-256-Digest: fSqadqRphOSu3rAz972zNfPTDL453RtRksZdWHAnQJM=
+
+Name: javax/mail/event/MailEvent.class
+SHA-256-Digest: 1QIt6Vp6Q6hgdY2BeTuG2m3ARtiRkRPBEzMafps76cs=
+
+Name: org/apache/geronimo/javamail/store/nntp/newsrc/Range.class
+SHA-256-Digest: rHMB7f2NvxlN4Op77JrFGxt6pEmxQkyyyE44O9tI31c=
+
+Name: javax/mail/internet/AddressParser$AddressToken.class
+SHA-256-Digest: UiMsXCiH165KfuG4J3kuJv8I22W2euBYhnZrLQUwT6o=
+
+Name: javax/mail/URLName.class
+SHA-256-Digest: I1w1ExJTcj6L5qcnHAA/eTaMds7i7A2rAtVaZ0X2PKg=
+

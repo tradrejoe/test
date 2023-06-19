@@ -1,0 +1,568 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 17
+Bundle-Name: M2E Maven Project Model Edit
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-Vendor: Eclipse.org - m2e
+Bundle-Version: 2.0.0.20220703-1731
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.m2e.model.edit;singleton:=true
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.core.resources,org.
+ eclipse.emf.ecore;visibility:=reexport,org.eclipse.emf.ecore.xmi;visibi
+ lity:=reexport,org.eclipse.emf.edit;visibility:=reexport,org.eclipse.em
+ f.ecore.edit;visibility:=reexport,org.eclipse.wst.common.uriresolver;vi
+ sibility:=reexport,org.eclipse.wst.common.emf;visibility:=reexport,org.
+ eclipse.wst.sse.core;visibility:=reexport,org.eclipse.wst.xml.core;visi
+ bility:=reexport
+Bundle-ActivationPolicy: lazy
+Export-Package: org.eclipse.m2e.model.edit.pom;x-friends:="org.eclipse.m
+ 2e.refactoring",org.eclipse.m2e.model.edit.pom.impl;x-internal:=true,or
+ g.eclipse.m2e.model.edit.pom.provider;x-internal:=true,org.eclipse.m2e.
+ model.edit.pom.util;x-internal:=true
+Automatic-Module-Name: org.eclipse.m2e.model.edit
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-m2e/m2e-cor
+ e.git;path="org.eclipse.m2e.model.edit";commitId=72090ce0ba29d17c3ba789
+ 4ec83f491610ba001d
+Bundle-License: Eclipse Public License - v 2.0;link="https://www.eclipse
+ .org/legal/epl-v20.html"
+
+Name: plugin.xml
+SHA-256-Digest: PGPysco8frLHse1k48+5+goy7aO68aWAuTUMTUf9Lx4=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ActivationOSItemProvider.c
+ lass
+SHA-256-Digest: C87OhbiuJYTAXyW13O4CJ5ZcZEKzX1Hcgna48d3iFz0=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ResourceItemProvider.class
+SHA-256-Digest: E3+fqgqopcR6tfiQos3p6V/SD+d/9DE4vTTjcL9MTcc=
+
+Name: org/eclipse/m2e/model/edit/pom/PomFactory.class
+SHA-256-Digest: htmo6P6TvaOTcdxS3rJ8sqesdcb2vw3TxD+saoEWtGY=
+
+Name: org/eclipse/m2e/model/edit/pom/Dependency.class
+SHA-256-Digest: h5GSUCp9MgtgJdFP6A26FGpi4Ys624ZJViID/K/zA3o=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/LicenseItemProvider.class
+SHA-256-Digest: +mS1T0yGlR1W7ib4yl9Vqn8iydfyiBas1azjWVtFqrg=
+
+Name: org/eclipse/m2e/model/edit/pom/Resource.class
+SHA-256-Digest: 7FCDb0/gRmAK6OAEUvam8XX6MokNsqBVf6gaX62WY3o=
+
+Name: org/eclipse/m2e/model/edit/pom/util/PomAdapterFactory.class
+SHA-256-Digest: NYmUKgpdoV/e6RZmZI2q9zjcaEC6/d5YNXIBOvv/opo=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/DependencyItemProvider.cla
+ ss
+SHA-256-Digest: Q2wFOSSkQlQp7CkvZrAtSsgksHwlVFbj3OLYXB+UaGI=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ExclusionImpl.class
+SHA-256-Digest: Jb4IXHqpGTfTDTIfJNgeG0EaT5lYZkfdPDlf1kQPFZQ=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/PomFactoryImpl.class
+SHA-256-Digest: 4Ryxdkdjuij7Huw8xhvh+veU8zDid3z1ELz/f+PFDw0=
+
+Name: org/eclipse/m2e/model/edit/pom/Scm.class
+SHA-256-Digest: CzCyIHr7KqSq1qdwDzq98dLePNAPS8SHLyWiFY0DYA4=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/SiteItemProvider.class
+SHA-256-Digest: ZxzDC1twhpCtIoXt9z6Y1Aw+DEGIeYKyPix5B64Cjv0=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/RelocationItemProvider.cla
+ ss
+SHA-256-Digest: eH3CiSrYmet0Y/j1St6aybrhS9ANHEVbTyYW7iuJe0E=
+
+Name: xsd/maven-v4_0_0.xsd
+SHA-256-Digest: UJpS8z2Lin4A4EpvHUQN3UoZ/N0LMJ2C+UpSq36WOA4=
+
+Name: xsd/archetype-catalog-1.0.0.xsd
+SHA-256-Digest: ubfOatKEoxu7ymf8v1D41rYq0ih7pldfDYPw9QmHc5Y=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/RepositoryItemProvider.cla
+ ss
+SHA-256-Digest: Ho5sKc3JgU4i6eXuNFGEp6Qq+T8Rw0N4wYBL9xlaBHM=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ScmItemProvider.class
+SHA-256-Digest: fIGsvwDVjMq5NtN04XDgaX7baT05Mrdxk5gpEiNdeQA=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/DeveloperItemProvider.clas
+ s
+SHA-256-Digest: dvTsDrPdBN/1kAwGKp3KPTyiHpkEwuVzAwvIOK5IWPc=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ConfigurationImpl.class
+SHA-256-Digest: yl/tiqDyF+jFJSymlb2U2cSvlRmvIvjLVAojO8XcN2Y=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/RepositoryPolicyItemProvid
+ er.class
+SHA-256-Digest: MSd4x+ayK8ti+f7jmfbDzEQo70+nUW93wl7qw0CnkIg=
+
+Name: xsd/profiles-v1_0_0.xsd
+SHA-256-Digest: Zw2LeOUiWolzXLlmk5fy7K2YBMkKxaTAqC6SuefPZyM=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ConfigurationItemProvider.
+ class
+SHA-256-Digest: fTVbMS4ePGoxcCAgkxh3p3feinKakwPkow9PtCVTkjE=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/DeploymentRepositoryItemPr
+ ovider.class
+SHA-256-Digest: B6rQ7sxsEFjUu/F/Eq6SF9WhKHrmbBFGEYR23C1qhhU=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/IssueManagementItemProvide
+ r.class
+SHA-256-Digest: Eb2qDVP4FMXxVWjruKxSkV74vI7CuRptfjV4uhyCh80=
+
+Name: org/eclipse/m2e/model/edit/pom/Prerequisites.class
+SHA-256-Digest: 3ukJ8tgky3izWaHVNCZaRV/ODoS80lsHu64Fmvdin4M=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/PluginImpl.class
+SHA-256-Digest: xydcgkqsit5D//ZjFBga0+veeWa3/wVFFY5nRbIMCB0=
+
+Name: org/eclipse/m2e/model/edit/pom/License.class
+SHA-256-Digest: Dz3Wqg3MXFuMDh1VbYCod2zjuEAw9wNLTZPQ4nlci2s=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ParentImpl.class
+SHA-256-Digest: Rt7yEY5HPi9qZBczpl2dQ6sYFLtBAn8Hco27xFpY020=
+
+Name: Header.javajetinc
+SHA-256-Digest: +2dhVcDoD/r671JPhtqzP5FyRFv7E+iJTXRBb2FILYE=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ResourceImpl.class
+SHA-256-Digest: NzJARzKFkYAQbZoLSJ3cALlwPQMqUUg52uAip/JRlvY=
+
+Name: org/eclipse/m2e/model/pom/pom.xsd
+SHA-256-Digest: pwxsAtnc+XPEw9jcg2etxj3OLTLuQs0gI4OdUVQznBo=
+
+Name: org/eclipse/m2e/model/edit/pom/translators/TranslatorAdapter.class
+SHA-256-Digest: XDNkCrw23KUykpaguXCVwCu2OzgsRcvzurqz5UVcF+Y=
+
+Name: org/eclipse/m2e/model/edit/pom/translators/PropertiesAdapter.class
+SHA-256-Digest: VMIRwi+6vhvtLZmHQ3ZS35DfhDEckIiLX7xkpJTfJU8=
+
+Name: org/eclipse/m2e/model/edit/pom/PomModelHandler$PomModelQueryImpl.c
+ lass
+SHA-256-Digest: tVCepE2xP00G14ji3MRsyNj3B4XsOQ5arwQGwVhgOK0=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/DistributionManagementImpl.cla
+ ss
+SHA-256-Digest: QEgcKVEJUVnmG1Ki7aM6BtnCe93gI2PnyH1wEsIR0+0=
+
+Name: org/eclipse/m2e/model/edit/pom/PomPackage$Literals.class
+SHA-256-Digest: 2BOe84GK9Sn7ZYe3g+WiSoXehOY96AOTCT9reAe/XEI=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ProfileItemProvider.class
+SHA-256-Digest: DcfUKcNarQO8BXvU7P32XYcSnS6wxWGuysCN7sT6bw8=
+
+Name: org/eclipse/m2e/model/edit/pom/Build.class
+SHA-256-Digest: OTDhar+nzDNX9bpnVnlwvMl6hGgc6lLA7KK/phee+gU=
+
+Name: org/eclipse/m2e/model/edit/pom/Extension.class
+SHA-256-Digest: SjSJqf3/10ZsSJ5mcG00daRKFXa8AGIkjdNrOh83VDU=
+
+Name: org/eclipse/m2e/model/edit/pom/Relocation.class
+SHA-256-Digest: m2W4uYYA4WDYItAKgibH3S7LJbfzzpurXdWRJf/6eJo=
+
+Name: org/eclipse/m2e/model/edit/pom/ActivationProperty.class
+SHA-256-Digest: FB3aIg3O1JgOrN6asf9V2qUOLHZxGYBlKAI1zUuQsIM=
+
+Name: org/eclipse/m2e/model/edit/pom/Notifier.class
+SHA-256-Digest: PhkF7JjDHYiJPUA29jarDTgZzEimPM/oME43VqRdV+M=
+
+Name: org/eclipse/m2e/model/edit/pom/BuildBase.class
+SHA-256-Digest: jGB+4V/yRuu+vGHPdq8MN+EktJDZR0bsidX5Qq+5AyA=
+
+Name: src-xsd/org/eclipse/m2e/model/pom/pom.genmodel
+SHA-256-Digest: uWM0Mn7N9tuLoKghgwFAeo7n4voju0mT9cHXHJ7mL/A=
+
+Name: org/eclipse/m2e/model/edit/pom/util/PomResourceImpl.class
+SHA-256-Digest: /+EXwU6Kx1446cF9/FqhKcd/Sth7YUJs0zBxUl7jt2o=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/DistributionManagementItem
+ Provider.class
+SHA-256-Digest: 6wUyLFkNcXXpaC8GHiP/T32oRGmX5nQW+cK8RjjMLhY=
+
+Name: org/eclipse/m2e/model/edit/pom/ActivationFile.class
+SHA-256-Digest: CWsFNrwPzFReF0+UkHPrMQ3tR6qxtPKS7aN0XA5WcxA=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/PomEditPlugin$Implementati
+ on.class
+SHA-256-Digest: ak8gXQmxU2S1/DoQ84msPsgF67+vzy19FAEj0lSYBpY=
+
+Name: org/eclipse/m2e/model/edit/pom/util/PomXMLProcessor.class
+SHA-256-Digest: voB7Oyj+wYYggThSVIffBmxHouZUtKDVocg9jCvZyKY=
+
+Name: org/eclipse/m2e/model/pom/pom.genmodel
+SHA-256-Digest: uWM0Mn7N9tuLoKghgwFAeo7n4voju0mT9cHXHJ7mL/A=
+
+Name: emf-merge.xml
+SHA-256-Digest: y3X1XEbBlxfiSdV+ZDCxkkahVSfBCQbo2dEh6VE3j1Q=
+
+Name: org/eclipse/m2e/model/edit/pom/MailingList.class
+SHA-256-Digest: CUI4yAMqLDZMv5SCbH81B8kzgJSTYZOTxM0XfiO/i8o=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ActivationImpl.class
+SHA-256-Digest: F18jMGDJyUZrNRD8lfveFCTGCnxEo0x3rPRZpKNl++4=
+
+Name: org/eclipse/m2e/model/edit/pom/Organization.class
+SHA-256-Digest: wFwzPDtt5cgpqimDU6Li9CogHPDubOJX0ZpZANZW06o=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ScmImpl.class
+SHA-256-Digest: rwFwd01lcINf9F61goS+pbIG1Kxx3m664mDNjg75M6E=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ModelItemProvider.class
+SHA-256-Digest: NefdfsMYalp1wvJastq4VwVNN9mBuxG718JcyhvL4sI=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/DeploymentRepositoryImpl.class
+SHA-256-Digest: Xl0ZdV7/lu/JFzCVFtpmEkqApG9mJYv/wvQEog3UVPI=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ActivationPropertyImpl.class
+SHA-256-Digest: TeJMPTNVzR6tKU3o9YRBT4eD599CDmkFz87ciDuNZuA=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ReportPluginImpl.class
+SHA-256-Digest: irqpTVDJbHK50LbSuFwHfSXWhSLeqEazEbCQWhbizyQ=
+
+Name: xsd/archetype-descriptor-1.0.0.xsd
+SHA-256-Digest: FsiiGrfuGgGOtRykmG0hfsDNlrWJkAqk+QwWUNf1q7k=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ModelImpl.class
+SHA-256-Digest: 793X2j2K5dlkgaXoR1wOn+hcGapcaKkqGVswULBvgtw=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ActivationFileItemProvider
+ .class
+SHA-256-Digest: lmOzQbDSf+eXzSSNPwZtozkC3ADKyjmaTvD3UVynjjk=
+
+Name: org/eclipse/m2e/model/edit/pom/DeploymentRepository.class
+SHA-256-Digest: g8Svkc9CNCwHzD+yYJeS8zdg//OzSWJgL3dwDUL5PIA=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/PluginItemProvider.class
+SHA-256-Digest: Dh1htRTKUvLvzq36ijWiM7iofQrIzcCTuwulMZmM0Ec=
+
+Name: xsd/settings-v1_0_0.xsd
+SHA-256-Digest: e3u/WlzhFrrpsYxyeAQ2MYXDaUpAXzDAk0liesO1+N0=
+
+Name: org/eclipse/m2e/model/edit/pom/translators/ValueUpdateAdapter.clas
+ s
+SHA-256-Digest: Lxfk+VbYdP4hUfekkiJktqkiT+4IYzsKjoHqs0TpyD0=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/PluginManagementImpl.class
+SHA-256-Digest: z7et2ixeikOmz3syy2zTenoDc+cF52/q5AlwPAFZfVg=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/BuildImpl.class
+SHA-256-Digest: LE6Ybc5BPnbiNG0sHqB2l84oTw0YxlgL1BibQk9IQfg=
+
+Name: org/eclipse/m2e/model/edit/pom/translators/PropertiesAdapter$Prope
+ rtyChildAdapter.class
+SHA-256-Digest: 2TCdnjWZl287WMj1xgCTo8oDZGtVgBRmFC1wwyBfoX0=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/MailingListItemProvider.cl
+ ass
+SHA-256-Digest: oGRGpwp2k69ZbW4pBqTrXPw4HAx84yXA0ZpGAoyH4v0=
+
+Name: org/eclipse/m2e/model/edit/pom/Repository.class
+SHA-256-Digest: 9Dsq3VSSdJVQt7qGzPg65LKAngHauo/iXaozNMHam44=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ExtensionItemProvider.clas
+ s
+SHA-256-Digest: f3aOQ+rtM2Ws8Egt3TofykHbN3IrqXhsKpJAyu4Z+pI=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ExclusionItemProvider.clas
+ s
+SHA-256-Digest: 40FwEnYWeqi/qajs7LRKTTb+Ws6rzoJOCzFxF+4U6TM=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/RepositoryImpl.class
+SHA-256-Digest: mTyq4nz5nDkrxCjEWWOr8cdVpJziexqddINzd4+SR4I=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/NotifierImpl.class
+SHA-256-Digest: iywDgfpI7ykeclx2VtAYCIihugziK8qDIALTKioasSE=
+
+Name: org/eclipse/m2e/model/edit/pom/util/PomSwitch.class
+SHA-256-Digest: 7rPvxpgWPIcXpZdO+qlYcKouyL6vhwjIClmoubSO8Pk=
+
+Name: org/eclipse/m2e/model/edit/pom/util/NodeOperation.class
+SHA-256-Digest: tRUEwBI+yT0WN+UDj4nMr+bvE4C2zRRomFJLRZ4NeOQ=
+
+Name: org/eclipse/m2e/model/pom/pom.xsd2ecore
+SHA-256-Digest: rCkDd1TlYhK8CxxFZzaUXTNw0LxTGrTxbpYiyLZuCOE=
+
+Name: org/eclipse/m2e/model/edit/pom/Developer.class
+SHA-256-Digest: kHT1Uhnkux0iGO4aelYfHbc+NOQyggj83glETLHxZIc=
+
+Name: org/eclipse/m2e/model/edit/pom/Contributor.class
+SHA-256-Digest: HcIJ7KKtEcMkBpFBK7OGBURo8mvNSC58mbvDloPxfbk=
+
+Name: org/eclipse/m2e/model/edit/pom/PropertyElement.class
+SHA-256-Digest: BBvGT1hrLSIDWLn5B+N6q8K0s1/FXawXl7prsJGEQ2A=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/DocumentRootItemProvider.c
+ lass
+SHA-256-Digest: 4yZSTPIgbgLFerRORDTV7NRi71ntKEAzl8vjbbIrhdE=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/OrganizationImpl.class
+SHA-256-Digest: jbZRMyja82D8zvgpEuUuwbh8grjDv+MrvaRRlI0L0T4=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ReportingImpl.class
+SHA-256-Digest: ycH2GZjH8Tj9E0MhhKfdMLiKD8fE410VbwaOknq9q1E=
+
+Name: org/eclipse/m2e/model/edit/pom/Exclusion.class
+SHA-256-Digest: 97C2UdqGmldS033kZVa4GSPKKrIRCnxcNRMT3U0gci4=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/IssueManagementImpl.class
+SHA-256-Digest: JOXlqPxFwUBgm2YPx+RVi6TSIDsu5nytHliwEnj+tu0=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ReportSetItemProvider.clas
+ s
+SHA-256-Digest: xYCt0tnd3XvPYho1cMmBz8WNwPxkZsa6tDZp7lMBA4c=
+
+Name: org/eclipse/m2e/model/pom/pom.ecore
+SHA-256-Digest: Dvb3esSb3QRJqNExzQOaSN5L6MFxhJG+1EDigDsgbMc=
+
+Name: org/eclipse/m2e/model/pom/readme.txt
+SHA-256-Digest: neNqlnqA6KPguexnRUiO5Julscx89NLYSetio22Kch8=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/DependencyManagementImpl.class
+SHA-256-Digest: ymIO5I4ydI09Aj++je3KTMoP6lRJiLPNPuJm6oV0zYo=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ContributorItemProvider.cl
+ ass
+SHA-256-Digest: wb16hU5xA2QBmHSO4FFfn4+s/sGgefGiPpahZWaZ0Ck=
+
+Name: org/eclipse/m2e/model/edit/pom/Reporting.class
+SHA-256-Digest: SlQrc4kYGtHEmgKgpq0yQB0d6cEwgeBeD3k4p27QjL8=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/PropertyElementItemProvide
+ r.class
+SHA-256-Digest: /TnsIT2xCG3AyOFW1qWgFqHyKqUa7O/ngWmO8YQYH94=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ActivationItemProvider.cla
+ ss
+SHA-256-Digest: GOvaxjFlgIXfpoJdhZ9iHW9tk9r2zjVDvhVNZww1k/4=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/PluginExecutionItemProvide
+ r.class
+SHA-256-Digest: PHQPUh2TaDi3xEXyMrQ8FFymK5PQKzUXaxR+LUAI0bA=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/OrganizationItemProvider.c
+ lass
+SHA-256-Digest: OvSDpzBWazYKcDuwgN5VIE8Ixu15jxrOVZvLfuL/na4=
+
+Name: org/eclipse/m2e/model/edit/pom/translators/ListAdapter.class
+SHA-256-Digest: zdeASsux8PFnpXUguUivIm3VGD7W4CJsLOlTgpYks6U=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ParentItemProvider.class
+SHA-256-Digest: c5kt9Lg4JIIFbVWTmUcUN3yyohJSFZC7HgZAmUnivos=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/RepositoryPolicyImpl.class
+SHA-256-Digest: AuuuOUN2e2ugnE0qiOauvS6BcCESQSBsMW56BxPYTo0=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/PluginManagementItemProvid
+ er.class
+SHA-256-Digest: B6fyfID6xfNCk18wN/CbVU5Z4ApCqtEi6A4HrMAAjtQ=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/RelocationImpl.class
+SHA-256-Digest: UPf7wOH7NIyCb+Xo+a11Q3ZKCfGsmihA16o3PkE20II=
+
+Name: xsd/archetype-1.0.0.xsd
+SHA-256-Digest: CWLnnG+k0ML+YHSBUDeewpmsPbCdYst7XvZLQsfgrxE=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/NotifierItemProvider.class
+SHA-256-Digest: JSEpH1/qgP06DsxEY/Qpc5kR9/kmvWoXWBb7Xn2C73Y=
+
+Name: plugin.properties
+SHA-256-Digest: M/jRLo1THXHz61LOjbf7HJ6xKxLfcHhhCj9BoL0YY54=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ActivationOSImpl.class
+SHA-256-Digest: b6ZomnxXMKjMxXmqu/QdkaJIUHhGtqXRgIRh2Yy31Us=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/BuildBaseItemProvider.clas
+ s
+SHA-256-Digest: xvNF9e34dL0QbcBxw50tpSWbsT1oiaFPXJQ1NYigBdM=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/DependencyImpl.class
+SHA-256-Digest: XxZb1b4v2FMMu0q6XRO9rsJ4BdUZjCpaefBoMp5tTrQ=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ActivationFileImpl.class
+SHA-256-Digest: C7hIHyqfo3hEpyvcrgFtmjnSTz+lZ9NgjNHYgytCPCU=
+
+Name: model/Class.javajet
+SHA-256-Digest: I8iUz/qNpV5nMAlcknGVfSLREyaLvGoI6ouWmoV0tIw=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/BuildBaseImpl.class
+SHA-256-Digest: fAtl80pRDc00JLi3ukY8Kem48S6hguTBt+gha8uux3Q=
+
+Name: org/eclipse/m2e/model/edit/pom/PomModelHandler$PomModelLoader.clas
+ s
+SHA-256-Digest: pm4NEtL1dwqCsKf13Vo8MVCC8PLuxTyzK6bwHvCSkLQ=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/PrerequisitesImpl.class
+SHA-256-Digest: 0bq5PLPT4FAs278lws3KrUFt9Y8a0LQUmqPQl9mgbfA=
+
+Name: org/eclipse/m2e/model/edit/pom/translators/SSESyncResource$Documen
+ tAdapter.class
+SHA-256-Digest: RyFf8pPHapPj+0jHhiQRbMzdkSAKBkI4/IyEbbURJZQ=
+
+Name: org/eclipse/m2e/model/edit/pom/Parent.class
+SHA-256-Digest: 0INqTjTBivDN456m2H/CIDSuMPve8Vj7y8MEEy0QdJk=
+
+Name: org/eclipse/m2e/model/edit/pom/translators/ModelObjectAdapter.clas
+ s
+SHA-256-Digest: Odl9tcfYe93iPkuvCAc4mM5VmY4zMCLGQ0AHGLLtFUU=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/MailingListImpl.class
+SHA-256-Digest: FfNgBPPh+f2Ff/74VSi+quKUqb5j9i0MJo/MNrx4dyA=
+
+Name: org/eclipse/m2e/model/edit/pom/util/PomAdapterFactory$1.class
+SHA-256-Digest: 3wAZHSYZTQ5TPZMuN3LXvl0ovmnYbcp3Wv84mKTsWVE=
+
+Name: org/eclipse/m2e/model/edit/pom/PomModelHandler.class
+SHA-256-Digest: tJhW7ntUTyOovTFobAl+hah1nrYA3RaZD4ylONWEh+4=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/PrerequisitesItemProvider.
+ class
+SHA-256-Digest: Pascvx+qZlW0bAg3tYKuX23nnuq65jeMRNYn5UFM0LU=
+
+Name: org/eclipse/m2e/model/edit/pom/translators/SSESyncResource.class
+SHA-256-Digest: v053hFEBTMmNR+SSpqr13kZULG8H51v/iyb1eKuSbRg=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ContributorImpl.class
+SHA-256-Digest: rdcF4/dUiK4KVDK7W1CDpYSUjqrE9WOYUI+L90Pkx/E=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ActivationPropertyItemProv
+ ider.class
+SHA-256-Digest: uXFjueeDxcdm17bbbhMM+UgHbQMf//QCptMVxfxbhy4=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/PomItemProviderAdapterFact
+ ory.class
+SHA-256-Digest: WpYOYOs2SRkK1NriLv/gSskUOj3h80nHk3WyZSXSCJU=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/BuildItemProvider.class
+SHA-256-Digest: XGRRRWjnTFf6dA5sWIm1w1vso2SSfFZQL4SyArOR8ak=
+
+Name: org/eclipse/m2e/model/edit/pom/IssueManagement.class
+SHA-256-Digest: 0C8LQKZ8+JE6AVDsGLnArEFnPXGsByeBD8E5UXfCW90=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/DeveloperImpl.class
+SHA-256-Digest: pNMxW9y3SWWXPlm1cztmBAd1XT+AGTZIuekpeGxsQtg=
+
+Name: org/eclipse/m2e/model/edit/pom/ActivationOS.class
+SHA-256-Digest: 1SsTGIyuv05eHBzuyejY61ZTOXgBb0hCPspVHzuTbY8=
+
+Name: org/eclipse/m2e/model/edit/pom/Profile.class
+SHA-256-Digest: ZW/rPsoLhHQApvRVpJxz1WuYCXN3iyJ+icm7T4MYb9k=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ProfileImpl.class
+SHA-256-Digest: rRkSK7BMoP6EVcogqiSBzz1OxLty6NNE2gD1fWXY93k=
+
+Name: org/eclipse/m2e/model/edit/pom/PluginManagement.class
+SHA-256-Digest: fyNAq/mvjL2AIZvbxaGWRlqdHxAargxcAzGnpVrnlbw=
+
+Name: org/eclipse/m2e/model/edit/pom/PomModelHandler$ModelQueryAdapterFa
+ ctoryForPom.class
+SHA-256-Digest: ZXuGrkTzaZhZ6ABW+kfLJlfuCzodP6Pw91nGEVupqfI=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/CiManagementImpl.class
+SHA-256-Digest: DpREIpLq3Ps7mnR6aEsARmlElvE+xbA4mrVP6Kwzj7k=
+
+Name: org/eclipse/m2e/model/edit/pom/DocumentRoot.class
+SHA-256-Digest: qGGwmWW9/6XylQ6yGmpNPqzFmVmbMLf44eu1B19WCI0=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/DependencyManagementItemPr
+ ovider.class
+SHA-256-Digest: OGcpEQTzqTE/X9MkDmWmWtOeG6RO9iTI19kUVmSqhx0=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/PropertyElementImpl.class
+SHA-256-Digest: DiApsI+vW1NoB0fe4RLvNgr396u3oXPr3iT7DX48bVc=
+
+Name: org/eclipse/m2e/model/edit/pom/ReportPlugin.class
+SHA-256-Digest: AoB0k7EsODQWZ22LWV+YX/2cc2ktuMGUjgEtAowshtg=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ExtensionImpl.class
+SHA-256-Digest: AdMM9/01twfd6ZRdXYjOLFX3+xMQ4VSmb4Nfon2WcaY=
+
+Name: META-INF/maven/org.eclipse.m2e/org.eclipse.m2e.model.edit/pom.xml
+SHA-256-Digest: +lH2fQrHc0B61gZZyHY5gHITmfIQj40r28yD/YKdU2M=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/DocumentRootImpl.class
+SHA-256-Digest: qUAfH3GS6gkd5u+fMW6D0uwREfdpysiK9MW8X1bf9E8=
+
+Name: org/eclipse/m2e/model/edit/pom/Configuration.class
+SHA-256-Digest: 2a2GGD3bgF+U1I8KHAPB55TqZtIDIZqzn+2ZTRPqBCA=
+
+Name: org/eclipse/m2e/model/edit/pom/translators/ConfigurationAdapter.cl
+ ass
+SHA-256-Digest: JBSHyBS6N0CqS6QI/3W21YBhdDxJBTwrd4+CCVrZtPY=
+
+Name: org/eclipse/m2e/model/edit/pom/PomModelHandler$PomModelQueryAssoci
+ ationProvider.class
+SHA-256-Digest: 6uDmmUJieXi8Whgqy+5bQxDE47tdJ2viXSC+B9S2ot4=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/LicenseImpl.class
+SHA-256-Digest: Hy6St9frvf+k1uU2jNIp4IqeQ6jEouia3UTwVbi/vKs=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/PomEditPlugin.class
+SHA-256-Digest: JoOBxZ3v2Lxa9ymaF/5aCQMoABxye8ce1C1A2QvPv5o=
+
+Name: org/eclipse/m2e/model/edit/pom/PluginExecution.class
+SHA-256-Digest: wRornMAitsbjOwSCrB7zLpvoiFB4wlkv2orWF+oebFc=
+
+Name: about.html
+SHA-256-Digest: h4lzJXDU3GwcknX1rqkO7iRTYVpEY0NGi2IhPfobz9E=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/PomPackageImpl.class
+SHA-256-Digest: xBR9z/ez7KHu6tQRhNwNxZu/4y0MhTzHDFNfWnnAkU8=
+
+Name: org/eclipse/m2e/model/edit/pom/PomPackage.class
+SHA-256-Digest: PGmcJyKE3itXGux/oCSlukIOluVy+TmHGq3Wn7ses0c=
+
+Name: org/eclipse/m2e/model/edit/pom/Site.class
+SHA-256-Digest: fGnI0ld1y55oOxe92Z/saQkRiB9GRT3U3709LehVDNc=
+
+Name: org/eclipse/m2e/model/edit/pom/Model.class
+SHA-256-Digest: mQZBthjTixdwYACSQoM1GlqiB6lAQBcdFIwGE5iJDc8=
+
+Name: org/eclipse/m2e/model/edit/pom/CiManagement.class
+SHA-256-Digest: fFBQ2qVmvK0GcyBWQeCxsAYtQG8KwBagx3vXjjmNGg4=
+
+Name: org/eclipse/m2e/model/edit/pom/DependencyManagement.class
+SHA-256-Digest: cGrFBfGWByNSpR7GOOBxG454UMAdOa/vEWs+NqsY15g=
+
+Name: org/eclipse/m2e/model/edit/pom/RepositoryPolicy.class
+SHA-256-Digest: 9HjkGlAgAAN2I+FBcRINiJeOhhUSsx6dRnYboqLcH/8=
+
+Name: META-INF/maven/org.eclipse.m2e/org.eclipse.m2e.model.edit/pom.prop
+ erties
+SHA-256-Digest: 9ZGjDqHl0Q09P0/3uqsgWyk+sXqPNQ+BAMyPWFWksPQ=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/ReportSetImpl.class
+SHA-256-Digest: 2J+eEilfQb+WiBgIaAgKb0evIezWkkA1Wtw4UAMMlTE=
+
+Name: org/eclipse/m2e/model/edit/pom/Activation.class
+SHA-256-Digest: jTqA1qGRSvc2pEmULY30Vm5sUQ8lM5BIwh4+8CLADQg=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/SiteImpl.class
+SHA-256-Digest: DTJfN0gBLy32rRgVoWq0DgSlLd9hx/VaqUundzm3SDA=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/CiManagementItemProvider.c
+ lass
+SHA-256-Digest: SuqbI7af46uHWOH8BvgNVj9dUYI8VpRhrUSVADrGfOs=
+
+Name: org/eclipse/m2e/model/edit/pom/impl/PluginExecutionImpl.class
+SHA-256-Digest: J7biumUiA/z3LfRS631WrkwMpRF3nLRJA80+uErYPfw=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ReportingItemProvider.clas
+ s
+SHA-256-Digest: 0uO8ovSuLAv5us/O6CXzKRXehJfMbrU8c7mk8h7nYwc=
+
+Name: org/eclipse/m2e/model/edit/pom/DistributionManagement.class
+SHA-256-Digest: QjwGZTN3aXkJcZZ7yXqqlUDoms4Wenm6Lau6lwALtAk=
+
+Name: org/eclipse/m2e/model/edit/pom/ReportSet.class
+SHA-256-Digest: F4KhERPEbHbhpTSBLAl9Toik4j8e7LEQisQg336SlpU=
+
+Name: org/eclipse/m2e/model/edit/pom/provider/ReportPluginItemProvider.c
+ lass
+SHA-256-Digest: IAwrBpbGRXFFC7umZm8Bokn4nig0+VEWlJrhGMmiSzc=
+
+Name: org/eclipse/m2e/model/edit/pom/Plugin.class
+SHA-256-Digest: Dxuyov0XiHPsIzCrmVN5vUhuqoxQwtmu5uGftvoqbIU=
+
+Name: org/eclipse/m2e/model/edit/pom/util/PomResourceFactoryImpl.class
+SHA-256-Digest: sYZ/T31jlI4/AxB7xqGaolNxRfSMp/ItAdh24Njl/ek=
+

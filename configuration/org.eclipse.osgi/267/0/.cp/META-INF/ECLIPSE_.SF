@@ -1,0 +1,81 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: 31oelStZsmOuVVU3J85UcLKMQ5sFL7LxjVUss7Vyu74=
+SHA-256-Digest-Manifest-Main-Attributes: 4zTnTC9vLyp2hvQ7fhzv+TjPy8L4tng
+ Sk3aWZSEnEYk=
+
+Name: org/eclipse/e4/core/internal/di/osgi/LogHelper.class
+SHA-256-Digest: oqd45PK9SXKK8GrcAPsJmSJj5UjvBSpjz9Urd+9ieNA=
+
+Name: org/eclipse/e4/core/internal/di/WeakRefList.class
+SHA-256-Digest: yg0AaYKMfNme1sTUfMcPqJO3Z24AGfrFOwGcSnfbCu8=
+
+Name: org/eclipse/e4/core/internal/di/Binding.class
+SHA-256-Digest: /8QjNMBo0k0YiW0TQ256sXKVV0mLsEWlXk3sIPDmcis=
+
+Name: org/eclipse/e4/core/internal/di/ConstructorRequestor.class
+SHA-256-Digest: 8nWpw9BJEMQ5VdlFXu4bXanPtH4M53n6Pp2sdxCWluI=
+
+Name: org/eclipse/e4/core/di/suppliers/IRequestor.class
+SHA-256-Digest: 9kCmNV0HXKwF7YlIVw2Yl937x3Q6/PxPs80+vn+Tgac=
+
+Name: .options
+SHA-256-Digest: dgKntzsQmTwEwnmW6NAp+Bdr961VkLzatwjE25SUE0M=
+
+Name: org/eclipse/e4/core/internal/di/InjectorImpl.class
+SHA-256-Digest: TyZuPVTdb0sMgMyF8AnUMx5RLCA5h442brIMFzqAl/g=
+
+Name: plugin.properties
+SHA-256-Digest: Rl/ZpzAp8CzUHxoIyTBJ6aSw5Ps4kKViakvEDnHSW+A=
+
+Name: org/eclipse/e4/core/di/InjectionException.class
+SHA-256-Digest: r7GiPpVUXeVLR69VtWcBROdiWbNCj0byT1OnlqyNdOU=
+
+Name: org/eclipse/e4/core/internal/di/MethodRequestor.class
+SHA-256-Digest: Hrtb8a4pP7bUQ1QIhTB5HJ/FEQQ6j8+H4gcBHQvFvRg=
+
+Name: org/eclipse/e4/core/di/suppliers/ExtendedObjectSupplier.class
+SHA-256-Digest: Sv7i8UVwfE/7HN2lwF8zJUzlIeUgXcWrYbpl/gimBMo=
+
+Name: org/eclipse/e4/core/di/suppliers/IObjectDescriptor.class
+SHA-256-Digest: fb+gVNneET/BDNm46rQVqVI4WrFj2a/7Wid+H2q2vzk=
+
+Name: org/eclipse/e4/core/di/suppliers/PrimaryObjectSupplier.class
+SHA-256-Digest: N6Sq43rNw7H8hFTVvQljBCgzljXBoYZrcqA/MZAc12k=
+
+Name: org/eclipse/e4/core/internal/di/ClassRequestor.class
+SHA-256-Digest: gKSOpY0KZ6to70KgwKlPUaS+cwjMWiDfheo+Z9vTUhw=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/e4/core/internal/di/osgi/ProviderHelper.class
+SHA-256-Digest: jmG6IoiWWLih2NGKV/IKmPFO6vUD1RLrmIy3SUfANhk=
+
+Name: org/eclipse/e4/core/internal/di/FieldRequestor.class
+SHA-256-Digest: etJgbFv7cGmDTHW6Xn3EbpIVA7CiKp3fKBw1IjqSDgs=
+
+Name: org/eclipse/e4/core/di/IInjector.class
+SHA-256-Digest: dbOb837/zCfmit6HfH+vpexHcilRDNnSt8N076c3Q70=
+
+Name: .api_description
+SHA-256-Digest: uMUIlbBfTyWIVTrdG4en/Z6I2444v2Hnnri7K+PrxEw=
+
+Name: org/eclipse/e4/core/internal/di/shared/CoreLogger.class
+SHA-256-Digest: UEKSqSaoKYig0oTaUGOqTwTMNAvvR/W15QDS6jqhb90=
+
+Name: org/eclipse/e4/core/internal/di/ObjectDescriptor.class
+SHA-256-Digest: J1Lr0D7KCHDW6FwEpvNyHrE5i1y4Ov3/rYHqU4N2Q7g=
+
+Name: org/eclipse/e4/core/di/IBinding.class
+SHA-256-Digest: 2uuPAuTa47UzTuCeXYCfUrTbnL7AIMDwpmO/TSGHDtA=
+
+Name: org/eclipse/e4/core/di/InjectorFactory.class
+SHA-256-Digest: gpySZL+72X3cOzGNE0jGvuAdQ4J0hyCn+IRRvFGbTYU=
+
+Name: org/eclipse/e4/core/internal/di/ProviderImpl.class
+SHA-256-Digest: 8pa3SVl86NQQehm2YzqdPlcw4XSsSIzxuKekasQN0Uc=
+
+Name: org/eclipse/e4/core/internal/di/Requestor.class
+SHA-256-Digest: aTTjEqABz1/mxB/ZVzEWN7k4JLOOC1DjFHD6tDM5JJ4=
+

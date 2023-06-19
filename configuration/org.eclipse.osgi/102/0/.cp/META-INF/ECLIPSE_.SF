@@ -1,0 +1,107 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: ItGuXQgWAf0qnsJa0//2YzLu6gd5wUlYtbMehSDhHlw=
+SHA-256-Digest-Manifest-Main-Attributes: qyCEr8ezXpXW8iUuHK5b303e8oL0jh1
+ HPMfBvSlsXGc=
+
+Name: plugin.xml
+SHA-256-Digest: omM0S9ODpT27+++vHoqjfl2DhsDBwp57pvYEY65NyVg=
+
+Name: org/eclipse/ant/internal/core/AntClassLoader.class
+SHA-256-Digest: tL+FDOuTw/uSSgXXQuT7/5gpnvEY2rpf0/VdUx1nYFw=
+
+Name: org/eclipse/ant/internal/core/IAntCoreConstants.class
+SHA-256-Digest: I4a6dluTsnM+yxw/DotY7cP/YPTsQVK8qCp9KIG9hA4=
+
+Name: org/eclipse/ant/internal/core/AntObject.class
+SHA-256-Digest: r/3uNtLsBulPIuijqKdCFmMT0qxuaHHFYikkcvxRCe0=
+
+Name: org/eclipse/ant/core/AntCorePlugin.class
+SHA-256-Digest: CGMkEhRN5C/DtxGerCXXqs4D+ZtgFPFxSSsubMAHz3M=
+
+Name: org/eclipse/ant/core/Property.class
+SHA-256-Digest: znR9Rlz1mBkKa9xyACUzPlJjDGzami/sZedJS51+bWQ=
+
+Name: org/eclipse/ant/internal/core/contentDescriber/AntHandler.class
+SHA-256-Digest: /raQxVaje2URVTwBA+RNRBk/4/DJOpWwFV+sitcbDw0=
+
+Name: org/eclipse/ant/core/AntCorePreferences.class
+SHA-256-Digest: y7SpVyiyXw84OyN3ojHRjTMGwKFSxK0LkuhnpjG+eVo=
+
+Name: org/eclipse/ant/core/AntSecurityException.class
+SHA-256-Digest: 9gDSdX+TKcWmbLEj+O/hh+22mI4RDbvkpnxy/pX4hVE=
+
+Name: org/eclipse/ant/internal/core/InternalCoreAntMessages.class
+SHA-256-Digest: jjAXw87PFoREOBkwCUrm+GO0unMFJmYXDdL/9ZK9JbA=
+
+Name: plugin.properties
+SHA-256-Digest: LDU2k0wswOzW13SRaQc2ZtTfpT3SqWq8iWT0DzbGvJA=
+
+Name: org/eclipse/ant/core/IAntClasspathEntry.class
+SHA-256-Digest: OSWOViTYiwWHYZCTWKWAwiEemRNRH7SlqXUbK/NYbXo=
+
+Name: org/eclipse/ant/internal/core/AbstractEclipseBuildLogger.class
+SHA-256-Digest: 8QtXZa73Dd8Qc8AwgRmr6Z+nr2Ua+K54coYKhRQFmBg=
+
+Name: org/eclipse/ant/internal/core/AntClasspathEntry.class
+SHA-256-Digest: 4saSNY67YJ6QiD+dP/TK9WZVv8J4+shxBgPDsFOah8w=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/ant/core/AntRunner.class
+SHA-256-Digest: Y+cTSSRozksASWMyaqtLaUdTCVw3swXxdMxdlsYNSSo=
+
+Name: about_files/NOTICE
+SHA-256-Digest: 51Yd9sZ6zB6U3ZxmPerJb9KgMDMbSFOG0SnJtICy2zQ=
+
+Name: about_files/asl-v20.txt
+SHA-256-Digest: 3RGGcUpOtxCUldJn6SoQwxKtaI2lx/I8SZBfz6GoDAE=
+
+Name: .api_description
+SHA-256-Digest: CsXFU1IHAZhA6rlmexPld+ayOUQIFquFjFUx4RPRxR4=
+
+Name: org/eclipse/ant/core/AntCorePreferences$WrappedClassLoader.class
+SHA-256-Digest: MK0mezqp6fAWrNUJgiUqJFZXLQbfbyelEXp/tZogMZo=
+
+Name: org/eclipse/ant/internal/core/contentDescriber/AntHandler$StopPars
+ ingException.class
+SHA-256-Digest: qyHWWYJ8MLsLeSvr00dIqXjJdbRgT0t8Of01NQzyjHA=
+
+Name: org/eclipse/ant/internal/core/AntSecurityManager.class
+SHA-256-Digest: 3c2Vt5rBYC17hNOKMy+kMVJrU7O+wLKTM8rwz29f6Js=
+
+Name: org/eclipse/ant/internal/core/contentDescriber/AntBuildfileContent
+ Describer.class
+SHA-256-Digest: X+BbWZl3jOJaPRVFpctAuFQcTyDZQWElfaql2QA58HE=
+
+Name: lib/antsupportlib.jar
+SHA-256-Digest: WUo7eX4Oq2fwD1V1zPFYsDMck1K/00hMVSK579iK3yA=
+
+Name: org/eclipse/ant/core/ProjectInfo.class
+SHA-256-Digest: aDRNMxmcVinHLDmsD3fZLxZW2fBdzgWgycyRqiMyqIk=
+
+Name: org/eclipse/ant/core/Type.class
+SHA-256-Digest: oYinAdKvh8jVAZ4BwaGF2PoM29CxElRlZpaqSZ2yAPw=
+
+Name: org/eclipse/ant/core/Task.class
+SHA-256-Digest: Z/U4jkoPz02BJZQICbtzdYwg3Asg0KMyrXGiQ19bhjo=
+
+Name: org/eclipse/ant/core/TargetInfo.class
+SHA-256-Digest: vIEOeGX16f9p/x0gaQ4wh2K5NDavW/Mc3uddvQBbSTA=
+
+Name: org/eclipse/ant/internal/core/AntPropertyValueProvider.class
+SHA-256-Digest: qX/xq1+RU362Wi/zTI8ZDwz3VX8WjE9wz0J3DBkh4YE=
+
+Name: org/eclipse/ant/core/IAntPropertyValueProvider.class
+SHA-256-Digest: pj4GzT3zepLeQR5p4/lJx2etj5/EyuQLGyba24QTVqA=
+
+Name: org/eclipse/ant/internal/core/AntCoreUtil.class
+SHA-256-Digest: 9XcvqhJg2LZSqhHOtDips/EhQ1l4UcHG+W+vTl0CJ88=
+
+Name: org/eclipse/ant/internal/core/InternalCoreAntMessages.properties
+SHA-256-Digest: QueaBT2fMgoriGUfV/+0mQR5fgOObsBezzIZ17MqDIE=
+
+Name: org/eclipse/ant/core/AntCorePreferences$Relation.class
+SHA-256-Digest: 86bvUBD0Un7BxQp1Iw3BEbtgidjryug+wiUXORGvS8w=
+

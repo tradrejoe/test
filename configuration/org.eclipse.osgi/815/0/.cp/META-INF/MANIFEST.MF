@@ -1,0 +1,1158 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.wst.sse.core; singleton:=true
+Bundle-Version: 1.2.800.v202207121749
+Bundle-Activator: org.eclipse.wst.sse.core.internal.SSECorePlugin
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.wst.sse.core,org.eclipse.wst.sse.core.indexi
+ ng,org.eclipse.wst.sse.core.internal;x-friends:="org.eclipse.wst.dtd.co
+ re,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.wst.xml.co
+ re,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,org.eclipse.wst.xsd.
+ ui",org.eclipse.wst.sse.core.internal.cleanup;x-friends:="org.eclipse.w
+ st.dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.w
+ st.xml.core,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,org.eclipse
+ .wst.xsd.ui",org.eclipse.wst.sse.core.internal.document;x-friends:="org
+ .eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org
+ .eclipse.wst.xml.core,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,o
+ rg.eclipse.wst.xsd.ui",org.eclipse.wst.sse.core.internal.encoding;x-fri
+ ends:="org.eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.wst.
+ sse.ui,org.eclipse.wst.xml.core,org.eclipse.wst.xml.ui,org.eclipse.wst.
+ xsd.core,org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.core.internal.enco
+ ding.util;x-friends:="org.eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,o
+ rg.eclipse.wst.sse.ui,org.eclipse.wst.xml.core,org.eclipse.wst.xml.ui,o
+ rg.eclipse.wst.xsd.core,org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.cor
+ e.internal.exceptions;x-friends:="org.eclipse.wst.dtd.core,org.eclipse.
+ wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.wst.xml.core,org.eclipse.
+ wst.xml.ui,org.eclipse.wst.xsd.core,org.eclipse.wst.xsd.ui",org.eclipse
+ .wst.sse.core.internal.filebuffers;x-friends:="org.eclipse.wst.dtd.core
+ ,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.wst.xml.core
+ ,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,org.eclipse.wst.xsd.ui
+ ",org.eclipse.wst.sse.core.internal.format;x-friends:="org.eclipse.wst.
+ dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.wst.
+ xml.core,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,org.eclipse.ws
+ t.xsd.ui",org.eclipse.wst.sse.core.internal.ltk.modelhandler;x-friends:
+ ="org.eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.u
+ i,org.eclipse.wst.xml.core,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.c
+ ore,org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.core.internal.ltk.parse
+ r;x-friends:="org.eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,org.eclip
+ se.wst.sse.ui,org.eclipse.wst.xml.core,org.eclipse.wst.xml.ui,org.eclip
+ se.wst.xsd.core,org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.core.intern
+ al.model;x-friends:="org.eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,or
+ g.eclipse.wst.sse.ui,org.eclipse.wst.xml.core,org.eclipse.wst.xml.ui,or
+ g.eclipse.wst.xsd.core,org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.core
+ .internal.modelhandler;x-friends:="org.eclipse.wst.dtd.core,org.eclipse
+ .wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.wst.xml.core,org.eclipse
+ .wst.xml.ui,org.eclipse.wst.xsd.core,org.eclipse.wst.xsd.ui",org.eclips
+ e.wst.sse.core.internal.parser;x-friends:="org.eclipse.wst.dtd.core,org
+ .eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.wst.xml.core,org
+ .eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,org.eclipse.wst.xsd.ui",or
+ g.eclipse.wst.sse.core.internal.preferences;x-friends:="org.eclipse.wst
+ .dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.wst
+ .xml.core,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,org.eclipse.w
+ st.xsd.ui",org.eclipse.wst.sse.core.internal.provisional;x-friends:="or
+ g.eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,or
+ g.eclipse.wst.xml.core,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,
+ org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.core.internal.provisional.d
+ ocument;x-friends:="org.eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,org
+ .eclipse.wst.sse.ui,org.eclipse.wst.xml.core,org.eclipse.wst.xml.ui,org
+ .eclipse.wst.xsd.core,org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.core.
+ internal.provisional.events;x-friends:="org.eclipse.wst.dtd.core,org.ec
+ lipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.wst.xml.core,org.ec
+ lipse.wst.xml.ui,org.eclipse.wst.xsd.core,org.eclipse.wst.xsd.ui",org.e
+ clipse.wst.sse.core.internal.provisional.exceptions;x-friends:="org.ecl
+ ipse.wst.dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org.ecl
+ ipse.wst.xml.core,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,org.e
+ clipse.wst.xsd.ui",org.eclipse.wst.sse.core.internal.provisional.model;
+ x-friends:="org.eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,org.eclipse
+ .wst.sse.ui,org.eclipse.wst.xml.core,org.eclipse.wst.xml.ui,org.eclipse
+ .wst.xsd.core,org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.core.internal
+ .provisional.tasks;x-friends:="org.eclipse.wst.dtd.core,org.eclipse.wst
+ .dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.wst.xml.core,org.eclipse.wst
+ .xml.ui,org.eclipse.wst.xsd.core,org.eclipse.wst.xsd.ui",org.eclipse.ws
+ t.sse.core.internal.provisional.text;x-friends:="org.eclipse.wst.dtd.co
+ re,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.wst.xml.co
+ re,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,org.eclipse.wst.xsd.
+ ui",org.eclipse.wst.sse.core.internal.tasks;x-friends:="org.eclipse.wst
+ .dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclipse.wst
+ .xml.core,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,org.eclipse.w
+ st.xsd.ui",org.eclipse.wst.sse.core.internal.text;x-friends:="org.eclip
+ se.wst.dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.ui,org.eclip
+ se.wst.xml.core,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.core,org.ecl
+ ipse.wst.xsd.ui",org.eclipse.wst.sse.core.internal.text.rules;x-friends
+ :="org.eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.wst.sse.
+ ui,org.eclipse.wst.xml.core,org.eclipse.wst.xml.ui,org.eclipse.wst.xsd.
+ core,org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.core.internal.undo;x-f
+ riends:="org.eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,org.eclipse.ws
+ t.sse.ui,org.eclipse.wst.xml.core,org.eclipse.wst.xml.ui,org.eclipse.ws
+ t.xsd.core,org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.core.internal.ut
+ il;x-friends:="org.eclipse.wst.dtd.core,org.eclipse.wst.dtd.ui,org.ecli
+ pse.wst.sse.ui,org.eclipse.wst.xml.core,org.eclipse.wst.xml.ui,org.ecli
+ pse.wst.xsd.core,org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.core.inter
+ nal.validate;x-friends:="org.eclipse.wst.dtd.core,org.eclipse.wst.dtd.u
+ i,org.eclipse.wst.sse.ui,org.eclipse.wst.xml.core,org.eclipse.wst.xml.u
+ i,org.eclipse.wst.xsd.core,org.eclipse.wst.xsd.ui",org.eclipse.wst.sse.
+ core.text,org.eclipse.wst.sse.core.utils,org.eclipse.wst.sse.internal.c
+ ontentproperties;x-friends:="org.eclipse.wst.dtd.core,org.eclipse.wst.d
+ td.ui,org.eclipse.wst.sse.ui,org.eclipse.wst.xml.core,org.eclipse.wst.x
+ ml.ui,org.eclipse.wst.xsd.core,org.eclipse.wst.xsd.ui"
+Import-Package: com.ibm.icu.util,com.ibm.icu.text
+Require-Bundle: org.eclipse.core.resources;bundle-version="[3.13.0,4.0.0
+ )",org.eclipse.text;bundle-version="[3.6.0,4.0.0)";visibility:=reexport
+ ,org.eclipse.core.jobs;bundle-version="[3.10.0,4.0.0)",org.eclipse.core
+ .runtime;bundle-version="[3.14.0,4.0.0)",org.eclipse.core.filebuffers;b
+ undle-version="[3.6.0,4.0.0)",org.eclipse.wst.common.uriresolver;bundle
+ -version="[1.2.300,2.0.0)",org.eclipse.emf.common;bundle-version="[2.14
+ .0,3.0.0)",org.eclipse.wst.validation;bundle-version="[1.2.700,2.0.0)";
+ resolution:=optional,org.eclipse.core.filesystem;bundle-version="[1.7.0
+ ,2.0.0)",org.eclipse.core.expressions;bundle-version="[3.6.100,4.0.0)",
+ org.eclipse.osgi.services;bundle-version="[3.7.0,4.0.0)"
+Bundle-ActivationPolicy: lazy;exclude:="org.eclipse.wst.sse.core.interna
+ l.propertytester"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/sourceed
+ iting/webtools.sourceediting.git;path="core/bundles/org.eclipse.wst.sse
+ .core";commitId=b1e1886cd21a0297718dd7e487cc8532a313621f
+
+Name: org/eclipse/wst/sse/core/internal/text/MinimalDocument.class
+SHA-256-Digest: MCvxM6COGZ4RVjt+EFZlLOTOrkR0daLSVwX7zzpHlts=
+
+Name: plugin.xml
+SHA-256-Digest: /n7DecY0oirukpa8EG1B7K4UedHLWQvIzKPm/I10rcI=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/document/IStructured
+ DocumentProposed.class
+SHA-256-Digest: po5/XLEgCUERzBViRjV1I37wD31Me/bo9psjrBvf9yo=
+
+Name: org/eclipse/wst/sse/core/internal/PropagatingAdapterFactory.class
+SHA-256-Digest: ZeDbEMcwGe6ZBx/iF2rJUcSxsnFNR3A/1X2x0/iWUqM=
+
+Name: org/eclipse/wst/sse/core/internal/validate/ValidatorGroupListener.
+ class
+SHA-256-Digest: CPEmACTeltXvrynnaqHz//ld2zBGAmmocfNIrsyJVQY=
+
+Name: org/eclipse/wst/sse/core/internal/NullMemento.class
+SHA-256-Digest: a0qf1C8cuPTpJY0fLLVQT0Zn233/9G6dqP+gQC3annc=
+
+Name: org/eclipse/wst/sse/core/utils/StringUtils.class
+SHA-256-Digest: NxwiR9YjgYICouRBy1JoKlEy8yvbVofErDvfbK0LRvo=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/text/ITextRegionList
+ .class
+SHA-256-Digest: yFFJxOjB6VTVaurPbjVIfkARqFjU55LxkWSQhG4wsPI=
+
+Name: org/eclipse/wst/sse/core/internal/model/ModelManagerImpl$SharedObj
+ ect.class
+SHA-256-Digest: cx3TyhTqF7maRRVeHs+uVi9OGT6Df0/cPK1EpEPmuDg=
+
+Name: org/eclipse/wst/sse/core/internal/util/ResourceUtil.class
+SHA-256-Digest: 46XQwXiVZfVzwU+rUMe7eiAEvpES/tlRWa/EkmHXUPE=
+
+Name: org/eclipse/wst/sse/core/internal/text/StructuredDocumentRegionIte
+ rator.class
+SHA-256-Digest: Y7HwrmKpyzyQHbZbI4Wa2M5HZ/znbplV9wSeHL6+nZM=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/util/BufferedLimitedStr
+ eam.class
+SHA-256-Digest: W9NwMYbN4reTJoz1U6oHUI5b5zKUZVsgfpU/bDlsDp0=
+
+Name: org/eclipse/wst/sse/core/internal/text/TextRegionListImpl$RegionIt
+ erator.class
+SHA-256-Digest: b96Pl6wDZ98AFYia3r+BlmARCDnt1uq/7UNW3hDrveg=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/CommonCharsetNames$Fall
+ backPropertyResourceBundle.class
+SHA-256-Digest: VDbETK66KZq5feOzZ3yqU7HZuK8DJviOB1Tic8IW8ao=
+
+Name: org/eclipse/wst/sse/core/internal/util/AbstractMemoryListener.clas
+ s
+SHA-256-Digest: IGrAC1ea3l6v67ZTJyTs4wbz58gimh96TzkAE38jnIc=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/AbstractNotifier.cla
+ ss
+SHA-256-Digest: eLxkhWywrTkYdzZKl+fDQv8zq9LkHCBwvDK0WDkSDLY=
+
+Name: config/defaultIANA.properties
+SHA-256-Digest: oP40Pbbs0clM8qhTLG20zy6PBpIS5Gf8DTcraeU3UaI=
+
+Name: org/eclipse/wst/sse/core/internal/util/Sorter.class
+SHA-256-Digest: fI6eMt0EcBSMzMgIKlA3MozN4GCvYpU7epj65nN28j4=
+
+Name: org/eclipse/wst/sse/core/internal/undo/StructuredTextUndoManager.c
+ lass
+SHA-256-Digest: pAqn1pSezXpWXutyPz9H6NIalc00ibdnbHvBJ8CcIVI=
+
+Name: org/eclipse/wst/sse/core/internal/text/BasicStructuredDocument$1.c
+ lass
+SHA-256-Digest: ajwdF+0/tipbxmD24WvjK1RjEs1RAbmzc84s18K8cC4=
+
+Name: org/eclipse/wst/sse/core/internal/text/CharSequenceReader.class
+SHA-256-Digest: r90M9dpjxLJQBAzG6l/H4kXwK3UMJq8RI3LzPGyHIUk=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/text/IStructuredText
+ Partitioner.class
+SHA-256-Digest: bL4Hqq/DzeLHfEuY35+w7I13euixi/TRtKvXp4kZ/c0=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/model/IModelStateLis
+ tenerProposed.class
+SHA-256-Digest: yzWWLP9WNij2Kri14+lSmLMMh4bW2kgPD6CjSKiP25Y=
+
+Name: org/eclipse/wst/sse/core/internal/validate/ErrorInfo.class
+SHA-256-Digest: ZFSHxUdjYrCat2dCD6p4L3LYlIZMCee9ivrwtXQVR88=
+
+Name: org/eclipse/wst/sse/core/internal/model/AbstractStructuredModel.cl
+ ass
+SHA-256-Digest: SEvj+0JKrB/oH7M9ciW+lrCpPA6qKmao1xvGRuEw5VE=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/model/IStructuredMod
+ elProposed.class
+SHA-256-Digest: hgwuB1b3HQchEOQJwbMZsSkmF3iKLhOcF9HIex25rJY=
+
+Name: org/eclipse/wst/sse/core/internal/model/AbstractModelLoader.class
+SHA-256-Digest: QR9qGzcSN+Q3V9OCerXefG2n71fXXPmOFbPOExRwi1o=
+
+Name: org/eclipse/wst/sse/core/internal/text/IExecutionDelegatable.class
+SHA-256-Digest: xUmkGvfQc8u/vl63iQREJn7NEtP55xytn8eqHDhiqe0=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/util/ByteReader.class
+SHA-256-Digest: 3WWLYAYyxbSLB67Z6s14ySviyXVik4/CeCe+0pMgEQU=
+
+Name: org/eclipse/wst/sse/core/internal/propertytester/StructuredFilePro
+ pertyTester.class
+SHA-256-Digest: Uz3JcJlkxbPSFFupcBU5+GDHCRr695ZlhG+4PZUffTw=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.wst.
+ sse.core/pom.properties
+SHA-256-Digest: SYu38C+pTiXHXShhuAo8gn5Su4p4iKyQm1onr+EMMnQ=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/IContentDescriptionExte
+ nded.class
+SHA-256-Digest: wcrWc8DLBd2jQjyhW5rTcqmItEk01h1K8155NFRjSIo=
+
+Name: org/eclipse/wst/sse/core/internal/text/JobSafeStructuredDocument$3
+ .class
+SHA-256-Digest: /VlSBx1F5uqdEROPI9hyu52MC7VbyEFluqyTNdJmA00=
+
+Name: config/charset.properties
+SHA-256-Digest: 4V/I9NdBoRMotxG4D+ENWrogeS+8D9oQSu5z7Ms1Poc=
+
+Name: org/eclipse/wst/sse/core/internal/model/ModelResourceFactory.class
+SHA-256-Digest: oRoVLZdKqsCELI7iH15FE2Tu4sLwYnvaN9ikWESAOWc=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/parser/StructuredDocumentReg
+ ionHandlerExtension.class
+SHA-256-Digest: IISiI1FNk+02WZ0rYQrqegbNdEqylDiAgBdCor621I4=
+
+Name: org/eclipse/wst/sse/core/internal/validate/ValidationMessage.class
+SHA-256-Digest: SqG7JcdFU/b0ut4GNVxN+QYeZKFpUsteKg6sze4gJ6I=
+
+Name: org/eclipse/wst/sse/core/internal/text/rules/SimpleStructuredRegio
+ n.class
+SHA-256-Digest: NjjyF+wOCf8uqiqqOjy1uq8XV7tcy/RLTLstw/aEmlw=
+
+Name: org/eclipse/wst/sse/core/internal/text/DeleteEqualPositionUpdater.
+ class
+SHA-256-Digest: n++XOblBQIMP6VScXhdQLrXY4lnjk0bNbf6VorTzX7c=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/NonContentBasedEncoding
+ Rules.class
+SHA-256-Digest: /sSnRfv9eq7gNMr+K/omhScy6FMyNqIhlLpspOj9cEE=
+
+Name: org/eclipse/wst/sse/core/internal/model/ModelManagerImpl$ReadEditT
+ ype.class
+SHA-256-Digest: +oKLGHTzTnCbVkslZdocF47S7QZPFrrMOts1vkoUkzM=
+
+Name: org/eclipse/wst/sse/core/internal/util/PathHelper.class
+SHA-256-Digest: Rz1Y9YVrLnm7mKdEZ9/+jitlvVlprrUr3MKIe5T2chg=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/events/NewDocumentCo
+ ntentEvent.class
+SHA-256-Digest: J392rXrhXG2fVC7D5BTfLqtO1qiO+ony9GdvI2OT0pw=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/CodedReaderCreator$1.cl
+ ass
+SHA-256-Digest: 6XnGPm1ESENxb2kn+d5taXVL5u/fMutStPVcHNF4yRU=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/ContentSettingsSelf
+ Handler.class
+SHA-256-Digest: QGrdf3qKa8m2A4RiducRoCNV6p+DFsclpBxxsqnQ79c=
+
+Name: org/eclipse/wst/sse/core/internal/text/TextRegionListImpl$NullIter
+ ator.class
+SHA-256-Digest: SBaouWBlIWGeSOrzxY7umxmwDyQ0qfWS92y6RREvEMI=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/ContentTypeEncodingPref
+ erences.class
+SHA-256-Digest: IKdh2r6xL4eNFeIxFl+wdXQIoODZKBGkzhUlga9dt/w=
+
+Name: org/eclipse/wst/sse/core/internal/document/StructuredDocumentFacto
+ ry.class
+SHA-256-Digest: 9mXQdMq24JiPWGtZcI36KhlC+qngCsOHhdKntDepdXc=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/modelhandler/IModelHandler.c
+ lass
+SHA-256-Digest: WrrNqm63HrRRI11oybcWoo/QM66lMbuqKbi1Fc4uJZs=
+
+Name: org/eclipse/wst/sse/core/internal/model/PrefUtil.class
+SHA-256-Digest: l8PT+1eVSoUquM/aRL5KBw/Bzdi8LrhXnj/v3AkT7eo=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/ContentSettings.cla
+ ss
+SHA-256-Digest: NAj6G1glbg088IZD3g7HDGMzA94+94DaD/3sEQTy/wc=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/ContentSettingsSync
+ hronizer$ContentSettingsVisitor.class
+SHA-256-Digest: puy7eSfVpHDS3KcGoxzJzrJYq4sABg69F9hhWtJVKUA=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/ContentSettingsChan
+ geSubject.class
+SHA-256-Digest: 4cL2MnjlXLFwCYPBsZ816o6fC/VMYazd7qYnaOJRVtg=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/text/IStructuredDocu
+ ment.class
+SHA-256-Digest: jv3aikdB8jsw+X1UFlI459bu3E/fsMJxFEia6eC03hU=
+
+Name: org/eclipse/wst/sse/core/internal/NoCancelProgressMonitor.class
+SHA-256-Digest: FnAX49bXkWf975Ue9zSZsil4/YXFUSV4jguWVqW7JJY=
+
+Name: org/eclipse/wst/sse/core/internal/undo/UndoDocumentEvent.class
+SHA-256-Digest: AmGfCsHVWaTp+r41FeJHwZD0vYXvKykVBsQddmzRm5s=
+
+Name: org/eclipse/wst/sse/core/internal/text/JobSafeStructuredDocument$4
+ .class
+SHA-256-Digest: jhNVBOMFmND6vYyCfarnQ3KlCbSHO4e9kb0unqBnkf0=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/events/AboutToBeChan
+ gedEvent.class
+SHA-256-Digest: EUav0vUHIvqGEW6EivhYtWYVE1WAqHPA+Jn7rFiU5Ew=
+
+Name: org/eclipse/wst/sse/core/internal/undo/StructuredTextCompoundComma
+ ndImpl.class
+SHA-256-Digest: fTZcUUsuSTaPkdE/qrjP3oZiH2KS1kzFwYvIGOTpOBw=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/text/IStructuredPart
+ itionTypes.class
+SHA-256-Digest: WMl34EGmEyIEigmZABtECNWvnF1e5tHsIsrvF6wt/jA=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/IModelLifecycleListe
+ ner.class
+SHA-256-Digest: dS3gu4B89RV6KKd3cMb/sJxmyqOD3l72hHRf190Uybk=
+
+Name: org/eclipse/wst/sse/core/internal/model/PrefUtil$1.class
+SHA-256-Digest: aDCpYe0yuXEgIcq8QoDcRUX+5muttWruKsjdGFlt1Qs=
+
+Name: org/eclipse/wst/sse/core/internal/text/BasicStructuredDocument$Nul
+ lDocumentEvent.class
+SHA-256-Digest: JaKH3soMtEKHmsxgBzML63rWcn7tyvgsuZL57w7oEtc=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/text/IStructuredText
+ ReParser.class
+SHA-256-Digest: QveqFo6tx5r2ecJHIFjENBU87PhKTkDQ4xe93e9tOSs=
+
+Name: org/eclipse/wst/sse/core/internal/document/TextUtilities.class
+SHA-256-Digest: FeDKLs1Zc5rIMuuDROZQ82sgx79p9/cTE1wYmm+5Lb8=
+
+Name: org/eclipse/wst/sse/core/internal/format/IStructuredFormatContrain
+ ts.class
+SHA-256-Digest: OAyv6/7mgigIAAiToJcb20B0Ln8TyuEcUB62HYs3WOA=
+
+Name: org/eclipse/wst/sse/core/internal/format/StructuredFormatPreferenc
+ es.class
+SHA-256-Digest: eH2ARvCxdcejlj/V1ckwNw4W5vIJX74vaSPZmiUvL9k=
+
+Name: org/eclipse/wst/sse/core/internal/util/Assert$AssertionFailedExcep
+ tion.class
+SHA-256-Digest: AmMiAOPqcJXqvwyv+Tv8kMZOhIVIZXWC5h+aYFgwZTk=
+
+Name: org/eclipse/wst/sse/core/indexing/AbstractIndexManager$ResourceEve
+ ntProcessingJob.class
+SHA-256-Digest: meM6tTLuDE6RZPS3g3E0XS9Jgov9pyMHx5XXlzO1iJU=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/util/Logger.class
+SHA-256-Digest: TNVEslSenxAyxv5V70jkQ4uHBey/ggt/7kiFsrkbisA=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/text/ITextRegionColl
+ ection.class
+SHA-256-Digest: y3lqWWHwVc8WagbW/YVv8c91gju529mODD3rE3fis+Y=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/parser/JSPCapableParser.clas
+ s
+SHA-256-Digest: T2k+vzxa4fvPRKPexExx5bZMymB3jEDjV6EbmVstYoY=
+
+Name: org/eclipse/wst/sse/core/internal/undo/CommandCursorPosition.class
+SHA-256-Digest: k0UxznwHYms9GGwYp46O/8e5V6opQio7MV2R2PiA+Ek=
+
+Name: org/eclipse/wst/sse/core/internal/undo/IStructuredTextUndoManager.
+ class
+SHA-256-Digest: Iw1Pn99M6J4VpZt8TWoXp+5kQkMCpR8MrAP4ivtUpdQ=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/util/NullInputStream.cl
+ ass
+SHA-256-Digest: 9L9PRsZsPJe70HUGkP+fs2RlXTuY2prKV6RrE1srxDs=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/parser/BlockMarker.class
+SHA-256-Digest: pTTq3ls3YHBinKdTDshkbkZsyvwyfMkBTuglScVcyVk=
+
+Name: org/eclipse/wst/sse/core/internal/model/AbstractStructuredModel$Di
+ rtyStateWatcher.class
+SHA-256-Digest: vxuGL4men3Al3+aUo4a6DG3A1q1AjX0tiGWPhuPkZC4=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/events/StructuredDoc
+ umentEvent.class
+SHA-256-Digest: HE75oZuAMpa/QqAJm9DB6OvVawsWtRXaTTzXcaDieIs=
+
+Name: org/eclipse/wst/sse/core/internal/util/ProjectResolver.class
+SHA-256-Digest: /aJNjHrdhZZb4txsDLFTy5Fd2Xym1wU8rq8YGyI6KiM=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/CodedStreamCreator$1.cl
+ ass
+SHA-256-Digest: SILw4y9SKoB0ac8IyK1FKrveiql15LxqVfeenE3/a4s=
+
+Name: org/eclipse/wst/sse/core/internal/format/IFormattingDelegate.class
+SHA-256-Digest: d35Pof2vyhB3rpgw+D1ag0QlN/lu5RvWsEFI/hex2kk=
+
+Name: org/eclipse/wst/sse/core/text/IStructuredPartitions.class
+SHA-256-Digest: aYBj1NB2MzlHKaMZXuoh4ahhR/OMkez0csdIUnI1w90=
+
+Name: org/eclipse/wst/sse/core/internal/model/ModelManagerImpl.class
+SHA-256-Digest: m+a8kdgfz+xXlQAmqEB2djjNV0yq1qvH9Y+/7bvpg1w=
+
+Name: org/eclipse/wst/sse/core/internal/FileBufferModelManager.class
+SHA-256-Digest: EgBs8MGqQJ5n19h2YUVEKInuZqHxd1NoI5jMFA+25FA=
+
+Name: org/eclipse/wst/sse/core/internal/tasks/StructuredFileTaskScanner$
+ 1.class
+SHA-256-Digest: lFWWn0nChODTxzibuByHoVb0Lw/UAJiGpzlizyyGlH4=
+
+Name: org/eclipse/wst/sse/core/internal/SSECorePluginResources.propertie
+ s
+SHA-256-Digest: +SwRfdF/ImH+fqkSm7SF9rT1bMpFVEq0TBHdhoz3tMk=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/modelhandler/AbstractModelHa
+ ndler.class
+SHA-256-Digest: 0bZcmXZvHKMRgna/DGxfGHsb7nJXFSINzDn2d/jPn8U=
+
+Name: org/eclipse/wst/sse/core/indexing/AbstractIndexManager$ResourceVis
+ itorJob.class
+SHA-256-Digest: 6wNsUt6VGOzkYREk53UKOoKwpbLWfQXCNjicuO6PL3s=
+
+Name: org/eclipse/wst/sse/core/internal/util/ScriptLanguageKeys.class
+SHA-256-Digest: 07z0VXFG7MpIibYunObgNH18zGjYFkd54Vi0Fj5CVGY=
+
+Name: org/eclipse/wst/sse/core/internal/undo/StructuredTextCommand.class
+SHA-256-Digest: UCj9U+rJlNSqJVfucwDvW8JMHimbuanMhd7Nl85LP6Y=
+
+Name: org/eclipse/wst/sse/core/indexing/AbstractIndexManager.class
+SHA-256-Digest: BX4i72yzIC48gAIvstHeT1FNgIHshiVwLdBy4gulsBs=
+
+Name: org/eclipse/wst/sse/core/indexing/AbstractIndexManager$ResourceEve
+ ntProcessingJob$1.class
+SHA-256-Digest: yFOzxXT2oCr3VRdUxTLy3sK/0VRl94hOttE0/CHYjn0=
+
+Name: org/eclipse/wst/sse/core/internal/text/StructuredDocumentSequentia
+ lRewriteTextStore.class
+SHA-256-Digest: ZqOalfmJDXo+/HOwcqD287Xd+kp/moyr2+/UmiH+X30=
+
+Name: org/eclipse/wst/sse/core/internal/FileBufferModelManager$BasicURIR
+ esolver.class
+SHA-256-Digest: Gj/vahvI9INNMVDvGcdnaKLUPguBgvfE2+Ig97wJJto=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/events/IModelAboutTo
+ BeChangedListener.class
+SHA-256-Digest: hTNEj6Hv80NwU36kkx+zlC+NwKJxJ52Nju4sPcR0QqQ=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/ISubject.class
+SHA-256-Digest: wruNb3Emt5GbrMPShz2q6I5JTt18uo7d+pF2QwWoB7M=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/CodedStreamCreator.clas
+ s
+SHA-256-Digest: vtaGAovbLsByZrpUy7Xc1+qdeuATC8yVdWZmhy/FqR8=
+
+Name: org/eclipse/wst/sse/core/indexing/AbstractIndexManager$ResourceEve
+ nt.class
+SHA-256-Digest: 9md3pYmigIrYDb7N6RFvij2kV841iksv7R+FKq+4cYI=
+
+Name: org/eclipse/wst/sse/core/internal/format/AbstractStructuredFormatP
+ rocessor.class
+SHA-256-Digest: M7wy2MLOPJz/lcRA/PKhtkMVcxnFYs8zQRNFdlOxMeo=
+
+Name: org/eclipse/wst/sse/core/internal/FileBufferModelManager$ExternalU
+ RIResolver.class
+SHA-256-Digest: 18Iu7al+Zp4TWFd7FzXcWiBNy8HG6ZSZzkVRukrUuTQ=
+
+Name: org/eclipse/wst/sse/core/internal/PropagatingAdapter.class
+SHA-256-Digest: BiO4vhxWqGUOlJ/byolJkzDOdPfEvn/yqMYvAop8fXg=
+
+Name: org/eclipse/wst/sse/core/StructuredModelManager.class
+SHA-256-Digest: C5I2gr1u4w4GKuBZlNYmk9RgLWu17DKZ9FDBv99IuuQ=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/IModelStateListener.
+ class
+SHA-256-Digest: IJUHcFdT8kvqe5j+SUao2UuInBoCC13UTHCzwatGs7E=
+
+Name: org/eclipse/wst/sse/core/internal/tasks/WorkspaceTaskScanner$1.cla
+ ss
+SHA-256-Digest: LE1SSKhHPRuEDOYG5bwXZTdYpW7/4YkJBbdX2LRYPAM=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/text/ITextRegion.cla
+ ss
+SHA-256-Digest: kNOj8jbiGE4Rd9EzxP4xoo7/Nnhd+ldF9es/5oP597k=
+
+Name: org/eclipse/wst/sse/core/internal/text/rules/StructuredTextPartiti
+ oner$DeepRegion.class
+SHA-256-Digest: sF5dZJvM1vX55UNlkW3jLWf63TRkRc9aO1oz3yrb+VM=
+
+Name: org/eclipse/wst/sse/core/internal/exceptions/MalformedOutputExcept
+ ionWithDetail.class
+SHA-256-Digest: afVVben0TAc29txo3njGasqrO0zauE0wYCbnwXd1Kz8=
+
+Name: org/eclipse/wst/sse/core/internal/cleanup/StructuredCleanupPrefere
+ nces.class
+SHA-256-Digest: NDTfeUsEu0WpqqEHpMnrHC34MzhdVfMl7/4Sj1nOUrE=
+
+Name: org/eclipse/wst/sse/core/internal/cleanup/StructuredContentCleanup
+ Handler.class
+SHA-256-Digest: isz9kRuxaapoXLTgTc4ovTYNBlX3BaLcFbYrXPbSOWA=
+
+Name: org/eclipse/wst/sse/core/internal/tasks/TaskScanningScheduler.clas
+ s
+SHA-256-Digest: hXJi2y4Ug1AdctsNMqIaH2ywwCB5pNfwa2ARXOF19wc=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/CommonCharsetNames.clas
+ s
+SHA-256-Digest: IjSIieu28ZHE89JsLqCdyukhgRTUL1UW8V+b+2LpY4E=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/IModelManager.class
+SHA-256-Digest: fNRue5RLYhCGVmFV5tgKJBrDw2+GuIIxg16YyBo9b5c=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/util/UnicodeBOMEncoding
+ Detector.class
+SHA-256-Digest: 3LrYEzeNyjlT3BWaBU1sFTarP5i5tnkp420Wuw5wSXw=
+
+Name: org/eclipse/wst/sse/core/internal/text/JobSafeStructuredDocument$7
+ .class
+SHA-256-Digest: FAvtNtelRy96GdiKFubuNIK9tNGSOrqiM6WVuPa80Ew=
+
+Name: org/eclipse/wst/sse/core/internal/cleanup/StructuredContentCleanup
+ HandlerImpl.class
+SHA-256-Digest: KLQAISyjaJunbgfrKPCnngVa9TCPLIrAPxgxvIMrwQQ=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/text/IStructuredPart
+ itioning.class
+SHA-256-Digest: Wl72WgixOzbMNqRa6SYKVbRCC+n2KZj0Pq2cFV4SyV8=
+
+Name: org/eclipse/wst/sse/core/internal/text/BasicStructuredDocument$Cur
+ rentDocumentRegionCache.class
+SHA-256-Digest: wMTUFMoQlvaw6ScDYST2pu4BHfFyJUZ0ELzmFwR+kPM=
+
+Name: org/eclipse/wst/sse/core/internal/text/CoreNodeList.class
+SHA-256-Digest: qpBlxYhqCUnKsEQF9b1l+jSNkG7sYhjwAAJd4XFMFtc=
+
+Name: org/eclipse/wst/sse/core/internal/util/JarUtilities.class
+SHA-256-Digest: bF7LmfT5atopWYeHOrnRNnpa5KjJrtOukPeC8TyZNh4=
+
+Name: org/eclipse/wst/sse/core/internal/util/URIResolver.class
+SHA-256-Digest: EbxyPJPdSpvPN7qX7t7gsMcCd3R2PK8LMuASZ4FOzWc=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/events/RegionChanged
+ Event.class
+SHA-256-Digest: Hqdd4aPcVofve6u8zfkwqn+UAvUcLSrnmR/TZan4YpM=
+
+Name: org/eclipse/wst/sse/core/internal/model/FactoryRegistry.class
+SHA-256-Digest: KDXUqZS9wxWALvNT5Ctar7OQtxY7dZ0R/g16Hdt5Ty0=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/modelhandler/IDocumentTypeHa
+ ndler.class
+SHA-256-Digest: CBo1HbSgf6xTkTmfrZ/Fg068QBI3OttMMDkTlTive5c=
+
+Name: org/eclipse/wst/sse/core/internal/preferences/CommonModelPreferenc
+ eNames.class
+SHA-256-Digest: 0fuWMO4asmmaRPDJoPyyUgKhayBrj6VzgRW9TPNiaxo=
+
+Name: org/eclipse/wst/sse/core/internal/tasks/TaskScanningJob.class
+SHA-256-Digest: FK8ueJr2XDBro2Cg2PpEyv9SKpz4dFREZzVbs1mYZKc=
+
+Name: org/eclipse/wst/sse/core/internal/ILockable.class
+SHA-256-Digest: Vcvmiy9v6AQcVj/FxLj77i5+OKPIdaCHsDsK3+06lv4=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/StructuredModelManag
+ er.class
+SHA-256-Digest: lNwONbJb4C7CbZMIq/rKKlj5kdb44K6WieLii1J1KOA=
+
+Name: org/eclipse/wst/sse/core/internal/util/DocumentInputStream.class
+SHA-256-Digest: VhyJ98Gcx3Ydp1ea6AUrn2YeGsGwD+Yx1ctwvFm5QCg=
+
+Name: org/eclipse/wst/sse/core/internal/text/JobSafeStructuredDocument$J
+ obSafeRunnable.class
+SHA-256-Digest: 7b75TEVukuVRmj3Y2VbfTtbn3s21TwCFkCH0k1Ebz8c=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/util/CodedResourcePlugi
+ n.class
+SHA-256-Digest: uAt+D66uQt0FM1o3hhHabpS40XKYva7WpF2GMM3+11s=
+
+Name: org/eclipse/wst/sse/core/internal/undo/IDocumentSelectionMediator.
+ class
+SHA-256-Digest: NbszJjIqCEqPTudeNqJRHP+nc5STYSlKXCyOL16vEZY=
+
+Name: org/eclipse/wst/sse/core/internal/ModelManagerPluginRegistryReader
+ .class
+SHA-256-Digest: EPeqDJEM61KlkHPqoU7RM/VqqDARVR5FZN0onzp7dv4=
+
+Name: org/eclipse/wst/sse/core/indexing/AbstractIndexManager$ResourceDel
+ taVisitor.class
+SHA-256-Digest: WPqefzNKHQgHQW30Vqs/smUo2MdRVNJetkCGVIii94c=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/IStructuredModel.cla
+ ss
+SHA-256-Digest: a9s3MotFrNFGnjmj4LnlkceFZhXXN9Ikq9UsnmZ0iMg=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/AbstractContentSett
+ ingsHandler.class
+SHA-256-Digest: LszglAMPSWLnJbryYnL1HQ6+hIZ1XKKONgPwqWYzwZs=
+
+Name: org/eclipse/wst/sse/core/internal/text/BasicStructuredDocument$Reg
+ isteredReplace.class
+SHA-256-Digest: 7oga+nnDUgtHiv/olQtjuEZ0inBArNuLWME6uMvEoVE=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/INodeNotifier.class
+SHA-256-Digest: Hzt6duXcd6oWMUDQi0IMSOD7pNM4bghHXh7LoahBeHo=
+
+Name: org/eclipse/wst/sse/core/internal/undo/StructuredTextCommandImpl.c
+ lass
+SHA-256-Digest: wD0OR2uh3kvCw38/uYpcrsVvJ7CHoNPyG4p/p1T1mEI=
+
+Name: org/eclipse/wst/sse/core/internal/FileBufferModelManager$FileBuffe
+ rMapper.class
+SHA-256-Digest: w4mMN067Bdv6NvrTO1CVXNbuteG2gkpWsS43Lhpdjto=
+
+Name: org/eclipse/wst/sse/core/internal/text/rules/SimpleStructuredTyped
+ Region.class
+SHA-256-Digest: 014OgUTE4Hv+M7btOC+HyJymGFmch7rKTSUKGfrDw4I=
+
+Name: org/eclipse/wst/sse/core/internal/cleanup/IStructuredCleanupHandle
+ r.class
+SHA-256-Digest: GwRRI2JpJ2cwnNFUXCuQwWOggp0qxaz6i1fMQ4H+Qfk=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/text/IStructuredDocu
+ mentRegion.class
+SHA-256-Digest: 2H1+nO6FgRq67XnDEQpaiYmYesyRBDm/mXzJaOZ8lPQ=
+
+Name: org/eclipse/wst/sse/core/internal/exceptions/MalformedInputExcepti
+ onWithDetail.class
+SHA-256-Digest: dfti3b5gxILhLdkvq368N32RKc4l1gMXCNsXNftoSsA=
+
+Name: org/eclipse/wst/sse/core/internal/text/BasicStructuredDocument.cla
+ ss
+SHA-256-Digest: 6+CJNqmXDZDXMkPhiVNKBOe8JS9uJpoq+2qBtixRZTw=
+
+Name: org/eclipse/wst/sse/core/internal/cleanup/IStructuredCleanupProces
+ sor.class
+SHA-256-Digest: AfD3KLyT0vFkDrPFpa/ZAnYUpWpOsoKnLO9pz+agvhQ=
+
+Name: META-INF/devTimeSupportInfo.txt
+SHA-256-Digest: /c3+FmdomFv4iUcbqZKFolTm2nGF6UrihQLChvym4kw=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/parser/TagMarker.class
+SHA-256-Digest: ujVU2wy/M7EftU7KVE8GR+uUEV3i70GXbs6Lt0VCUY8=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/IContentSettingsHan
+ dler.class
+SHA-256-Digest: ZHbzcyO2HZw1YtqWco6bC4A/DqGV+yx4NRa1HrtzVjk=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/INodeAdapter.class
+SHA-256-Digest: 7CUz9t89B2qWXZc9TzROXVEfguWVtlq/0vbHtB20F7c=
+
+Name: org/eclipse/wst/sse/core/internal/model/LifecycleNotificationManag
+ er.class
+SHA-256-Digest: c+lizjcu8UKyx0136ZalpzHrjN8wSHB6CUH+y26lGaQ=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/SimpleNodeOperator$
+ XMLDocumentWriter.class
+SHA-256-Digest: HmyRvllL7O3M72OsB8cKHxfQIU5XFVReMkVB59zMrjs=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/events/NewDocumentEv
+ ent.class
+SHA-256-Digest: +RBbmvyTSlOd0L1dQj34MOmJusX+Nvoba+YaaoE4JAw=
+
+Name: org/eclipse/wst/sse/core/internal/document/DocumentReader.class
+SHA-256-Digest: br908yC2cTFwbvdX9AemN80AXaA9co0Zqb+sGba1Dzw=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/text/IStructuredDocu
+ mentRegionList.class
+SHA-256-Digest: xyn9+Zntm/elJ+Pyef6FmCq7dBPp+nD9VmugHx+Z9es=
+
+Name: org/eclipse/wst/sse/core/internal/exceptions/CharConversionErrorWi
+ thDetail.class
+SHA-256-Digest: AUn/zG8sA6e7pfDgjChEQpvzJUgP7jEMsT09O29JUNk=
+
+Name: org/eclipse/wst/sse/core/internal/text/rules/StructuredTextPartiti
+ oner$CachedComputedPartitions.class
+SHA-256-Digest: 8wrU8seWrH48ymK7Swia2it4KBvF9J3k9n7R/suCJO4=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/ContentBasedPreferenceG
+ ateway.class
+SHA-256-Digest: 68xuVQuH9h2sKYRwUCSB/cKPNp+IeX0st5uV9Tl2jK0=
+
+Name: org/eclipse/wst/sse/core/internal/util/TextUtilities.class
+SHA-256-Digest: P8rvkCC7xdqcikLXW1reowg8YfpzwUQ/pZpnJjTzuWM=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/parser/BlockTagParser.class
+SHA-256-Digest: aqGO2vhNqxlfR/JoTm5dAOR2nMg5thfYE5jKGn/UEH8=
+
+Name: org/eclipse/wst/sse/core/internal/modelhandler/ModelHandlerRegistr
+ yReader.class
+SHA-256-Digest: 9x+rwxd050t0hXPDEx3bCQv72UXl2ipHYVGHR6/Ki4Q=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/model/INodeAdapterFa
+ ctoryManager.class
+SHA-256-Digest: 1sQEOtO+RZTpwYXUN/NzBahmM+baA7+vwPupyclYo1I=
+
+Name: org/eclipse/wst/sse/core/internal/preferences/PreferenceInitialize
+ r.class
+SHA-256-Digest: lch1Pu28wdA2Sit46nh9wbhDSR1bTT+avNwqINatyuI=
+
+Name: org/eclipse/wst/sse/core/internal/text/JobSafeStructuredDocument$6
+ .class
+SHA-256-Digest: OPnMoaw2BklVGJBXgwE9kSW/py8BWkW8G+XLZ4x4/x0=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/events/IStructuredDo
+ cumentListener.class
+SHA-256-Digest: unJ0Gm+Rn2579sScng3q9NgfRKlhJefGGKFZ7//eXb0=
+
+Name: org/eclipse/wst/sse/core/internal/filebuffers/BasicStructuredDocum
+ entFactory.class
+SHA-256-Digest: tFCTtITfbSilMxBt2HnNlR2j2aU5is53g9zqFLXclyk=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/EncodingMemento.class
+SHA-256-Digest: kPQMftYut3zqLmGkU89BY5RskB9QLLoutVotgX6Xdz0=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/IContentSettings.cl
+ ass
+SHA-256-Digest: b5CWbYLR/oC54VJgDn5N2Lhcut8qy7RezBVp5XFuLPM=
+
+Name: org/eclipse/wst/sse/core/internal/modelhandler/EmbeddedTypeRegistr
+ yReader.class
+SHA-256-Digest: +Bf3MJYXy2yEooEZOGPH6DT+PzeSg95hDv5X9XSRSr8=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/text/ITextRegionCont
+ ainer.class
+SHA-256-Digest: THYGFx+guZA2vnR0SVhk6W7Q0n0w2dE3+YLrASzv1TQ=
+
+Name: org/eclipse/wst/sse/core/internal/modelhandler/EmbeddedTypeRegistr
+ y.class
+SHA-256-Digest: 8GIy4400RpAa3SP1AGvanKNJt5sKgFjEP/eN5j9YiJs=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/model/IStructuredMod
+ elEvent.class
+SHA-256-Digest: sXAfzhmvdJ+KwlOo0BU7ENX0BOY8+DMtSNJ7VOYjZDI=
+
+Name: org/eclipse/wst/sse/core/internal/document/AbstractDocumentLoader.
+ class
+SHA-256-Digest: kunKCOHdmWOYyrgv/Vwu+zVoRcAtDHSTzWXprUMUAzw=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/SimpleNodeOperator$
+ CreateContentSettingsFailureException.class
+SHA-256-Digest: uhRE6s3sWvgCmP1WN1SWybmsPAi5BVcDfdKhZjACnFM=
+
+Name: org/eclipse/wst/sse/core/internal/validate/ValidationAdapter.class
+SHA-256-Digest: qGH/Cq3jrZeauhqWjV0x/YSCFkEl6FcMaCJTe1GngjY=
+
+Name: org/eclipse/wst/sse/core/internal/parser/ContextRegion.class
+SHA-256-Digest: xLfZUipiqPBU7ADJ740nT9IcTp7Wgjm5zc8E1i0WRXs=
+
+Name: org/eclipse/wst/sse/core/internal/NotImplementedException.class
+SHA-256-Digest: clCx14grYaDLTgFzQ9ydjcb7r+q9r60EQcYQNVZzthY=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/document/IEncodedDoc
+ ument.class
+SHA-256-Digest: 69uykC4ZE6SxbFfqUHbRetJbZC43e8Jhy3Ulh0qEQTo=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/model/IModelManagerP
+ roposed$AccessType.class
+SHA-256-Digest: Wyf2YW3dFjSa/tbGEMs0UHkTL6j17wnnk/rl3OmyXTE=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/parser/IBlockedStructuredDoc
+ umentRegion.class
+SHA-256-Digest: awiky6o8/OBP1Wpv9vo/qABOVMcN9Ir48IfyYZbgLHE=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/EncodingRule.class
+SHA-256-Digest: qjrU0dsyAVxyy+DI9Pid+BQprxvrz6iT1efShyZWpTY=
+
+Name: config/override.properties
+SHA-256-Digest: RfFLOYXpF7mqfOCtdqC7wGFluhM/ttUWffK4gCLan+8=
+
+Name: org/eclipse/wst/sse/core/internal/cleanup/IStructuredCleanupPrefer
+ ences.class
+SHA-256-Digest: HBlH0J4YzjvRGLI+pTuqagF2+pM6v2kKszBKoISa6Tg=
+
+Name: org/eclipse/wst/sse/core/internal/undo/StructuredTextUndoManager$I
+ nternalStructuredDocumentListener.class
+SHA-256-Digest: RH2UFqijwhufJXGtDe1UedQt/KEP4RfSnwFdpvxVAqk=
+
+Name: org/eclipse/wst/sse/core/internal/tasks/WorkspaceTaskScanner.class
+SHA-256-Digest: HsG4VUzQ9StBBJWtvKvJ5CARxzkQ88/5jHKtdU3T6OY=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/events/NoChangeEvent
+ .class
+SHA-256-Digest: INJJvJOiyGBiOOMECuCNphWU4wUFo0Ablfo/LLr8Rf8=
+
+Name: org/eclipse/wst/sse/core/internal/text/StructuredDocumentReParser.
+ class
+SHA-256-Digest: p4x9zwsTVi5Ha4/8gTR/SFVoD+CVXQQtSKCNejDcXro=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/IStreamCharsetDetector.
+ class
+SHA-256-Digest: PrcWkVce013uVKS6zFxPiZf09ptG5udOScR3D9WSpA4=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/util/ResourceBundleHelp
+ er.class
+SHA-256-Digest: ExbsrRu6QVsh/vzhBUAoFvgyhRQbl5KE6lEjKwjMDrk=
+
+Name: org/eclipse/wst/sse/core/internal/modelhandler/ModelHandlerRegistr
+ y.class
+SHA-256-Digest: lk8olSMzVBLSJgCKhiZQSBt0w73JPJm6U4qdPHOeK78=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/parser/StructuredDocumentReg
+ ionParser.class
+SHA-256-Digest: IlmKvG+OeiOLwCXbvfcI4uCEGP7dlmE8tRTG1VIeVnE=
+
+Name: .options
+SHA-256-Digest: oV0L8s+Ygki7ifajfoc5BbQo7l1mKVLMT+Imy0iQxw4=
+
+Name: org/eclipse/wst/sse/core/internal/IExecutionDelegate.class
+SHA-256-Digest: 5fuNtySGKg4EGPf/WcnMZ9VkD89jFh3VVVzNp+sVu1U=
+
+Name: org/eclipse/wst/sse/core/internal/document/IDocumentLoader.class
+SHA-256-Digest: UZEpWnWUKks3hukoaMYA/dpKB0rE8AYogBXK8d6GDL8=
+
+Name: org/eclipse/wst/sse/core/internal/util/Utilities.class
+SHA-256-Digest: sGlZ20XOAr5EyK/RIEdNI6qvAjwlXF+tusUuB4Ex7Wk=
+
+Name: org/eclipse/wst/sse/core/internal/text/BasicStructuredDocument$Str
+ ucturedDocumentRewriteSession.class
+SHA-256-Digest: /Nr5j2fSeD1eukLR8djPPIf86i4DjXLKR/ZHTudAiwg=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.wst.
+ sse.core/pom.xml
+SHA-256-Digest: 8/+ntNjtniQq736ZaReSKJhvuREcpPGvHY6NLr7IDiM=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/DocumentChanged.clas
+ s
+SHA-256-Digest: nZWBjgoKWajiHv1vRTi1KiAEmqyrqqop1BBbV0EL218=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/util/UnicodeBOMEncoding
+ Detector$NotEnoughInputForBOMException.class
+SHA-256-Digest: x8b4hSI7dFGDlZDxjjI+eYqsFw2LKbZW+Mo4/rNRyDQ=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/modelhandler/EmbeddedTypeHan
+ dler.class
+SHA-256-Digest: rNFsG6gHfhmw+4z3W0YFzNdaPjUKSSpgQi2W6oXl9ks=
+
+Name: org/eclipse/wst/sse/core/internal/Logger.class
+SHA-256-Digest: C9S53MQiPfTgd9ttdHZQXesAjvA4+Jl/VoathGHHJNY=
+
+Name: org/eclipse/wst/sse/core/internal/text/BasicStructuredDocumentRegi
+ on.class
+SHA-256-Digest: NbWDqukOcySgE5lcSVxhPxUqsmmVl/2cWuKb9O+OI/s=
+
+Name: org/eclipse/wst/sse/core/indexing/AbstractIndexManager$ResourceVis
+ itor.class
+SHA-256-Digest: WxYPOhN1XaTNPqTkhd6s63s0vLkfOnZJIekfpEGi4II=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/IModelLoader.class
+SHA-256-Digest: Rv+lSoDNJpJKNnelZ4sN3xWZC+Ph5AwkHFi52BpJNLs=
+
+Name: org/eclipse/wst/sse/core/internal/util/Assert.class
+SHA-256-Digest: PfxHQN4OByKyy1JmWF+01BBp+PynEPhbUSS1xdCXQj8=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/ContentSettingsCrea
+ tor.class
+SHA-256-Digest: 03CIZ9jmIP9U+C4QtuVt+RRr0RjHxKGYkxErtd4XsDU=
+
+Name: org/eclipse/wst/sse/core/internal/text/JobSafeStructuredDocument.c
+ lass
+SHA-256-Digest: 9e5RKwC5mBovfQJpzimZiaFA6Vz1QkQcSRtz/3I8O7w=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/exceptions/ResourceA
+ lreadyExists.class
+SHA-256-Digest: yXG64b6QUhfcTYoMXCpAp8qMBqtlE48ZF3WySCNMkQU=
+
+Name: org/eclipse/wst/sse/core/internal/tasks/TaskScanningScheduler$List
+ enerVisitor.class
+SHA-256-Digest: qszuhSfb50wKtX1ns+SblHaNnVnau/uS8VBXkdF1nco=
+
+Name: org/eclipse/wst/sse/core/internal/text/IRegionComparible.class
+SHA-256-Digest: Eu/nFJj0DiWqrxWGLc0bvTAntQEL8S/0PflSaEdcVqQ=
+
+Name: org/eclipse/wst/sse/core/internal/undo/StructuredTextUndoManager$I
+ nternalCommandStackListener.class
+SHA-256-Digest: SqZMKgDIAa/XFWCR6to4/pi5b9zmx3cgOGZfzhI7LUA=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/IContentSettingsLis
+ tener.class
+SHA-256-Digest: v2FGa3l7ASdKVN4XllM+M4646SSATUsoiVNZ7fQMNNc=
+
+Name: org/eclipse/wst/sse/core/internal/tasks/TaskTagPreferenceKeys.clas
+ s
+SHA-256-Digest: 8GnSXDWlfUnHreX7U5WE7QP7lKyTxamZ0ghUjTt5gvU=
+
+Name: org/eclipse/wst/sse/core/internal/text/rules/IStructuredTypedRegio
+ n.class
+SHA-256-Digest: SWcfltyZoW4ILfOkmhWnFxn5WCUtKqUDwDwSoV/uJ28=
+
+Name: org/eclipse/wst/sse/core/internal/text/JobSafeStructuredDocument$5
+ .class
+SHA-256-Digest: 3wa2k9S2z1Mgpf1wNinwOgT1QU+QKzJcneA9bubtcaE=
+
+Name: org/eclipse/wst/sse/core/internal/text/ReadOnlyPosition.class
+SHA-256-Digest: 2Bi6l7IUFaB/dsGdEUN85PETsVyHZEFsR5YDGmMYOKU=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/util/Assert$AssertionFa
+ iledException.class
+SHA-256-Digest: Vjvs31ZprHkO3xYh3puK3lHsUMcKBqhYTtVWAydFk3w=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/parser/BlockTokenizer.class
+SHA-256-Digest: yFjybJdWjac7yFb8DWcHrmO9HexqAbJipQ6+LjQp2VA=
+
+Name: org/eclipse/wst/sse/core/internal/validate/ValidationReporter.clas
+ s
+SHA-256-Digest: SCH7DREXFC1S/blqvNsMC3dJ/4klClci/CxPK28fr7k=
+
+Name: org/eclipse/wst/sse/core/internal/text/GenericPositionManager.clas
+ s
+SHA-256-Digest: ZOyLeTixwQUuCqQWW3mlPj5wvaAGDBhhRCX+t9317Aw=
+
+Name: org/eclipse/wst/sse/core/internal/validate/ValidatorGroupListener$
+ ValidationModelReference.class
+SHA-256-Digest: zXvmf7Gr00zvr6wousNILhXViZcho0t/jQik+JlaVwA=
+
+Name: org/eclipse/wst/sse/core/internal/FileBufferModelManager$CommonURI
+ Resolver.class
+SHA-256-Digest: bO8XPdBMjHhCqmVede3igEq+FLwC98mVnMGKy3FdVoM=
+
+Name: org/eclipse/wst/sse/core/internal/text/JobSafeStructuredDocument$2
+ .class
+SHA-256-Digest: h7KHnya3ViIfpOd2uvCvIFxaHQnlTQEyGnzkYpk0PmQ=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/exceptions/ResourceI
+ nUse.class
+SHA-256-Digest: glKASJQ+mV2mXpdaxhS76e+4xoITBY1H0tDT/GAmH+0=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/events/RegionsReplac
+ edEvent.class
+SHA-256-Digest: M9DxTPcTwVHiXp51I1XwG2ipXcPfDyrf1/kNKEG0CmE=
+
+Name: org/eclipse/wst/sse/core/internal/JSPAwareAdapterFactory.class
+SHA-256-Digest: K6d809EcBDTcMQsfQg8DmNqBvyQZCUC1uGfajxi3TzM=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/SimpleNodeOperator.
+ class
+SHA-256-Digest: uqk6RNde3bTr+c85dflAVmaQqqbXwk5MsgmYaijEG/c=
+
+Name: org/eclipse/wst/sse/core/internal/format/IStructuredFormatPreferen
+ ces.class
+SHA-256-Digest: WkurNyF0qw0ePgcYhOhXi4pnx+ii2qRLeD0xnoiJDXI=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/SimpleNodeOperator$
+ WriteContentSettingsFailureException.class
+SHA-256-Digest: 4vU1r0Y5P0EZ+y3mRCe31blk52lQZ+CMDAnShgxCFRw=
+
+Name: org/eclipse/wst/sse/core/internal/model/ModelLifecycleEvent.class
+SHA-256-Digest: a3Cf3oEea6GnQOoujexUlafqn5YA9Enmy394eFfh+Ao=
+
+Name: org/eclipse/wst/sse/core/internal/tasks/StructuredFileTaskScanner.
+ class
+SHA-256-Digest: ezdmo4mGzMVRCxg1X5W16RTez3x6dlHIpu+uq/ZuU6c=
+
+Name: org/eclipse/wst/sse/core/internal/text/rules/StructuredTextPartiti
+ oner.class
+SHA-256-Digest: hSBK/VRg2uGXNRqXEG3GzTjH7TGOsmXif9KC7nne/uI=
+
+Name: org/eclipse/wst/sse/core/internal/text/SubSetTextStore.class
+SHA-256-Digest: xOdOWWFwYjBzMY3iSl/CeovRzgmaPhE1B70yiBinPng=
+
+Name: plugin.properties
+SHA-256-Digest: adgLGY/7oe/A0ksIbSld7v5Dpk6hp/llO1zihuHESPk=
+
+Name: org/eclipse/wst/sse/core/internal/format/IStructuredFormatter.clas
+ s
+SHA-256-Digest: v+GiS1FNmlBrPhNwdGe27ZwGUnI/xPkTS5mL4Jaea9s=
+
+Name: org/eclipse/wst/sse/core/indexing/AbstractIndexManager$ResourceCha
+ ngeListener.class
+SHA-256-Digest: D9x74bQqbAJ/WpK9zcoI6rqYa/qZEv8BOnukAeoZwT0=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/ContentSettingsSync
+ hronizer.class
+SHA-256-Digest: bWVFaKUDRdeySY/EBtqmhaU+Gmp4caE0dHSZXGER3Lg=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/IResourceCharsetDetecto
+ r.class
+SHA-256-Digest: o9gwLYym4soQ64VFN+157EYTOWxJoY45POiTDI2ZQeI=
+
+Name: org/eclipse/wst/sse/core/internal/SSECorePlugin.class
+SHA-256-Digest: 5daXaa2J451NQkvqPTB02xUbEtg3lAbOc/vpJC9PTSw=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/ICodedResourcePlugin.cl
+ ass
+SHA-256-Digest: 6a/+WDDHParlyUJXk77dubA/o5y/MU78/mKzvl3lX2Y=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/parser/StructuredDocumentReg
+ ionParserExtension.class
+SHA-256-Digest: g/o2HkE8WSHJsKFXE041ML5f0B3tKCQ4rFI1Q9IrTds=
+
+Name: org/eclipse/wst/sse/core/internal/util/Debug.class
+SHA-256-Digest: OTgw9+unbqSE6aAiSZAuQalS+BC4aHnmNu2uBX83Afc=
+
+Name: org/eclipse/wst/sse/core/internal/tasks/FileTaskScannerRegistryRea
+ der.class
+SHA-256-Digest: 5rXOcPYfYSeyP2xs4iKREVPGKA71ha/pQPr47HxFAm4=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/parser/RegionParser.class
+SHA-256-Digest: xPNlQvLR+2ZPHltKYhL9mQdBEdOOYAzUlMZWr8EKPjw=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/CodedIO.class
+SHA-256-Digest: 8/xlSgq5CWaHvtgB/q69vBe2mZdQ9y+9Odrc2pCB85g=
+
+Name: org/eclipse/wst/sse/core/internal/text/StructuredDocumentRegionEnu
+ meration.class
+SHA-256-Digest: Bnbj4TLucrjqkQYQ5qho2dBQrDFKNDJL8BIyO/TSwdE=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/util/Assert.class
+SHA-256-Digest: 5ZJhuTTpnqc32JqP4+4kIxI3kzhyDRdDqMs9o3yJ/Yc=
+
+Name: org/eclipse/wst/sse/core/internal/cleanup/AbstractStructuredCleanu
+ pProcessor.class
+SHA-256-Digest: EAosc5a/7yoiTFAcP8nJiydlD2DePWvy+VKExl0IN6s=
+
+Name: org/eclipse/wst/sse/core/internal/exceptions/UnsupportedCharsetExc
+ eptionWithDetail.class
+SHA-256-Digest: U3qSGRud0YBOhtKz63RqQhSmsMKMPMlrpKqy18jMxlc=
+
+Name: org/eclipse/wst/sse/core/internal/format/IStructuredFormatProcesso
+ r.class
+SHA-256-Digest: Z3Q9dUNRz+zXYj1wTpCjVNHofHcCBE9eHn4IsB+Mxto=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/ContentSettingsFile
+ Handler.class
+SHA-256-Digest: kFneUdgfz4v/TLrTwL9U2l7ia8oscpIbdMEI+tYegEQ=
+
+Name: org/eclipse/wst/sse/core/internal/text/rules/IStructuredRegion.cla
+ ss
+SHA-256-Digest: uzs7dPNWEvePSVm6omtJ4myL7PMp1OH4PR7khz3bjZg=
+
+Name: org/eclipse/wst/sse/core/internal/model/AbstractStructuredModel$Do
+ cumentToModelNotifier.class
+SHA-256-Digest: gDV6VsU5EhRUjt3dLI6/188bm2w3rqsYNbAtIwds7lw=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/tasks/IFileTaskScann
+ er.class
+SHA-256-Digest: i1W53RVXBlPb1qZlZinRecK3btI5zae8nNuC1x/WsVA=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/AbstractAdapterFacto
+ ry.class
+SHA-256-Digest: UvJ6jGl1XNkwOcUCCrxWL10tDmkDfvo+euj0xPb0vrE=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/tasks/TaskTag.class
+SHA-256-Digest: Oou3zZZmGIL88n240dWIRfYS7KFnrDP9FVL/Lt61/vs=
+
+Name: org/eclipse/wst/sse/core/internal/tasks/FileTaskScannerRegistryRea
+ der$EnabledDisabledScanners.class
+SHA-256-Digest: ck0QyUP4nk0sMNeVn0c2zAnOFT5kUv0q9I11bkD2BHg=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/INotify.class
+SHA-256-Digest: gF5QcwljqSZAROIxbbDM2LuDan4ZDMjK3zudJU/aRxs=
+
+Name: org/eclipse/wst/sse/core/internal/SSECoreMessages.class
+SHA-256-Digest: 6xfNo+AYmI2D8zWWnCbZcJ9vluVm+S/6QohAqNFqsNs=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/events/StructuredDoc
+ umentRegionsReplacedEvent.class
+SHA-256-Digest: /PTfIO+q+5L3Mj1rXy6kyhlt8h0ZMeZYEDFqG0wRrNQ=
+
+Name: org/eclipse/wst/sse/core/internal/parser/ForeignRegion.class
+SHA-256-Digest: O+ZhaHsvFO5z4i3HxoBuI0Y7n5Hz7EfeoNL+u57oTh4=
+
+Name: org/eclipse/wst/sse/core/internal/modelhandler/ModelHandlerUtility
+ .class
+SHA-256-Digest: rY3FDndt+VWUV0DyYeiFb1RWJNtLdl5redjZPAdTH1k=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/AbstractSubject.cla
+ ss
+SHA-256-Digest: t5hWMscNL1AcP1acMBabbWrcXrsk2iNAv1vpovZTqsk=
+
+Name: org/eclipse/wst/sse/internal/contentproperties/SimpleNodeOperator$
+ ReadContentSettingsFailureException.class
+SHA-256-Digest: ccRNOycI8oWCDFJxlvC3qMqNLVnAA3UoDztzsAFlRc8=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/INodeAdapterFactory.
+ class
+SHA-256-Digest: f1g9bTQkwVdB3nd2B0EaXrrMLnmg98gG8MiVlRhn9UQ=
+
+Name: org/eclipse/wst/sse/core/internal/document/IDocumentCharsetDetecto
+ r.class
+SHA-256-Digest: 0jTnGveKr0fhx2+6xc3MUIp7VzKrds170xVq6m4RUbo=
+
+Name: org/eclipse/wst/sse/core/internal/tasks/FileTaskScannerRegistryRea
+ der$ScannerInfo.class
+SHA-256-Digest: /P7NHWEy8kYKguyLjcQn+mUz5gn76Y2aoI4Um6xX1KE=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/wst/sse/core/internal/ltk/parser/StructuredDocumentReg
+ ionHandler.class
+SHA-256-Digest: 9qtp4Vk1uOHJ3GppIMTUzCT2FvPkIsllc2Vf16yBptQ=
+
+Name: org/eclipse/wst/sse/core/internal/util/URIResolverExtension.class
+SHA-256-Digest: 7Ixtmi6uOH1cIgw4GQgu/ckQ2XVULzziLuEYOzj8mWM=
+
+Name: org/eclipse/wst/sse/core/internal/FileBufferModelManager$DocumentI
+ nfo.class
+SHA-256-Digest: 6gM9euCyaHJ1zgNLFHJdSs8l44BdgiehqrwvighnnIA=
+
+Name: org/eclipse/wst/sse/core/internal/text/TextRegionListImpl.class
+SHA-256-Digest: sZhToTS05BCbaVSJr+4FA+dpYf9+uRlxBYE3dtQDhik=
+
+Name: org/eclipse/wst/sse/core/internal/text/JobSafeStructuredDocument$1
+ .class
+SHA-256-Digest: iAMCT3grxAqGEeQ00KwPYQTEexiuclL4PiK+135wr2I=
+
+Name: org/eclipse/wst/sse/core/internal/modelhandler/EmbeddedTypeRegistr
+ yImpl.class
+SHA-256-Digest: FTLjBwYsUT1zhM6OiB0TV23AfHheJVcEhTriENPNhBs=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/IndexedRegion.class
+SHA-256-Digest: TLLNxAPSLpgr6Qhxg9GjwQQar9JMQmYl46KAlv+JOY0=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/util/BufferedLimitedRea
+ der.class
+SHA-256-Digest: hAmyM4hTQM6vsjL0ghxHbLy/NAOC81ROcpZjEWbM4BA=
+
+Name: org/eclipse/wst/sse/core/internal/text/StructuredDocumentTextStore
+ .class
+SHA-256-Digest: z4jiibOTfbGzUu80+lv5cO7xrgW0B2Qg5Po26zfqeTE=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/CodedReaderCreator.clas
+ s
+SHA-256-Digest: +Z0J8qlV76wUCXN7vEDbl1kC3ZIp5JLeyvNPUq2iWl0=
+
+Name: org/eclipse/wst/sse/core/internal/provisional/model/IModelManagerP
+ roposed.class
+SHA-256-Digest: FDpWYw4WAJgCahkWK0tG63HoA3XwMAxfR86kN0v7O/Q=
+
+Name: org/eclipse/wst/sse/core/internal/encoding/CommonEncodingPreferenc
+ eNames.class
+SHA-256-Digest: 6SQnjyu8yy7HOTldz/j/avszOdPMNdU6GWSMO5XuwUs=
+
+Name: org/eclipse/wst/sse/core/internal/modelhandler/PluginContributedFa
+ ctoryReader.class
+SHA-256-Digest: 3GDhxNaaB09MqdOeGX8LC4Ga11u6Yyk/Ak96fYygt+Q=
+
+Name: org/eclipse/wst/sse/core/internal/format/StructuredFormatContraint
+ s.class
+SHA-256-Digest: mCSsq6NEH5NKDFWdkZyrUaYwBXmMZCai9ar837n/g8k=
+

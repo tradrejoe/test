@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.w3c.dom.events
+Export-Package: org.w3c.dom.events;version="3.0.0";draft=20060413
+Bundle-Name: %bundleName
+Bundle-Version: 3.0.0.draft20060413_v201105210656
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.3
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/org.w3c.dom.events;tag=v201105210656
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %providerName
+
+Name: about.html
+SHA-256-Digest: ldICO4sa0UN3f0B8ppUVT3y57iNyZu6Pet8efa7jHnk=
+SHA1-Digest: +OEvaelObv/N2TVpgy2iPKWFQt8=
+
+Name: org/w3c/dom/events/CustomEvent.class
+SHA-256-Digest: m0YTfq/TzZRtcVdan1OyKgTkfJbNw3EzxnUkNe6LWqw=
+SHA1-Digest: VP7DU+Fj8XD3atgzWUVy/NevMTI=
+
+Name: org/w3c/dom/events/TextEvent.class
+SHA-256-Digest: Q7uOQiLtfJRq7SoR7dayHYk/riA+LbhB+71b6peP1z4=
+SHA1-Digest: x01ioswRhbnPTPRZtYjMdeo/sLA=
+
+Name: org/w3c/dom/events/MouseEvent.class
+SHA-256-Digest: a9i3kVqPtmhmWJUC8TnngtL5A3aTmjVu4xEaeovIPew=
+SHA1-Digest: rR1xUlCS7A7BXgEBj7Q8Izk3Foc=
+
+Name: org/w3c/dom/events/MutationEvent.class
+SHA-256-Digest: v4hd+cc0s0ppNn4pwDvSVCI5zpXF7l4GY5Ls1gBQ9Zw=
+SHA1-Digest: ot4kQmEXt2o0tQ+lUouhoJnM3Po=
+
+Name: org/w3c/dom/events/Event.class
+SHA-256-Digest: W+1gdjzBTNMqAqPpO9T0cXEtyFUBzwdwQf9nUYl79U0=
+SHA1-Digest: hZnwgzjjekpHpQZU6weDYg5bggs=
+
+Name: org/w3c/dom/events/EventListener.class
+SHA-256-Digest: B1Z5CCHtgDJG+3mz0wR4cKt6en0WeUrM4tpOP+RmfFE=
+SHA1-Digest: WszZdzlPkV+r1qCI2cuz23XJzPg=
+
+Name: org/w3c/dom/events/MutationNameEvent.class
+SHA-256-Digest: LzW29SOXqCslyYbPokZDu795daVZkEc397yuTEhjAGs=
+SHA1-Digest: oOUsTVOriq11wyFiqGGEMEa5xkE=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: SOnAUA0CB8dMRrZdLCRZFQ1WZBhIWcQsKFnHDxFJf44=
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/w3c/dom/events/KeyboardEvent.class
+SHA-256-Digest: SfyLMmpSzFA9ou84Pw918vCruzbA/7XlnKGnaqS6QO4=
+SHA1-Digest: 0A8BBVKKblNHGbpqxj2qeu+tg88=
+
+Name: org/w3c/dom/events/DocumentEvent.class
+SHA-256-Digest: ptf1T7Hn5X+40QkFoBsAFc7Wd5dTbp3X8l1jR3iyvDc=
+SHA1-Digest: qVSg4edzKC7sFOpZ5KeRsC6GT2Y=
+
+Name: plugin.properties
+SHA-256-Digest: nOQ0taePHM+GfGKkp/Oigf5E8IX3Ew/PAiFNjQlm6EU=
+SHA1-Digest: uKzE3V1gAO7t2p9VWV+cjIBz0h8=
+
+Name: org/w3c/dom/events/EventException.class
+SHA-256-Digest: Pi4eSlAvBVGJYSOnvWVsOtgTtBK+z/n6PS1EbH4UKBk=
+SHA1-Digest: F57kRrFBeyCB61u8g/spBwgBYis=
+
+Name: org/w3c/dom/events/EventTarget.class
+SHA-256-Digest: WdDtlXaoy9VAQlF4z8ATxVu4eyXyxRTZHq6QIhFlCQg=
+SHA1-Digest: aCqDy+S2wGReRJi08ht7V3MgbG0=
+
+Name: org/w3c/dom/events/UIEvent.class
+SHA-256-Digest: Fbqmv7sGnKdHddlG2y5uzUlCbZ3II9wEzJEKE4Elv88=
+SHA1-Digest: kH+ULW3Kmxl07Hf4nTm76Zk3fI4=
+

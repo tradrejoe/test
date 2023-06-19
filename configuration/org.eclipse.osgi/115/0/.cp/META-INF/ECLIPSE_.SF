@@ -1,0 +1,275 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: wIDzsnW2WQaYcuYO3SYRl/QdB+0H9/mzV0xqHfao9Nc=
+SHA-256-Digest-Manifest-Main-Attributes: iG68BwxThScun7PSxXwU0HHiQaNGQew
+ jJsa08KrbHwM=
+
+Name: org/eclipse/core/commands/operations/ICompositeOperation.class
+SHA-256-Digest: UeRh8vz4b+DKYLGGgmm31zet9sAbtsGFQS0OAVxJLOU=
+
+Name: org/eclipse/core/commands/contexts/Context.class
+SHA-256-Digest: IoOwveb8G5WhWd/4jgBTuxyaXP69wJRJRyHjRwGvVkc=
+
+Name: org/eclipse/core/commands/operations/ObjectUndoContext.class
+SHA-256-Digest: HCF/gK5O+r9kJhnmZZYbq47aaslBkKDE4NRvZfum9SM=
+
+Name: org/eclipse/core/commands/Parameterization.class
+SHA-256-Digest: yPhD0hzDN3EI3YrG0qkquhr4CA6gWbIzuaJOL/kgvMA=
+
+Name: org/eclipse/core/commands/ParameterTypeEvent.class
+SHA-256-Digest: dFsngAMEnrkFgdg3cJPcT7nojkDygOocICK7siOhGog=
+
+Name: org/eclipse/core/commands/operations/DefaultOperationHistory$2.cla
+ ss
+SHA-256-Digest: mIM4zOgKZxNR7HQMrxcb5N8ALv7ntCh2aGAE+9mEPjw=
+
+Name: org/eclipse/core/commands/operations/IUndoContext.class
+SHA-256-Digest: 6e96D0LLL+S/9Bz/vvI1+o/mvOFKfol24Dmzrza8Hhg=
+
+Name: org/eclipse/core/commands/operations/IOperationHistoryListener.cla
+ ss
+SHA-256-Digest: AISwKr3S3828FtuBS0Q1zTs8LprzIbAWP4J92Z4wcP4=
+
+Name: org/eclipse/core/commands/operations/OperationStatus.class
+SHA-256-Digest: XX7Wx8na2OoU2kM1PlgQWU8GyFDoOKDtirxPmOPh3Y8=
+
+Name: org/eclipse/core/commands/common/HandleObjectManager.class
+SHA-256-Digest: h/jtANSt2TYudMjK9j/ynXFWKvuG53TuvlSETcGYG3o=
+
+Name: org/eclipse/core/commands/ICommandListener.class
+SHA-256-Digest: 56Ut3aHuNdck2WS7ixOXERWHL2S4zkIsWE91/SF41zo=
+
+Name: org/eclipse/core/commands/operations/LinearUndoViolationDetector.c
+ lass
+SHA-256-Digest: qn3KmeQpDvTbYJn+86u5swFASYr8n488e0MemLSZq3I=
+
+Name: org/eclipse/core/commands/contexts/ContextManagerEvent.class
+SHA-256-Digest: GfBbuBUwi7Fp9ibhOSHctazQoeQkKigbNkHTK1WRVCs=
+
+Name: org/eclipse/core/commands/operations/IContextReplacingOperation.cl
+ ass
+SHA-256-Digest: ghSehHd2qzMnv1GEkbCeirNowqypp58l7tS1UgjYtZw=
+
+Name: org/eclipse/core/commands/ICommandManagerListener.class
+SHA-256-Digest: z3ZRwaep95voYoxCXiZXGLK9cklwBUerbHxtvA6GAqQ=
+
+Name: org/eclipse/core/commands/util/Tracing.class
+SHA-256-Digest: 9Z2t8gMYFQ2fTWI8id/ZEsjULsnRTvt3Tm8LPK9+qLY=
+
+Name: org/eclipse/core/commands/contexts/ContextManager.class
+SHA-256-Digest: 2k6VGXP5EI03hbmRWUovjTkGppOtLgkFZQtE7/sHblc=
+
+Name: org/eclipse/core/commands/IHandlerListener.class
+SHA-256-Digest: Qs1fWzQuca9R6JpH+eAUG2Y+UBjeTw58MMdpkwHD5SQ=
+
+Name: org/eclipse/core/commands/Category.class
+SHA-256-Digest: eja0E38ZTehNl82Ruhk6oJ19+wsjSExN+cF3MFE8ZBk=
+
+Name: plugin.properties
+SHA-256-Digest: bpIqTwkQotP04Er0cLuxvInvd9lvL4KgdgsURpOHrlg=
+
+Name: org/eclipse/core/commands/common/IIdentifiable.class
+SHA-256-Digest: uKi5g7SoE6omhiyEXq8+XuUi7QmxQGt5TO7RCWNV3HY=
+
+Name: org/eclipse/core/commands/NotEnabledException.class
+SHA-256-Digest: Q0WU44ZNb78pBILxB1JdFXnlas33H5jmYXwngTj0kaU=
+
+Name: org/eclipse/core/internal/commands/util/Util.class
+SHA-256-Digest: QuuWDZCp4gaEzXDLtntCCoKBfGip4zUlP5Ja4pBa4w0=
+
+Name: org/eclipse/core/commands/IHandler.class
+SHA-256-Digest: EYMbkmdNDPjIT8mWhiUvjrd+HUCU1cvBEy+lPxIp8kU=
+
+Name: org/eclipse/core/commands/operations/DefaultOperationHistory.class
+SHA-256-Digest: OmzcTAFe30j5AwdsEBc3aavz93UWa9xsainlZhmz1M8=
+
+Name: org/eclipse/core/commands/AbstractHandlerWithState.class
+SHA-256-Digest: IK9Jr/y5EahsWnxeWe5GUkP/H4avNUYEdA/Ew9oMQ9c=
+
+Name: org/eclipse/core/commands/IStateListener.class
+SHA-256-Digest: hjMnKgEGIMQORjqwQnE5XeBm0UYvfq5zLsIX8zM83/c=
+
+Name: org/eclipse/core/commands/IHandler2.class
+SHA-256-Digest: CJG0OdwmJhdPwxr1QxDjhOezHDx8BM/uBqFDmrmJ000=
+
+Name: org/eclipse/core/commands/ICategoryListener.class
+SHA-256-Digest: Zd2IjhWnR1+VeF78Q0yW+Svx6O4yUtM+5ElOLM/NDdg=
+
+Name: org/eclipse/core/commands/operations/DefaultOperationHistory$1.cla
+ ss
+SHA-256-Digest: 4qIr1th2RLBHzVWO6fdYPz2t9dNy01fQ/sR8wdARN8A=
+
+Name: org/eclipse/core/commands/common/CommandException.class
+SHA-256-Digest: Hq/9YJqKGbjkbyH59dmDKnYu4XbNobkOvl1HmKyzK0E=
+
+Name: org/eclipse/core/commands/IObjectWithState.class
+SHA-256-Digest: avlwhMRQswAd+pWCNFKR5es3+VrjBahtgFd7lkdUh8Q=
+
+Name: org/eclipse/core/commands/IExecutionListener.class
+SHA-256-Digest: xRFvwBtLX5JDQdzO/aYWnb8vdj0+Bf0n9R88FtDj0ac=
+
+Name: org/eclipse/core/commands/IHandlerAttributes.class
+SHA-256-Digest: dxpR4/nMjcZiUJiHO4+f9JZyQNqCsn/DB3HuLAr43Mc=
+
+Name: .api_description
+SHA-256-Digest: M2njJCxz0K/5pqJo+qe/zUkcCl94Y47UQ9Iivg16cwo=
+
+Name: org/eclipse/core/commands/CommandManager$ExecutionListener.class
+SHA-256-Digest: i3Y4BNfN/udnUR5WPjEWDQLEyd8XSQrdBv2+qdSvmfM=
+
+Name: org/eclipse/core/commands/IParameter.class
+SHA-256-Digest: ip7ArmhhXbFRxsQvaSvNFsjJ2VqJLYuP7pzaYUt0sAU=
+
+Name: org/eclipse/core/commands/ParameterValuesException.class
+SHA-256-Digest: DJNt6KqeSSDUkm4gD0uCMblmlumofrl41HOb4KRNcco=
+
+Name: org/eclipse/core/commands/operations/UndoContext.class
+SHA-256-Digest: eMP7FSyRkWqZpV8Hza8d1V4vrNCppvV3Qw3vnffXW/o=
+
+Name: org/eclipse/core/commands/operations/IAdvancedUndoableOperation2.c
+ lass
+SHA-256-Digest: qrjvyiXJh+2JajS2oLZedHDQHMGUejI/qAspzc2rJ3k=
+
+Name: org/eclipse/core/commands/CategoryEvent.class
+SHA-256-Digest: 7yRVcoqfaAvBO2ehXMXBn1Bj54o26rPUhhVKS/oZxyM=
+
+Name: org/eclipse/core/commands/ParameterizedCommand.class
+SHA-256-Digest: 7LrIbDJRE/AwwAcjnb9/vhNSQIe6rvbcBAEUWVAwDOQ=
+
+Name: org/eclipse/core/commands/ExecutionException.class
+SHA-256-Digest: 02Z386sGpHnBOGzkH9bSmqZcPt3SLHaOFB6Z0N6g79Y=
+
+Name: org/eclipse/core/commands/operations/IUndoableOperation.class
+SHA-256-Digest: j30HVN/0uuXTv/In/r0OOjvhbz4KHoqpeZ7kKalYTqE=
+
+Name: org/eclipse/core/commands/IParameterValues.class
+SHA-256-Digest: 94I7G2CCYseg+ivf6em5/I81AiYWdDqDN5MxOU182pA=
+
+Name: org/eclipse/core/commands/State.class
+SHA-256-Digest: sf736FL+2MCVuECp1FcI6VZl8TI7LK/Pn6SOlN4kW88=
+
+Name: org/eclipse/core/commands/ITypedParameter.class
+SHA-256-Digest: p+g1ZlxkaEuXBH59RnIdHQzOYvG2v3S7SX+pTWYTdQg=
+
+Name: org/eclipse/core/commands/CommandEvent.class
+SHA-256-Digest: VCzGy9w/S+C9GeTRW3WzSS5pwEAYKOnozmnDzZPrzbs=
+
+Name: org/eclipse/core/internal/commands/operations/GlobalUndoContext.cl
+ ass
+SHA-256-Digest: QCIQoZLv6Sc10hylH8t2sriAA4dSDQO36EcQ7cl+CLw=
+
+Name: org/eclipse/core/commands/CommandManager.class
+SHA-256-Digest: Q0ApCAq+10mnNw4DASbRkJURLhXpFkD9WjTfEIWmUEc=
+
+Name: org/eclipse/core/commands/common/AbstractHandleObjectEvent.class
+SHA-256-Digest: 2BCwb5Qx4pXWiULb1opFQYvK9eDEYdBderFIgMWP48c=
+
+Name: org/eclipse/core/commands/ParameterType.class
+SHA-256-Digest: vXy2bK4hB0MglyoPhjns00/j48cqor0f3g+F9Btvj5Q=
+
+Name: org/eclipse/core/commands/operations/AbstractOperation.class
+SHA-256-Digest: 3Mb8PIA5CI25EHeS/FwzSodzk9rYvLxfkf2lbPuy6YQ=
+
+Name: org/eclipse/core/commands/common/NamedHandleObjectComparator.class
+SHA-256-Digest: g3H+XzUonw4jwXRg6L/j+KckBq5AtdoQH4+BIvAMy/k=
+
+Name: org/eclipse/core/commands/IExecutionListenerWithChecks.class
+SHA-256-Digest: suZWcbSyLI45Azm4QVf2j5zjrwfA5Mb3w2W4dNfT97k=
+
+Name: org/eclipse/core/commands/internal/util/Tracing.class
+SHA-256-Digest: fQN6JqYi0oLBRgg02dQ6KiMOlosUIjk8smx7MPPmueg=
+
+Name: org/eclipse/core/commands/common/NamedHandleObject.class
+SHA-256-Digest: CNjZ+C1lQn9rHuopefA07W7oK/SyoaEyaZwKzhZweJ8=
+
+Name: org/eclipse/core/commands/common/EventManager.class
+SHA-256-Digest: tubZBqn9Qi0UAB6y9ALx2dGwXrNqV7L26JmksoLGCJU=
+
+Name: org/eclipse/core/commands/operations/TriggeredOperations.class
+SHA-256-Digest: WaHMHFlAXa48Ff5iyR6ghmFKvsNgVs5gMzkWcEi2RVg=
+
+Name: org/eclipse/core/commands/NotHandledException.class
+SHA-256-Digest: blYBbx9zYsdDxYQj4NjLunnLNen5osT6hNnen91L3F4=
+
+Name: org/eclipse/core/commands/common/NotDefinedException.class
+SHA-256-Digest: oicZgEkhrYIM9gpD1TQKaQZDiOwU058qV5ajUHcOrcU=
+
+Name: org/eclipse/core/commands/AbstractParameterValueConverter.class
+SHA-256-Digest: LPIjSN+08fLHluLRVfy99HIjVDeFtwfvIUOlaQzg3MU=
+
+Name: org/eclipse/core/commands/Command$1.class
+SHA-256-Digest: 0u8xY2m56vzlhuUMb00rkXZ5Clw6dyWFqHLdUSuGU+I=
+
+Name: org/eclipse/core/commands/contexts/IContextListener.class
+SHA-256-Digest: ho8RUBnxyrT0obpadhXtq+ihnqhKH/qvp4PPDMU+yi0=
+
+Name: org/eclipse/core/commands/ParameterValueConversionException.class
+SHA-256-Digest: ZBQoJHEG4to7sk8m6momAVfpfiw5lFDjxpmo/PmzfCU=
+
+Name: org/eclipse/core/commands/operations/OperationHistoryEvent.class
+SHA-256-Digest: p6gq1y8e4zYcI0d5FvJx3/sghjxGwT3LBSOF9W6kzJ4=
+
+Name: org/eclipse/core/commands/operations/IAdvancedUndoableOperation.cl
+ ass
+SHA-256-Digest: SkFDlefK7piKKUtE1g+5T5CTkqnPlFhgtYki2BYFMe8=
+
+Name: org/eclipse/core/commands/ExecutionEvent.class
+SHA-256-Digest: Gh/AMMa5MUXR5gtz1Zy1iRh8l32PGzxEXgYWX5HVwZ4=
+
+Name: org/eclipse/core/commands/common/AbstractNamedHandleEvent.class
+SHA-256-Digest: xoQElVliIwe7eIqK5K6hr2dSGtrMN+KjNQWBdfPDJBY=
+
+Name: org/eclipse/core/commands/operations/LinearUndoEnforcer.class
+SHA-256-Digest: LGOBh+fWWQvN+Xeuy3tFJ/sAnbBJWRqeFaSGmnCJRjw=
+
+Name: org/eclipse/core/commands/INamedHandleStateIds.class
+SHA-256-Digest: BWq/ATopWzxvcM64p3LlI8eIcLB0qw8M66QTcj8ps/A=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/core/commands/AbstractHandler.class
+SHA-256-Digest: X7LtmWLwoRbNOdYSxGV1ziFKeiDBWTTTVk1yM7S3teU=
+
+Name: org/eclipse/core/commands/IParameterTypeListener.class
+SHA-256-Digest: wcvxgpVZLqzBCij716/dRuaQR3XUxNRLM6ICd6qbXWc=
+
+Name: org/eclipse/core/commands/Command.class
+SHA-256-Digest: M8vUp66jbipOf/3xbQv/0HCZYHxXyLdrzJWqqGhuuMI=
+
+Name: org/eclipse/core/commands/operations/OperationHistoryFactory.class
+SHA-256-Digest: vAVp6K6YNmgxDgVXz4mDOZ8v6PMvoGtqjp1uSQWI/so=
+
+Name: org/eclipse/core/commands/operations/IOperationApprover.class
+SHA-256-Digest: StFPQg9NFaV3MBVxi3DEv8YxcjCzUc9RuXD1335BSD4=
+
+Name: org/eclipse/core/commands/operations/IOperationHistory.class
+SHA-256-Digest: 7B21clzsH4Oe1QznoXUIOatWYGyv0QGT02+XPRE1voA=
+
+Name: org/eclipse/core/commands/common/AbstractBitSetEvent.class
+SHA-256-Digest: O4F+/3i6pVYUeqrkqEudK3P0EJcQy4qqgIzqOClG70A=
+
+Name: org/eclipse/core/commands/SerializationException.class
+SHA-256-Digest: IDaLqhuy0MwMFgU8IV8GdogKrQeEv/zoPwYFZ3NOTbU=
+
+Name: org/eclipse/core/commands/operations/IOperationApprover2.class
+SHA-256-Digest: 40ZZXX5IZN2MZKGWB6fdPVC10brl3OlIGyPvnxPAizQ=
+
+Name: org/eclipse/core/commands/NamedHandleObjectWithState.class
+SHA-256-Digest: EouSZyzirO0sNq6Q3cLd6MeG8dbSo27q+muKigYvUiw=
+
+Name: org/eclipse/core/commands/common/HandleObject.class
+SHA-256-Digest: LRJG4CI/0LT3e1INucu+SmAUUlaDOQvWveij4Dh9j6s=
+
+Name: org/eclipse/core/commands/HandlerEvent.class
+SHA-256-Digest: DxHIkdLodjZSPoaT2aCe13igDdWD/ck7PWFt8zRSEaI=
+
+Name: org/eclipse/core/commands/contexts/ContextEvent.class
+SHA-256-Digest: spKF4kuU4hJtVxZZ38eUKLRjLKLLGr5CXhjLUV16avI=
+
+Name: org/eclipse/core/commands/contexts/IContextManagerListener.class
+SHA-256-Digest: x7cX5RGFNZ3iAdp2fLWLtWMiMdJS8YlzN0m0McZIWyQ=
+
+Name: org/eclipse/core/commands/CommandManagerEvent.class
+SHA-256-Digest: /v9YICZPVe48QjmHWQ2rIwoijtgxJATxmhM/pHqe/Io=
+

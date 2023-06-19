@@ -1,0 +1,1140 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %Plugin.name
+Bundle-SymbolicName: org.eclipse.ui; singleton:=true
+Bundle-Version: 3.201.100.v20220826-1037
+Bundle-ClassPath: .
+Bundle-Activator: org.eclipse.ui.internal.UIPlugin
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %Plugin.providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.ui.internal;x-internal:=true
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.2.0,4.0.0)",
+ org.eclipse.swt;bundle-version="[3.103.0,4.0.0)";visibility:=reexport,o
+ rg.eclipse.jface;bundle-version="[3.19.0,4.0.0)";visibility:=reexport,o
+ rg.eclipse.ui.workbench;bundle-version="[3.125.0,4.0.0)";visibility:=re
+ export,org.eclipse.core.expressions;bundle-version="[3.4.0,4.0.0)"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: org.eclipse.ui
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.ui.git;path="bundles/org.eclipse.ui";tag="I20220826-1800
+ ";commitId=eb5f64917709bd7c903f72569d1344fbeda305bc
+
+Name: plugin.xml
+SHA-256-Digest: xG1KrfuCZzP5TEgoPEywRVJrviDbyhU0HjRCMFtoeY0=
+
+Name: icons/full/dtool16/clear@2x.png
+SHA-256-Digest: FhV+hyFu1vsR21wvWKHBPOPF+27c9o913RIQ3B3qbsE=
+
+Name: icons/full/progress/progress_none.png
+SHA-256-Digest: 6sFhnpejozqhWnO3Li/iW4q83nLKY6KteNohEN7OhO8=
+
+Name: icons/full/dview16/prop_ps.png
+SHA-256-Digest: /6atE0SVEtb0pamwjwYGgsE9CFxm8MbWLsppMxzt8ag=
+
+Name: icons/full/elcl16/pin_view@2x.png
+SHA-256-Digest: jGYt/Q7gG3BkcBRv3OPG5rWHecgbIQnoOcaS44stuPE=
+
+Name: icons/full/elcl16/thin_hide_toolbar@2x.png
+SHA-256-Digest: Eo7tu923+75rvnCtTcopTrNaoJz9dztoHstVyqLEfTY=
+
+Name: icons/full/obj16/keygroups_obj.png
+SHA-256-Digest: yCTckZ5s6NDINJNM61XD2Dx8FavcWEYgsaTF1h5tFRs=
+
+Name: icons/full/dlcl16/backward_nav.png
+SHA-256-Digest: DBqlEwanRT0hdfJbLQJZxf/4l4TznGUw4+g4hTTvmBM=
+
+Name: icons/full/elcl16/trash.png
+SHA-256-Digest: hNHN8iTXudgBzkxUiPaJZlqX4aOneUcDeRF0qe0P0QA=
+
+Name: icons/full/wizban/importdir_wiz@2x.png
+SHA-256-Digest: EabBxalLdBUNtNpJKNTa3fvY5wChx2su17L2yJyn4BQ=
+
+Name: icons/full/etool16/saveas_edit@2x.png
+SHA-256-Digest: UUDDqNFCk5Ylxe37qI6SF+7xohV+nBz9v7OXb3moKaU=
+
+Name: icons/full/elcl16/refresh_nav@2x.png
+SHA-256-Digest: DGPrn9U0gBcPwhSlBfO8LIQ9cnZETIShMu2eGe5UNXY=
+
+Name: icons/full/dlcl16/synced@2x.png
+SHA-256-Digest: jlkmyoXnyWEBZDvX/5ngH3Lsko02nzKbwrDZodCXdjM=
+
+Name: icons/full/obj16/font.png
+SHA-256-Digest: CH7K5ZllF26GA0T7IRF7lz325ftyKEZi7j2BdNrOVIE=
+
+Name: icons/full/etool16/paste_edit@2x.png
+SHA-256-Digest: c8AYKNnbD4+XfMkApTuP8k2QVW1LB36ZcR63DQvRGnI=
+
+Name: icons/full/elcl16/up_nav@2x.png
+SHA-256-Digest: QCMnbKvrW3WxuNV0C7L4XIIK7fb+by5G5CZyiez7EhY=
+
+Name: icons/full/pointer/tofastview_mask.bmp
+SHA-256-Digest: X2UNsAFyN17pkxcGRHRazw7FU2rPmD/upnQJhhqOjXo=
+
+Name: icons/full/dview16/filenav_nav@2x.png
+SHA-256-Digest: b622OLU+C24drlRd8uesEBPVebm4Mm4oDPy1azxwCdc=
+
+Name: .api_description
+SHA-256-Digest: 8aP02AgcK8JmMFAVyuJt6InL8uQGfJgCoTkDFsTH4Wg=
+
+Name: icons/full/etool16/clear.png
+SHA-256-Digest: r0gldxwLdrQaJvsC5VBZRMkUSZOZ6kATuJJTis8aCXc=
+
+Name: icons/full/dtool16/editor_area@2x.png
+SHA-256-Digest: dg/TjOnKF5lJwj73QFiYTzbBW13GjzfzRTTcBss+eXc=
+
+Name: icons/full/dlcl16/thin_show_toolbar@2x.png
+SHA-256-Digest: +FWZfSBCHuN+Uknh3MUihaBaMOX1oT6bLyT0hAkdYQ0=
+
+Name: icons/full/eview16/new_persp@2x.png
+SHA-256-Digest: 7TyrVJAe92kOujdbFxYMkphgbyeuInWBL74uDqeT3OY=
+
+Name: icons/full/etool16/help_search.png
+SHA-256-Digest: h6pwcC9OWU320KHCCaT3e9O6CFULurH3+rQxSSxm4UE=
+
+Name: icons/full/etool16/save_edit.png
+SHA-256-Digest: p+rpI0rUuW7WnfFo0+IX4ia0vlstFzbnAek9uTkLUxA=
+
+Name: icons/full/elcl16/step_current.png
+SHA-256-Digest: BM53s8u8Qvl9Ei3rMivS9SNnG+EvbNy5gVbIkydjLUg=
+
+Name: icons/full/etool16/editor_area.png
+SHA-256-Digest: XI8QZTwMZh/BzYPXKkJlpWhtVkorpT/lhUat/nz11/M=
+
+Name: icons/full/obj16/fldr_obj.png
+SHA-256-Digest: KZ1iObpRX9aZttqdOZndmdWrP/5zwns225Y21yIMfsE=
+
+Name: org/eclipse/ui/internal/UIPlugin$1.class
+SHA-256-Digest: l9FDVqtDz7osyAP6aaLvpQQ/B2ISgeKpGxjODFb06EM=
+
+Name: icons/full/dtool16/print_edit@2x.png
+SHA-256-Digest: +MxgAnU7PBN4/pWHuHCi810PLM0elir5a+xLV6TBovg=
+
+Name: icons/full/pointer/stack_mask.bmp
+SHA-256-Digest: LwSEbivuZoM+dfrhuzogrHwR14Fo6sD4px3ullOX8us=
+
+Name: icons/full/elcl16/view_menu.png
+SHA-256-Digest: +p7VsD+0blXtVKFn+RyWp4U7Sxdc7Dglmwb6UxLLuqs=
+
+Name: icons/full/etool16/export_wiz@2x.png
+SHA-256-Digest: zGXdR2/i0HPjWhVZj9WwJTYmq9O4dBGmzSZPds9bIfw=
+
+Name: icons/full/etool16/saveall_edit.png
+SHA-256-Digest: W0543EaVPh6/ODFQ4wk4cw33mYBDlscmAANQDoirMc8=
+
+Name: icons/full/pref/import_wiz@2x.png
+SHA-256-Digest: mFeABoEOlCIssbCIAa4t8zwiW6LrSC2e5gu+WE0MTBU=
+
+Name: icons/full/elcl16/progress_rem.png
+SHA-256-Digest: 3KQ0fWgLmy2/c00pwXnH3uiE/7nBZ999SRKQ2Wyp+qM=
+
+Name: icons/full/ovr16/warning_ovr@2x.png
+SHA-256-Digest: MHPz2jazIxmeFSqEArNMeExrDWQlQkj5YFde9/D1I1M=
+
+Name: icons/full/dlcl16/pin_view.png
+SHA-256-Digest: uMX9Agea2rI1tw8DxWi+cvfurX4UwlzdNzQZgyAJzeQ=
+
+Name: icons/full/obj16/activity_category@2x.png
+SHA-256-Digest: cU2u+ziinUVgg7N+Oq4kfY6wHVymm+83C/VG9sXc90Q=
+
+Name: icons/full/dlcl16/thin_restore_view.png
+SHA-256-Digest: 1QwhUXrqjJ/OZOMje1tl6iGB7bROAd3rYToXdpnIy5U=
+
+Name: icons/full/elcl16/collapseall.png
+SHA-256-Digest: pAOGtZ4GKfmt6e+1VlskYEftxSRKqU77KrTwyex4/60=
+
+Name: icons/full/elcl16/remove.png
+SHA-256-Digest: 3KQ0fWgLmy2/c00pwXnH3uiE/7nBZ999SRKQ2Wyp+qM=
+
+Name: icons/full/eview16/defaultview_misc@2x.png
+SHA-256-Digest: Hd8iFaMVmvSnZafqUuoWftAjQJqI4j4T3q1e5ushUYU=
+
+Name: icons/full/dlcl16/synced.png
+SHA-256-Digest: C9epe0yowc5MMphUA2vP29x7WgXDMMntY1JZWiTIgGk=
+
+Name: icons/full/progress/pview.png
+SHA-256-Digest: A1wk9rr9VEHAEKhh7ZRPAVejKrXPXQzOL++towcK+Fc=
+
+Name: icons/full/eview16/problems_view.png
+SHA-256-Digest: k4fY7vqhpd8oOUaeO7ieZZ0EdDcV24gOf5VEHTxb/ks=
+
+Name: icons/full/dview16/bkmrk_nav@2x.png
+SHA-256-Digest: Rxn04jkVbLEOe0b4a/d5zoDOZ2bJemZxkjKziDok1Xk=
+
+Name: icons/full/pointer/left_mask.bmp
+SHA-256-Digest: X2UNsAFyN17pkxcGRHRazw7FU2rPmD/upnQJhhqOjXo=
+
+Name: icons/full/etool16/help_contents@2x.png
+SHA-256-Digest: iRWsrOfjq1gT7iDnTPqJ4un9YSQzAsvPssGA55YmyhU=
+
+Name: icons/full/etool16/saveas_edit.png
+SHA-256-Digest: FsWs5sehbNwbHtkO87gsWd4qRpSmSsH6fJvHsILH88U=
+
+Name: icons/full/dlcl16/remove@2x.png
+SHA-256-Digest: 6e2RkUXZMSy70yOERBq/oLMeeQu4aZoAsSe0gvsGMCo=
+
+Name: icons/full/etool16/tricks.png
+SHA-256-Digest: J/UjSMZ1yea0OFelZu8AJb0cSWS5ri3IdGpFQsvh6qw=
+
+Name: icons/full/pointer/bottom_source.bmp
+SHA-256-Digest: Ip6vQLminIfenpfndAFvG7Qfz1vbAJfm3GcHbspww6M=
+
+Name: icons/full/obj16/signed_unkn_tbl.png
+SHA-256-Digest: vF0zssBnvEo314vE7LC2gWr1HMRz+XsIkgq3i1zIbO8=
+
+Name: icons/full/elcl16/progress_stop@2x.png
+SHA-256-Digest: FdXjKfT3Zjc83Hpyu5e0VtLkV9CHScY+sDEAjHLu+3g=
+
+Name: icons/full/etool16/copy_edit@2x.png
+SHA-256-Digest: ujtsn/f3UNNYf8j+ESucvrdfuo6I5mGXJZ+CWSK/jG8=
+
+Name: icons/full/obj16/error_tsk@2x.png
+SHA-256-Digest: gz1SIYbqNkpxUFlvoPJAESySDEv1897M+RzMU5hzKQY=
+
+Name: icons/full/wizban/import_wiz.png
+SHA-256-Digest: YOF2WTR3fOjq5SiqcrLFqsCLlj2QRno26MXHo5qhey8=
+
+Name: icons/full/dtool16/copy_edit.png
+SHA-256-Digest: nZNVuwa4ki686+LHpVbZ8000VkVH/DkZp6N6j5GcXSI=
+
+Name: icons/full/dtool16/new_fastview@2x.png
+SHA-256-Digest: En6Z/6KORkg0CGI5dLFkqzOb/QOmcqmeDRrQol6qGvg=
+
+Name: icons/full/dlcl16/thin_view_menu@2x.png
+SHA-256-Digest: LX9VdkZlGVeFjZ7AO2ZA4yIFrmDFDAjg7Q/nkvJhRgc=
+
+Name: icons/full/dlcl16/forward_nav@2x.png
+SHA-256-Digest: UbBX+gWRRdAP0fp+nFVkHPFJolMz6sR5tXhwu5Dihmg=
+
+Name: icons/full/ovr16/running_ovr.png
+SHA-256-Digest: 4wC8PXybWv6MpkAPLr17bcx55ALPM/+GNoHcZL9f944=
+
+Name: icons/full/etool16/redo_edit.png
+SHA-256-Digest: +keXr5ZfEA5HDlm4OykI+oK0SSNBG6Eqv+zSvnwGHQ0=
+
+Name: icons/full/eview16/tasks_tsk@2x.png
+SHA-256-Digest: SxKma3zeMzSkfzBAl4mtfDLHAuGte+BLmLHpV1Sj8UY=
+
+Name: icons/full/pref/export_wiz@2x.png
+SHA-256-Digest: KP0RNKj1ibw8X1niCCirhanEXSM7JhNLLkniZRNOvrM=
+
+Name: icons/full/dlcl16/thin_show_toolbar.png
+SHA-256-Digest: OeRWFck17Zb+Ih3xYF411FjbA7glziFvD93qBGSzzK0=
+
+Name: icons/full/dtool16/clear_co@2x.png
+SHA-256-Digest: FhV+hyFu1vsR21wvWKHBPOPF+27c9o913RIQ3B3qbsE=
+
+Name: icons/full/dview16/outline_co.png
+SHA-256-Digest: x6XisMfDMg8iEszW5jJRwlLJKLQDVep/zCwF/ANdkLk=
+
+Name: icons/full/obj16/change_obj.png
+SHA-256-Digest: 0OUkGTXiPe6nQHHyY9+Jy+sBH3YiSYWO+BtfnmejwCU=
+
+Name: icons/full/progress/progress_none@2x.png
+SHA-256-Digest: MknojSWRh3AzYglq+eyOxLOMD93lGMOruZIj0gRmr04=
+
+Name: icons/full/progress/progress_ok.png
+SHA-256-Digest: yJxXWJKzp1DpEdPx8A/VQWq66s8vTOVMeOWbtN92uWA=
+
+Name: icons/full/dlcl16/removeall@2x.png
+SHA-256-Digest: OWvCgDgE4l0lolBy1ATjA03jX67PcYcucCqfI6a0yPY=
+
+Name: icons/full/elcl16/thin_restore_view@2x.png
+SHA-256-Digest: 6STK4npelF2QOnaJaqFpkqXuUU/ZZJQnL2WFj3AVNz8=
+
+Name: icons/full/elcl16/thin_max_view@2x.png
+SHA-256-Digest: 83MRHzulTGUFVc1cnKb6MJdtr6WEJ6imCmUfYPh+q8A=
+
+Name: icons/full/dlcl16/step_done@2x.png
+SHA-256-Digest: I36SDN+ohMI6GoRytqEEgCMrBBNrEJa4DoHgjaMOapE=
+
+Name: icons/full/obj16/workingsets@2x.png
+SHA-256-Digest: H3iCp924OdxVuz2PrJk/36PRP5VIuLaDiLz+1ECCzDA=
+
+Name: icons/full/pref/export_wiz.png
+SHA-256-Digest: skpyKOJBTqUMFD47kO1paokw77akHdRqTJf81t35HFU=
+
+Name: icons/full/dtool16/new_wiz.png
+SHA-256-Digest: 5/IaAsZvVRM4mbZpqzgy+42kSIXutXw16XTAsp5qkIk=
+
+Name: icons/full/dview16/defaultview_misc@2x.png
+SHA-256-Digest: kjrMhNFFc7g9XYJQ6qTb8lPQzJuZsJRs6bVL5nmhHaU=
+
+Name: icons/full/obj16/add_obj@2x.png
+SHA-256-Digest: mNfoW8vvaGeSWIuRoPwNbu/ysQd+VbW67d5smXY4OBE=
+
+Name: icons/full/ovr16/pinned_ovr.png
+SHA-256-Digest: j+eN3typDye9M6XPrgxUQzcpdSG9lkEW+gv+PEKunr0=
+
+Name: icons/full/etool16/save_edit@2x.png
+SHA-256-Digest: hFlTLbN/8SLNPeLFI+SUO8Letmu4m4iPKIpGBzYuWs0=
+
+Name: icons/full/elcl16/progress_rem@2x.png
+SHA-256-Digest: HgNE2kvS0lZlzdmKJw1R2Yu4O6E7sg7POm4RvN4oEeE=
+
+Name: icons/full/dview16/defaultview_misc.png
+SHA-256-Digest: pNipfHh3WVVQBxR4B5dWsarFRDY+WeaIBTmP4yb93C8=
+
+Name: icons/full/wizban/new_wiz.png
+SHA-256-Digest: dveVVSZ2b1dmcFxnRc2v/Y/ItpQV4Fl8rWgVf/l1gv4=
+
+Name: icons/full/elcl16/thin_view_menu.png
+SHA-256-Digest: FreWv8xHIFXPdZiFzEwdRNRhn1VH1FlvtdxYXSxQ78A=
+
+Name: icons/full/dlcl16/trash@2x.png
+SHA-256-Digest: wibNe/FWhWoLk0duOUrTpur9HkXgtizrFMDaSILsBNM=
+
+Name: icons/full/etool16/delete.png
+SHA-256-Digest: Gwu8dDr3pOBiNR38D/qlfAbqd3O9zBiuJnFnCkL27G4=
+
+Name: icons/full/obj16/signed_yes_tbl.png
+SHA-256-Digest: iODL4TEGTMkmkSrG/Y27EO34116X4lwmW5Cj23unAfo=
+
+Name: icons/full/obj16/theme_category@2x.png
+SHA-256-Digest: cO7X1lL27aE0+wBs8xQM5IT1LZIUvaFynlojUwN1ir0=
+
+Name: icons/full/etool16/import_wiz.png
+SHA-256-Digest: CL14lenTONquZbbvUmJyMwXQcIkxV7atCgOUu1cEmWY=
+
+Name: icons/full/eview16/problems_view@2x.png
+SHA-256-Digest: 8Sgl4o+TEINeNnbAkCK1PmYOJjqj/1UwNTxlBqAjf1I=
+
+Name: icons/full/dlcl16/expandall.png
+SHA-256-Digest: 97iYEpRiCHwtom89JmiYI5xm+PELwVs/nHSky7SC+fw=
+
+Name: icons/full/etool16/search.png
+SHA-256-Digest: uWOeNgcNsBbIqk0xdQ7w3rx3Fb8E8HlACzDL3O0H5+E=
+
+Name: icons/full/dtool16/delete@2x.png
+SHA-256-Digest: 9OnF8ZnhU6E8voDryWYX6q97OOA2hDGRD3jPR11n9+I=
+
+Name: icons/full/progress/progress_task@2x.png
+SHA-256-Digest: MfUhIq+CSlTfuOiPi8FRpIdagEcoEACqKlAtjQ9rCuY=
+
+Name: icons/full/obj16/error_tsk.png
+SHA-256-Digest: 5GenYST2eFyAPxWkd6xYij1lnZjbHPoVhW2QpIMrr6g=
+
+Name: icons/full/pointer/right_mask.bmp
+SHA-256-Digest: X2UNsAFyN17pkxcGRHRazw7FU2rPmD/upnQJhhqOjXo=
+
+Name: icons/full/elcl16/thin_show_toolbar.png
+SHA-256-Digest: I5QpzLjHUQlZ9ydKtMy1xzO5zJrlwc8JbWpjmYw7BzU=
+
+Name: icons/full/etool16/clear_co.png
+SHA-256-Digest: r0gldxwLdrQaJvsC5VBZRMkUSZOZ6kATuJJTis8aCXc=
+
+Name: icons/full/dlcl16/progress_remall.png
+SHA-256-Digest: a6reskFEWX25oCzT1scwW73CaIN6otnpmyfpyZ9YJ7o=
+
+Name: icons/full/elcl16/close_view@2x.png
+SHA-256-Digest: o1reUus/RwNFedN0suAXBHNoA3TGQR2TPDZ3XiZDTXo=
+
+Name: icons/full/etool16/cut_edit@2x.png
+SHA-256-Digest: ZkS9ft8pJ8ouaAGyGYdbGeVQ+X6a2W2L+hzdhZwT3BI=
+
+Name: icons/full/obj16/blank.png
+SHA-256-Digest: qQGvrnvbZmePCKObMvikbamGTIpk+rwOd6fxK5PfEro=
+
+Name: icons/full/eview16/filenav_nav@2x.png
+SHA-256-Digest: EZbDbnCz9yZfE9DXrahk9l139aFz1wPUAzYcW5qBt7o=
+
+Name: icons/full/ovr16/error_ovr.png
+SHA-256-Digest: 6qUtHhjQCVjcX+74vioqv0aECjQzQE9YpdhrfFVJrgc=
+
+Name: icons/full/dtool16/undo_edit@2x.png
+SHA-256-Digest: diF5h9Vf4AXKb0nVevOVt3jYvEGNpl4GIlBhMdWpVmM=
+
+Name: icons/full/eview16/outline_co.png
+SHA-256-Digest: VCyOhMjE4kDiQibD+Tsib/MGwLK0kMqJGyLdjMJ5b3M=
+
+Name: icons/full/elcl16/thin_view_menu@2x.png
+SHA-256-Digest: ugeZhD09beCerXfjznXT+76BUzt6X13su8wkObaQy1U=
+
+Name: icons/full/elcl16/thin_restore_view.png
+SHA-256-Digest: XKnVnEpvdQwASnSHKguEXR9WJh/BdYJa3LdnWmhJeiE=
+
+Name: icons/full/elcl16/up_nav.png
+SHA-256-Digest: KUdXHZG7ttS0MFAFoNyyiHnduoDFsHVIS2Gdf4ajmg4=
+
+Name: icons/full/elcl16/thin_min_view@2x.png
+SHA-256-Digest: q8+MBvQ6KpBx/f9SveLHG7TRLW+DAihlqcT9gcG8Oq0=
+
+Name: icons/full/dview16/default_persp.png
+SHA-256-Digest: n5yfpOav4ziOgSzd+rfEyo8V4a4wbWgvN6GIAa9sCSQ=
+
+Name: icons/full/obj16/layout_co.png
+SHA-256-Digest: NGyYYrrqW3ehhQVCjuOlUetx3K7t9X7S8m8qqCiHfvE=
+
+Name: icons/full/dview16/default_persp@2x.png
+SHA-256-Digest: mZa+zjqGgXqKnAFfiBBOqA5qUXDvV5U1SRh5l0cwLF4=
+
+Name: icons/full/etool16/editor_area@2x.png
+SHA-256-Digest: deM8HDIL09w3PXH/XW7mpyAyFuMqSkposh77lnLNWqg=
+
+Name: icons/full/etool16/delete@2x.png
+SHA-256-Digest: 9HM8FRv6ZUhG6baVu4Qs9G4xmBXenLNTUGKubulwGyo=
+
+Name: icons/full/etool16/pin_editor.png
+SHA-256-Digest: f7zqyaFkEH16/nMefk8vHWHTxcdZTIDSC+RqeszMYMU=
+
+Name: icons/full/pointer/invalid_source.bmp
+SHA-256-Digest: VqHDQbSNP83y6SLJhgapbwIwqRz6FMRs/5wBkxb/GoM=
+
+Name: icons/full/dtool16/paste_edit.png
+SHA-256-Digest: UZiBVVAIltCYXOaR2H4cFvVS0SsVZsFGUECEiMEAxs4=
+
+Name: icons/full/dtool16/new_fastview.png
+SHA-256-Digest: ve4ExWrE6E8DqjrUD9r69UlXuK8NT+uOqlBQZcXOwNc=
+
+Name: icons/full/wizban/importdir_wiz.png
+SHA-256-Digest: jbfzrGCms0tGH8Hh0IgUH2Dvj0b0RWj8SYzFKEplNSs=
+
+Name: icons/full/dlcl16/progress_stop.png
+SHA-256-Digest: pBUybYJk3ZjivFfnIk8cqI53ThUY465qNwuK4IAx7ds=
+
+Name: icons/full/dtool16/saveall_edit@2x.png
+SHA-256-Digest: mKXMHdXT4+a2dMhzUutxZuviYma9UwvyFtQ7MdrPdcE=
+
+Name: icons/full/dtool16/export_wiz@2x.png
+SHA-256-Digest: LYS8ri8AMGgvPe7P/a6s0G3w2wPPbtlgz8hTLAmW/Uw=
+
+Name: icons/full/dtool16/print_edit.png
+SHA-256-Digest: eB8zrrxicoAO0pFhR+8otj5nXU/BwdEjKrY9nngNqqA=
+
+Name: icons/full/obj16/warn_tsk@2x.png
+SHA-256-Digest: MQUFEl386NTD2XBEimW740m801zm8FfsAEx2TmkmzeY=
+
+Name: icons/full/dview16/outline_co@2x.png
+SHA-256-Digest: gn+VTV25c2Jt1WqVOjvnvuRQp0k1QVKi2GqRfpvWxGk=
+
+Name: icons/full/etool16/search@2x.png
+SHA-256-Digest: yn5TWD75mlya6QY9oBhkyhFVf94dbfhN1F/PlOX9/Yo=
+
+Name: icons/full/dview16/new_persp@2x.png
+SHA-256-Digest: 5iTfje/IzFr++b78WZTbrCARricOz7yyTGjvlmoFELc=
+
+Name: icons/full/elcl16/synced@2x.png
+SHA-256-Digest: zsUn+52EQ7wMq8WXZBF6Y070q3vGH0ypfjzRDow7KQ0=
+
+Name: icons/full/progress/lockedstate.png
+SHA-256-Digest: WC5uPOyrbpob4GK1sZVUPBJ8gl0mTy1zwqkChLU1jJ4=
+
+Name: icons/full/elcl16/min_view.png
+SHA-256-Digest: ZdRDLlqyPatXvIDLyO+qAN0V1VWYwzjxK71iZpeFm8Y=
+
+Name: icons/full/pointer/right_source.bmp
+SHA-256-Digest: xg828wyvWnkCmhmMzBSItJUr8oPNtJntFFhCIbaGAI0=
+
+Name: icons/full/dtool16/clear_co.png
+SHA-256-Digest: 8r91elUfiCBxHN0UxBFMZ3bK0v08vIPAGB81MjHxlRQ=
+
+Name: icons/full/elcl16/expandall.png
+SHA-256-Digest: BOAP0UOd7Vv+MMlL04cx2RedbudBQkh73rdYXzoXivE=
+
+Name: icons/full/etool16/undo_edit.png
+SHA-256-Digest: 1Yori9j3aR/aA6XiaKm9Yd9LVeBfRctPOZXzXbjYgL8=
+
+Name: icons/full/etool16/redo_edit@2x.png
+SHA-256-Digest: SbjdS29qO0LRSeTnr7BScwriaSf6YqxTTeFQx5rj+gs=
+
+Name: icons/full/etool16/saveall_edit@2x.png
+SHA-256-Digest: P+hBoBdR92Fh9Cdle2tR/oiif58FE52+dHSe/IIQuGU=
+
+Name: icons/full/progress/sleeping.png
+SHA-256-Digest: S8x+QNKo1Zlvaje9uNTwDyeXaVTa2k5zugjtDd3XmeI=
+
+Name: icons/full/dlcl16/thin_close_view.png
+SHA-256-Digest: SdnJv8J9GcDW7Wf0x/wymbZ6J0Io18RlLAtzbSFQbfA=
+
+Name: icons/full/elcl16/step_done.png
+SHA-256-Digest: Uci/Lt/TutMUW+YKDHfZtlBmgJ0wCKkbIkNeTLrp830=
+
+Name: icons/full/dlcl16/step_done.png
+SHA-256-Digest: +Bl+GUcbsQTDCylRf+2tNC5epnTJYXqteE4hWaG2cNI=
+
+Name: icons/full/etool16/print_edit@2x.png
+SHA-256-Digest: 7+jUyXbwQOp3+Ey5iKQe0CqgpSJZmoRF1rhtKMP2cSI=
+
+Name: icons/full/obj16/layout_co@2x.png
+SHA-256-Digest: ktJ46o0AhmzMv5G11/kVZP4hjVBFTrLunxLRn0f+GyU=
+
+Name: icons/full/etool16/import_wiz@2x.png
+SHA-256-Digest: y14moGHTvmZYxJD/eDG+6kRl5ztz9OgGiQTvqYLOxpk=
+
+Name: icons/full/obj16/submenu@2x.png
+SHA-256-Digest: AtXunaFq0B3TLHTxsH3p+OiECAT4xIWfp9E8MFE5yGc=
+
+Name: icons/full/progress/sleeping@2x.png
+SHA-256-Digest: zvSehFoDYL0JWoZ2CSRngKWVWUiT07zBBW5D7H3dZ6k=
+
+Name: icons/full/obj16/workingsets.png
+SHA-256-Digest: UAEiW2eJykSjOYYy1wHMK0Dthtk4wrDGul5zsMnCZAM=
+
+Name: icons/full/obj16/signed_unkn_tbl@2x.png
+SHA-256-Digest: 1ojHiPWJaZaFqe2W/j+oYisR2+JOHxQNPidrsDOAPb4=
+
+Name: icons/full/dlcl16/remove.png
+SHA-256-Digest: pBU8C2GJvIWM3znE1vmgUXtmgyEoRpghzrw96QaHzjI=
+
+Name: icons/full/eview16/default_persp@2x.png
+SHA-256-Digest: lqKr8smqKqjv1HwXkKCIW3eMHBNAV/E6J5mjOcQtzRw=
+
+Name: icons/full/progress/waiting@2x.png
+SHA-256-Digest: cMpxxBOm3/qIg/av517mOwPbKLI1FGKXDScqGHB8iW4=
+
+Name: icons/full/etool16/cut_edit.png
+SHA-256-Digest: GuJd5BSus6e8o2CVtp/Zm90oypFpdYa45e8Ji9ndUAg=
+
+Name: icons/full/eview16/defaultview_misc.png
+SHA-256-Digest: +OUKf/mc3lIvrXqMaYTRPx5wptfACgZ+oLSVsh9kW/A=
+
+Name: icons/full/wizban/exportdir_wiz@2x.png
+SHA-256-Digest: RSX0Andjowu9uui3Yc4e6RmNSBpd++G0/ZFSjD/q8jw=
+
+Name: icons/full/dtool16/cut_edit.png
+SHA-256-Digest: 24EvRumrxLQUp/ERvEo4y0xOkS73hqBDTPF+aXlU2Io=
+
+Name: icons/full/dlcl16/step_current@2x.png
+SHA-256-Digest: UbBX+gWRRdAP0fp+nFVkHPFJolMz6sR5tXhwu5Dihmg=
+
+Name: icons/full/dlcl16/thin_min_view.png
+SHA-256-Digest: B3IHgLgSVlzEM3w5GztHf3dRQ6PUfe2Ix8jtBsseaYE=
+
+Name: icons/full/elcl16/button_menu@2x.png
+SHA-256-Digest: bKDJHN9s7kM/yZLHtXSwwaodsYP8OCSAn0FSK+O0810=
+
+Name: icons/full/obj16/file_obj.png
+SHA-256-Digest: iC7OpO+RG97KXPMRPkkeQ1XE8AWaOhvZoK842dCUv8Q=
+
+Name: icons/full/etool16/fastview_restore@2x.png
+SHA-256-Digest: Earc8UKPIkNbXlyQZtS33QYaXfxurFrVy7bvnX1NYK8=
+
+Name: icons/full/dlcl16/linkto_help@2x.png
+SHA-256-Digest: 8hPPzJcOmoiINjeSLFfGwHAS3t9sVI40ybLaZsKJAMs=
+
+Name: icons/full/dtool16/undo_edit.png
+SHA-256-Digest: NqTXiZu53h2HN3cIQQvgffa9LJebRUtryL07lRxwZxA=
+
+Name: icons/full/dview16/tasks_tsk@2x.png
+SHA-256-Digest: sz65O8GAwexD36EjqFnGB1S2dNFOHEsGp+E4heNQZnE=
+
+Name: icons/full/elcl16/removeall@2x.png
+SHA-256-Digest: /ur1TfWfrHvLnwUKalRON0jfdl75v3D1NY6LgnWwba0=
+
+Name: icons/full/dlcl16/button_menu.png
+SHA-256-Digest: 4Vo7RvFjug7FnmpbikZX1CPZ7eAVpeyczADF6EO1gm8=
+
+Name: icons/full/elcl16/step_done@2x.png
+SHA-256-Digest: KzzdcNIW2mAxgA8xitgCHt0+kgz4paljMy83pCo69TU=
+
+Name: icons/full/dview16/problems_view@2x.png
+SHA-256-Digest: tcSOn3tAJcFwtVPobtZYjUvfJqSkyuLPBrzzQvNhDoA=
+
+Name: icons/full/dlcl16/backward_nav@2x.png
+SHA-256-Digest: 3kwQWovyaDjspatQig8Rq47xgeHQHJ8qqiCbZexe+T8=
+
+Name: icons/full/dlcl16/thin_min_view@2x.png
+SHA-256-Digest: A1iCOPlnufc62vxOhxMFYCEh/Bk1zakDunaDRb4pBRA=
+
+Name: icons/full/elcl16/home_nav.png
+SHA-256-Digest: u8zTvBohphQQ9WFii7wzcMibtv3uZ6aA6MafdRAXZfE=
+
+Name: icons/full/obj16/generic_elements.png
+SHA-256-Digest: t4L3dU7/3i+1vTxQRRNjXHw2tF1WhUt1yWVnDGCq6Xg=
+
+Name: icons/full/dlcl16/home_nav.png
+SHA-256-Digest: 43konAIoPFOFuUkEAQOHuFf/0GaoBwI3jNrHVQF6+Yk=
+
+Name: icons/full/elcl16/remove@2x.png
+SHA-256-Digest: HgNE2kvS0lZlzdmKJw1R2Yu4O6E7sg7POm4RvN4oEeE=
+
+Name: icons/full/obj16/info_tsk.png
+SHA-256-Digest: FGAIn1e2wrpZpjP1U8+Zy3QUNp5LVNu+x+s1iwWZA2Y=
+
+Name: icons/full/elcl16/linkto_help.png
+SHA-256-Digest: 256kobV6wdNKsgiXJwinbf5cQ7/y5U6qJuzYVk7jeWM=
+
+Name: icons/full/wizban/import_wiz@2x.png
+SHA-256-Digest: fnxNs2EFrf36SFcZZYQHRXq8YDFsI+MfB7NpzOKzffs=
+
+Name: icons/full/elcl16/button_menu.png
+SHA-256-Digest: 9wH5Qb60ulIdDL4HNf98sJQgx5pBdFpiRCJLecV3iBM=
+
+Name: icons/full/obj16/separator@2x.png
+SHA-256-Digest: +qVyZuweATHazP7vc108i1i7ZrHfIlaF31Ap0t70WIY=
+
+Name: icons/full/wizban/workset_wiz.png
+SHA-256-Digest: TFUXJVK/I9m2M4LcKfnMdSW+3HqhV+z0KhNShgxvPig=
+
+Name: icons/full/elcl16/forward_nav.png
+SHA-256-Digest: BM53s8u8Qvl9Ei3rMivS9SNnG+EvbNy5gVbIkydjLUg=
+
+Name: icons/full/elcl16/backward_nav.png
+SHA-256-Digest: LJeY8Iy2DqoOQE+jVuuq3mgzT+wBwb/V1bxn2UBK0Qw=
+
+Name: icons/full/pointer/left_source.bmp
+SHA-256-Digest: rvVrJyBJ6pjnI5nPqf5RXw7t4S1UYYW12v1G921UCsQ=
+
+Name: icons/full/dlcl16/up_nav@2x.png
+SHA-256-Digest: mxoFolN/DN3hrFC//FVoxnFdZzp+lihs6DNgZRbhvVA=
+
+Name: icons/full/wizban/exportpref_wiz.png
+SHA-256-Digest: hQjo7dP3vI2YUlk5p9NtgKI1cGpKrJjJZLZ8vP5B+ms=
+
+Name: icons/full/dlcl16/progress_rem.png
+SHA-256-Digest: pBU8C2GJvIWM3znE1vmgUXtmgyEoRpghzrw96QaHzjI=
+
+Name: icons/full/dtool16/save_edit.png
+SHA-256-Digest: OQHR0dGM+3Yq4wNXxSu1/4ViAR6XST4YamIClTHNyh4=
+
+Name: icons/full/etool16/new_fastview@2x.png
+SHA-256-Digest: Ma3YjnndUZPoMXMCudZQ3Q23KM2UwDDB1QxJaRKt3Bk=
+
+Name: icons/full/dlcl16/progress_stop@2x.png
+SHA-256-Digest: 4RqXsM45uE7i3DD6idrLyza8v3rF7A+cV89WpezMzWY=
+
+Name: icons/full/obj16/toolbar.png
+SHA-256-Digest: wKJohsCcC14JdOnRQImqSy8EsgV1GmvwGju/wxxuAJ0=
+
+Name: icons/full/elcl16/synced.png
+SHA-256-Digest: otifVa+dQFq0LbN+9VZ+Rj43KTu59WxwPWBKj4R/b18=
+
+Name: icons/full/elcl16/home_nav@2x.png
+SHA-256-Digest: 7KPLwZ1+OiF91nfKOKGGT3++nqz17a6cMW8Jth9ek1w=
+
+Name: icons/full/etool16/copy_edit.png
+SHA-256-Digest: sdRIIELggQS3yPpYZ/MZ9SNiIMGpCmS+BmkZzBYDcLI=
+
+Name: icons/full/eview16/bkmrk_nav@2x.png
+SHA-256-Digest: rXD9zZ3HiACCIZk4XBsisIZwSZfq+BJT/YrXJTTrkU8=
+
+Name: icons/full/dtool16/help_search@2x.png
+SHA-256-Digest: oXHj/N99RSw93KWuGNTY1qCYcBJj3aykiG7FKox6XUI=
+
+Name: icons/full/etool16/help_contents.png
+SHA-256-Digest: QSflpHaDlv55EYDHQQi9sePXJYYR1WbGrT/U5xm9BUw=
+
+Name: icons/full/dlcl16/linkto_help.png
+SHA-256-Digest: zY9jxp7fZvp6LpSpF2v0hsWLy8EhPWPxHQUcFXo/0rs=
+
+Name: icons/full/wizban/export_wiz@2x.png
+SHA-256-Digest: il3quE/MHWmzyPiNY3dwmZbhNjBK3Jn6fmULE/ZVkTY=
+
+Name: icons/full/dtool16/delete.png
+SHA-256-Digest: w4eNd/byn2wAkaKhlXBjBuCjtAcaJG1DjicGfpLpEj8=
+
+Name: icons/full/elcl16/min_view@2x.png
+SHA-256-Digest: i2EpfoEhl0YN3HEpiV5ISNqEmomu6d/uJq5O9dKHez8=
+
+Name: icons/full/dlcl16/step_current.png
+SHA-256-Digest: IYXTbTm1/TyKGof+SFARGis5qsb33eiq9q0QPlS2kaY=
+
+Name: icons/full/elcl16/thin_max_view.png
+SHA-256-Digest: aoZhLVDuZfYs4aRsC/F9rWxQvVMI1fqk3wIQlfcbhkE=
+
+Name: icons/full/pointer/bottom_mask.bmp
+SHA-256-Digest: X2UNsAFyN17pkxcGRHRazw7FU2rPmD/upnQJhhqOjXo=
+
+Name: icons/full/dtool16/save_edit@2x.png
+SHA-256-Digest: VwVHM7UVOuDAqFEWgGGJXNlBlKqmQlYxzwD4I0IjdMc=
+
+Name: icons/full/dtool16/help_search.png
+SHA-256-Digest: rlNiM7yeWIPZvBgRtEaJN0JzxY9jr2C05PW2kj6cVyQ=
+
+Name: icons/full/eview16/prop_ps@2x.png
+SHA-256-Digest: AUqdkEtsldofkAlNtu8rM5s7cqCAaJn1sSskVELgnHM=
+
+Name: icons/full/progress/errorstate.png
+SHA-256-Digest: qGJhNq0JeIdOHJwFG6PGwn97wwNIrGEPYNIn+R76GKM=
+
+Name: icons/full/obj16/submenu.png
+SHA-256-Digest: VBtr1Cwi93HkxG5pkdkkblYvtlHTQG70xNAqS3ulO1Q=
+
+Name: icons/full/dtool16/export_wiz.png
+SHA-256-Digest: MnPsgfr07nWSgebm4yIv4U+Ls832TAxsNbu6bxoVESE=
+
+Name: icons/full/progress/progress_error.png
+SHA-256-Digest: RNRTWNJBX8PI7yGnAH3XW3gl/Irh4wxNTU9sY14f7Eg=
+
+Name: icons/full/dlcl16/home_nav@2x.png
+SHA-256-Digest: xPA13Cg6AK5mgpwP2jZyHcXeF2V912zbcWLSOnuw0H4=
+
+Name: icons/full/dlcl16/refresh_nav@2x.png
+SHA-256-Digest: WhImih9iDNWE33HzrNEKdRXJbptPgv5BtW/8WMzp72U=
+
+Name: .options
+SHA-256-Digest: Ob5vTm1DWaNXdE/J7hNVjzUlNuzH7F/l4FKTFFQio0c=
+
+Name: icons/full/ovr16/error_ovr@2x.png
+SHA-256-Digest: OxvGNmy64fvI9l27gG6wLe0S0TTJB2cE36SsRI6Jpgc=
+
+Name: icons/full/elcl16/refresh_nav.png
+SHA-256-Digest: a2DhPNBPDYLganow/b9DcV8QAexX4whWMe3nZOlGT9Y=
+
+Name: icons/full/obj16/activity@2x.png
+SHA-256-Digest: FvB26b2kMMZmbNKlfWJHZYPFG9B59UyqRiteihLGbAw=
+
+Name: icons/full/elcl16/forward_nav@2x.png
+SHA-256-Digest: RvPkHW6BUMppVlB5OG5soYAdUVH21T92UaDkNfP6ksI=
+
+Name: icons/full/etool16/pin_editor@2x.png
+SHA-256-Digest: K8Q9Z0EJa3kqVCdfF1JbV/Gyv3C9M7YEy25hpIMXmCA=
+
+Name: icons/full/obj16/generic_element.png
+SHA-256-Digest: A8aBAWIhaJz1EYnzqn+cHTgdu/a5NLlmm9vwZzKju2Y=
+
+Name: icons/full/obj16/separator.png
+SHA-256-Digest: uOfPsx4SxylpK6wnNgertH2PQr/2R/M67qLHD8q1ER4=
+
+Name: icons/full/dlcl16/min_view@2x.png
+SHA-256-Digest: JyIDYHzaespjC7ltS8ladrdc21SvBLRFTSsmUW3EAc0=
+
+Name: icons/full/dtool16/new_wiz@2x.png
+SHA-256-Digest: iOnngL9IJKfz3aFrAYx1UUS5BjhOAqwF8OUKyZJ2QG8=
+
+Name: icons/full/elcl16/expandall@2x.png
+SHA-256-Digest: cfya2X8vk1/TU+LTiwjTpr8qFc9Y1jzQdfoAkLriUSo=
+
+Name: icons/full/etool16/fastview_restore.png
+SHA-256-Digest: sGc7b/jGPZX5O0a7ahmsRmUzcjeUetswkyfqjZ+JHZs=
+
+Name: icons/full/eview16/bkmrk_nav.png
+SHA-256-Digest: 30+QniSE+egL7ZXoDMIS9xHjgAUJV1a+JEDPKKqOLXE=
+
+Name: icons/full/dtool16/redo_edit.png
+SHA-256-Digest: l5N+4u035IFLIe6fsXTLXiw5bvr/NeLFV3oaJy12yOI=
+
+Name: icons/full/dtool16/delete_edit@2x.png
+SHA-256-Digest: 9OnF8ZnhU6E8voDryWYX6q97OOA2hDGRD3jPR11n9+I=
+
+Name: icons/full/obj16/add_obj.png
+SHA-256-Digest: ij0paoJIk2f2r4Kex5pvJyjefPBD1AvHOn4TZP0Gnxs=
+
+Name: icons/full/dtool16/clear.png
+SHA-256-Digest: 8r91elUfiCBxHN0UxBFMZ3bK0v08vIPAGB81MjHxlRQ=
+
+Name: icons/full/dview16/filenav_nav.png
+SHA-256-Digest: mTSHYAEZv2hqyXuYbXLiBDXDYS/JzZEpfM71FbBCy6o=
+
+Name: icons/full/wizban/new_wiz@2x.png
+SHA-256-Digest: O1BnCwE6qJtm8Frn4uI0ZxRguoGsX8NzJlbCdDNcWNE=
+
+Name: icons/full/etool16/delete_edit.png
+SHA-256-Digest: Gwu8dDr3pOBiNR38D/qlfAbqd3O9zBiuJnFnCkL27G4=
+
+Name: icons/full/dlcl16/thin_max_view@2x.png
+SHA-256-Digest: hPKG4Mc0bw1cY6OBw1rcjwhrloiszowzJ77rL6PmnfI=
+
+Name: icons/full/dview16/prop_ps@2x.png
+SHA-256-Digest: 2Ze2DHQsbB94U4vwYhTbQCDAkduGzWSKKPiPV96ZjOA=
+
+Name: icons/full/etool16/export_wiz.png
+SHA-256-Digest: GpbeOn0uotUCOI/1VnplymkriuJSAtX2ID9yQQXTXao=
+
+Name: icons/full/obj16/signed_no_tbl@2x.png
+SHA-256-Digest: LF4CBsn+FAdJYB2F5/otASi76f+jSQUmGu4xpDKMQ1o=
+
+Name: icons/full/dtool16/fastview_restore.png
+SHA-256-Digest: 4IrC0hLznGavrmhislDAw2UuT4oBZ4vmGibNo6nHGZk=
+
+Name: icons/full/dtool16/saveas_edit@2x.png
+SHA-256-Digest: iTClKOd9mRuA/7va71b00AQ0r6fUAW2ibDb1wOLCrzA=
+
+Name: icons/full/pointer/top_mask.bmp
+SHA-256-Digest: X2UNsAFyN17pkxcGRHRazw7FU2rPmD/upnQJhhqOjXo=
+
+Name: icons/full/dlcl16/progress_rem@2x.png
+SHA-256-Digest: 6e2RkUXZMSy70yOERBq/oLMeeQu4aZoAsSe0gvsGMCo=
+
+Name: icons/full/elcl16/stop@2x.png
+SHA-256-Digest: FdXjKfT3Zjc83Hpyu5e0VtLkV9CHScY+sDEAjHLu+3g=
+
+Name: icons/full/dlcl16/forward_nav.png
+SHA-256-Digest: IYXTbTm1/TyKGof+SFARGis5qsb33eiq9q0QPlS2kaY=
+
+Name: icons/full/wizban/exportpref_wiz@2x.png
+SHA-256-Digest: Eh9ZUbqe1+V94pn9nZZ5D/6W7f0o0wRoi30DnJ0hL1w=
+
+Name: icons/full/obj16/elements_obj.png
+SHA-256-Digest: 1+WTiaLBTca4d0bSizEwUVEOxuboKeXHxPHkddGWHcM=
+
+Name: icons/full/dlcl16/thin_hide_toolbar@2x.png
+SHA-256-Digest: P7tZNfHLOHle8KzKianUwWeWRNGVRP23qC9mXiDZtgE=
+
+Name: icons/full/ovr16/warning_ovr.png
+SHA-256-Digest: txazrP8PfVVennsQeQ6SwywyDn+0sat94ZlTpl8tiXw=
+
+Name: icons/full/dlcl16/refresh_nav.png
+SHA-256-Digest: u0S2i7+OocbFyVY76vwfArarT4bRAeS82ozF0MNbwbc=
+
+Name: icons/full/dlcl16/collapseall@2x.png
+SHA-256-Digest: DBCG6xcuxhYA8155H4NPYkw6IFzg069OB+5RbKtJHVs=
+
+Name: icons/full/dtool16/copy_edit@2x.png
+SHA-256-Digest: g0kCZ/6c0K3IeleJ00JaAhL7KHhGw6sgC7sQhxnVsi8=
+
+Name: icons/full/dlcl16/view_menu@2x.png
+SHA-256-Digest: Tq3cS9X7tWSkdiD+8NvhUYfmKfBFoMdiXtfdqkN28GI=
+
+Name: icons/full/etool16/new_wiz@2x.png
+SHA-256-Digest: TPTLjLHg5M50qqEAJSKEYuEL0yvQSWJHEQjBsRGEZTE=
+
+Name: icons/full/dlcl16/min_view.png
+SHA-256-Digest: 318qYJK0OPfheayor6Qe0xgBpPD0sqNjXN3FFA/Tbyk=
+
+Name: icons/full/obj16/toolbar@2x.png
+SHA-256-Digest: b7yJJLUpdyK4tKKNa/2D3TQmHK+t5CWLWYJ0SGdV9EA=
+
+Name: icons/full/progress/waiting.png
+SHA-256-Digest: LHLayIzGV95R2ZAXYWO+63dxPMKaCyg6GcXfmMXNGgk=
+
+Name: icons/full/dlcl16/stop.png
+SHA-256-Digest: pBUybYJk3ZjivFfnIk8cqI53ThUY465qNwuK4IAx7ds=
+
+Name: icons/full/dlcl16/progress_remall@2x.png
+SHA-256-Digest: OWvCgDgE4l0lolBy1ATjA03jX67PcYcucCqfI6a0yPY=
+
+Name: icons/full/obj16/blank@2x.png
+SHA-256-Digest: ugT1Md8MehISR1DVIa3XfFWxamQy1lPFVZwWaA29n1A=
+
+Name: icons/full/ovr16/lock_ovr@2x.png
+SHA-256-Digest: /iqvrSbuieAi+EmCUXBz62Vuvt/coqHQF6oauXxw68w=
+
+Name: icons/full/elcl16/collapseall@2x.png
+SHA-256-Digest: Vx5h16r56NBbPUAxTAiWdEBzUXnT8ZUWpHg4f2a4vow=
+
+Name: icons/full/dlcl16/button_menu@2x.png
+SHA-256-Digest: vQUq4qfh+ve2GGt8oUynUjKMERbv3AJ3f0tNjpLWBt8=
+
+Name: icons/full/obj16/change_obj@2x.png
+SHA-256-Digest: TrT+xNjpFzE4eWFXtJyaw29Zs74AqYwhEdTyrX7prMk=
+
+Name: icons/full/etool16/new_wiz.png
+SHA-256-Digest: qclPE0FHe35O6vUuT2HV1gpETadHYq3UFdT9XX1g4OE=
+
+Name: icons/full/elcl16/trash@2x.png
+SHA-256-Digest: 0ZguAlwyPdL1M3+15VC+AFEiNAcbeFxHvlFlpYeTI4k=
+
+Name: icons/full/wizban/export_wiz.png
+SHA-256-Digest: KcKeORH9cH9OcWPec1y4eiB5eMOe9Iyw0tbNpdupQng=
+
+Name: icons/full/obj16/delete_obj@2x.png
+SHA-256-Digest: 9HM8FRv6ZUhG6baVu4Qs9G4xmBXenLNTUGKubulwGyo=
+
+Name: icons/full/obj16/activity_category.png
+SHA-256-Digest: Pcylrs6PAN6mN/JuP9a8a+jcaCaWQWO1tOwue6XahSQ=
+
+Name: plugin.properties
+SHA-256-Digest: 38mYDFDzQR3ausD9Eo8+3gkIUw+1MgU/EK3RCRa5kbU=
+
+Name: icons/full/progress/lockedstate@2x.png
+SHA-256-Digest: A+Lssyug6wbjtPAAkX5xxYCjWjebKbtgfvrTxDmrVgg=
+
+Name: icons/full/elcl16/thin_show_toolbar@2x.png
+SHA-256-Digest: 2opGQieLrhxSsqD/N+1RNP36NhxPkwR3uvyYKRR6ccM=
+
+Name: icons/full/progress/pview@2x.png
+SHA-256-Digest: t+7K7r6tQUjMeto/FcSUnMhVvjyiR0dgrAx0lnI4E74=
+
+Name: icons/full/dtool16/pin_editor@2x.png
+SHA-256-Digest: 6/Tnr45O4wDaw/jaz5P4N6Mx9vZA72Tf7dWRem+qDkk=
+
+Name: org/eclipse/ui/internal/UIPlugin.class
+SHA-256-Digest: 97D2FYvKNU2dq2z9NwxohQnjY14h4aMkjvj6aqWhKpo=
+
+Name: icons/full/dtool16/fastview_restore@2x.png
+SHA-256-Digest: qBkuESFpKLW6aedA6aIGqECP4SeuuJMkAAyr56WiYPo=
+
+Name: icons/full/etool16/delete_edit@2x.png
+SHA-256-Digest: 9HM8FRv6ZUhG6baVu4Qs9G4xmBXenLNTUGKubulwGyo=
+
+Name: org/eclipse/ui/internal/UIPreferenceInitializer$1.class
+SHA-256-Digest: VH/Wx7vKnN9J3M8VCsnqdl18r7fBDVIgSE1N5ZV26dE=
+
+Name: icons/full/dview16/bkmrk_nav.png
+SHA-256-Digest: uotemlVNLlBPjSZyu4e+hU0oQUjs1OKE9lLXo8SwhvI=
+
+Name: icons/full/wizban/importpref_wiz.png
+SHA-256-Digest: 4/N7rPFX82+zPKYH3aqgZEbZvAY9MUPMzgZMtvTjMYA=
+
+Name: icons/full/obj16/signed_yes_tbl@2x.png
+SHA-256-Digest: qWv8LLougyJ68ja95M/+yMeKq/Lf9mI6jhdkp5uHa+Y=
+
+Name: icons/full/progress/errorstate@2x.png
+SHA-256-Digest: 9+wE1lNWKoKtU+PHUi2KSJ5V83vOVpMlqf1eA4z3hnU=
+
+Name: icons/full/obj16/fldr_obj@2x.png
+SHA-256-Digest: gFS+vGS+IYnnB7LAE2kq908PEf18eMO74/9GcPvPLG8=
+
+Name: icons/full/etool16/paste_edit.png
+SHA-256-Digest: xI6A34DXrF64imwZ2FD7mgnfmtmt6H0YQ/d4KtG54pc=
+
+Name: icons/full/obj16/warn_tsk.png
+SHA-256-Digest: kJzsZiANbPVUJoAceTGU96PYREsoiunfIwsEx6oCb5o=
+
+Name: icons/full/ovr16/running_ovr@2x.png
+SHA-256-Digest: g2cs2WfKXEYLhiKUfNuihkXaXxIdLnxoHF1P/TSpdlw=
+
+Name: icons/full/dtool16/import_wiz.png
+SHA-256-Digest: 3zmz2p3Bp5NxQK1qeIkXe6X7ocU9t3iXjvCJSXhfbaA=
+
+Name: icons/full/elcl16/linkto_help@2x.png
+SHA-256-Digest: mOxCQHgAVZ2vPUnJ/AtSEQ7sm/K58lLf+/O/kPLrPTU=
+
+Name: icons/full/dlcl16/thin_restore_view@2x.png
+SHA-256-Digest: xp7CsA5MiZRpmgjAWGgECOIXpPN8fct/fmPdD7CaHk8=
+
+Name: icons/full/elcl16/close_view.png
+SHA-256-Digest: +9l2ilMyuNxE++cDZu9k9Y5wKuNl+9ORe56R6fEbgWw=
+
+Name: icons/full/elcl16/thin_close_view@2x.png
+SHA-256-Digest: R8vTEYrFrMrWJDNvm/Sdgf55Qv6FvBzVhv0Jz4j+KRc=
+
+Name: icons/full/dlcl16/removeall.png
+SHA-256-Digest: a6reskFEWX25oCzT1scwW73CaIN6otnpmyfpyZ9YJ7o=
+
+Name: icons/full/dlcl16/view_menu.png
+SHA-256-Digest: +p7VsD+0blXtVKFn+RyWp4U7Sxdc7Dglmwb6UxLLuqs=
+
+Name: icons/full/wizban/workset_wiz@2x.png
+SHA-256-Digest: PQQa9A7xieT/xRNv06IyhjTR5/Dase71VIAzpMYIeNs=
+
+Name: icons/full/obj16/font@2x.png
+SHA-256-Digest: KvaUiTcUwx+SyHcKjieFOn10GlQVwk5CC77p6UVDw4A=
+
+Name: org/eclipse/ui/internal/UIPreferenceInitializer.class
+SHA-256-Digest: gvVAhz7gCmkniu7NXiJZzZHQrEQfoPYgWvT/L6Fejjk=
+
+Name: icons/full/dlcl16/close_view.png
+SHA-256-Digest: nTIDXk2DTKU2jyXk/z8DGZXYB0D5V2NgofQKo1XrUts=
+
+Name: icons/full/dlcl16/thin_view_menu.png
+SHA-256-Digest: plmTGifkeo9PWmqAaT0xyEQtqR72NXSH9IZhZqgTZQg=
+
+Name: icons/full/elcl16/progress_remall@2x.png
+SHA-256-Digest: /ur1TfWfrHvLnwUKalRON0jfdl75v3D1NY6LgnWwba0=
+
+Name: icons/full/elcl16/removeall.png
+SHA-256-Digest: ZWFtLPEKtaYdTLo0UmOfQ+cBOm35IqHHQyuHYNiPDk8=
+
+Name: icons/full/elcl16/backward_nav@2x.png
+SHA-256-Digest: LwmSEhvWCxoO0SqL7v/IEO2NyaHRh795IbK4jMEbq7E=
+
+Name: icons/full/obj16/activity.png
+SHA-256-Digest: k+JkU1X3kH26SCjcWPXcG51m/oqDBc0bTjiBfzRbHyk=
+
+Name: icons/full/pointer/tofastview_source.bmp
+SHA-256-Digest: FrNZM7kF6B9BLALDkwxXKvtB9hcrtk4JRjc69DQ+cEY=
+
+Name: icons/full/dview16/tasks_tsk.png
+SHA-256-Digest: Z5NNX3JIm4reOFijU8X3gNqrmT94iZ8d9VecmQn/Xk4=
+
+Name: icons/full/pref/import_wiz.png
+SHA-256-Digest: 5iZ3FM2G/oyPVOUpiIdnyftv8lTts5TQxIlHRPfFCVI=
+
+Name: icons/full/dlcl16/stop@2x.png
+SHA-256-Digest: 4RqXsM45uE7i3DD6idrLyza8v3rF7A+cV89WpezMzWY=
+
+Name: icons/full/elcl16/thin_hide_toolbar.png
+SHA-256-Digest: NTo8bOhwfRu0jNbYUNXprb3VzJ3WpzvQcc0azFSf0XA=
+
+Name: icons/full/progress/progress_ok@2x.png
+SHA-256-Digest: 73A0Me/WGHgLTNaXtl/zS+s5pB+gjlHZiEevh4Hrd88=
+
+Name: icons/full/etool16/clear@2x.png
+SHA-256-Digest: tEUBYtQBQYu++P1J97z7sscdqP2c9IYbjUjF0ze3AfI=
+
+Name: icons/full/dtool16/saveas_edit.png
+SHA-256-Digest: RM2t/AUm+OUz1JgAwO2woQ0avqIa2JUe1Z5lr1ffDc4=
+
+Name: icons/full/obj16/generic_elements@2x.png
+SHA-256-Digest: NUserLNl693B8VB0XmexcQLw/+uug6x5kcEh+7l1WeE=
+
+Name: icons/full/obj16/file_obj@2x.png
+SHA-256-Digest: Mfos1LavB0h+QDqpFXWJpgEwubcY3Uh+98IyS3YJB2g=
+
+Name: icons/full/dtool16/editor_area.png
+SHA-256-Digest: kl9350WXXerrivCzBHtgMJedmKf/G9WaDeVK7W3J2zo=
+
+Name: icons/full/obj16/info_tsk@2x.png
+SHA-256-Digest: oE5PzvEToDnMBdN0MlH1+Pn5tP3tFkkexEq/PsgiE2I=
+
+Name: icons/full/wizban/exportdir_wiz.png
+SHA-256-Digest: v4a4KpcDnxP7phpOIZTXW8Y9PTUQB8f1tf2ptlOjckc=
+
+Name: icons/full/etool16/help_search@2x.png
+SHA-256-Digest: FGDcj8D4OJNhmpUn69kHzQgJ01c2pSdM+hXsPX0g7ng=
+
+Name: icons/full/progress/progress_task.png
+SHA-256-Digest: VPL/Kv3HyKl43MqbQRhK4cDEbHIc4X+GvRz1tyl5a3c=
+
+Name: icons/full/etool16/undo_edit@2x.png
+SHA-256-Digest: 0HnpX5ZMfM7zPIDYfLzrvVkil7AKewJ7BMe/nkPWhMk=
+
+Name: icons/full/dview16/new_persp.png
+SHA-256-Digest: 2nMMBq7A6Vyaek6vIO41RR6XLDFCYSQfkW27w6aH6jA=
+
+Name: icons/full/elcl16/view_menu@2x.png
+SHA-256-Digest: Tq3cS9X7tWSkdiD+8NvhUYfmKfBFoMdiXtfdqkN28GI=
+
+Name: icons/full/etool16/print_edit.png
+SHA-256-Digest: wWBhor5Y3Wdjwnp92r7vNj5zPhIgsB6KwhfVoXtF5rc=
+
+Name: icons/full/elcl16/thin_min_view.png
+SHA-256-Digest: HUGNyQTV6t45EzduTGbtozrRZeKmr39gy0m3OFHBDz0=
+
+Name: icons/full/pointer/top_source.bmp
+SHA-256-Digest: Kiw2vhADPmpBrE8rSU8NHlAJYwgovDhClUxm7mlcU2M=
+
+Name: icons/full/eview16/new_persp.png
+SHA-256-Digest: fsYvam0leDohCYHEGK6GXX6RFjoW0C/2gtzwMrK+9pY=
+
+Name: icons/full/obj16/theme_category.png
+SHA-256-Digest: KnbDVE44YVIgl2W/qRY6qn5CuwloJIrhsxgifIS5XWU=
+
+Name: icons/full/wizban/importpref_wiz@2x.png
+SHA-256-Digest: WP14rmi7G+/KAsIwHJBG7FtrtJJ2t/NZPxpELdrEy7g=
+
+Name: icons/full/dtool16/paste_edit@2x.png
+SHA-256-Digest: rNHywwPCjTf6JceF3Ci2pr3BlmRnmExZlUn9d/P0Onk=
+
+Name: icons/full/obj16/elements_obj@2x.png
+SHA-256-Digest: wyjZZEcr2M76xaig1caQIGAECMmKOpCi4wmBzWhs4J8=
+
+Name: icons/full/progress/progress_error@2x.png
+SHA-256-Digest: oQPT39Bip3rZzmD4RvOUsxOTcGWYmxnRUA4OiRwBzp8=
+
+Name: icons/full/dlcl16/expandall@2x.png
+SHA-256-Digest: 5I+2v/leILeBrF0Pt/Er8UllvwWc9GBsLl1HkYqfeR8=
+
+Name: icons/full/etool16/tricks@2x.png
+SHA-256-Digest: thahLsjAfSHiau/F8YkCpx2mV0yM+o1UqEkB3LHjFrg=
+
+Name: icons/full/elcl16/progress_remall.png
+SHA-256-Digest: ZWFtLPEKtaYdTLo0UmOfQ+cBOm35IqHHQyuHYNiPDk8=
+
+Name: icons/full/dlcl16/thin_max_view.png
+SHA-256-Digest: w/JqOW717WcSafFYVAddcbM32T2WfvqN5t1c1EKb56s=
+
+Name: icons/full/dtool16/import_wiz@2x.png
+SHA-256-Digest: AEBQKG0lZ0gPiK0I6XqbK2LE4f5JnM7JtThh2iFd1ek=
+
+Name: icons/full/dtool16/saveall_edit.png
+SHA-256-Digest: HvCJL+Z2SJeAw3gDgSUWd+xMDte6L6ZXqHZi8CVsKq8=
+
+Name: icons/full/ovr16/lock_ovr.png
+SHA-256-Digest: S+RnMZks/YCEEfNxJNqLUDfv71Os1eLxXsQFBQfZ9uo=
+
+Name: icons/full/eview16/tasks_tsk.png
+SHA-256-Digest: ZsdQ+xwWIymuOdy0U7xy5WEXmOCLE+R/MyUsMVMWjr8=
+
+Name: icons/full/dlcl16/up_nav.png
+SHA-256-Digest: mj92QSqM0qOrCf5yHl8mlng6FRmPSLCbQ31p1OR/U6U=
+
+Name: icons/full/pointer/invalid_mask.bmp
+SHA-256-Digest: X2UNsAFyN17pkxcGRHRazw7FU2rPmD/upnQJhhqOjXo=
+
+Name: icons/full/dlcl16/collapseall.png
+SHA-256-Digest: Wiv1ZAOyCdLGggoNxZa9l3PXnvsAvAogprVwM70Iucw=
+
+Name: icons/full/dtool16/help_contents@2x.png
+SHA-256-Digest: iT6Bax9p+PGxbuGoJjr+GhXYs+v+ij32z0GFmgtTZfk=
+
+Name: icons/full/elcl16/pin_view.png
+SHA-256-Digest: wDX115Nm8FJIgi9G45iawsbIzrvJbXpUWRV5dlSQjIM=
+
+Name: icons/full/etool16/clear_co@2x.png
+SHA-256-Digest: tEUBYtQBQYu++P1J97z7sscdqP2c9IYbjUjF0ze3AfI=
+
+Name: icons/full/dlcl16/trash.png
+SHA-256-Digest: 16/NfL0QpW58FvLzPvdauYWwaZY+ZI1MXu0GuA4kzNg=
+
+Name: icons/full/dtool16/help_contents.png
+SHA-256-Digest: 9NdeQJQJVOFJcE6XV368jvffcMa5lteM1B5qoUooFY8=
+
+Name: icons/full/dview16/problems_view.png
+SHA-256-Digest: WEvu8toaOO212qz46UKmeNgdw3CyvoNp4pGC6rJrkb8=
+
+Name: icons/full/etool16/new_fastview.png
+SHA-256-Digest: r+G8KeU+Rtx3NCbsP7BEdiUnSJiQIAFjTbIXh17o0v4=
+
+Name: icons/full/eview16/prop_ps.png
+SHA-256-Digest: vj6900YEUuMWHV2TumAc7ZAkC1YV8UkgLl1yayefYQY=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: icons/full/ovr16/pinned_ovr@2x.png
+SHA-256-Digest: LAesliVsQ6SORgzvVtga/686yfq8w9WHTAojAsVTC+U=
+
+Name: icons/full/pointer/stack_source.bmp
+SHA-256-Digest: GSIWcqscd9Ul/EurCYzOYVIy5R8ltO1JTNSPgJZ9yis=
+
+Name: icons/full/obj16/delete_obj.png
+SHA-256-Digest: Gwu8dDr3pOBiNR38D/qlfAbqd3O9zBiuJnFnCkL27G4=
+
+Name: icons/full/elcl16/thin_close_view.png
+SHA-256-Digest: kat3NikR1q01pJURyC7Y+y1NR7yOMGRVYrjhTk8W9xg=
+
+Name: icons/full/elcl16/stop.png
+SHA-256-Digest: TgespLO7+J7KbLlA4NeQt2XkeyidzEHE4RlJ9Te/xf8=
+
+Name: icons/full/obj16/keygroups_obj@2x.png
+SHA-256-Digest: h/Sqi2zDErkgXUADKujeRubbMTVCYJ3SGX9X6iUodNw=
+
+Name: icons/full/eview16/default_persp.png
+SHA-256-Digest: mJDczRmTKwOeIG4MsFXoyPQ1lKpfVuQKnoeqPKuN44U=
+
+Name: icons/full/dlcl16/pin_view@2x.png
+SHA-256-Digest: EYAuKSqeXzJ/B1o1l8u0pU7PZ4klqbBTWzywbXsTMzc=
+
+Name: icons/full/dlcl16/thin_hide_toolbar.png
+SHA-256-Digest: ZSfUvSZDBAG72JEEys/pyQ/KFGeTzvl8uQZKNubZgn8=
+
+Name: icons/full/elcl16/progress_stop.png
+SHA-256-Digest: TgespLO7+J7KbLlA4NeQt2XkeyidzEHE4RlJ9Te/xf8=
+
+Name: icons/full/dtool16/cut_edit@2x.png
+SHA-256-Digest: UzZL0RyBGDfdeP/F0X0p/NGeXiSsGXVnE4b+ETqRSGU=
+
+Name: icons/full/eview16/filenav_nav.png
+SHA-256-Digest: mnEL/Yh0FiHrlR70MMfSuhSgLzoD6JC+TQjsCrrj8ug=
+
+Name: icons/full/dtool16/pin_editor.png
+SHA-256-Digest: CUXXjdX3wVEMDYs9jSPgU+dpKyPfINVWMrve7v2y6II=
+
+Name: icons/full/obj16/menu@2x.png
+SHA-256-Digest: ekBZOYwvmeXnjGh+iLIE+Fk7/3JaA9hCFOQhKUrNomY=
+
+Name: icons/full/dtool16/delete_edit.png
+SHA-256-Digest: w4eNd/byn2wAkaKhlXBjBuCjtAcaJG1DjicGfpLpEj8=
+
+Name: icons/full/elcl16/step_current@2x.png
+SHA-256-Digest: RvPkHW6BUMppVlB5OG5soYAdUVH21T92UaDkNfP6ksI=
+
+Name: icons/full/obj16/menu.png
+SHA-256-Digest: 6lOJ8x5Au0O+wREm1Dx59McH3J4bGWEIoZrfYKwxg4I=
+
+Name: icons/full/obj16/signed_no_tbl.png
+SHA-256-Digest: TDYu+0Nd2S7Qs+10AIuic5J5OjPS5OP4rAIq8Zd3Tfc=
+
+Name: icons/full/pointer/offscreen_source.bmp
+SHA-256-Digest: 8VdfHKDk7asgAb7jqmFdJPIjjkb8k3HdIt2y70sUIbI=
+
+Name: icons/full/pointer/offscreen_mask.bmp
+SHA-256-Digest: 8yBKWGoQNbLozk4FL6NkIClqMp5pDgR9lFkdAFI2m34=
+
+Name: icons/full/dlcl16/close_view@2x.png
+SHA-256-Digest: R2EgSedu1KQcSg3rlOiDVwiZGlr1dM+hEn86JvCRrUc=
+
+Name: icons/full/dlcl16/thin_close_view@2x.png
+SHA-256-Digest: NPlWJCiwRY79TQ0hLjFeOaLuFEWi9b2n0BRQ5rqmeCk=
+
+Name: icons/full/dtool16/redo_edit@2x.png
+SHA-256-Digest: EVUSQ1mNFV18Y7RLdu3uWSHiRnPYt+wbqmYeX6txLqU=
+
+Name: icons/full/eview16/outline_co@2x.png
+SHA-256-Digest: 7TcsQM0QtE+iLJYkYzqSpy7y/qG04FP9jydtrbvaWKQ=
+

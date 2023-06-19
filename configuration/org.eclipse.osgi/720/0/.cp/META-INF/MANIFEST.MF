@@ -1,0 +1,610 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.text
+Bundle-Version: 3.12.200.v20220817-1340
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.jface.text; text="split"; mandatory:="text",
+ org.eclipse.jface.text.link; text="split"; mandatory:="text",org.eclips
+ e.jface.text.projection,org.eclipse.jface.text.source; text="split"; ma
+ ndatory:="text",org.eclipse.jface.text.templates; text="split"; mandato
+ ry:="text",org.eclipse.text.edits,org.eclipse.text.templates,org.eclips
+ e.text.undo
+Require-Bundle: org.eclipse.core.commands;bundle-version="[3.5.0,4.0.0)"
+ ,org.eclipse.equinox.common;bundle-version="[3.5.0,4.0.0)",org.eclipse.
+ equinox.preferences;bundle-version="[3.7.0,4.0.0)",org.eclipse.core.run
+ time;bundle-version="[3.14.0,4.0.0)"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: org.eclipse.text
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.text.git;path="org.eclipse.text";tag="I20220817-1800";co
+ mmitId=c407b4abec73bf9a8e5d6aaa87086922c2860c7a
+
+Name: org/eclipse/jface/text/IDocumentInformationMappingExtension.class
+SHA-256-Digest: DY+DheRIJKkQIMpZ+tNKB8rzmiBbub+0fQUiLLfQBxM=
+
+Name: org/eclipse/jface/text/projection/ProjectionTextStore$ReusableRegi
+ on.class
+SHA-256-Digest: v0W5DhVJAEnoDCpSyfsgT5x+TLSOGMdnVOC5APEW+C4=
+
+Name: org/eclipse/jface/text/Position.class
+SHA-256-Digest: B8yTQXsAMNz3Qp4Ol8C15BavokiWKNKd2DoW+ptCjys=
+
+Name: org/eclipse/jface/text/ITextStore.class
+SHA-256-Digest: 7v5LtuFqBdn6ZQGp+zGG+eZQgiD4rAoyje4fGeb3IpI=
+
+Name: org/eclipse/jface/text/templates/TemplateContext.class
+SHA-256-Digest: 5FxBXiRyJtejoz59dpcxMmX8f2/D1eL+XE8G9WxZdD8=
+
+Name: org/eclipse/jface/text/MultiStringMatcher$MatchResult.class
+SHA-256-Digest: U96UaAqZshwO07aSfnkj7C2IeREXqPBJXmOT6INMHHM=
+
+Name: org/eclipse/jface/text/IDocumentPartitionerExtension3.class
+SHA-256-Digest: +tz58+bnRP4er3si/5Z1VutXlBppWzelVbfL1043Tyk=
+
+Name: org/eclipse/jface/text/TreeLineTracker$Node.class
+SHA-256-Digest: cd6EkyzaD6gMHcCrs6s7OuS+KgWSx1+EmejMM5d043U=
+
+Name: org/eclipse/jface/text/source/IAnnotationMap.class
+SHA-256-Digest: EG44L9d826/3SZ7M5gC/FpMnOn0QU0q0bc/8NV1ksG8=
+
+Name: org/eclipse/jface/text/IDocumentPartitioningListener.class
+SHA-256-Digest: a6SivqJkm9hf20TzV5RljRpIu6VVdAny0y5yaMtW3qQ=
+
+Name: org/eclipse/text/undo/DocumentUndoManagerRegistry.class
+SHA-256-Digest: 3Zd/3CK0lCru4oZcDDWodEFOQ80MZvvgnYn/o3z471Q=
+
+Name: org/eclipse/text/edits/TextEditMessages.class
+SHA-256-Digest: Scr8g4ffBChUH7RiDxyLWQ41MHzmO4GTND60/nBDwXg=
+
+Name: org/eclipse/jface/text/BadLocationException.class
+SHA-256-Digest: Mw8rSNPQBRyYa6rZ9xW/ss+0fNtrY2sdrGrX5b1doVU=
+
+Name: org/eclipse/jface/text/TextUtilities.class
+SHA-256-Digest: Wk3pVxNKktvfJabLXlsfzWiA0ctMLKgZDS2X0SiHjRE=
+
+Name: org/eclipse/jface/text/AbstractLineTracker$1.class
+SHA-256-Digest: hhqrPEMqP87sDgmWWAYxEplNEa8kwEC8NrsrRBQns/I=
+
+Name: org/eclipse/jface/text/templates/TextTemplateMessages.properties
+SHA-256-Digest: UghHicpn120gv0Jrxpbb7jRNszB3nw5Wq3a22xP1rlo=
+
+Name: org/eclipse/jface/text/AbstractDocument.class
+SHA-256-Digest: FKkDmyoBTcrOwxNQluvpL6akYVoBjmbFx+qLKJ+bF1c=
+
+Name: org/eclipse/text/undo/DocumentUndoManager$HistoryListener.class
+SHA-256-Digest: tYfis/CiwRKMBsN/g5geOXiTaZibLOnPMHRovsEFidM=
+
+Name: org/eclipse/text/undo/DocumentUndoManager$DocumentListener.class
+SHA-256-Digest: uW+2ZjpWPTfmKgxUjU5DqCPmxgkEn3d1p9cVz9AVgU4=
+
+Name: org/eclipse/jface/text/ITypedRegion.class
+SHA-256-Digest: A27Iymj9qGNHPvdoQvasqRQfPVF/RPKK9j1XCniMiGs=
+
+Name: org/eclipse/text/undo/UndoMessages.properties
+SHA-256-Digest: ANQb81yY80dl+PkToWga8VmAR0iygw+g6+7WEEqFRm4=
+
+Name: org/eclipse/text/edits/TextEditGroup.class
+SHA-256-Digest: n1yq8THZm/FdogNss80nU4GM5wsztLb9QAr61HbXIss=
+
+Name: org/eclipse/jface/text/link/LinkedPosition.class
+SHA-256-Digest: y5ZGuU6e/7R4RVLHKJGUKzvrnUomPbUuKvayhdPol8M=
+
+Name: org/eclipse/text/undo/DocumentUndoManager$UndoableCompoundTextChan
+ ge.class
+SHA-256-Digest: AD8idcB9kPZIgNV8DYyaE7ANeZlYrNT+/lMpXMVe3X4=
+
+Name: org/eclipse/jface/text/MultiStringMatcher$BuilderImpl.class
+SHA-256-Digest: 41y9Tf1eJ3dZukJeb+cz+VRyxRRDWV9CYc/VWsLq4u4=
+
+Name: org/eclipse/text/undo/IDocumentUndoListener.class
+SHA-256-Digest: GfivWcEpvyL2ypHh2ug2JRSdfdhy/bNXHIaEUQSZTDU=
+
+Name: org/eclipse/jface/text/projection/FragmentUpdater.class
+SHA-256-Digest: AeIXCXD7laNxyP/ZXFsjJTyWYcJ+jcrS4NFpYVlbBRg=
+
+Name: org/eclipse/jface/text/DocumentPartitioningChangedEvent.class
+SHA-256-Digest: 0qhQN/z1dlasFtDQi0qINzWzbaT1wFY9apuv+XEACcA=
+
+Name: org/eclipse/jface/text/IDocument.class
+SHA-256-Digest: mEtcVzkRF/zvMualiwNLcPNghshRe3cp8jaUcCPBkGg=
+
+Name: org/eclipse/jface/text/templates/GlobalTemplateVariables$Cursor.cl
+ ass
+SHA-256-Digest: V8zLn2r3+SWfqeQaH6znBZgvxZlE4CY+oG0NZue+81c=
+
+Name: org/eclipse/jface/text/SequentialRewriteTextStore.class
+SHA-256-Digest: 2VqdVZnUxQgPD9VZlAtiC9GsGYjkPUlEQlkNRI+PL1Q=
+
+Name: org/eclipse/jface/text/DocumentRewriteSessionType.class
+SHA-256-Digest: a/wk8EtSDA7Mz9IzG4jyovxJfYCHAmzGr7Rbdw5skpQ=
+
+Name: org/eclipse/jface/text/DocumentRewriteSession.class
+SHA-256-Digest: 6mHNb+teGUbtLs+2d3wnFEZfMZ8bAe9UQEtwm+96r3Y=
+
+Name: org/eclipse/jface/text/templates/TemplateException.class
+SHA-256-Digest: EVZcXjqqqbnIpx19TfLaZD42l2u+LVxE26B8P4BxDEM=
+
+Name: org/eclipse/jface/text/BadPartitioningException.class
+SHA-256-Digest: IALv2St0PF/AVUWvvIy+q7Dmg5u0Dtguxuf6egrQNvE=
+
+Name: org/eclipse/jface/text/IDocumentExtension2.class
+SHA-256-Digest: NCd5lYTMIzzPZVLVToZqYDKgzj+e7e26/gxvM3ZmWzo=
+
+Name: org/eclipse/jface/text/IRegion.class
+SHA-256-Digest: NAb6buA3W8/j9qbmU06wC5dmp+GbI8jdvlIbgov+nRk=
+
+Name: org/eclipse/jface/text/ILineTrackerExtension.class
+SHA-256-Digest: BavLQdRCTxOgXotQ0qGSs7OPqxyD3QhI7fPLSHAKZvQ=
+
+Name: .api_description
+SHA-256-Digest: jG7szfr3Pn6xqo8Sg06j2XV/izBIOlSdSXhdNEk+DDo=
+
+Name: org/eclipse/jface/text/templates/TemplateContextType.class
+SHA-256-Digest: 3C48rhC32TIkmIcyklGG39ZSiEj6d0ZxFPImIqnyuuc=
+
+Name: org/eclipse/jface/text/projection/ProjectionMapping.class
+SHA-256-Digest: 4G1IKocN7hRKryEeBDFmzhFZ8sxGkSkX+OxGDB8grfA=
+
+Name: org/eclipse/text/undo/IDocumentUndoManager.class
+SHA-256-Digest: PJdd9FeRPQc6qD6pVXyuJZ4rsINIdrrj3/nVc5Kg67w=
+
+Name: org/eclipse/jface/text/source/AnnotationModel$AnnotationsInterator
+ .class
+SHA-256-Digest: 8JAu3FlpbwEX+xLvNlkSae0g8Cc8ck9u2e1aOs5E5SE=
+
+Name: org/eclipse/text/edits/TreeIterationInfo.class
+SHA-256-Digest: yAWotxJIUZptS5csihJyKr8Tw9mPPogT54NhFRg2VAI=
+
+Name: org/eclipse/jface/text/templates/DocumentTemplateContext.class
+SHA-256-Digest: 41iC4FHXm48PwxAxu3taj4NSFMLsoiYuKpYYJ7/ziAU=
+
+Name: org/eclipse/jface/text/DefaultLineTracker.class
+SHA-256-Digest: DED+rmf9DwEDsygTlkAL39zD44+2Hq15G1pgKP6IR18=
+
+Name: org/eclipse/jface/text/GapTextStore.class
+SHA-256-Digest: RBDLh4KvV8TJC8ixJD8zWakr5MXDlpmFdv0YGRxBrbk=
+
+Name: org/eclipse/jface/text/projection/Fragment.class
+SHA-256-Digest: Ibcy+/IYSLXQ70itXpKN2cP9UM1VgwVmy+wa+cTUNFE=
+
+Name: org/eclipse/jface/text/ListLineTracker.class
+SHA-256-Digest: B5IeDHbChS3odgiMlkmuyqk+bEpcACFNFwevRitmaHI=
+
+Name: org/eclipse/jface/text/SlaveDocumentEvent.class
+SHA-256-Digest: MsLDQ4htfwie4IyBKn2MxrVre6a4NvV2Zk+VUDUZTWo=
+
+Name: org/eclipse/jface/text/link/LinkedModeModel.class
+SHA-256-Digest: G0OBVpLE1SA67k9cDU5mbgSlyh6/iDjqNrcehnJuswg=
+
+Name: org/eclipse/jface/text/templates/GlobalTemplateVariables.class
+SHA-256-Digest: p2/ip0qRsoQcMpsjsS0njj0eg7C+1KeMFZpK7tEFlzY=
+
+Name: org/eclipse/jface/text/projection/ChildDocument$VisibleRegion.clas
+ s
+SHA-256-Digest: zND/MC+HvaPz/nGMjZYXA2W08pWnQMumYNAXPPJz3Uo=
+
+Name: org/eclipse/jface/text/DefaultPositionUpdater.class
+SHA-256-Digest: De7mXfaFRIHHzdG2xamohXvW3TPUpGOW2XJc4Ypn+iE=
+
+Name: org/eclipse/text/undo/DocumentUndoManagerRegistry$Record.class
+SHA-256-Digest: AmlYfAuRxu50vATvlWMJzWB5zNHuPbrJ6QpckZaIX9g=
+
+Name: org/eclipse/jface/text/source/IAnnotationModelListener.class
+SHA-256-Digest: y3tVf/3rDCDE79pS2pFKAkZUYd6O+6fCboF6VzvjCsI=
+
+Name: org/eclipse/text/edits/ISourceModifier.class
+SHA-256-Digest: dzry5d95rmpym02AKfTkMPKGEY6wxpBd+rpCdJsW/So=
+
+Name: org/eclipse/jface/text/IDocumentExtension$IReplace.class
+SHA-256-Digest: gjfCRS4i9qxOIWwr0TvmN83V7qEEdyilseYHH+ek+s0=
+
+Name: org/eclipse/jface/text/IDocumentPartitioningListenerExtension2.cla
+ ss
+SHA-256-Digest: GAWMEnhae04gfPWt2mLeRVQQSXs3Y8iPK6B2Vyac93E=
+
+Name: org/eclipse/text/edits/MultiTextEdit.class
+SHA-256-Digest: ajDwTXl2Hz/JyT6xTmNy+QAmsA4eO2TROZbAPeq8LTA=
+
+Name: org/eclipse/jface/text/templates/TemplateTranslator.class
+SHA-256-Digest: ZmdddIK9Us2IMmNCIUz34LgiE5UnBd4IrDLMUn5omNI=
+
+Name: org/eclipse/jface/text/FindReplaceDocumentAdapter$FindReplaceOpera
+ tionCode.class
+SHA-256-Digest: CLf0bAL/f6AjYhcvWBV6lgsLxmH2bZdZWUJru5yBSL4=
+
+Name: org/eclipse/jface/text/IDocumentPartitionerExtension.class
+SHA-256-Digest: YpibdtQrvw0NUeLnUQyfwlf1LZkoKjs5eO+UnADHIHo=
+
+Name: org/eclipse/jface/text/Line.class
+SHA-256-Digest: Md6eIsqV5ARz0W1+PNIJ/NOlHUUqGVRljIiIgvt4kI0=
+
+Name: org/eclipse/text/edits/CopyingRangeMarker.class
+SHA-256-Digest: ATodB2z7Ym7GCk8PC3IxY4WCqNYr5YUcvze98Kv5nVo=
+
+Name: org/eclipse/jface/text/source/AnnotationMap.class
+SHA-256-Digest: QZmuRkfpUEN2Xi+b+zj88dfNgSiROO0wI6g/QavZlFg=
+
+Name: org/eclipse/text/edits/CopySourceEdit$PartialCopier.class
+SHA-256-Digest: kdOloApAIVkSf9JfwRx8ZVofwxeuMGXA9TewS0pavD8=
+
+Name: org/eclipse/jface/text/templates/SimpleTemplateVariableResolver.cl
+ ass
+SHA-256-Digest: B/Kx6Ar9Z0RrHptUNjnzd7eUACBz33JMKnQ8dIXxcvU=
+
+Name: org/eclipse/jface/text/Document.class
+SHA-256-Digest: S3PN5CJ4IUv5jMmYYyCDKRkTYDLGczIl9HhKDbCQtjA=
+
+Name: org/eclipse/jface/text/BadPositionCategoryException.class
+SHA-256-Digest: EoGbzBo6mgDpnzTdPRp+nchTHGxySgqviZPERnwCKYo=
+
+Name: org/eclipse/jface/text/TextMessages.class
+SHA-256-Digest: eCSkOEsM7cnqtduOQxjZ/UqZGkrbbC7HZ19xmJmt90k=
+
+Name: org/eclipse/jface/text/IRepairableDocumentExtension.class
+SHA-256-Digest: lJw/DIL1au1UF4SZ+RVxSRAae+eGMjT8ruZ35eYtzEs=
+
+Name: org/eclipse/jface/text/AbstractDocument$RegisteredReplace.class
+SHA-256-Digest: syzQjyrCSTrmeHYCACmGmNAcPezTECYOM+0d6tLnB/w=
+
+Name: org/eclipse/text/edits/CopySourceEdit.class
+SHA-256-Digest: 8xU2ho/ooRgh0XrZlFhfeXICiMiIOog0ltTZllyqdQs=
+
+Name: org/eclipse/jface/text/FindReplaceDocumentAdapter.class
+SHA-256-Digest: GdrOziJUISMjqlguROlOXrZ2Rb7/yP+C70ASy3nhBSU=
+
+Name: org/eclipse/jface/text/IDocumentExtension4.class
+SHA-256-Digest: NUygsKW4mlsEOhuQD1MfK+OTcK2WH6s/suzfIQqbQfQ=
+
+Name: org/eclipse/jface/text/templates/GlobalTemplateVariables$User.clas
+ s
+SHA-256-Digest: SMmxpJBtVdmvnHjW3SEJQNkZ8jCPEh67Li3WvkBtKE0=
+
+Name: org/eclipse/jface/text/MultiStringMatcher.class
+SHA-256-Digest: ZVz61MZcYZx4Geg/vTn9+OJqjpNshPi4/SMeP9Zyv0o=
+
+Name: org/eclipse/jface/text/AbstractDocument$1.class
+SHA-256-Digest: NZhZrlbp7anNTj5WM9SnpYM5qe1piZZacT4aow92lPw=
+
+Name: org/eclipse/text/edits/EditDocument.class
+SHA-256-Digest: nRMv+zbbd+YjJPIO+k4Htcc71LJyTdW7+cbkSIR0/OY=
+
+Name: org/eclipse/text/templates/TemplateReaderWriter.class
+SHA-256-Digest: BDmzIccbz4yg8zLgGaVg9f2iRlNY9l1H5hXnsP1ZwD0=
+
+Name: org/eclipse/text/undo/UndoMessages.class
+SHA-256-Digest: R/oIldrseORGer8LV+UyeglNLJ0ACPObuaAhf2KKDLo=
+
+Name: org/eclipse/jface/text/IPositionUpdater.class
+SHA-256-Digest: HIPp/BE46bOUBXSoc21yD2f3xY3BIdPWANzaW01jsy4=
+
+Name: org/eclipse/jface/text/templates/TemplateVariable.class
+SHA-256-Digest: 1Swr8oghPPTrRFcKyk1hmMGvcJhLR6j22VeThy0O4Mc=
+
+Name: org/eclipse/text/edits/CopyTargetEdit.class
+SHA-256-Digest: T/1UpQK7vxpcdmQJ7ZTSNX+9OnBZeB7hu7CdY0Tynes=
+
+Name: org/eclipse/jface/text/source/AnnotationModelEvent.class
+SHA-256-Digest: kvfsbB5rEvbrJzZ0B/r2R87AakpYt8eZCMM/NZwLsGM=
+
+Name: org/eclipse/jface/text/templates/GlobalTemplateVariables$Year.clas
+ s
+SHA-256-Digest: hzKUcD6WPdCdYswiw+yY7EtYFaSabYRx5VT2DdmLIwc=
+
+Name: org/eclipse/text/edits/Messages.properties
+SHA-256-Digest: x1Obk6O1Qpmd8v9GGJX+YAL17+uOM3gtFgpBJPzqvgU=
+
+Name: org/eclipse/jface/text/templates/GlobalTemplateVariables$WordSelec
+ tion.class
+SHA-256-Digest: bw8j8eoT75A2vXTHif7Mmr0jG2O2oXNQlhudDXRt6/8=
+
+Name: org/eclipse/jface/text/templates/TemplateBuffer.class
+SHA-256-Digest: IhNch7VdcNtVXzNTGoEahabLnou8OAztUBvlf1wf3U0=
+
+Name: org/eclipse/text/edits/ReplaceEdit.class
+SHA-256-Digest: npPDSISTwdwhfGT+/9PA1MWQqXNYVCF75k08tnQUF8A=
+
+Name: org/eclipse/jface/text/source/AnnotationModel$InternalModelListene
+ r.class
+SHA-256-Digest: UFQwtU2eUmv+cwUQamAf8Rr7jhojYlg6XV9RWwCPK7Q=
+
+Name: org/eclipse/jface/text/templates/Template.class
+SHA-256-Digest: 23reGwKQxKIO8+UKnYSEvnMXaWSGDSC8EsN2bYl1jWo=
+
+Name: org/eclipse/jface/text/projection/ProjectionDocumentManager.class
+SHA-256-Digest: htfxkFWMbuK6MzIXGR5Ga7/BszVRIYsvv4tzBHmh2V4=
+
+Name: org/eclipse/jface/text/link/LinkedModeModel$DocumentListener.class
+SHA-256-Digest: HFRatdmT46s3gVTfp3rUKh7zmq7hzvisGFUTKzu6g3U=
+
+Name: org/eclipse/jface/text/MultiStringMatcher$Builder.class
+SHA-256-Digest: E6mb3BnBW3l3mTKZrrN+gKe8cW3J04/VO+9j+SfWFd4=
+
+Name: org/eclipse/jface/text/RewriteSessionEditProcessor.class
+SHA-256-Digest: eNApwp2rxBC3F2hrO4/HVXgo+lva+SDz0SQaCKJxHFM=
+
+Name: org/eclipse/jface/text/ILineTracker.class
+SHA-256-Digest: HyQnkpK4qtMTeM8RnXJmMiZYE7IpsS3rPUR/vqPzIk4=
+
+Name: org/eclipse/jface/text/templates/GlobalTemplateVariables$Time.clas
+ s
+SHA-256-Digest: DNL2r+WCMrPrlfMcuImhRJWKCMcBnEEjPXao8+diQko=
+
+Name: org/eclipse/text/templates/TextTemplateMessages.properties
+SHA-256-Digest: jT8XN6Auf1Rz7Le2RRRYM0YSi6ySRawEYO0wg/YkiSk=
+
+Name: org/eclipse/jface/text/IDocumentInformationMappingExtension2.class
+SHA-256-Digest: vqcsg3wtzIfFMqyR4RI/6VVjRQB+d1/q9yBh1MwHILY=
+
+Name: org/eclipse/jface/text/DocumentEvent.class
+SHA-256-Digest: gJCgOSNhbfuwDftsbmTYCSeEFyAZGA9P9xZ8Qtms89U=
+
+Name: org/eclipse/jface/text/IDocumentExtension3.class
+SHA-256-Digest: Tt2nXN4uqkFEmKEGbt5SChF91r2+dEpVKU4jB1cIPRo=
+
+Name: org/eclipse/text/undo/DocumentUndoManager.class
+SHA-256-Digest: fob11iuE+OZm3Ohm2DbHwB4k81dtocIwC1Dq6RVfr7s=
+
+Name: org/eclipse/jface/text/AbstractLineTracker$DelimiterInfo.class
+SHA-256-Digest: MLTuGjMZ/kAhvTKBlGWjB13e2bdlsYJdUUbXT7NOTRQ=
+
+Name: org/eclipse/jface/text/IDocumentPartitionerExtension2.class
+SHA-256-Digest: JN5aD5udW7Mrp94TjzkrSlzV4P+recGMPsk7tLxK/zQ=
+
+Name: org/eclipse/jface/text/templates/GlobalTemplateVariables$Dollar.cl
+ ass
+SHA-256-Digest: gFGoZarQbuxucNLAo9OMFSWikP5zg/zOc6lZkuKp/04=
+
+Name: org/eclipse/jface/text/source/IAnnotationModelListenerExtension.cl
+ ass
+SHA-256-Digest: paJu+E8PbTUOtxRGdhG30r3tPBmkzRmH822zpXh3yJ4=
+
+Name: org/eclipse/jface/text/ISynchronizable.class
+SHA-256-Digest: tqIwHxTiTYuY70HEi/PThN08IsOUnB0FjtymKxPsODk=
+
+Name: org/eclipse/jface/text/IDocumentRewriteSessionListener.class
+SHA-256-Digest: jfFt/nnn8aNEyyl38wYR+TXfMRU2/bdk9BbiinlC594=
+
+Name: org/eclipse/jface/text/DocumentRewriteSessionEvent.class
+SHA-256-Digest: vriWB4Hg96V5l7iwdMyZL6EGsDR3PEblSsU1T0ynhSQ=
+
+Name: org/eclipse/jface/text/IDocumentExtension.class
+SHA-256-Digest: T8yjf+2J4RzkSCRzVLrcTcaAWvcKKBCa1Yx0eYAkJE8=
+
+Name: org/eclipse/jface/text/Region.class
+SHA-256-Digest: UCT4MY3Gcc1KNgpPXnVk0TflKSvjcI2jEopz3ESB3/c=
+
+Name: org/eclipse/jface/text/RewriteSessionEditProcessor$SizeVisitor.cla
+ ss
+SHA-256-Digest: Vj+Ng4ap7mU4cqU01k2/AcXZQCwFG4GoUre0xt6Uy9c=
+
+Name: org/eclipse/jface/text/templates/TemplateVariableResolver.class
+SHA-256-Digest: QpMtGCh3ZcRRlEAhRXteRghky8050GSZ1SuwwU22z98=
+
+Name: org/eclipse/text/templates/ContextTypeRegistry.class
+SHA-256-Digest: DPgQpVIaupkNOahACSIPKOstqN8Gz4F2zc/8yunvVpM=
+
+Name: org/eclipse/jface/text/link/LinkedPositionGroup.class
+SHA-256-Digest: O9ju6uk0V2rylrCsZBG1A/KXBwE+Ljqo+Qn/sn7cWDA=
+
+Name: org/eclipse/text/edits/UndoEdit.class
+SHA-256-Digest: NN5fHetAhXqqDLSsDavfYPtS04rZupC80rNwlPGIlZs=
+
+Name: org/eclipse/jface/text/projection/ProjectionTextStore.class
+SHA-256-Digest: YYzJ1pg2dH0XsO1KV+MZz3VCRcymAy05eNYKUyOd9IM=
+
+Name: org/eclipse/text/edits/MoveTargetEdit.class
+SHA-256-Digest: RcTGfWQgutAbhAutjCSd7nFeR4J6VwsxwL64CSlsi7k=
+
+Name: org/eclipse/jface/text/link/LinkedModeModel$Replace.class
+SHA-256-Digest: 66gmgTzT7XlIgVZZpqPeJ7zT2wobJp7E6Jyr/0z267c=
+
+Name: org/eclipse/jface/text/CopyOnWriteTextStore$StringTextStore.class
+SHA-256-Digest: +hy0QyeQFMEABNgnm206JYjUCTbQYcuBfm6JM1/kziA=
+
+Name: org/eclipse/jface/text/projection/ChildDocumentManager.class
+SHA-256-Digest: cTEP/PYqap4Ds4flWD4h79VMaL648DSlIV0D8oeQ1FU=
+
+Name: org/eclipse/jface/text/ISlaveDocumentManagerExtension.class
+SHA-256-Digest: ZIMSDvL3IodcCmxfeyYv36Dm7LkzjnOZsVJ7qYtuGAU=
+
+Name: org/eclipse/jface/text/link/InclusivePositionUpdater.class
+SHA-256-Digest: CirH1fWFDJku7ntrAQxsRAA3juD2emtubUBOJuKuIzE=
+
+Name: org/eclipse/jface/text/templates/GlobalTemplateVariables$LineSelec
+ tion.class
+SHA-256-Digest: e8QHKP9cFqH4V7VKM214gvk3EPg3WUyXiKNVOj5ecng=
+
+Name: org/eclipse/jface/text/MultiStringMatcher$1.class
+SHA-256-Digest: nA6SdoiM0oGTRzez3IfoXZ7X2/aGzpoWZTuCZY2bWvE=
+
+Name: plugin.properties
+SHA-256-Digest: qPDRYPdJ03WQPnT4RIG7MNXSJG+mgf5Ei2hoK5BA3Ds=
+
+Name: org/eclipse/jface/text/projection/ChildDocument.class
+SHA-256-Digest: QS84P2yhWfVNT1f1W7sgmMZOjuJ5lzeJ70/s35CoFlg=
+
+Name: org/eclipse/jface/text/projection/IMinimalMapping.class
+SHA-256-Digest: GDVrn8zpgBY3EpaA72Zts/OoC/g08Vkz5GyrdltSoVM=
+
+Name: org/eclipse/text/edits/RangeMarker.class
+SHA-256-Digest: 1cnA852B8cgkFFOGL+8jE/Hz+Q8j7pOiK4q1JJVLraA=
+
+Name: org/eclipse/text/edits/TextEditVisitor.class
+SHA-256-Digest: oeC+uqYBXuMgtTKLeR/Tz5+KasH438FVOaYE6vFsNHA=
+
+Name: org/eclipse/jface/text/AbstractLineTracker$Request.class
+SHA-256-Digest: FmldG04jQXHWI+Sz4BD68XPyw5OjJO8FIj1vFGIGpvQ=
+
+Name: org/eclipse/jface/text/IDocumentListener.class
+SHA-256-Digest: bmX9Jj3RB+3jWMsKdPbmul3JG3gM6CFbNytBdZXIsic=
+
+Name: org/eclipse/text/edits/UndoCollector.class
+SHA-256-Digest: RC+fV9R1TcWF+2RKMKnxWa1RIjiaea31owKHbp16/UU=
+
+Name: org/eclipse/jface/text/templates/TextTemplateMessages.class
+SHA-256-Digest: PQRHYwxn8iPghwI0spxadT2hdHQvXuY6w3Ai7yxURNA=
+
+Name: org/eclipse/text/edits/TreeIterationInfo$Visitor.class
+SHA-256-Digest: c2pEcp4TxU2Suc+MTq6I0SmuxWJq7c6kpDFTU3wLIkE=
+
+Name: org/eclipse/jface/text/ConfigurableLineTracker.class
+SHA-256-Digest: IZjbhk4f9RkTDw7bvz/5kCUk/Q+GOtPyn+h9WXJxDSo=
+
+Name: org/eclipse/jface/text/TypedRegion.class
+SHA-256-Digest: WRbnWcn78FxmP0176bxpAdGFaIb2U5H4Jh1yzu9kByc=
+
+Name: org/eclipse/jface/text/source/AnnotationModel$2.class
+SHA-256-Digest: BYLWJTIu1/61L2hOZhiBnHoQMmTuMTa41AotwmlaqmA=
+
+Name: org/eclipse/text/edits/TextEdit$InsertionComparator.class
+SHA-256-Digest: GKsBbxwcxo2pfWWkOyFTO8mb5bNRh5dbSUKgulVfAiA=
+
+Name: org/eclipse/jface/text/source/IAnnotationModelExtension.class
+SHA-256-Digest: heO9Y8qp+It62LUwpOazx6dB/EYhOm8eHJ+w46+P3sM=
+
+Name: org/eclipse/text/undo/DocumentUndoManager$UndoableTextChange.class
+SHA-256-Digest: oSub7lpP/1KsTIX2G2EUXIg5Yb+yUuZlj4HkJlB6Nog=
+
+Name: org/eclipse/text/edits/MoveSourceEdit.class
+SHA-256-Digest: XTutVHFUiyp8CDkqgLeMGwI3VPhZwKd4TiWPBHAdF1w=
+
+Name: org/eclipse/jface/text/source/AnnotationModel.class
+SHA-256-Digest: fVj43GrG5cEjDxEzFdFyjQGCSV0IXi2LtmmMqqMbcy4=
+
+Name: org/eclipse/text/edits/DeleteEdit.class
+SHA-256-Digest: PIjp9j+R5behnP2Ny+uUJCGP2S2+AOMGIxezUiOy2io=
+
+Name: org/eclipse/text/edits/TextEditCopier.class
+SHA-256-Digest: skumHIcbK18/3mb9ooJLhnIYmEk0BHqtBbCwHsWmpEk=
+
+Name: org/eclipse/jface/text/projection/Segment.class
+SHA-256-Digest: M8taMBBA8PyEAgOyzNnX25ewvZ1mqyABhKt3mJVF54A=
+
+Name: org/eclipse/jface/text/AbstractLineTracker$2.class
+SHA-256-Digest: LF/kbvm4p9XBofQsYtXSqNPqPCmfVM90bdgYRjlcSLo=
+
+Name: org/eclipse/jface/text/source/AnnotationModel$RegionIterator.class
+SHA-256-Digest: TmQgQMN4GfxBPc+pjDTiTfrGa4glhbzeLMunVdCeYRs=
+
+Name: org/eclipse/jface/text/MultiStringMatcher$Node.class
+SHA-256-Digest: 2t/3LmDzXeTdOw3MQ/uKRpoULDn3jZOoclics1eMf4w=
+
+Name: org/eclipse/jface/text/MultiStringMatcher$BuilderImpl$1.class
+SHA-256-Digest: RbV2h28dDLBaIB9ZQD/qUzbB8z7cnlx3f2gJRkflV6I=
+
+Name: org/eclipse/jface/text/ISlaveDocumentManager.class
+SHA-256-Digest: DPW5ObCb89ZCGARDsFh++Hr6tusFTLOgPt1Z9jZ2VmI=
+
+Name: org/eclipse/jface/text/source/AnnotationModel$1.class
+SHA-256-Digest: 1BbkQMiVPsRBmNqcWzK4M9xpl6c/B/IqlYzSdLzTros=
+
+Name: org/eclipse/jface/text/IDocumentPartitioner.class
+SHA-256-Digest: GRxuO/D/hzPMqnaWxoqWmvgoKB/c5oFhqZjS9ZMGW6E=
+
+Name: org/eclipse/jface/text/MultiStringMatcher$Match.class
+SHA-256-Digest: 6DqaHPbBSjOthzZF1qzzoFsc/iZV4wAmBPtbd3ap2WE=
+
+Name: org/eclipse/jface/text/TypedPosition.class
+SHA-256-Digest: wZPk2tzDH/o2Hiy3VxZ19vSoksCCMUK0r3pgHTCP7mY=
+
+Name: org/eclipse/jface/text/CopyOnWriteTextStore.class
+SHA-256-Digest: 4FaLpLymeMkoGU4aZzWSCXSCy73UHuCVGrPMG8L0H28=
+
+Name: org/eclipse/text/templates/TextTemplateMessages.class
+SHA-256-Digest: 4k49XyiMK0DsZfPEj1W44XBVF+1s+J0r7wR0yk4Zwms=
+
+Name: org/eclipse/jface/text/source/AnnotationModel$MetaIterator.class
+SHA-256-Digest: tznqL78WTsRgWf7NGA4OHznjyTDHOuzI5dQBpe/6+8k=
+
+Name: org/eclipse/text/edits/MalformedTreeException.class
+SHA-256-Digest: 7pU5q8voQQ4OAJw64/K9vh9My5oTwyGL0Fn6d/3H9Qw=
+
+Name: org/eclipse/text/undo/DocumentUndoEvent.class
+SHA-256-Digest: rDYC+3gBvKn+EO+kJ1E74RNKvlaxtFKMTn/V4Ey08FM=
+
+Name: org/eclipse/jface/text/IRepairableDocument.class
+SHA-256-Digest: rgghIVPkHyAJZepyujOpnn/lYejGGG5M46tI0viY/l8=
+
+Name: org/eclipse/jface/text/TreeLineTracker.class
+SHA-256-Digest: S6FmFrnLf5rNJpDK6gfEeeT8ayDOLpXj7wO5qgpgRug=
+
+Name: org/eclipse/text/templates/TemplatePersistenceData.class
+SHA-256-Digest: mK2QBUutaUHNgMbeyflOkolB3QZJSG85QyiWNeCN3Q8=
+
+Name: org/eclipse/jface/text/templates/GlobalTemplateVariables$Selection
+ .class
+SHA-256-Digest: z/1YQwdU/VdpaeHsVvn8oTXeKBaPeH0iDwsTAHPMEXA=
+
+Name: org/eclipse/jface/text/templates/TemplateTranslator$VariableDescri
+ ption.class
+SHA-256-Digest: 7JjIpM13oI44Hg4ZKWz1wggZxOss2XGV6z7g5juNiLE=
+
+Name: org/eclipse/jface/text/IDocumentPartitioningListenerExtension.clas
+ s
+SHA-256-Digest: q/K3S8D92MHpsGtpehs55rUAH411Im/97F8+KhturFo=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/jface/text/TextMessages.properties
+SHA-256-Digest: qeQHmud6ovqq4zHW5pJcWuV4z6mMa5OGMs25hFWu080=
+
+Name: org/eclipse/jface/text/AbstractLineTracker.class
+SHA-256-Digest: lwhwymz6qXAipmUV7Au04Od3hTiGEwCr81aLe09qgo0=
+
+Name: org/eclipse/jface/text/link/LinkedModeManager.class
+SHA-256-Digest: EnPQSBCmjrv63b09nMSdY09nm7LsXs749XJwyXP9Fik=
+
+Name: org/eclipse/jface/text/SequentialRewriteTextStore$Replace.class
+SHA-256-Digest: ywxPMvqpiABerOwaygDMZsLKiEd9hrdUqaeNmPfVHx8=
+
+Name: org/eclipse/jface/text/templates/GlobalTemplateVariables$Date.clas
+ s
+SHA-256-Digest: ww65LCDpvMIa68lr7ilW3FMlnD6Ad1bDRCC1GIeekc8=
+
+Name: org/eclipse/text/edits/InsertEdit.class
+SHA-256-Digest: 6hTwLMdgx4yTauNxD/j6WAl9z52cDTKYkontlansSuQ=
+
+Name: org/eclipse/jface/text/templates/TemplateVariableType.class
+SHA-256-Digest: 5RtgQzVObP/N8PjpAfADtRkxnF1MNb9ZFEPMj9QYC8Q=
+
+Name: org/eclipse/jface/text/source/Annotation.class
+SHA-256-Digest: ldbB1A0S4YwCEqevi3oyOv+1mKHra0NRaPYgslYMop4=
+
+Name: org/eclipse/text/templates/TemplateStoreCore.class
+SHA-256-Digest: +3lh6GXxDaWtu8KHY71Kfp11rOeLIftzMBekB/li2Dc=
+
+Name: org/eclipse/jface/text/source/IAnnotationModelExtension2.class
+SHA-256-Digest: knHjnQpFX5TAvdEAz14r8ZVyi9nlSsN0YE3ebqa3V8I=
+
+Name: org/eclipse/jface/text/link/LinkedModeManager$Listener.class
+SHA-256-Digest: JRwAkNEjM7nV739cEGoD71Mz2FCLFYOyo/mdsDNxp3I=
+
+Name: org/eclipse/jface/text/link/ILinkedModeListener.class
+SHA-256-Digest: kEm0hlXxf9Il94y5eKRSxaintzjRHu0v6c37TRz0SA4=
+
+Name: org/eclipse/jface/text/IDocumentInformationMapping.class
+SHA-256-Digest: xxMfpf86UQEHRly45V2FU+kc4LZ/hLhp2gsvYo9oH9c=
+
+Name: org/eclipse/jface/text/projection/ProjectionDocument.class
+SHA-256-Digest: tMk71AbLV24kwXVDRW253dYWBwpdYG4ZQ31CHn6wsGM=
+
+Name: org/eclipse/jface/text/source/IAnnotationModel.class
+SHA-256-Digest: 4lHOywwypXeGvpF1LSiIF0w8YlNp0QBVZdMbtnZuop0=
+
+Name: org/eclipse/text/edits/TextEditProcessor.class
+SHA-256-Digest: ko2DQxn6BGuyUlcm7kSwji1Fvs0KLChZ9N95msl1iPM=
+
+Name: org/eclipse/jface/text/projection/ProjectionDocumentEvent.class
+SHA-256-Digest: 5Hq7IKzy9cZl+sCEcCW8yBJ9Hruz9y9qrNl7cc74c+g=
+
+Name: org/eclipse/jface/text/projection/SegmentUpdater.class
+SHA-256-Digest: /oIVx6jR4IP3/vhsnw6tE6CWr+mbg1QPR5w/AF+Nzcs=
+
+Name: org/eclipse/text/edits/TextEdit.class
+SHA-256-Digest: nDbWv9eZ03JwMDco2LRILfAeRbjk+RCwCccDKqLRX3g=
+

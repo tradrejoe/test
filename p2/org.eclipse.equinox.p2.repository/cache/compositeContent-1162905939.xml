@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?compositeMetadataRepository version="1.0.0"?>
+<repository name="GEF Releases" type="org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository" version="1.0.0">
+  <properties size="1">
+    <property name="p2.timestamp" value="1662992691000"/>
+  </properties>
+  <children size="20">
+    <child location="5.0.0_gef-master_4403"/>
+    <child location="5.0.100_gef-master_4914"/>
+    <child location="5.0.1_gef-maintenance_73"/>
+    <child location="5.0.200_gef-master_5058"/>
+    <child location="5.0.2_gef-maintenance_164"/>
+    <child location="5.0.300_gef-master_5215"/>
+    <child location="5.0.400_gef-master_5261"/>
+    <child location="5.1.0_gef-master_5509"/>
+    <child location="5.2.0_gef-master_5609"/>
+    <child location="5.3.0_gef-master_5721"/>
+    <child location="5.3.0_gef-master_5984"/>
+    <child location="5.3.1_gef-master_6103"/>
+    <child location="5.3.2_gef-master_6214"/>
+    <child location="5.3.3_gef-master_6309"/>
+    <child location="5.3.4_gef-master_6401"/>
+    <child location="5.3.5_gef-master_6495"/>
+    <child location="5.3.6_gef-master_6581"/>
+    <child location="5.3.7_gef-master_6679"/>
+    <child location="5.3.8_gef-master_6771"/>
+    <child location="5.4.0_gef-master_6893"/>
+  </children>
+</repository>
+

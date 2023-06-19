@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="org.jboss.tools.common.launcher.feature" label="%featureName" version="3.10.100.v20220110-1812" provider-name="%providerName"
+	plugin="org.jboss.tools.common.launcher.core">
+	<description url="http://www.jboss.org/tools">%description</description>
+	<copyright>%copyright</copyright>
+	<license url="%licenseURL">
+      %license
+   </license>
+	<plugin id="org.jboss.tools.common.launcher.core" download-size="14" install-size="20" version="3.10.100.v20220110-1812" />
+	<plugin id="org.jboss.tools.common.launcher.ui" download-size="27" install-size="48" version="3.10.100.v20220110-1812" />
+</feature>

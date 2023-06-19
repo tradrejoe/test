@@ -1,0 +1,174 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: kKYpPTPINcSoerDyHQK3lpKvJMI+bGjsPtCUbrCcZf4=
+SHA-256-Digest-Manifest-Main-Attributes: LeigFQ5ezR5C10lcAH5RuOQoHuVgLX/
+ s+/aNVTLAN1Y=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/OrderedProperties$Str
+ ingsEnum.class
+SHA-256-Digest: vjh+YhTVN3aKNJsKcduGAdUixJmjlGvsh6YvTkJA1xs=
+
+Name: OSGI-INF/eventBus.xml
+SHA-256-Digest: g925S3pLE8NOz6nx/ffUqULHbtmRnyMGLE+G8EULXhg=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/messages.properties
+SHA-256-Digest: TxBy1V+C8WgkAWCkjzW29VEQDup5kVYZ1FFtED4Nebw=
+
+Name: org/eclipse/equinox/p2/core/IPool.class
+SHA-256-Digest: F1M4nvI+9tiF7Ko33qKS1PW9J6dG8fVtV8FXhQojvKk=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/SecureXMLUtil.class
+SHA-256-Digest: 8uoCKoqmFt0hD9XTxq05zFIHMpikN/cPxd6xlUcIMts=
+
+Name: org/eclipse/equinox/internal/provisional/p2/core/eventbus/Synchron
+ ousProvisioningListener.class
+SHA-256-Digest: C6MZbC6qV3+KNK8kxO1nSTF6frMMuhCZw0tlFAQ35A4=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/FileUtils.class
+SHA-256-Digest: AKYo9fkR361Vv9BGAeyAbI2gU2ZFucxC6jkvEtsR7Sg=
+
+Name: OSGI-INF/agentProvider.xml
+SHA-256-Digest: Gc02xvVr6/JGaS9p909uKOzWXFF7vCV2pkV7GTVpq38=
+
+Name: org/eclipse/equinox/p2/core/IProvisioningAgentProvider.class
+SHA-256-Digest: 5JS3j1SSYszb5G1YE8nDX+KXZqKnGIttMJj3Io3+heI=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/StringHelper.class
+SHA-256-Digest: XtirYojhvJCy+iFgO2fBD96ZOl6bPEy4h7sD9WodUT0=
+
+Name: plugin.properties
+SHA-256-Digest: TLdrTUcCGbsAgJlkl2nkOuBvf7kFl/hIktDFeyekZbQ=
+
+Name: org/eclipse/equinox/p2/core/spi/IAgentService.class
+SHA-256-Digest: oZKmx7Mya9vszsp2qqpLSNQsZi8ufGccbDHqCqv9j8c=
+
+Name: META-INF/p2.inf
+SHA-256-Digest: MwzYMn9oLxJw8RoaTts8E7uPBNMhw503UFw2+LulTQs=
+
+Name: org/eclipse/equinox/p2/core/ProvisionException.class
+SHA-256-Digest: sKQu04aGHuDZ4H9aUUUOAOj8OR8ROHpR7yENYveAd+Q=
+
+Name: org/eclipse/equinox/p2/core/IAgentLocation.class
+SHA-256-Digest: W8cBI1FBhgV7BESvLTXTdexiBoWyUG0HITgu6xCpEAw=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/FileUtils$3.class
+SHA-256-Digest: jb6BIAwBb6Zylmper92SGL+/zxW/HQg9he7HFujttVQ=
+
+Name: .api_description
+SHA-256-Digest: LLlbjyZ9udIKQm15m58qXMTPj3/93sxRNRp5OrqPSng=
+
+Name: org/eclipse/equinox/internal/p2/core/AgentLocation.class
+SHA-256-Digest: odgWtMOBnvj0Mph7i0n776cO8pvFTcUaAo0qBHyRfoQ=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarFile.class
+SHA-256-Digest: vDhL76njCmNVp0NeQX9B7WcNkaIPRaEN1YGhrn4S/g4=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/URLUtil.class
+SHA-256-Digest: 4NGxJwhdrB6h9eVBVI2fWfcJTDN0uPq/f0tBGc6Zt1w=
+
+Name: org/eclipse/equinox/p2/core/StrongPool.class
+SHA-256-Digest: 2ybtAA/hqUZKN8m6oQugbu2espf/Bqn191265ecGASc=
+
+Name: org/eclipse/equinox/p2/core/UIServices$AuthenticationInfo.class
+SHA-256-Digest: qgy8KNPuxmBndRfkcHQCjPY12mfQd+9fSdJdTAbopfY=
+
+Name: org/eclipse/equinox/p2/core/IProvisioningAgent.class
+SHA-256-Digest: zemKgFJKHs8ZesXD3FB6eAM9e6yaTCV6tub0Ccymj1o=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/OrderedProperties$Unm
+ odifiableProperties.class
+SHA-256-Digest: /b+GCH+Qg/S4wtuu5ajBGNgjuZRRO+q1mG7CKFDJifQ=
+
+Name: org/eclipse/equinox/p2/core/spi/IAgentServiceFactory.class
+SHA-256-Digest: o0Zum/YfLITeJa0FLnNW7W2KDdMX2i3WX+o0NR+8h4c=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/CollectionUtils$Unmod
+ ifiableArrayList$1.class
+SHA-256-Digest: dI0MECXSXpjJPIRl82Kgy084aUxnj9xMG4CJpdIfsCQ=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/CollectionUtils.class
+SHA-256-Digest: b+z2n28yB2dvA6awbs056L0sMITngC/L8jDBU6A6Svc=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarException.class
+SHA-256-Digest: AJZ7lrgBvkksW01WevSZ55MlmALF3Mk2l4zFV9cNL8A=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarInputStream.class
+SHA-256-Digest: HFBq0j2qqlC/+aQLWifDeg79i0tQQdLenS0j/xE/Z6A=
+
+Name: org/eclipse/equinox/internal/p2/core/Activator.class
+SHA-256-Digest: VgARgNhU99W/iFXcfcpwGzBpnlwe3dy+sSfY6ntp8l0=
+
+Name: org/eclipse/equinox/internal/provisional/p2/core/eventbus/Provisio
+ ningListener.class
+SHA-256-Digest: DgCAS5HwRk6ynpmeL5znQEBg+/2hrwPCITm+U3bNUTQ=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/ServiceHelper.class
+SHA-256-Digest: aLmLrXLzZKddyxiFv9cbCuuGbmVJdMdWk1K95C3Zs+4=
+
+Name: .options
+SHA-256-Digest: kNz6Jir8RY3U2gKrOooBQ2RGZcLO0zlxaqLJ1fBYnTc=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/FileUtils$2.class
+SHA-256-Digest: kUhHEPsk1Tz8t4igwFYHWLjUgi+qotd1BOMh92iMTZI=
+
+Name: org/eclipse/equinox/p2/core/WeakPool.class
+SHA-256-Digest: I3xO7J8sZkpelgkeEtsRZD6b9LjErkhTwJaIC8D8c6E=
+
+Name: org/eclipse/equinox/p2/core/UIServices$TrustInfo.class
+SHA-256-Digest: BTDRCCpBkvysAa6A3HmJaUFecM0JaVStEx1BNOghbHI=
+
+Name: org/eclipse/equinox/internal/provisional/p2/core/eventbus/IProvisi
+ oningEventBus.class
+SHA-256-Digest: 96mmdumC34MLBYWqzgnRzsyDUCZp3TpLBLAynVpzO4g=
+
+Name: org/eclipse/equinox/internal/p2/core/DefaultAgentProvider.class
+SHA-256-Digest: dXGKZSlRJ1wHM7GjEC9wlaXcNOb9dBmml/2UUYR74vU=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/Messages.class
+SHA-256-Digest: 7eNoDCzofXs3Co53Im8jrffdSHdDHBvXx5nxwJmQsXM=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/Tracing.class
+SHA-256-Digest: f7FqGy7FiXRMrQvIUWlZoMgQTY9fyYf9K7nZolMroWg=
+
+Name: org/eclipse/equinox/internal/p2/core/ProvisioningEventBus.class
+SHA-256-Digest: 5hJJoY44WwlrEjkGZ/2tQCLYQ9ffEnFBj+lnOYlP5z0=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarEntry.class
+SHA-256-Digest: QbscrofmoDyLI/pq5WW/xS1SnAr/pDzmgtUFY4Z2pDc=
+
+Name: org/eclipse/equinox/p2/core/spi/Constants.class
+SHA-256-Digest: 4u2/2NImnaI6M2EvQpF4G3FFlbshVxGZIygGFSN0weA=
+
+Name: org/eclipse/equinox/internal/p2/core/ProvisioningAgent.class
+SHA-256-Digest: 0283fAcDdwOtpjM12vyko9rO1ISDna+7/ZHG2uMoF/g=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/FileUtils$1.class
+SHA-256-Digest: SXbSe8KuOxU4djwhvgdw1rILaG9S/r3AiOJHO6A+kxE=
+
+Name: org/eclipse/equinox/internal/p2/core/EventBusComponent.class
+SHA-256-Digest: caXQv3T8krjbVxFcfrA02TCb4MT0YwPLqEQFJOL3EMU=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/OrderedProperties.cla
+ ss
+SHA-256-Digest: C1pgG2FcEN3/788KrcF1vLCy0gPK6BsblsA8i654gQE=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/TarFile$1.class
+SHA-256-Digest: 6bDRtN961Ve1teyUY0DJI2bru4NLVIWwudx6E8ytbE0=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/LogHelper.class
+SHA-256-Digest: vU0kqdiBkkKSU+5kaMtrRTWfLXfUhLWvFg6psxdzYU0=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/FileUtils$IPathComput
+ er.class
+SHA-256-Digest: 5ztG3E3idk9EYlTBshJCIXy1bmB3q4bSlcGtqnQpROw=
+
+Name: org/eclipse/equinox/internal/p2/core/helpers/CollectionUtils$Unmod
+ ifiableArrayList.class
+SHA-256-Digest: lDIHCGS97HpXKDaVra0HuBv/ArE60MgyVyEfdq0dsyo=
+
+Name: org/eclipse/equinox/p2/core/UIServices.class
+SHA-256-Digest: rO/LHex4ZItSfhTQeqY+nj6WhAiaplBqSX31mNvY+Ho=
+

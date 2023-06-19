@@ -1,0 +1,132 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: zP+RhZW9elowTTkDROOgJbHn0Tf7YEUbVCEUE1d37Is=
+SHA-256-Digest-Manifest-Main-Attributes: gxox27u0f3HiY3q+yskiAfIlt6+U6bA
+ FHxWyuaYJduo=
+
+Name: org/eclipse/core/internal/filesystem/local/InfiniteProgress.class
+SHA-256-Digest: 4NmKIXq0eHqhMQ+dtM3rO0XGyMiygy3oPaF0bXJ+xO4=
+
+Name: plugin.xml
+SHA-256-Digest: HXxL6e1oxB559POYbLJqUd62e9tmf+N+38JeoWr2jOo=
+
+Name: org/eclipse/core/filesystem/EFS.class
+SHA-256-Digest: Sld8RREzQQGAzOfapPjlup/zJjIZHdGUgKqIc8bumcU=
+
+Name: org/eclipse/core/internal/filesystem/FileCache$FileCacheHolder.cla
+ ss
+SHA-256-Digest: KWnhpIm8es0vMRQdY4AwzJ5vc0vM3fbnQPZaK91kmPY=
+
+Name: org/eclipse/core/internal/filesystem/local/unix/StructStat.class
+SHA-256-Digest: 0o/9ICSpIS9N5HxV1+4XfAclsgnmeB0RKLlpyby3GFI=
+
+Name: org/eclipse/core/filesystem/URIUtil.class
+SHA-256-Digest: yzIdRNiuCvr/E6H1waup8rvJBOO4i6Poof2lI+b4TQs=
+
+Name: org/eclipse/core/internal/filesystem/local/nio/DosHandler.class
+SHA-256-Digest: FhyIq2svda55fK2FLri3vtQNaBDTjtUsmuhrnalUOns=
+
+Name: org/eclipse/core/internal/filesystem/InternalFileSystemCore.class
+SHA-256-Digest: +2wTgkqgLCWJ+2t+0ENg9xru3XE5aBLqqUXSS6be/7A=
+
+Name: org/eclipse/core/internal/filesystem/local/LocalFileNatives.class
+SHA-256-Digest: baAhnLjCzOw3tu+60GxsfDy7XQYOLuX1jd494PzWzps=
+
+Name: org/eclipse/core/internal/filesystem/local/LocalFileHandler.class
+SHA-256-Digest: wzqdLu2+p9a2Ao/L/WBXshATPLnf0g2eNF0S5cmzvcI=
+
+Name: org/eclipse/core/internal/filesystem/local/unix/UnixFileHandler.cl
+ ass
+SHA-256-Digest: I/Zn9pL6tJ4PbXtxPUkfY16yBw4LgDxmMjqCYfrx7tc=
+
+Name: org/eclipse/core/internal/filesystem/NullFileStore$1.class
+SHA-256-Digest: xxKM9ykP49Mvy1Df2Szl0EIAVTokaQk9pWCHD8KNibQ=
+
+Name: org/eclipse/core/internal/filesystem/Messages.class
+SHA-256-Digest: B7id1dURwuQ0NcLWiKIrspMj2FZzw8GWXBPwvUY1TEY=
+
+Name: org/eclipse/core/filesystem/IFileInfo.class
+SHA-256-Digest: vru+ru9infgF92BfhaYrGjUsDS+eSGHzaR/wbFOS3L4=
+
+Name: plugin.properties
+SHA-256-Digest: n7k5irIZJifvU5LMfFw9FLvYnWapnSZ5GnXCe+xU2LA=
+
+Name: org/eclipse/core/internal/filesystem/local/nio/DefaultHandler.clas
+ s
+SHA-256-Digest: Umw/gVTsUQcYJd5QsAirBK4m4N1RbZjhlL31KOO/nk4=
+
+Name: org/eclipse/core/internal/filesystem/FileCache.class
+SHA-256-Digest: LZ2wAp94tvz74A6L0T93nz7Zog9OJu7R6w+RqDgm5cs=
+
+Name: org/eclipse/core/internal/filesystem/Policy.class
+SHA-256-Digest: 2FcGFNzE5nhqXbcVDJ0GTxkx+RfhChoVoZJ+NHXzK64=
+
+Name: org/eclipse/core/internal/filesystem/NullFileSystem.class
+SHA-256-Digest: si7gJHE9onMjFNWVOaafJppGXldypr26yv855HkcRrI=
+
+Name: org/eclipse/core/internal/filesystem/FileStoreUtil.class
+SHA-256-Digest: O/oquUPqAxax06yQfNnH9otX9b6V7wRSUKmd+nZIlP0=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/core/internal/filesystem/messages.properties
+SHA-256-Digest: jzhb9vMmO8jIEkr6cMWt1Kw9U+PFRutSxFAlQ6XwuwA=
+
+Name: org/eclipse/core/filesystem/provider/FileTree.class
+SHA-256-Digest: DZhzIqM/zF4O8qLwc1N6x5wADEhnkcY+bK2tUvhqIyw=
+
+Name: org/eclipse/core/internal/filesystem/local/LocalFile.class
+SHA-256-Digest: DPvelr68kpGbVrbY6vMgfMgPPjONIhcInpTnjYA3bUs=
+
+Name: .api_description
+SHA-256-Digest: JAhUDgtR0t8vQvda8NgWzzOt2lqlRbHXY2UjNLLsa/0=
+
+Name: org/eclipse/core/filesystem/provider/FileSystem.class
+SHA-256-Digest: 5gFGjgLcWdXdvUXJMPTUMqy7CFBnFyF3/43cEA75ySU=
+
+Name: org/eclipse/core/internal/filesystem/local/Convert.class
+SHA-256-Digest: KT7r5pEjAF8tvQQ7J0B/s5AdXw/0T9IkA1hNH0x0qO8=
+
+Name: org/eclipse/core/internal/filesystem/FileSystemAccess.class
+SHA-256-Digest: Uk9fzoNNApnR19YkC0haeYhmGsDNElnPS1Gj+z6uBz8=
+
+Name: org/eclipse/core/filesystem/IFileTree.class
+SHA-256-Digest: J75smJYWlNq+5yEEU5QGDnqg3b2g+VnI3K2igLJXxJk=
+
+Name: org/eclipse/core/internal/filesystem/local/LocalFileSystem.class
+SHA-256-Digest: UZYI95AGcz1JVGY5L/QtZmoZuu55xeoltzttvHEjYOY=
+
+Name: org/eclipse/core/internal/filesystem/NullFileStore.class
+SHA-256-Digest: vn4SpYNw8mSNR5i6jh5gajQYLGBv/RRkNR+g9KcY3Ac=
+
+Name: org/eclipse/core/filesystem/provider/FileStore.class
+SHA-256-Digest: XB1peGy2RabG/+wgI9bDM2DTZMG2U70Vm1KfmKzLu7E=
+
+Name: org/eclipse/core/filesystem/provider/FileInfo.class
+SHA-256-Digest: C/pVYWquIt4P25EXPsm27Lfml50so9Qmh70STfBmi64=
+
+Name: org/eclipse/core/internal/filesystem/local/NativeHandler.class
+SHA-256-Digest: Sig58VhECztYW5dNUsdxrRk2PP7GF9mfoS2QTe40vJc=
+
+Name: org/eclipse/core/internal/filesystem/local/unix/UnixFileNatives.cl
+ ass
+SHA-256-Digest: cfEupg3T7lZcruXEKge8+z/9OL4kdm9VQT+H+NKBdQY=
+
+Name: org/eclipse/core/filesystem/IFileSystem.class
+SHA-256-Digest: gOI20jax9Ff948ValSG2RDJwC0zDfYdedIiUB1zFkno=
+
+Name: org/eclipse/core/internal/filesystem/local/LocalFileNativesManager
+ .class
+SHA-256-Digest: cEHe4wttI60asFRqbDxJdotLyXTTu0WITmrCRXqQdnw=
+
+Name: org/eclipse/core/internal/filesystem/local/unix/UnixFileFlags.clas
+ s
+SHA-256-Digest: 1J+bTHWLgVEr6jwyk55pCuxbKSvxku91G3dTVQkTVqk=
+
+Name: org/eclipse/core/filesystem/IFileStore.class
+SHA-256-Digest: 6yzVfz8JI9VEmDxdobxvEs0mHKXzZwaFuEVitybQp7I=
+
+Name: org/eclipse/core/internal/filesystem/local/nio/PosixHandler.class
+SHA-256-Digest: 4dKiWjQqAI/2FNlxJiH1DtmfnrdZGLFPWfseMAj1F88=
+

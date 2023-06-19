@@ -1,0 +1,741 @@
+Manifest-Version: 1.0
+Created-By: Eclipse Bundle Recipe Maven Plug-in
+Built-By: default
+Build-Jdk: 11.0.13
+Automatic-Module-Name: org.apache.log4j
+Build-Jdk-Spec: 1.8
+Bundle-Description: Reload4j revives EOLed log4j 1.x
+Bundle-DocURL: https://reload4j.qos.ch/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.apache.log4j
+Bundle-Vendor: %bundleVendor
+Bundle-Version: 1.2.19.v20220208-1728
+Export-Package: org.apache.log4j;version="1.2.19";uses:="org.apache.log4
+ j.helpers,org.apache.log4j.or,org.apache.log4j.spi",org.apache.log4j.co
+ nfig;version="1.2.19";uses:="org.apache.log4j",org.apache.log4j.helpers
+ ;version="1.2.19";uses:="org.apache.log4j,org.apache.log4j.spi",org.apa
+ che.log4j.jdbc;version="1.2.19";uses:="org.apache.log4j,org.apache.log4
+ j.spi",org.apache.log4j.lf5.config;version="1.2.19",org.apache.log4j.lf
+ 5.viewer.images;version="1.2.19",org.apache.log4j.net;version="1.2.19";
+ uses:="javax.jms,javax.mail,javax.naming,org.apache.log4j,org.apache.lo
+ g4j.helpers,org.apache.log4j.spi,org.apache.log4j.xml,org.w3c.dom",org.
+ apache.log4j.or;version="1.2.19";uses:="org.apache.log4j.spi",org.apach
+ e.log4j.or.jms;version="1.2.19";uses:="org.apache.log4j.or",org.apache.
+ log4j.or.sax;version="1.2.19";uses:="org.apache.log4j.or",org.apache.lo
+ g4j.pattern;version="1.2.19";uses:="org.apache.log4j,org.apache.log4j.h
+ elpers,org.apache.log4j.spi",org.apache.log4j.rewrite;version="1.2.19";
+ uses:="org.apache.log4j,org.apache.log4j.spi,org.apache.log4j.xml,org.w
+ 3c.dom",org.apache.log4j.spi;version="1.2.19";uses:="org.apache.log4j,o
+ rg.apache.log4j.or",org.apache.log4j.varia;version="1.2.19";uses:="org.
+ apache.log4j,org.apache.log4j.spi",org.apache.log4j.xml;version="1.2.19
+ ";uses:="javax.xml.parsers,org.apache.log4j,org.apache.log4j.config,org
+ .apache.log4j.spi,org.w3c.dom,org.xml.sax"
+Implementation-Title: reload4j
+Implementation-Vendor: QOS.CH Sarl (Switzerland)
+Implementation-Version: 1.2.19
+Import-Package: javax.jmdns;resolution:=optional,javax.jms;resolution:=o
+ ptional,javax.mail;version="[1.4,2)";resolution:=optional,javax.mail.in
+ ternet;version="[1.4,2)";resolution:=optional,javax.naming,javax.xml.pa
+ rsers,org.w3c.dom,org.xml.sax,org.xml.sax.helpers
+Originally-Created-By: Apache Maven Bundle Plugin 5.1.4
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.5))"
+X-Compile-Source-JDK: 1.5
+X-Compile-Target-JDK: 1.5
+
+Name: org/apache/log4j/or/sax/AttributesRenderer.class
+SHA-256-Digest: VuZtu67JQHRAIKGVPgeXNHPBl5sPC+AF9LNFXYh6nfg=
+
+Name: org/apache/log4j/pattern/MessagePatternConverter.class
+SHA-256-Digest: Tl49x3vHtn/sj4sDdbmIpcOpEIHySXDpPcqD6EQmMgs=
+
+Name: org/apache/log4j/chainsaw/ControlPanel$3.class
+SHA-256-Digest: cuS7Pf8AgtffLTk4gOLNg7uu9iqaqAApZ/HXaOnFoLM=
+
+Name: org/apache/log4j/pattern/NameAbbreviator$DropElementAbbreviator.cl
+ ass
+SHA-256-Digest: w94aZNE1XQ6VvYW2GcEhga+EaweYO38XoknkdARIHrk=
+
+Name: org/apache/log4j/BasicConfigurator.class
+SHA-256-Digest: chq/1JoJjj5LbnJUd3K2KET0eZaU5TfnnQbVg428QgI=
+
+Name: org/apache/log4j/rewrite/RewriteAppender.class
+SHA-256-Digest: v2imRXVHa9MhTBwZZfZNjg8EIXiYlLhA6/ySvmuobsg=
+
+Name: org/apache/log4j/pattern/LoggingEventPatternConverter.class
+SHA-256-Digest: s+8ime+sIMvQ7tBzHud7jfFtID74VBKPl84LUJaPk7Y=
+
+Name: org/apache/log4j/xml/DOMConfigurator$1.class
+SHA-256-Digest: sEFRMNyyFgoCWGTLKf75dPpJymX+2sQL7gJkEka1+Cw=
+
+Name: org/apache/log4j/NameValue.class
+SHA-256-Digest: MdjpkQA+Ua5UMQNK/uqM1nrJoeOBuYTXkaVtUWf4sdA=
+
+Name: org/apache/log4j/lf5/config/defaultconfig.properties
+SHA-256-Digest: U7B/RvlGAi19KB4iK19mqaIY7lonQxyy7J5I40ByRqs=
+
+Name: org/apache/log4j/spi/NOPLoggerRepository.class
+SHA-256-Digest: MY/qwVtJD4r3mjp+TnCrYg4VVNWfTkB6SCtJYEuR1QA=
+
+Name: org/apache/log4j/spi/RootLogger.class
+SHA-256-Digest: eQ0KsTBjEgtxwfkakl4TlTqwLONC8UVsmqlRZEB2mEU=
+
+Name: org/apache/log4j/Category.class
+SHA-256-Digest: hq/jZDeHm5/OZO0DF15i6C+f4d9iEbCGMYqlrZLWVsc=
+
+Name: org/apache/log4j/lf5/viewer/images/channelexplorer_satellite.gif
+SHA-256-Digest: szUvEHpYnKgQYwyBsOQOuv/k4pmSvT5V5cvmQi0As8Y=
+
+Name: about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=
+
+Name: org/apache/log4j/config/PropertySetter.class
+SHA-256-Digest: DNDtZ7G5U37afIynAu2zqTOzmgxwa7P8r8XUcZLgPrg=
+
+Name: org/apache/log4j/pattern/LoggerPatternConverter.class
+SHA-256-Digest: VMIiFSRgkwer6N7TfQ9wgOvcEIemv2T9qtr8G23olGU=
+
+Name: org/apache/log4j/helpers/PatternConverter.class
+SHA-256-Digest: WlS7lEgyET3IlPbZhhzc1d55nhtaeIzfCYlO+/6Z3Jg=
+
+Name: org/apache/log4j/helpers/Loader.class
+SHA-256-Digest: txa+KcY6/k7g0alpLa7xjUFu40S35dZRt0PULYfU0Jo=
+
+Name: org/apache/log4j/pattern/FileLocationPatternConverter.class
+SHA-256-Digest: uC5VmDvra1fmvW2tRyAvoCphdCvU5TR0YQnaOS0nTxo=
+
+Name: org/apache/log4j/Appender.class
+SHA-256-Digest: 23qLdQWg23TZSwmRfbXB93XHjsq+pxvNMCRAey5LjeI=
+
+Name: org/apache/log4j/helpers/OnlyOnceErrorHandler.class
+SHA-256-Digest: C8X4DXthaGzan+HtmKW/S7JUfHbuRgVehCVidFpGx1E=
+
+Name: org/apache/log4j/pattern/LineSeparatorPatternConverter.class
+SHA-256-Digest: z9YF+QTtD2wvUo3Imx9WF+4u6/aD1vfYNQypSfk07io=
+
+Name: org/apache/log4j/net/DefaultEvaluator.class
+SHA-256-Digest: w66/fWljzWm2t8dzfFRFs37bU4NhawDluZSnMmZiHwo=
+
+Name: org/apache/log4j/chainsaw/XMLFileHandler.class
+SHA-256-Digest: GfPqMEe9rwWy020j1Pyc6GKFg3xgVLAYXkpiTUw8vRU=
+
+Name: org/apache/log4j/helpers/FileWatchdog.class
+SHA-256-Digest: S+kwIVdg/shgZMbdDgCxXrkmszSgpIDNOTAlKvNDs/w=
+
+Name: org/apache/log4j/varia/ExternallyRolledFileAppender.class
+SHA-256-Digest: V/cZlDRWksrzGCRpPsTJxK1ko+do8nezhs2nXbdAmoU=
+
+Name: org/apache/log4j/spi/HierarchyEventListener.class
+SHA-256-Digest: U3c0qXe0A6RD/hZrMP7mRtMs0WNQOezBj2qGx9vh0b0=
+
+Name: org/apache/log4j/Layout.class
+SHA-256-Digest: aXNPGxh1tUuPfQOV5BbeFa70iWzslP2B3Glgqr0POyc=
+
+Name: org/apache/log4j/lf5/viewer/images/lf5_small_icon.gif
+SHA-256-Digest: 0Zma3l8QxcUvWlli4VJkiJj/9r449MmutiENkl1LoBY=
+
+Name: org/apache/log4j/pattern/DatePatternConverter.class
+SHA-256-Digest: Ojv7S0mmteY2uyTNyQq8uzj6xG++R0v7yrc/FfEBBQQ=
+
+Name: org/apache/log4j/chainsaw/ExitAction.class
+SHA-256-Digest: XLYZMJ1mv9yt+4hSLvLMZgHV/mdmQvus//+/5KiFitw=
+
+Name: org/apache/log4j/pattern/ThreadPatternConverter.class
+SHA-256-Digest: Cb1VMKoUe6MtR8EnsEnHSz9EAYWyZI3WwwZLm8p7jzY=
+
+Name: org/apache/log4j/helpers/SyslogWriter.class
+SHA-256-Digest: tyucPVL/JZGKHfTpiNvm0mlmG53jhIQpreI1Zok/1NY=
+
+Name: org/apache/log4j/ProvisionNode.class
+SHA-256-Digest: zwNGvH2eGOCnAqe8A7ER/widJnggBACS7n52YOxldss=
+
+Name: org/apache/log4j/pattern/NameAbbreviator$PatternAbbreviatorFragmen
+ t.class
+SHA-256-Digest: LXndGS9iVNy0Zj9X7E6HX7uCYyVQUqQoJS33nbBHFpo=
+
+Name: org/apache/log4j/helpers/AbsoluteTimeDateFormat.class
+SHA-256-Digest: udgXBlP076ullacX0uS6PQDS8m/reGkNl5pa+8SaipQ=
+
+Name: org/apache/log4j/MDC.class
+SHA-256-Digest: SorVLyhkKAm5xJvAdDh/cvmF0pTUnHtaxXZ8iglglSc=
+
+Name: org/apache/log4j/pattern/ThrowableInformationPatternConverter.clas
+ s
+SHA-256-Digest: JEPn4ssLPR4I81eprYIzJj3rVn5JF/6fIcUxv+pcRfM=
+
+Name: org/apache/log4j/xml/SAXErrorHandler.class
+SHA-256-Digest: g5cxhwje3uQWJq4D50gUO5Sx2UEC5355D3KCBEllcZU=
+
+Name: org/apache/log4j/chainsaw/ControlPanel$4.class
+SHA-256-Digest: 4CZ85NUDY2ZtmfBvKaiTFxPGzNakwTfmz5ZBDuWGlJE=
+
+Name: org/apache/log4j/net/TelnetAppender.class
+SHA-256-Digest: gc4w5yWdMZBqIfwvQiW0hfY3ywkahTbOJZNRoKwBnDs=
+
+Name: org/apache/log4j/Dispatcher.class
+SHA-256-Digest: UE5Nu0+kOQ8DJr9sdzr8qZgjlnSxdQoBwVB0OfVAArc=
+
+Name: org/apache/log4j/HTMLLayout.class
+SHA-256-Digest: RR0RC/XOkfCj2d5KQCskNvXfdCsqy9XE0au/z8tDEDE=
+
+Name: org/apache/log4j/helpers/PatternParser$MDCPatternConverter.class
+SHA-256-Digest: BI4XKmgRWca+BSh+4Xn04YgN5AQ60xJTsttNvC2P3yc=
+
+Name: org/apache/log4j/xml/DOMConfigurator.class
+SHA-256-Digest: J9S0ynKJTG61ZacePcCo2dvyleP2FsvKfsT4ATSe0xs=
+
+Name: org/apache/log4j/or/jms/MessageRenderer.class
+SHA-256-Digest: 35NUKcFoL2JVNFDGRC+DUWostaofrpqWlUPVOgNwseU=
+
+Name: org/apache/log4j/jdbc/JdbcPatternParser.class
+SHA-256-Digest: 0slZjnu6RkOhJAh305DWpyqMxPAQm+5etz8O5sqjXZI=
+
+Name: org/apache/log4j/helpers/PatternParser$NamedPatternConverter.class
+SHA-256-Digest: QeJzOYpzEMuIr46ZugRKMlkMFswWsZi978aHsLpEuZw=
+
+Name: org/apache/log4j/ConsoleAppender.class
+SHA-256-Digest: x4Zz5jKze6LOM+UIxoz/z7QVrWyGB7C2JAg8xuDtx4A=
+
+Name: org/apache/log4j/net/SocketServer.class
+SHA-256-Digest: B1Qb8igjUAg0SxfQvMU/Oh6Qn+Uddk1zUw2DnjSgeWA=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.log4j/pom.prop
+ erties
+SHA-256-Digest: yQ/EJgvr+rEjFVh3xBa1SKZ734SOSV3Nnuj4z1v2I3g=
+
+Name: org/apache/log4j/net/SocketAppender.class
+SHA-256-Digest: oxdLzhe2g64yik9m9eblsuse/Pc+YT4ZBr+H2jcxHzs=
+
+Name: org/apache/log4j/helpers/RelativeTimeDateFormat.class
+SHA-256-Digest: mLopTLmP0JL5Nkb0UduK9c7TDnAA/6AxK3LTcP2Q1q4=
+
+Name: org/apache/log4j/Hierarchy.class
+SHA-256-Digest: Mu2gjh3Gd6kABI3nlYE0qgFFFk+FR5Ayepn0EypINqk=
+
+Name: org/apache/log4j/helpers/AppenderAttachableImpl.class
+SHA-256-Digest: Ei7/FxUsqafvHSiy81lVaJ15AfThV7lNFErBjWWXKVI=
+
+Name: org/apache/log4j/net/SocketNode.class
+SHA-256-Digest: uB4M8hinoJBKSIOLaJTmC1MaWaKVktmRoFrqpdi1Fx8=
+
+Name: org/apache/log4j/pattern/NameAbbreviator$PatternAbbreviator.class
+SHA-256-Digest: v/8mTZLo8jPZ84aVDM2KgwYN3Kh3aNZ5AXftORAtzss=
+
+Name: org/apache/log4j/rewrite/PropertyRewritePolicy.class
+SHA-256-Digest: +/PZ854sSkCNXlKj+x+5HPbriNkslgrVOi1PGvDj2ks=
+
+Name: org/apache/log4j/EnhancedThrowableRenderer.class
+SHA-256-Digest: gJgL/U9lOvW1HiAghrBLSvQUbWIeTcjWCUb1lKKknw8=
+
+Name: org/apache/log4j/helpers/PatternParser$DatePatternConverter.class
+SHA-256-Digest: rBT/Tr/+4Zh+OtXaLbnAedIuYubvrLfRMZrKzByi/Xg=
+
+Name: org/apache/log4j/spi/TriggeringEventEvaluator.class
+SHA-256-Digest: 4v9MqSPl0Sxh60vSy4BiKJyiNmlXyoE3pUYC30ydQEM=
+
+Name: org/apache/log4j/DailyRollingFileAppender.class
+SHA-256-Digest: ID/XweRbh7rrkupAS26t6OiVgMs+nzSVNtF2k8IudKQ=
+
+Name: org/apache/log4j/NDC.class
+SHA-256-Digest: Vn9tvdmUMwHMTMjMngOo8oWh4IcS41cvx+sD39ytUTo=
+
+Name: org/apache/log4j/spi/RootCategory.class
+SHA-256-Digest: i23q0wzhp756T6nRuERygQT2xBFqV8vCvPjGN4PLGfU=
+
+Name: org/apache/log4j/LogSF.class
+SHA-256-Digest: jnZyrJepQM8t4F3CfTMhBRyP9urOpvAZfBOziQaoSfo=
+
+Name: org/apache/log4j/net/SMTPAppender$1.class
+SHA-256-Digest: UUwkJrmyEiQ2pKWj5uALyIWsi/qlNjTD1Sp/6JCUjGQ=
+
+Name: org/apache/log4j/jdbc/JDBCAppender.class
+SHA-256-Digest: INTU9/PnDusyZrJWwBleNTt4+MG7CcEcjrQkg5zybi8=
+
+Name: org/apache/log4j/varia/HUP.class
+SHA-256-Digest: lovTrhxTgaPYK6Q/yATYqU29Wz/hM2dQz3IhfTCRNYk=
+
+Name: org/apache/log4j/LogXF.class
+SHA-256-Digest: gAlkJjeNj94ZVT0UMS6eeKXYCfajGzdujTUvVbDc5fY=
+
+Name: org/apache/log4j/NDC$DiagnosticContext.class
+SHA-256-Digest: r1FuJI2Wh6dZqeP+m7uptqmVk7w8DH3cJ9IIYEK3+K8=
+
+Name: org/apache/log4j/helpers/PatternParser$CategoryPatternConverter.cl
+ ass
+SHA-256-Digest: mLZRnD/VWIsB6TP5b1JA7gVQqG64P34K1WvU16uy39s=
+
+Name: org/apache/log4j/helpers/Transform.class
+SHA-256-Digest: bVSCKIy+1BwlOTw1+Pu2OYwXfhf5/b+vVYz0ppOBum0=
+
+Name: org/apache/log4j/spi/ThrowableRendererSupport.class
+SHA-256-Digest: FKVS1nxkfQuvaAb2ArhauHO/BYSjS9fKmWeVWNch+1I=
+
+Name: org/apache/log4j/pattern/LogEvent.class
+SHA-256-Digest: BMYut0aZ/rQ4cMC33BiUBSUp/EcLrUUQ8SFlMFYXzus=
+
+Name: org/apache/log4j/AppenderSkeleton.class
+SHA-256-Digest: zXFKgPC6/Z83liv1i6E8k62aSbRFQjFx+U/cY1Ty+fo=
+
+Name: org/apache/log4j/or/ThreadGroupRenderer.class
+SHA-256-Digest: rDzndG9VRUqFZeJhz93f/zgokIh7rprk3ClOcnQyMK8=
+
+Name: META-INF/LICENSE
+SHA-256-Digest: HiV74nIy2kgrWW/LN8PvQYXjxAzLfDP/B7N5dlkLxno=
+
+Name: org/apache/log4j/CategoryKey.class
+SHA-256-Digest: FoFlV8Y4FMh0Leyj5no3LCHQ2PmZ6kUzgv8rQMxznCk=
+
+Name: org/apache/log4j/pattern/NDCPatternConverter.class
+SHA-256-Digest: m8KlWCewIHkcEfHqED/XFjFETFneA7yYUjb2dBzN9RI=
+
+Name: org/apache/log4j/varia/FallbackErrorHandler.class
+SHA-256-Digest: 1pXTC3pMzxgK32ZmRC67IJfXqMcysEY2xRuW+Gl9nEA=
+
+Name: org/apache/log4j/LogMF.class
+SHA-256-Digest: nekNX8nwuWJ0+NMmPRyouhA10gR8NEFoun5y68s6UA4=
+
+Name: org/apache/log4j/net/JMSSink.class
+SHA-256-Digest: KZo/FgvnCkuzI7rx4yHIRVVRwt+s0uyAQNJztz//qRU=
+
+Name: org/apache/log4j/spi/LoggingEvent.class
+SHA-256-Digest: fqDc8ulg2NlWbpMoAR1wOgUXiYRT0NUucR6AP8bH4g4=
+
+Name: org/apache/log4j/chainsaw/ControlPanel$2.class
+SHA-256-Digest: 3i624shRjYJdSzqduzNn3uNzenCBXSaiQwIpqacHELg=
+
+Name: org/apache/log4j/SimpleLayout.class
+SHA-256-Digest: BvhgWJX5P0D6YfAM06c5szi54171Ke4z6AaZo0KENdc=
+
+Name: org/apache/log4j/helpers/CyclicBuffer.class
+SHA-256-Digest: 1eC7QYMHdG/NxZQyo8IkxJdTBQc0WI93xdYx/ZlK64Q=
+
+Name: org/apache/log4j/pattern/PatternConverter.class
+SHA-256-Digest: AkQl2fxEd7z2ynv8LlXwNqODKNAk1ywBYY0lfHg0sog=
+
+Name: org/apache/log4j/pattern/NameAbbreviator$NOPAbbreviator.class
+SHA-256-Digest: Z0q++iPToHjxDOQxNwfBDCYH92m3bKhh61vIbNv3kPQ=
+
+Name: org/apache/log4j/xml/DOMConfigurator$5.class
+SHA-256-Digest: JCAN2uMiv+n5E1ECcxd8KjRZKLAU+GScNUYvCsg34ZM=
+
+Name: org/apache/log4j/chainsaw/MyTableModel$Processor.class
+SHA-256-Digest: S3vrwveaE0LRzdjg5OQ/Fu+lo93Fg6e+WlyPxUWsPDQ=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.log4j/pom.xml
+SHA-256-Digest: lSSFRC31yvUfsA5O0PgfbglWstMvr0r65OAAjWB/Qfs=
+
+Name: org/apache/log4j/pattern/NameAbbreviator.class
+SHA-256-Digest: /Dm3YH2zpLMH6yjSY8IGpMPia1pFZbVKObKUGUWMNQc=
+
+Name: org/apache/log4j/net/SocketAppender$Connector.class
+SHA-256-Digest: C4kyDWkXeepTCSs0wzLVh3vWdr5+XbaxCWNTFJ1FLsw=
+
+Name: org/apache/log4j/pattern/IntegerPatternConverter.class
+SHA-256-Digest: 8+JJORZfGtiT9smXk9bu6a1b9ckmJjuAzAAk22Ok/cY=
+
+Name: org/apache/log4j/spi/LoggerRepository.class
+SHA-256-Digest: qf0X2mL9QOmDReTSuE3s5KbEyn0u+yR+IQkeeiHNL+s=
+
+Name: org/apache/log4j/xml/log4j.dtd
+SHA-256-Digest: HjpWJwIA7uj9EoHNZeRPo4jYMrBg/tqYZDYanPLlbHs=
+
+Name: org/apache/log4j/PropertyWatchdog.class
+SHA-256-Digest: 7horFhPbFjFcR+MlvYrEIIxp6zk+ampKInVXUnA9Wbc=
+
+Name: org/apache/log4j/chainsaw/ControlPanel$1.class
+SHA-256-Digest: a4Bic+0TbioGUYDaFvZzxKKhAQ1KsG7smL54afD0GXI=
+
+Name: org/apache/log4j/pattern/FullLocationPatternConverter.class
+SHA-256-Digest: R81JnuPNTYObeyqP3b68Kxx5OWoLKP+OLBPl7iGVT5c=
+
+Name: org/apache/log4j/WriterAppender.class
+SHA-256-Digest: njTnX2zUOuFBHLx/Hd1WFQseC+IPpJlWhehOvTMOQAc=
+
+Name: org/apache/log4j/helpers/NullEnumeration.class
+SHA-256-Digest: 1nX0Ll8c+gBLTCP5DqCA4jwUawiT+42lbUFeFG0dlCY=
+
+Name: org/apache/log4j/spi/Configurator.class
+SHA-256-Digest: +nB5WkKbLZMX2Azg1Ns743i9Ig1bn6+m6R8l49ShYPo=
+
+Name: org/apache/log4j/varia/LevelRangeFilter.class
+SHA-256-Digest: xFQqj9X9kNAsR9AR4/Btx5n4j3BFMZqyuXEtO0WZfTU=
+
+Name: org/apache/log4j/RollingCalendar.class
+SHA-256-Digest: zoE7EfVZSfByL3rEOTaC0Nk19NjpRxWVggo7ZaGeWQE=
+
+Name: org/apache/log4j/xml/Log4jEntityResolver.class
+SHA-256-Digest: btrLwUfJfgRhfyoQh22irCPY2ZtF1DkSceKaYDTWLtg=
+
+Name: org/apache/log4j/varia/ReloadingPropertyConfigurator.class
+SHA-256-Digest: EARh4MPgAsaoVYbSamAvi7tpn+54rm2LtQxoPWM9RHo=
+
+Name: org/apache/log4j/spi/ThrowableInformation.class
+SHA-256-Digest: PByjlP2/ybfRMGmwOJ/Ohy/UCiJbhA/r8DTNJEt8TQM=
+
+Name: org/apache/log4j/spi/VectorWriter.class
+SHA-256-Digest: J9mS1hOeCioExNxgcevBoeHpjq6r/3NpjTgp/xhLEdQ=
+
+Name: org/apache/log4j/pattern/RelativeTimePatternConverter$CachedTimest
+ amp.class
+SHA-256-Digest: Bquyh8bjDTI1OLf7/K8KHzPkrMaZfd87QIgNXQtgXD4=
+
+Name: org/apache/log4j/chainsaw/DetailPanel.class
+SHA-256-Digest: XImMYtonwUGyW1uOxhufLSPgOCAEkk7TwVKyd/qnjXI=
+
+Name: org/apache/log4j/ConsoleAppender$SystemOutStream.class
+SHA-256-Digest: V79TpOABr3/wH2vrF8kG11kDeVD0aMi60Q+OZWk9W9U=
+
+Name: org/apache/log4j/xml/DOMConfigurator$4.class
+SHA-256-Digest: mUA/Yoqg/h57gjGmDuila6oWzO6zefsMs3Oz4lnWHaM=
+
+Name: org/apache/log4j/spi/OptionHandler.class
+SHA-256-Digest: /FPVaalUKDS09691oQh0mVxeKMJguVGkl6Nj/6wMsEc=
+
+Name: org/apache/log4j/varia/StringMatchFilter.class
+SHA-256-Digest: dxezKj4aAz+y94BG8ytCTGbgI3r52I2bTM06Ua0nAjA=
+
+Name: org/apache/log4j/chainsaw/Main.class
+SHA-256-Digest: 5Hy2QPwhGw5eEiHBE/hSsSVx5UWKlrOapdylDr9i96s=
+
+Name: org/apache/log4j/pattern/LevelPatternConverter.class
+SHA-256-Digest: 2PrdmhBsxmW77Zowsm8pBSgc684IlvZ7HpUTVoKEaIo=
+
+Name: org/apache/log4j/helpers/BoundedFIFO.class
+SHA-256-Digest: IzLpkGNTulAMtjoExfjF5laoYPgDLIcgbLK3QKKOc34=
+
+Name: org/apache/log4j/chainsaw/ControlPanel$6.class
+SHA-256-Digest: gQLzvHfhwM2WWuculXCgkTcwdEWLwE2VObUvQFmovP0=
+
+Name: org/apache/log4j/pattern/BridgePatternParser.class
+SHA-256-Digest: +y5L0DiojxAUCSlkhh2wt6sklBW6O6crpkQBBuTPS/8=
+
+Name: org/apache/log4j/or/RendererMap.class
+SHA-256-Digest: wy/kvkGCfcWzo0gvIZrMsqnAfXVRvjG/DYk5wFf0f48=
+
+Name: org/apache/log4j/rewrite/RewritePolicy.class
+SHA-256-Digest: PCxqMM6uJdMmVlnFWCQg6o8jBhX0qzETDwcscR1img0=
+
+Name: org/apache/log4j/chainsaw/LoggingReceiver.class
+SHA-256-Digest: Wb+qiFxfVPb0w6E1lscQEI2DoRln+aSoEUH1fkNlX3I=
+
+Name: org/apache/log4j/ConsoleAppender$SystemErrStream.class
+SHA-256-Digest: VXBtgQabDzYcJ3+2hawFOddIwQdHC+45DKmGZpvRRwY=
+
+Name: org/apache/log4j/pattern/PropertiesPatternConverter.class
+SHA-256-Digest: 8ienNUVRsRnYi8agrOmoQpWUC/lbgTq7rBLmMIGMGEI=
+
+Name: org/apache/log4j/spi/ErrorCode.class
+SHA-256-Digest: jUU79Eg7oY22xJCPcXACYbDUs1nzrgFpTbCj0OmAQyo=
+
+Name: org/apache/log4j/net/HardenedLoggingEventInputStream.class
+SHA-256-Digest: LrP6hJYdsRpofibIKzAUSD2+YmMmoDcucYgFrgf9O+E=
+
+Name: org/apache/log4j/pattern/PatternParser.class
+SHA-256-Digest: hdQT6xP02hiMGWFd2tK6YCXwqfwvGhhqvt8gAFPAMBc=
+
+Name: org/apache/log4j/helpers/MDCKeySetExtractor.class
+SHA-256-Digest: kPledmAwmGO5yV3vSH7exYo5nYq+B5OLcrcR8/8v46g=
+
+Name: org/apache/log4j/PropertyConfigurator.class
+SHA-256-Digest: pG5eKrY4MoznwmGT9/holy5HYeL+g+p/EbHYasy63S0=
+
+Name: org/apache/log4j/helpers/QuietWriter.class
+SHA-256-Digest: C7cygJlWjjJ3Qt5niQJC6+Z2eoD8+bfYFaM2WzreO+I=
+
+Name: org/apache/log4j/net/SocketHubAppender$ServerMonitor.class
+SHA-256-Digest: JMGfdLt4on3gvyWjVaCvRt/hzEhv+aX5CoYTYuNEC4E=
+
+Name: org/apache/log4j/chainsaw/Main$1.class
+SHA-256-Digest: 7FL3aSoSYIrpKvwdBQ72rn7dOEd9AGeasV97NYJyab8=
+
+Name: org/apache/log4j/helpers/PatternParser.class
+SHA-256-Digest: mOVW5UjPERGW/froOniFGN/1S8E6RNCZdybxJmdtiMs=
+
+Name: org/apache/log4j/lf5/viewer/images/channelexplorer_new.gif
+SHA-256-Digest: +ULKIuSheUGTlqtStyDBdgj7i34MkHvf7hT4we9BdHI=
+
+Name: org/apache/log4j/xml/UnrecognizedElementHandler.class
+SHA-256-Digest: 6tgAkVCuLAJF3nlc01Yg/MmGTK85XCRGEc8t1R6WN3o=
+
+Name: org/apache/log4j/pattern/NamePatternConverter.class
+SHA-256-Digest: WDaLonfBDxRA77RxhWPkg1aPbzul1SSSsKYpGi/diZA=
+
+Name: org/apache/log4j/chainsaw/EventDetails.class
+SHA-256-Digest: 7C/eNe/K4pMX1FzNWn2r7JHJ6Ss/p6azFSH4nLV4LSI=
+
+Name: org/apache/log4j/helpers/DateTimeDateFormat.class
+SHA-256-Digest: U93WHRXXZrvL4D6trZhp/0/AgF7tyLwsyKwpZqlOAi4=
+
+Name: org/apache/log4j/helpers/SyslogQuietWriter.class
+SHA-256-Digest: +Iyuw2owiJ48cqDdhZ0aV+vHLu4GHO2vDh1SfyNOo1Y=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: nC0OyZb3820JuClzqiffnZJeQywZktkpcj6dQxJVXbU=
+
+Name: org/apache/log4j/net/SimpleSocketServer.class
+SHA-256-Digest: baWfHERL/+z7eGnmos36IGQrA9bnNZqaK8y1LIiKgLU=
+
+Name: org/apache/log4j/spi/Filter.class
+SHA-256-Digest: kESjtTL1LESltBbHEf0soNLo6GYLpPKxHzdhanRwyjE=
+
+Name: org/apache/log4j/pattern/LiteralPatternConverter.class
+SHA-256-Digest: geu4Gv2DCyBB/mgIM+uPtCtiWtVUMbKewT7wppVokRU=
+
+Name: org/apache/log4j/chainsaw/LoggingReceiver$Slurper.class
+SHA-256-Digest: pkf0OYmwoaw2erBBrvNL0u/k3rTx0POSleJ/ZkdSHCw=
+
+Name: org/apache/log4j/net/ZeroConfSupport.class
+SHA-256-Digest: DTtMib9YeyWqVJhMLZJ9QfvZd6vIg4ogkc/NcGKSSE8=
+
+Name: org/apache/log4j/spi/ThrowableRenderer.class
+SHA-256-Digest: rX1HWjrGcmP/EccT25PAKfSwcqnuZ9u4X4kN6+3zqXo=
+
+Name: org/apache/log4j/pattern/RelativeTimePatternConverter.class
+SHA-256-Digest: NQetBxnHUzoH8xoWPD3QkyRMt+nN5KXo+Eou7ce+g7k=
+
+Name: org/apache/log4j/LogManager.class
+SHA-256-Digest: xD9ABvxh9GFxg8rNy/aLoO6lrcFY5HlbwZCQxWkjSVw=
+
+Name: org/apache/log4j/spi/ErrorHandler.class
+SHA-256-Digest: 05UF829EVA7CK2u47qz2n1Cobr0mlg/oJF3BbSvtx2w=
+
+Name: org/apache/log4j/pattern/LineLocationPatternConverter.class
+SHA-256-Digest: LaUIpNnURM7KWt0pKnqXIYo3gMklqZFUFmyPRen/ueY=
+
+Name: org/apache/log4j/rewrite/MapRewritePolicy.class
+SHA-256-Digest: JE4Qf6VZw7kGjy+vndSVZwRg3p6ramd9GuHjdomA9BQ=
+
+Name: org/apache/log4j/varia/Roller.class
+SHA-256-Digest: /Y17k9pIK7bA99SsMFv4INFVtwKDKjU6JOPlFoARGKA=
+
+Name: org/apache/log4j/pattern/PatternParser$ReadOnlyMap.class
+SHA-256-Digest: vsyob0o58/q6lntpF5GnkdX02dfydDfA0MIIZGeICeI=
+
+Name: org/apache/log4j/net/SyslogAppender.class
+SHA-256-Digest: RXa0XZ1IAPqtYr4wknwPmiD3yPOFC+wqXO21Ma4YSR4=
+
+Name: org/apache/log4j/spi/NullWriter.class
+SHA-256-Digest: cx8l7v3w7nHPsBE17Utr4y4jSVNiVlpmsGu+0CyzcQE=
+
+Name: org/apache/log4j/spi/LoggerFactory.class
+SHA-256-Digest: n9roHPQDg69Vur4BI3KYL1D8BohFTjChR+ZG1nyhw6I=
+
+Name: org/apache/log4j/pattern/SequenceNumberPatternConverter.class
+SHA-256-Digest: CSNfe+JHT5HU6y/l7hHKjXZ6Vv0J0/LddYEnqIEl968=
+
+Name: org/apache/log4j/pattern/BridgePatternConverter.class
+SHA-256-Digest: oud6FE9SFDoGytTo1nGU1mLkL2HT/IbUkMkEUvqPLKQ=
+
+Name: org/apache/log4j/config/PropertySetterException.class
+SHA-256-Digest: rHk4YbSkyeOR+1NoNXgYnSONtPaICPdscPsVw90a/+4=
+
+Name: org/apache/log4j/spi/LocationInfo.class
+SHA-256-Digest: 5Z53U85jBn4jwAcRN/R+m/luqOavZ1SgiytASVIJMNY=
+
+Name: org/apache/log4j/AsyncAppender$DiscardSummary.class
+SHA-256-Digest: 5dUcBv0Q7fQpELYylrS8M6brgfu0Wv4gnBM6ZGbW2XM=
+
+Name: org/apache/log4j/helpers/ThreadLocalMap.class
+SHA-256-Digest: IzKU7ZdcTvITcArgyHY8z0ww0lAcwU4O8HiEtCxZiLs=
+
+Name: org/apache/log4j/pattern/ClassNamePatternConverter.class
+SHA-256-Digest: KG/FTDpdxCcSNzj46aluOgBntef26cGs0nEF9WucKS8=
+
+Name: org/apache/log4j/spi/NOPLogger.class
+SHA-256-Digest: VnHl0v1X56zrX7/VIiVPFFZYXaCrvL5hOwdf1ET3vxE=
+
+Name: org/apache/log4j/xml/DOMConfigurator$3.class
+SHA-256-Digest: RcT9/Fe9TiZzva3oCrBQEyTSJMRKnISwWaule3DXxIg=
+
+Name: org/apache/log4j/xml/XMLLayout.class
+SHA-256-Digest: nN50+tlY6KOe0RC2Z3si0ghAn3Bwj/kpydKhtI7avGs=
+
+Name: org/apache/log4j/pattern/DatePatternConverter$DefaultZoneDateForma
+ t.class
+SHA-256-Digest: GS8K42OQExOA2U+SeAV7MB3tk+NhWglX1tiBJm64GcY=
+
+Name: org/apache/log4j/pattern/NameAbbreviator$MaxElementAbbreviator.cla
+ ss
+SHA-256-Digest: srbh2XFRwasBkhLPiVHqDHjrwgdYjhSpnWYx9OqeOn0=
+
+Name: org/apache/log4j/Logger.class
+SHA-256-Digest: +hLUhUgLqA2C/E3kdFQHz/OOeZJTZTMyyToLl8ZEp8A=
+
+Name: org/apache/log4j/chainsaw/MyTableModel.class
+SHA-256-Digest: Cr5yu4PdnlcCC5NgAC3vuookhKKNst4RL9WfbDB4RSY=
+
+Name: org/apache/log4j/or/DefaultRenderer.class
+SHA-256-Digest: TW11UsAu8LJNIhMFuDLDSaVsnAiEmkkecMBE7i7dvgY=
+
+Name: org/apache/log4j/Priority.class
+SHA-256-Digest: PZ3lEPLKaT9oZFDSKtWo22tNLQWAnPAbYRb30/1wF+k=
+
+Name: org/apache/log4j/varia/LevelMatchFilter.class
+SHA-256-Digest: R3+PV8E1RLJieI2PzYX5gwBhJOvTF9Xm3rRvEWMKBE8=
+
+Name: org/apache/log4j/SortedKeyEnumeration.class
+SHA-256-Digest: 4smuK5bzG8LBTFjva7PxYHg1z/R48H/zrwg/mvTG8Xs=
+
+Name: org/apache/log4j/pattern/MethodLocationPatternConverter.class
+SHA-256-Digest: VrfsAZXNwDGJmsYnpdCoMOhC4MbmCy8KcvjXycC+pMg=
+
+Name: org/apache/log4j/TTCCLayout.class
+SHA-256-Digest: P5o+5tmXUNH3DjS3F794M+0boqwAGEAoMj1+CyBtnSI=
+
+Name: org/apache/log4j/AsyncAppender.class
+SHA-256-Digest: 6tCrVtp33cEmbhNmUI1A1fl9VUX6o5CwDjtg6x5XT2U=
+
+Name: org/apache/log4j/helpers/UtilLoggingLevel.class
+SHA-256-Digest: S+P0XwYjQP0WwwIRG0pahWF+NvKDxIQJcMts12RR0B4=
+
+Name: org/apache/log4j/or/ObjectRenderer.class
+SHA-256-Digest: Ny7mDj2GOlvkO5fGce/mBgk6tz9g4Yw7Id6bWYcHcHk=
+
+Name: org/apache/log4j/net/HardenedObjectInputStream.class
+SHA-256-Digest: W6V7OxhgFcaOfJZik49dKx89DYGX4ZfwBA3KDld+5x8=
+
+Name: org/apache/log4j/pattern/FormattingInfo.class
+SHA-256-Digest: DJqNxrRuQXWpSd7L6uC6xdHe98N6rOSv9VuZQekon6o=
+
+Name: org/apache/log4j/chainsaw/ControlPanel$7.class
+SHA-256-Digest: duNbtuXqUBq7GLWj9TiCDkFyiR8/P7sJO1VQNSKSeiI=
+
+Name: org/apache/log4j/chainsaw/LoadXMLAction.class
+SHA-256-Digest: iAl1FJhSj9rUOV72uG/9706T2DWM6Vuz9CjtKphdccg=
+
+Name: org/apache/log4j/helpers/OptionConverter.class
+SHA-256-Digest: WBXaDmKufk4a2Dk7bcb5vMd1XppFBt1auku6mg+4VBU=
+
+Name: org/apache/log4j/net/JNDIUtil.class
+SHA-256-Digest: LW/VnZ8u4d0xa/Vd5h5YkgSukqmyYA+Vo1zVGCfvA+M=
+
+Name: org/apache/log4j/spi/RendererSupport.class
+SHA-256-Digest: Gu709YSD0V+38FNK6H67hQOwGSAktWiBfuwTSEv227E=
+
+Name: org/apache/log4j/chainsaw/MyTableModel$1.class
+SHA-256-Digest: UW5+A795W0zMhrvcEbzNiipfxr4p8/DQUl9lrPDAcis=
+
+Name: org/apache/log4j/xml/DOMConfigurator$ParseAction.class
+SHA-256-Digest: Bvpohs3k6cLMmG+/P0GVGytnDXo5o2BtuF9XbMVhlmM=
+
+Name: org/apache/log4j/config/PropertyGetter$PropertyCallback.class
+SHA-256-Digest: /EmzhzIHSolJiG3LtGL6Dnm55aF8Hj4Vr8hHwTnkYzw=
+
+Name: org/apache/log4j/Level.class
+SHA-256-Digest: rqxHGxLdsFl1I+eaR/HMPYz99DTL2qqUn5IsWbCKkXI=
+
+Name: org/apache/log4j/helpers/ISO8601DateFormat.class
+SHA-256-Digest: V996/D6DYq6B9UwWWAxqWvn+z/TAkj2ufzc2+zwGJXg=
+
+Name: org/apache/log4j/net/TelnetAppender$SocketHandler.class
+SHA-256-Digest: BMvcn7CAt87T8A1m8dAdNKekSu3gtGuT0LO+DXwMP4Q=
+
+Name: org/apache/log4j/pattern/CachedDateFormat.class
+SHA-256-Digest: RhSUM/82bx0zbl0Sp/NTRxDRE8o28h7ltYnC7gj7ABc=
+
+Name: org/apache/log4j/xml/DOMConfigurator$2.class
+SHA-256-Digest: zh+2N4okerxyv5RwyPnjWpVugCcbUDD4jTAqRUbCamA=
+
+Name: org/apache/log4j/chainsaw/ControlPanel$5.class
+SHA-256-Digest: AkLcxDFI3AGnDCMNejRAlcxQoY4Arsiye2XE2H559x4=
+
+Name: org/apache/log4j/chainsaw/ControlPanel.class
+SHA-256-Digest: ycvhn9DqQnMbQzfweRIzac1Gbq/BvW15aoGwQV3xjgM=
+
+Name: org/apache/log4j/config/PropertyPrinter.class
+SHA-256-Digest: yjRN7X+5kX3mhAdhRdqjiG4ohPJ8TCtfC7ToRRupAjA=
+
+Name: org/apache/log4j/helpers/PatternParser$LiteralPatternConverter.cla
+ ss
+SHA-256-Digest: 1WH59KkAxn/lrJWxVhG/WGryRUhq0KYfsTpuWQFcHDg=
+
+Name: org/apache/log4j/DefaultThrowableRenderer.class
+SHA-256-Digest: cemtRr4ghqG/ILhDwLps4p0uUJuEe3vubmR24qHafA4=
+
+Name: org/apache/log4j/helpers/PatternParser$ClassNamePatternConverter.c
+ lass
+SHA-256-Digest: z+rmvhd8LAdAkp9v7G9xxjWL4Grh+Jtqg4QWOT/oH5M=
+
+Name: org/apache/log4j/varia/HUPNode.class
+SHA-256-Digest: rgTAyghLLHBhvHU5KaZ4r00zd0glbj7GIX47cFyRBwg=
+
+Name: org/apache/log4j/net/JMSAppender.class
+SHA-256-Digest: dSlFfD/oBnrNFCOcnlTZQTBqifOB4ALw3HRmnMFvydA=
+
+Name: org/apache/log4j/xml/XMLWatchdog.class
+SHA-256-Digest: 8GeWClzcD/KrNLmMQFMZ1DQvFiPNouikrDQ6jFHs9Dg=
+
+Name: org/apache/log4j/varia/DenyAllFilter.class
+SHA-256-Digest: LWIY8OGKw8dSBai3OoGAVwrvvYGykTm7G3TUyWBumT4=
+
+Name: org/apache/log4j/pattern/FileDatePatternConverter.class
+SHA-256-Digest: 6PL6D+upaMzuH6nj2LTJXn4/RTOI7vZTyE4IDJdmUfs=
+
+Name: org/apache/log4j/PatternLayout.class
+SHA-256-Digest: oETsqArFE8zsJIwMo0SiahA/p1NzYOO28+vT9xSfTE0=
+
+Name: org/apache/log4j/helpers/FormattingInfo.class
+SHA-256-Digest: KlBwDuBJrexIS8r73SLSJkonQIGdQJoBunc0wFP4JIc=
+
+Name: org/apache/log4j/spi/DefaultRepositorySelector.class
+SHA-256-Digest: E+tIALiRR3KcvZ+q5isNGKgwSjEEahHqHBmVSgS9fL8=
+
+Name: org/apache/log4j/spi/RepositorySelector.class
+SHA-256-Digest: EIsZUvkd5BUOMIxebFf0fQJBLlWRjToukLRpu0UyOx8=
+
+Name: org/apache/log4j/spi/AppenderAttachable.class
+SHA-256-Digest: ddoPRkvlob8PMB9QBZn+Vsf2594ij95YKLaSpdj9rgY=
+
+Name: org/apache/log4j/varia/NullAppender.class
+SHA-256-Digest: fWvnE/mzrKgTYjTIdKM9wVUYIjJSakP0YXH+gY2Pcsk=
+
+Name: org/apache/log4j/DefaultCategoryFactory.class
+SHA-256-Digest: 3rSwNi0K2PNY2Gug/xyHcBOwWoRJL2xyXmisFMrUjpU=
+
+Name: org/apache/log4j/helpers/PatternParser$BasicPatternConverter.class
+SHA-256-Digest: XEL9S+Bath4qyecesjvOdmV+Y3ZRl63c5jT9FMoByro=
+
+Name: org/apache/log4j/rewrite/ReflectionRewritePolicy.class
+SHA-256-Digest: Z3ix7iXyNtG3urylIHIO4SQ9Mq0Q2v/YON/G6cm3D0E=
+
+Name: org/apache/log4j/helpers/PatternParser$LocationPatternConverter.cl
+ ass
+SHA-256-Digest: MTmZd+DQdaWU6kYeaogGDz391oQqB86iWgw4lsrgYQI=
+
+Name: org/apache/log4j/config/PropertyGetter.class
+SHA-256-Digest: 8DAvvgDrQXvAm1tK/awy6JuqK6vyn6TgCo7xpsLDW9k=
+
+Name: org/apache/log4j/helpers/DateLayout.class
+SHA-256-Digest: A3g8kmnP1369xr3wHcoAJViY1ECcmfaP7m5IR4RKXRY=
+
+Name: META-INF/NOTICE
+SHA-256-Digest: JRVFvPFNax8Hw4+JbyuNc7dSJbZznMrjHfK8dVv0Y9M=
+
+Name: about.html
+SHA-256-Digest: PQiWS+1kdsJ32BfWCxj9i8Qe1tVY1z9nDcKG59uATBE=
+
+Name: org/apache/log4j/helpers/CountingQuietWriter.class
+SHA-256-Digest: WJXeKxaXaYUSrGPXImHqvpQVWp8/LCt0Ba2WadH9wUQ=
+
+Name: org/apache/log4j/helpers/LogLog.class
+SHA-256-Digest: y6zdS4v9B2UXYnRUqEzGV4xCxI28rAsVhfzNMru5wR0=
+
+Name: org/apache/log4j/EnhancedPatternLayout.class
+SHA-256-Digest: ROKTOK12zfz1u+vjEqFtMckZbg3q/UKWSVv0exJmqYY=
+
+Name: org/apache/log4j/net/SMTPAppender.class
+SHA-256-Digest: W3pYw+NjO4CSPy5SbtXXtBIlun5N/GmUM6+nTCB3nyU=
+
+Name: org/apache/log4j/net/SocketHubAppender.class
+SHA-256-Digest: 3YY0C2sXmV/1Xwsg8ZxePx1EqXb2UqC0r69bgJPItlQ=
+
+Name: org/apache/log4j/AsyncAppender$Dispatcher.class
+SHA-256-Digest: yEClCxZJV7Br1xF4xQCFDnOjez5MhXqo1W4Wg9gUUcw=
+
+Name: org/apache/log4j/FileAppender.class
+SHA-256-Digest: jMaweEhhHLzIXDT4EM2ISVkZ0eUZiD+qJzQrgwz4vXo=
+
+Name: org/apache/log4j/RollingFileAppender.class
+SHA-256-Digest: 2MSZGlZJ/WkUPzeoUjZv1fiBG6E0A0TA3uyVAWX1hHE=
+

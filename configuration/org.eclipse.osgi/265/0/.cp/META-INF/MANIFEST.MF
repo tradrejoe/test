@@ -1,0 +1,78 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.e4.core.commands;singleton:=true
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Version: 1.0.200.v20220629-1225
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Import-Package: javax.annotation,javax.inject;version="1.0.0",org.eclips
+ e.core.commands,org.eclipse.core.commands.common,org.eclipse.core.expre
+ ssions,org.eclipse.e4.core.contexts,org.eclipse.e4.core.services.log,or
+ g.osgi.framework;version="1.5.0"
+Export-Package: org.eclipse.e4.core.commands,org.eclipse.e4.core.command
+ s.internal;x-friends:="org.eclipse.e4.ui.bindings,org.eclipse.ui.workbe
+ nch"
+Require-Bundle: org.eclipse.equinox.common;bundle-version="[3.6.0,4.0.0)
+ ",org.eclipse.e4.core.di;bundle-version="0.9.0"
+Automatic-Module-Name: org.eclipse.e4.core.commands
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.ui.git;path="bundles/org.eclipse.e4.core.commands";tag="
+ I20220629-1800";commitId=4a795a15e9d10ccea9e74629a570290a76411d29
+
+Name: org/eclipse/e4/core/commands/EHandlerService.class
+SHA-256-Digest: mSa1ibwZAdwo798hXWo61VNIhvZoitYeU61qkKGM0nk=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/e4/core/commands/internal/SetEnabled.class
+SHA-256-Digest: gvo4M3PTMCfW0WYe2jbGHXlXRenPkUrjVr6Uex73unI=
+
+Name: org/eclipse/e4/core/commands/CommandServiceAddon.class
+SHA-256-Digest: BsW/RXDJkfZYL95EqkbVVeVf692Qh/82mRL/neFDads=
+
+Name: org/eclipse/e4/core/commands/ECommandService.class
+SHA-256-Digest: e8t3MHrJphCMMFm9CcqbhXvHMWqymhtxIfQDVesXrtk=
+
+Name: org/eclipse/e4/core/commands/internal/HandlerServiceCreationFuncti
+ on.class
+SHA-256-Digest: 8a2UcDX6FJt+QGcMXGa8KBMs5pYS1z5j5Jx7F1MrCeA=
+
+Name: org/eclipse/e4/core/commands/internal/CommandServiceCreationFuncti
+ on.class
+SHA-256-Digest: 8cHYui4XHnzF/vZEHXdzUpeFxfEGQzgiH+NE5AmXnIU=
+
+Name: org/eclipse/e4/core/commands/internal/ICommandHelpService.class
+SHA-256-Digest: Q69zXI0+zjLO74xf6VXuoMLOwzwV+8o0U16X2jcbVK0=
+
+Name: .api_description
+SHA-256-Digest: chS02g3L5k0q3v3+lJcI2i9xCuP/xNEUCbtWzLmqMf0=
+
+Name: OSGI-INF/handlers.xml
+SHA-256-Digest: cLoazcn6pYhiaRUoz+Knw4tVOa1cxxq5xkX8UF9FWZ0=
+
+Name: org/eclipse/e4/core/commands/internal/HandlerServiceHandler.class
+SHA-256-Digest: c9UCZZfTji2iM8EhI7z/W224yHk5+v3twFhSC+gPhxo=
+
+Name: org/eclipse/e4/core/commands/internal/CommandServiceImpl.class
+SHA-256-Digest: 7Q83DjOtTMa88U49FxmbfMMrZqd5NhdECTBLryHGjzc=
+
+Name: org/eclipse/e4/core/commands/ExpressionContext.class
+SHA-256-Digest: wNP/HQ9xdRp5gY5qoKHivWxw1DZpIcqA0Yca3y5NjC8=
+
+Name: plugin.properties
+SHA-256-Digest: QLHqX4D1aNTTrwZMORU70q84iLZnUu6YrLaUjz/a0AM=
+
+Name: OSGI-INF/commands.xml
+SHA-256-Digest: dPYoqQWyAU4Ts/eecpzVYG+izX0b/spFkSLUtY0ibGc=
+
+Name: org/eclipse/e4/core/commands/internal/HandlerServiceImpl$Execution
+ Contexts.class
+SHA-256-Digest: fRStKKCTRN5IDOJxSM1guJDmY+SudDWlIg78nQXCcGE=
+
+Name: org/eclipse/e4/core/commands/internal/HandlerServiceImpl.class
+SHA-256-Digest: gy0VFyewIS0AxDdPI5CWU162dmwUmJffJ2l3qlwe4S4=
+

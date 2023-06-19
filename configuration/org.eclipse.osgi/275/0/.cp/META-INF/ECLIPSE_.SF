@@ -1,0 +1,66 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: XdjArkZBfkTG2bRF3w2MmT3On9sT6Gx5pmVGwAfCpp4=
+SHA-256-Digest-Manifest-Main-Attributes: +bHigv5uhX7WsLoRlxlcipiNLXyAIsz
+ mjENW/6YUV/E=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/e4/ui/bindings/keys/CancelOnModifyListener.class
+SHA-256-Digest: d+uoogdUzeiwladvkIhNkD2loOLUgNclNuuaN7qLY/g=
+
+Name: org/eclipse/e4/ui/bindings/BindingServiceAddon.class
+SHA-256-Digest: RET4e4WWjHv2A+o4SqxMO174tgmd8eoWWc3PE0IejiM=
+
+Name: org/eclipse/e4/ui/bindings/keys/OutOfOrderVerifyListener.class
+SHA-256-Digest: vVZh4pwmNGYs/7JZ3rq+vF4iqKAcOsE0SGzVGLxq8QY=
+
+Name: .api_description
+SHA-256-Digest: kXXmhGveh3YtT9LlX/mCyDa5hNu05/z7i3szFaNuQxI=
+
+Name: org/eclipse/e4/ui/bindings/internal/BindingTable.class
+SHA-256-Digest: w+p0CYJCMko5/3f4j7Gn3hV7vidK5lHql+jyo6Tsui0=
+
+Name: org/eclipse/e4/ui/bindings/EBindingService.class
+SHA-256-Digest: GGYl/Zq6rVSkXFoMzyvF6hOIyvrxRRK6YLHBjCmuhxo=
+
+Name: org/eclipse/e4/ui/bindings/keys/KeyBindingDispatcher$KeyDownFilter
+ .class
+SHA-256-Digest: KtWIOi2TJ+cTW9vcFDRsjl+KcQHZo04NJsCXxe1Xz40=
+
+Name: org/eclipse/e4/ui/bindings/internal/BindingTable$BindingComparator
+ .class
+SHA-256-Digest: OFlKDQfDDBEYCLlFKEuCVvrhzN1cr0k/xs6SKGdlB2U=
+
+Name: org/eclipse/e4/ui/bindings/internal/ContextSet.class
+SHA-256-Digest: /BabaryVQxle/F3OhN6B4aJdNphIII+69kHvsVd4nn4=
+
+Name: org/eclipse/e4/ui/bindings/internal/BindingTableManager.class
+SHA-256-Digest: mc4iOj7lp4mG6Xhwk+Vn1SrI4BCThjYVMDdfkWFMyFg=
+
+Name: OSGI-INF/bindings.xml
+SHA-256-Digest: BCTLd99WAimjfNJ7LJd++QTqPZij2jpuAT2X8YRNy9A=
+
+Name: org/eclipse/e4/ui/bindings/internal/BindingServiceCreationFunction
+ .class
+SHA-256-Digest: Dv/u9VEQaHIZwGf1W49QmBs9/OAoZQNIrjYCwob/Fq4=
+
+Name: org/eclipse/e4/ui/bindings/keys/KeyBindingDispatcher.class
+SHA-256-Digest: UL2gDFnbU9qFbva4lf6vDfYP009nc9g2oSDQ6jmBafE=
+
+Name: org/eclipse/e4/ui/bindings/internal/ContextSet$CComp.class
+SHA-256-Digest: 9/KnBnreY4P+8Xj/k6+8gVwZT+APgK6MpZotEh663H4=
+
+Name: org/eclipse/e4/ui/bindings/internal/BindingServiceImpl.class
+SHA-256-Digest: NV29y5muDFUlHAJYm8aN/TY6XqiCcvpTNQu0Gh2G7/M=
+
+Name: plugin.properties
+SHA-256-Digest: 82+UnP++4NHQVkPfvVWczyOC2nc/tHWBDGCSs7wIJaU=
+
+Name: org/eclipse/e4/ui/bindings/internal/KeyAssistDialog.class
+SHA-256-Digest: bnurTXXrPHjGn+sKkuheMU8VfjofwzaTM9CGkDCIQ2U=
+
+Name: org/eclipse/e4/ui/bindings/keys/OutOfOrderListener.class
+SHA-256-Digest: X6vaJE/piQF0P0gi65ClA4hHMBvVl2/tIiPJZ+KANRk=
+

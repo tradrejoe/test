@@ -1,0 +1,168 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.e4.ui.workbench.addons.swt;singleton:=t
+ rue
+Bundle-Version: 1.4.400.v20211102-0453
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.e4.ui.model.workbench;bundle-version="1.0.0"
+ ,org.eclipse.e4.core.contexts;bundle-version="0.9.0",org.eclipse.e4.cor
+ e.di;bundle-version="0.9.0",org.eclipse.e4.ui.workbench;bundle-version=
+ "1.5.0",org.eclipse.e4.core.services;bundle-version="0.9.1",org.eclipse
+ .e4.ui.workbench.renderers.swt;bundle-version="0.9.1",org.eclipse.e4.ui
+ .widgets;bundle-version="0.11.0",org.eclipse.e4.ui.css.swt;bundle-versi
+ on="0.9.1",org.eclipse.e4.ui.css.core;bundle-version="0.9.0",org.eclips
+ e.swt;bundle-version="[3.7.0,4.0.0)",org.eclipse.jface;bundle-version="
+ [3.7.0,4.0.0)",org.eclipse.core.runtime;bundle-version="[3.7.0,4.0.0)",
+ org.eclipse.e4.ui.di;bundle-version="0.10.0",org.eclipse.e4.ui.services
+ ;bundle-version="1.0.0",org.eclipse.emf.ecore.xmi;bundle-version="2.7.0
+ "
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Import-Package: javax.annotation,javax.inject;version="1.0.0",org.eclips
+ e.e4.ui.internal.workbench.swt,org.eclipse.osgi.util;version="1.1.0",or
+ g.osgi.service.event;version="1.3.0"
+Export-Package: org.eclipse.e4.ui.workbench.addons.cleanupaddon;x-intern
+ al:=true,org.eclipse.e4.ui.workbench.addons.dndaddon;x-internal:=true,o
+ rg.eclipse.e4.ui.workbench.addons.minmax;x-internal:=true,org.eclipse.e
+ 4.ui.workbench.addons.splitteraddon;x-friends:="org.eclipse.ui.workbenc
+ h",org.eclipse.e4.ui.workbench.addons.swt;x-internal:=true
+Automatic-Module-Name: org.eclipse.e4.ui.workbench.addons.swt
+Eclipse-SourceReferences: scm:git:https://git.eclipse.org/r/platform/ecl
+ ipse.platform.ui.git;path="bundles/org.eclipse.e4.ui.workbench.addons.s
+ wt";tag="I20211102-1800";commitId=fa6047d670847cc88432f8f542e1dc189bde9
+ d1f
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/DnDAddon.class
+SHA-256-Digest: UzcStqlsvvSKvFbv0/fP+dWWTxYbAW7yl2cBT1qov3c=
+
+Name: org/eclipse/e4/ui/workbench/addons/splitteraddon/SplitHost.class
+SHA-256-Digest: XQmSS8t7JFNjXLvNAzy/eBzjBDxGA2bTUGBVha+Aw4g=
+
+Name: plugin.xml
+SHA-256-Digest: uQpxW1j8W83svIdrp4L/HeBaxfEiracMRRuq5Z4zAl8=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/MinMaxAddonUtil.class
+SHA-256-Digest: 9yvIUWizrq+4GSLQ+BLfeEIHdshegh2jT8knk3ZwKsc=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/TrimStack$1.class
+SHA-256-Digest: Losz3yTIcs8O2V/Pv+YRy9ccF3s8ZHBAQXO4lSYEGfA=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/DragAgent.class
+SHA-256-Digest: VScYRIoogbBztijkm04oQmrdP8LFlk0GPL+hamsENpA=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/DnDInfo.class
+SHA-256-Digest: 6hwkQd7yHkSAGeTVt2wFVZZUErtLWEEc3bBTJBZ+hE8=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/MinMaxAddon$1.class
+SHA-256-Digest: DfYUTpMVmlxIRi3QmTmn9cD+OY7heiYzPCAXPe6b+QE=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/StackDropAgent.class
+SHA-256-Digest: wcQPNZrHwQFHSrRDNeQ/Y8gH8ldZEuMuptcRwJWHfiA=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/DropAgent.class
+SHA-256-Digest: ekYVbbAY+MV6HCn5R0NBAekQ9qHZYeESO1QiW5FQbfk=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/TrimPaneLayout$1.class
+SHA-256-Digest: jUrRoc1I7yCIeNXl0GaN1Bh3W3OzGku8NZvSNkDJIJg=
+
+Name: org/eclipse/e4/ui/workbench/addons/swt/CleanupProcessor.class
+SHA-256-Digest: CDRcEzSUCOukQd3jkrIeI/raX8FaNXBUIDsaHnFWNUA=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/SplitFeedbackOverlay.c
+ lass
+SHA-256-Digest: KSH+1w9w8nyIIbLrzPhcnn5ku/lPPQ2RnpayDeBti4M=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/TrimPaneLayout.class
+SHA-256-Digest: a+ddMMmGhc4QbYkGS9lJIYUfSMDfk0pqdOepSXGeFSY=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/DnDManager.class
+SHA-256-Digest: yxxxLS8JYLFe4ir4O9Dsj+RMMvcexMgHfLKZQeAwB44=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/PartDragAgent.class
+SHA-256-Digest: kCxq+NZep+K7j+4x1dk54bVPaI96z8FbssNtXnL63w0=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/TrimStack.class
+SHA-256-Digest: OIQ9sONeit+jQ76zaPsxoLDKyH4bqx5/yNXNZYNmQlU=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/SplitDropAgent2.class
+SHA-256-Digest: OaQ8iXfO9HggoK00a2ULBsnW7t96gGZuArj8P8AWDzw=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/TrimStackIdHelper.class
+SHA-256-Digest: NdbEQ+vngwp//tZ5KD+043fNxllpS1uncV64mNEWSaI=
+
+Name: plugin.properties
+SHA-256-Digest: xcUufYyr3XYKjSCcY23hZXYvlN1iBScXqCWX/Meh46Y=
+
+Name: org/eclipse/e4/ui/workbench/addons/swt/DnDProcessor.class
+SHA-256-Digest: VDL+jePxHItLOhSgTY1gPs0HB6rugLt54Am390EEV4s=
+
+Name: icons/full/etool16/fastview_restore.png
+SHA-256-Digest: mh7shiaF/WUxBxFeIOIfDgNbcJTNojZqxbAiLOhX2Ps=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/TrimStackIdHelper$TrimSt
+ ackIdPart.class
+SHA-256-Digest: c4xsCX0SFCSuMLQeemQrzFQLIg/O8rgpkCrUf8Qx0RM=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/TrimStack$2.class
+SHA-256-Digest: KLl1yoyHhi3yE5UYTnsPz/+8mceK53hH6aKiLKdC1Ig=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/DnDManager$1.class
+SHA-256-Digest: XFdeJ6X2aT9foXRc9ZYB8JWilz9ZyZQpCb/LCNys0Do=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/DetachedDropAgent.clas
+ s
+SHA-256-Digest: xKjpk4zCFZ9Kwss3GK3iBHzIXSR5I9r3l+FxK4EjOQk=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/DragAndDropUtil.class
+SHA-256-Digest: rJNTKQmBQ3KcBVcAFTFlNIgx2E4AisK1MxcsxUJXBwg=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/messages.properties
+SHA-256-Digest: llyZt8hJJv8AajX/mVCBjLIZs/iDt45JrKI/sVsCFuo=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/IBFDragAgent.class
+SHA-256-Digest: ngeUfBiQCTShBHdKmfGrrLZCseJe9DaIfIfYFvRFinw=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/e4/ui/workbench/addons/cleanupaddon/CleanupAddon.class
+SHA-256-Digest: B7Y8Ax0jbDEJ9hlhvWjC77iGVPdB9bFHy86gZ3IZsY8=
+
+Name: org/eclipse/e4/ui/workbench/addons/splitteraddon/SplitterAddon.cla
+ ss
+SHA-256-Digest: aAfPP5cnndMBkO1R5nFw/bobSivssM+i28dlPsntuUo=
+
+Name: icons/full/obj16/layout_co@2x.png
+SHA-256-Digest: ktJ46o0AhmzMv5G11/kVZP4hjVBFTrLunxLRn0f+GyU=
+
+Name: org/eclipse/e4/ui/workbench/addons/swt/MinMaxProcessor.class
+SHA-256-Digest: vNnMcJvx7sDgRuM/xRvSUnElipqNP/wK05MohW+l5C4=
+
+Name: .api_description
+SHA-256-Digest: isQnGAbDIJ1racAL59Xrgb+eo4jriOAVPjTzCR6eM/o=
+
+Name: org/eclipse/e4/ui/workbench/addons/dndaddon/TrimDropAgent.class
+SHA-256-Digest: nwVv/19lsOnsTxvKDy+x/6l15Agom5SZ9MFeMlKnSNg=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/Messages.class
+SHA-256-Digest: EPl5uH3orzY4i/y4p3y8So/HUHF3goA/YDylvrK3N5w=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/MinMaxAddon$2.class
+SHA-256-Digest: WZEn05onN6KoEJwlfzIk0SV3ZZ0I+uw9SgOPZ041NoE=
+
+Name: org/eclipse/e4/ui/workbench/addons/swt/SplitterProcessor.class
+SHA-256-Digest: o7Yt/nHIobLZBm8XIDlGu8Gz4N+uxxTzQfEG6yw9T90=
+
+Name: org/eclipse/e4/ui/workbench/addons/minmax/MinMaxAddon.class
+SHA-256-Digest: RcO8vC5+BzcgERmgJy5Y4oJwJ/P0MT6W/3qrm7Qoiyk=
+
+Name: icons/full/etool16/fastview_restore@2x.png
+SHA-256-Digest: Earc8UKPIkNbXlyQZtS33QYaXfxurFrVy7bvnX1NYK8=
+
+Name: icons/full/obj16/layout_co.png
+SHA-256-Digest: fGM/Kk2VsfoG2e1HVrASfMG9CumBIBCL1JspJeeiMx4=
+

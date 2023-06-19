@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.apache.batik.i18n
+Bundle-SymbolicName: org.apache.batik.i18n
+Archiver-Version: Plexus Archiver
+Built-By: default
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %bundleVendor
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Originally-Created-By: Apache Maven 3.6.0
+Export-Package: org.apache.batik.i18n;version="1.14.0"
+Bundle-Name: %bundleName
+Bundle-Version: 1.14.0.v20210324-0332
+Created-By: Eclipse Bundle Recipe Maven Plug-in
+Build-Jdk: 11.0.9
+
+Name: org/apache/batik/i18n/Localizable.class
+SHA-256-Digest: 3f4ZnMooJkTcmmV1DIoSHQVR3hRM9QjdX6m3kl3GRIo=
+
+Name: META-INF/NOTICE
+SHA-256-Digest: Ryqqb47cOYIf6ljIHEgxxkXRqE/KJJyf08nqYkznPJA=
+
+Name: about.html
+SHA-256-Digest: Z5kMYo5zhoMzFVKQJYve/25Li9XyQ3akzB75YqFDwuI=
+
+Name: META-INF/LICENSE
+SHA-256-Digest: 2SqUaWMjLW2B6BtGF8uXVLCs+vP40k0jV7upvbkKgl0=
+
+Name: about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=
+
+Name: org/apache/batik/i18n/LocalizableSupport.class
+SHA-256-Digest: zobJ8d8DIE7meXLToJ8IA09Gu9l2Cw6l71VK2aTx7y8=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.i18n/p
+ om.properties
+SHA-256-Digest: PVcSKRmVu6YBBRtnqoWQ5njPW2z42vXaMYYZrTnuqng=
+
+Name: org/apache/batik/i18n/ExtendedLocalizable.class
+SHA-256-Digest: 3wPZ5TJ9lueYY4BBxykXS01rSL2WgK5g5TLqc5Ls4Rs=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.i18n/p
+ om.xml
+SHA-256-Digest: BOBD6wOydFIccMt/pADKIBU6ULNjc3kpooejsNu8X0I=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: CmTS4gCMifeJaWBNTOyr8CwVpUgRuVShMyQOrHIy5Ek=
+
+Name: org/apache/batik/i18n/LocaleGroup.class
+SHA-256-Digest: 583by7yE1B3xLblo4K6jJ52cXqvXm+erPOZZ8wNpCIU=
+

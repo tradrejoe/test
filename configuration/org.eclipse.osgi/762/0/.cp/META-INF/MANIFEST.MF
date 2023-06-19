@@ -1,0 +1,1353 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.ui.workbench.texteditor; singleton:=tru
+ e
+Bundle-Version: 3.16.600.v20220809-1658
+Bundle-Activator: org.eclipse.ui.internal.texteditor.TextEditorPlugin
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.ui.contentassist,org.eclipse.ui.internal.tex
+ teditor;texteditor=split;mandatory:=texteditor;x-friends:="org.eclipse.
+ ui.editors",org.eclipse.ui.internal.texteditor.codemining;x-internal:=t
+ rue,org.eclipse.ui.internal.texteditor.quickdiff;x-internal:=true,org.e
+ clipse.ui.internal.texteditor.quickdiff.compare.equivalence;x-internal:
+ =true,org.eclipse.ui.internal.texteditor.rulers;x-internal:=true,org.ec
+ lipse.ui.internal.texteditor.spelling;x-internal:=true,org.eclipse.ui.i
+ nternal.texteditor.templates;x-internal:=true,org.eclipse.ui.internal.v
+ iews.minimap;x-internal:=true,org.eclipse.ui.texteditor;texteditor=spli
+ t;mandatory:=texteditor,org.eclipse.ui.texteditor.link,org.eclipse.ui.t
+ exteditor.quickdiff,org.eclipse.ui.texteditor.rulers,org.eclipse.ui.tex
+ teditor.spelling,org.eclipse.ui.texteditor.templates
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.5.0,4.0.0)",
+ org.eclipse.compare.core;bundle-version="[3.5.0,4.0.0)",org.eclipse.cor
+ e.expressions;bundle-version="[3.4.100,4.0.0)",org.eclipse.jface.text;b
+ undle-version="[3.19.0,4.0.0)",org.eclipse.swt;bundle-version="[3.107.0
+ ,4.0.0)",org.eclipse.ui;bundle-version="[3.5.0,4.0.0)"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: org.eclipse.ui.workbench.texteditor
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.text.git;path="org.eclipse.ui.workbench.texteditor";tag=
+ "I20220809-1800";commitId=b80a8e3fabf8280f2875398089187d12017302aa
+
+Name: org/eclipse/ui/texteditor/templates/ITemplatesPageExtension.class
+SHA-256-Digest: xXC5p3M2QmQA7IwUbj7CM7RK3U/SaXkEAGDrKTGwcIs=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$Selectio
+ nChangedListener.class
+SHA-256-Digest: Dw4OKQ1ukFvmyVHM9hi9ZQZ2599OgYLMOL+3K6veBeg=
+
+Name: icons/full/obj16/template_obj.png
+SHA-256-Digest: fq6p8ltl8OI0gXznCfsRqC+sbWoJ5tXQdbLGue+7Z3Y=
+
+Name: org/eclipse/ui/texteditor/AbstractDocumentProvider$1ResetOperation
+ .class
+SHA-256-Digest: xZAy8obAcSOXTy4bu/VxAgY+PGRVbhEIzOUU+L+xGIQ=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$12.class
+SHA-256-Digest: nsrbc+RNtKXCTeyTk1RVrj7B7ayMkePi2etJ5rhzx1Y=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$LineStartAction.class
+SHA-256-Digest: tqvL+ox4VTXs4I19Dq17g3x4043pht71lWg6rajLx6Q=
+
+Name: icons/full/dtool16/show_whitespace_chars.png
+SHA-256-Digest: P4LXk7UXE12bPukc6Oii4qSqKGgzQXQuGfld5oOH3B4=
+
+Name: org/eclipse/ui/texteditor/HippieCompleteAction.class
+SHA-256-Digest: 3hif/HvEexHewzwvzU78GnCSji3jEC0fhIVQzrgrNqI=
+
+Name: org/eclipse/ui/internal/texteditor/HippieCompletionEngine$HippieCo
+ mpletionBackwardIterator.class
+SHA-256-Digest: gWgwAChouUAUCy2W0t1KMmzzEF6I1CAPZtB4h5EjL1I=
+
+Name: icons/full/etool16/block_selection_mode@2x.png
+SHA-256-Digest: AixQQAtMjd7MJulfsjObAqBCYuKy5kSRTPstBpXbiS8=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatePreferencePage$EditTem
+ plateDialog$5.class
+SHA-256-Digest: C4lTb3qNVO7ACieOuijK0JnCUnUmBmrSLqj9jei+uIk=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$1.class
+SHA-256-Digest: rfUmAxN7s1/q41a0Hzi345fKFB28NGtDYMWlwR1cifs=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ColumnSupport.class
+SHA-256-Digest: qXBPwZt4ZtR63bb8MvxtafuA3UgWLtPj1/HSJs4XPH0=
+
+Name: org/eclipse/ui/texteditor/HyperlinkDetectorRegistry.class
+SHA-256-Digest: MLVmprKVZf0/FIfS5wPgUXp4W/zmCz7LZ4By3Gc8LW0=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/ConstructedQuickDiffM
+ essages.properties
+SHA-256-Digest: P65ZgISEVcbdUanGIqRj6lTCnNh5Wgn0ZtKT3O0ETMk=
+
+Name: org/eclipse/ui/texteditor/HyperlinkDetectorTargetDescriptor.class
+SHA-256-Digest: q9tN9NNQ/SS0msymygicrXAYfn5vA1rKHbBkpRMG5P8=
+
+Name: org/eclipse/ui/texteditor/IDocumentProviderExtension.class
+SHA-256-Digest: DXHuDnpNZybcYHroAU0S0yjxMz3BcYrfCtjW5yPWP8Y=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatePreferencePage$EditTem
+ plateDialog.class
+SHA-256-Digest: f+vVJUXerHo8NRdRVuNhwuP77KbBYb0qqeQJkFqUsNo=
+
+Name: org/eclipse/ui/texteditor/InsertLineAction.class
+SHA-256-Digest: 04CuyQ9sQWVnpCItXKJLELkHl9PBS+eGaWwaKEmiWN0=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$6.class
+SHA-256-Digest: 6MDfAGCKpBpR6Bcz//H/XOP5hTcwZI/lSUa9T+VbWLU=
+
+Name: org/eclipse/ui/texteditor/PropagatingFontFieldEditor.class
+SHA-256-Digest: ZnL7kdehOFYZFSIJhs69Syal9Z6AJJxyERaVaVxO49A=
+
+Name: icons/full/etool16/show_whitespace_chars@2x.png
+SHA-256-Digest: R5ZUmNYWVup9yS079u9d3/J1Xa3tM1zUHcOCtEC0s+s=
+
+Name: icons/full/dlcl16/edit_template@2x.png
+SHA-256-Digest: kL/Z4JlmhpoVf/cCxfGBrzdCOUW8DnLbfx3JulSn0yI=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence/H
+ ash.class
+SHA-256-Digest: l7l3yJf9J5h5hbNdQ+KJ7XImiFnw+qPhnsMjOmhIBK4=
+
+Name: org/eclipse/ui/texteditor/GotoNextEditPositionAction.class
+SHA-256-Digest: Nfgx6+vJ9rc0AxjYb9GMQ58yJvmtcef9/SPRVMrYD1E=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension3.class
+SHA-256-Digest: 2C87ZDPGGqQu85lGho+CKpOdSWXcxbfuridLZilp2IU=
+
+Name: org/eclipse/ui/texteditor/rulers/RulerColumnRegistry.class
+SHA-256-Digest: oZr8RlOrM9/eutTWMORef0SIxbE212b20SY3DIJ3d/Q=
+
+Name: org/eclipse/ui/texteditor/IncrementalFindTarget$SearchResult.class
+SHA-256-Digest: grL65/5g9EM/P2KHslbJ/iiJYUO+IDXgZGfNWDLdjE8=
+
+Name: icons/full/elcl16/delete_template.png
+SHA-256-Digest: Gwu8dDr3pOBiNR38D/qlfAbqd3O9zBiuJnFnCkL27G4=
+
+Name: icons/full/dlcl16/delete_template@2x.png
+SHA-256-Digest: 9OnF8ZnhU6E8voDryWYX6q97OOA2hDGRD3jPR11n9+I=
+
+Name: icons/full/eview16/minimap.png
+SHA-256-Digest: Nrjzshn+SIrMdnQzoVoOgMTA1Au2pyCwpOkItw4k/rE=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/AllTarget.class
+SHA-256-Digest: ZaU458WGHrO2mXxuyCLU3YBj9tDm2PVxeP5dKOPw0wk=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$6.class
+SHA-256-Digest: f6Jr64bKfnEffeXO9vqDStCm2PNnjIKEXfUp8l32EWM=
+
+Name: org/eclipse/ui/texteditor/templates/TemplateContentProvider.class
+SHA-256-Digest: WhgotVXQBoDmm68tOKLlQyFUxWC28Icajlr04f9ANlM=
+
+Name: org/eclipse/ui/texteditor/TextSelectionNavigationLocation.class
+SHA-256-Digest: ZKTfOgAszVd+CjT2P7H+ZBE9cVsmDRrkBGR11jXH0rM=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ScrollLinesAction.cla
+ ss
+SHA-256-Digest: 6syB34RCsDhKl5u0kP6+lmqYp+HpyDT7mAulHoqhKE8=
+
+Name: org/eclipse/ui/texteditor/templates/ColumnLayout.class
+SHA-256-Digest: y8ebRvKAeImNNaHjiSLH2vXX/qzwAy/aR9bm9vIXOTQ=
+
+Name: org/eclipse/ui/texteditor/ITextEditorDropTargetListener.class
+SHA-256-Digest: cj7hHoabM3teyYvWJ60ZpEOUFQ+j7wIm/ynUuRzp6kc=
+
+Name: org/eclipse/ui/texteditor/IDocumentProviderExtension2.class
+SHA-256-Digest: TdhXBWnzydUvypBV/CKECg68iJaIu3lbTVdEqnSkfec=
+
+Name: org/eclipse/ui/texteditor/templates/TemplateVariableProposal.class
+SHA-256-Digest: Docyul/0zF3+3TVypHVGdpR1Xg5agql8HcyLCf9Xxzw=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$7.class
+SHA-256-Digest: LJnQPsNpGci6yRLjmIiBdl2cNqYsSuy1/U1wgAsbSM4=
+
+Name: org/eclipse/ui/texteditor/IDocumentProvider.class
+SHA-256-Digest: GaSUb+jksn7MkOMeyi+1LAOPN2oG5VcVOL7srpcYFuA=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatesView.class
+SHA-256-Digest: qaB0EFW94IK8kqbdzcOzxsJqCDUZBkIqz+vkX6wI8+U=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatesMessages.class
+SHA-256-Digest: v3wkIIT+pDnK+wfxh2N5ZL5fnhh/ThfF40mb+HyXQlk=
+
+Name: icons/full/dtool16/show_whitespace_chars@2x.png
+SHA-256-Digest: W171LJniFH27Q62hYnK67j+AznCDw+6FRhLcQtfQd+M=
+
+Name: org/eclipse/ui/internal/views/minimap/MultiPageMinimapPage.class
+SHA-256-Digest: M1177VIKvuX+1UqwuxQg8R9HNZvc/9TzooMffcFAOX4=
+
+Name: icons/full/elcl16/insert_template@2x.png
+SHA-256-Digest: mWs3jCF4lwyaj9Q2b3ROea3/FTzi83B3rBXRrvdl6OQ=
+
+Name: org/eclipse/ui/texteditor/templates/ITemplatesPage.class
+SHA-256-Digest: 73ILbpQGWNKtlpMQNqvAuCQTuhkmEliAYshj7cHO7p8=
+
+Name: org/eclipse/ui/texteditor/IFindReplaceTargetExtension2.class
+SHA-256-Digest: pAaaX6r22CWH+3UFtuBubfa6NzFixlhGvJQjuJXRj2Q=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$2.class
+SHA-256-Digest: 6W7fhKtEIOzrbtyJDqos/PGO+wYtPtfkdkUvDtzL+Lc=
+
+Name: org/eclipse/ui/texteditor/FindReplaceAction$FindReplaceDialogStub.
+ class
+SHA-256-Digest: Cj0bDT8lv/oy3PicItNvENTx35xPKivotMgSnaS7K5k=
+
+Name: org/eclipse/ui/texteditor/IncrementalFindAction.class
+SHA-256-Digest: pcsUNOfNCBM++54VWf3wg8ILUJ1uYq1HELmp8TEVpeE=
+
+Name: org/eclipse/ui/texteditor/ContentAssistAction.class
+SHA-256-Digest: yxdr+9w607JYCimmmLNMzT3M+8t1N6UDdupqyq4+wDk=
+
+Name: org/eclipse/ui/internal/texteditor/multiselection/AbstractMultiSel
+ ectionHandler.class
+SHA-256-Digest: Xtxw2pMd70mhsTz6TCO5sq/hxVeQZOZotZm2/JBf0z4=
+
+Name: org/eclipse/ui/texteditor/EditorStatusLine.class
+SHA-256-Digest: V6LgBecjVfprAwlayWWTO66bnCpdtVh/9n+iDccSR24=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$1.class
+SHA-256-Digest: yVMHlWxJUn9uocL/OBjsqGMFHQPanoLaA0pjLxX2caU=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/ContentTypeTarget.class
+SHA-256-Digest: hL3fJYncpnAd4ZyIcKGl9JDwB4053xx4+9tE4Cy1lo4=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ToggleOverwriteModeAc
+ tion.class
+SHA-256-Digest: f9igMoSAKthBNcaBJSmxiUspAOo7VwIbaH83tYRLEoY=
+
+Name: org/eclipse/ui/texteditor/ShiftAction.class
+SHA-256-Digest: bLwYivv642fSR2pDkncEiLQMuoRDOC0cDB1L0ublank=
+
+Name: icons/full/dlcl16/insert_template@2x.png
+SHA-256-Digest: lkyv5PZfL6L/zT3lHjSjOPCcSOTxXyrD3Y6iGFQhmS0=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$FontPropertyChangeLis
+ tener.class
+SHA-256-Digest: 3nwrk9v/bBlq2+V0eUDnNIwHrfzBIU8tf/hnqkQ7zpA=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/OrTarget.class
+SHA-256-Digest: 0mmnqhMHYtcMRofkn6HeYPrdyVdbsbvEyjdMk8r8yTk=
+
+Name: org/eclipse/ui/texteditor/MoveLinesAction.class
+SHA-256-Digest: mY9XGbHtg9r1kwiNQHfi/OPp6x7N4FQyEz4iexEAg40=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$Template
+ sContentProvider.class
+SHA-256-Digest: 9W9XwXSS6QJP6UntnRmUWO2a5Ne2XuhAlW63zSVSAQQ=
+
+Name: org/eclipse/ui/texteditor/IDocumentProviderExtension4.class
+SHA-256-Digest: cTEtQxdVGUYVcsv1ghWA6yvz2ox8M7tjNLuyuUmOvlg=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/ExtensionPointHelper.cla
+ ss
+SHA-256-Digest: pCbjhldlGUOcuMvSmKo5CU6OUsvzSOw+FuGr8I+eUh4=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$AbstractSelectionChan
+ gedListener.class
+SHA-256-Digest: 9nzPeMkGY+upnjUZNJR7MFkJkdNTJSlhSCN7HRMvk+E=
+
+Name: icons/full/dtool16/zoomOut@2x.png
+SHA-256-Digest: BHrYKaHd90YXB9GL0zu6e+6fqBPPsorTxNHfy1yd5Xg=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/DocumentLineDiffer$1.
+ class
+SHA-256-Digest: MBVF/3M/Nfyw+kN93xTws1br1RbwHhjOq6tVGwqh0JI=
+
+Name: org/eclipse/ui/internal/texteditor/EditorMessages.class
+SHA-256-Digest: /rIKkjYGlBCr4AeChJs/QXSODdKFXBW0NZ0olVfhJW4=
+
+Name: icons/full/dtool16/wordwrap@2x.png
+SHA-256-Digest: cvilmD8S+h90y9s2YNsR2Y6CLxL0NgAUqLdxZywt1GY=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence/I
+ HashFunction.class
+SHA-256-Digest: OWAJkwZS2+FjlGE/iX40YoJj6uXdQhLmO3yIPCA6ogk=
+
+Name: icons/full/dtool16/block_selection_mode.png
+SHA-256-Digest: 0wFIKWEij+QYfX9xPHrYHwGxOwGGTXd2+V1PW+VEVLI=
+
+Name: org/eclipse/ui/texteditor/FindNextAction.class
+SHA-256-Digest: nHkGGjqV5GGELsq+DIpeVHmLJW64+1xLGOK609mQsXs=
+
+Name: org/eclipse/ui/texteditor/AbstractDocumentProvider$1ValidateStateO
+ peration.class
+SHA-256-Digest: xBdeGb4ZAvOgeiEhpukxf0VsDVl2ovbThtzgcltOPVU=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ElementStateListener$
+ Validator$1.class
+SHA-256-Digest: uVY+WaA8qq89QgIARiFfz8YEwFmZzMtTff3Zp+eT88Y=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$TextEditorSavable.cla
+ ss
+SHA-256-Digest: 5NbO7QnTD2Yc/bmDPZK4UEfXQ8KeXFBAgwAo6IaoAIY=
+
+Name: org/eclipse/ui/texteditor/SourceViewerDecorationSupport.class
+SHA-256-Digest: whPtnb3KUs5qniUgTfKra+C+tF5120V8uKtLkc4j8wk=
+
+Name: icons/full/dtool16/wordwrap.png
+SHA-256-Digest: s8XiSE+GO+LDOdtRp38AXbY+AfdFG6pnf6EF18ECc4E=
+
+Name: org/eclipse/ui/internal/views/minimap/MinimapMessages.properties
+SHA-256-Digest: a+vZmewOrGq3H3VC+9R+trRx26A5zWkY/d57h+ozEo4=
+
+Name: org/eclipse/ui/texteditor/IEditorStatusLine.class
+SHA-256-Digest: cLOIyTAavV6qVTpWtpJ0DfuZ7auNAkhSFhnc9+pErJE=
+
+Name: org/eclipse/ui/texteditor/TextNavigationAction.class
+SHA-256-Digest: LWc8cLWWfIZkHKmaCqMTrnBKfyaS3WLZCTvcjKA5K4c=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ActivationListener.cl
+ ass
+SHA-256-Digest: t+W08PAoAvadVWX08ZlzXo1uSr5Jn7VsOhReHVUljEg=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$10.class
+SHA-256-Digest: +9f/AT+j/h3OomyMAuhArIcaP+n/QiriXU+8zhoAeEM=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ElementStateListener$
+ Validator.class
+SHA-256-Digest: CV/YEZchN7FBHvo50KIFy8T3lH1dM3rnPCGusX38bS4=
+
+Name: org/eclipse/ui/texteditor/KeyBindingSupportForAssistant$ReplacedCo
+ mmand.class
+SHA-256-Digest: fK9aDLDu5V2Lr9CN96eyxZmBeobw+OXDr+j/osOldOU=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$3.class
+SHA-256-Digest: k5WgF+zJU2RnLnupEz88fYqhOUcPAhTLmPE3xMgTegc=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$4.class
+SHA-256-Digest: ZsRy00sR2US2uTjDGqkjVgB8pOMISieCWKjYbW6HOuQ=
+
+Name: org/eclipse/ui/texteditor/HyperlinkDetectorDescriptor.class
+SHA-256-Digest: RDuKw7DMhdSTkNIoJtLPsJ6kP7e3dOHIKVkYB8y9bsI=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/DiffRegion.class
+SHA-256-Digest: Rk1NhTe0eqpxOv6SN1tozYJ1p5DAXIDTJTC2phJ85Fw=
+
+Name: org/eclipse/ui/internal/texteditor/CompoundEditExitStrategy.class
+SHA-256-Digest: IZekAvLPJaRXSGS0NruecSgoM9Vq7pY2Og91zEKVapc=
+
+Name: icons/full/dtool16/segment_edit.png
+SHA-256-Digest: pUGyxc+/5obPH/p8yE4iUcQNJ/LSos7/hjp7Zq0m/YI=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatePreferencePage$Templat
+ eLabelProvider.class
+SHA-256-Digest: dkKBlQk7Eh092gWEwMuZNXbDIpPn5vN0OgR2ibCHpy4=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingCorrectionProcessor.cla
+ ss
+SHA-256-Digest: WD8Yp25Q8rl2fT2Ve7ZYCTfih0VuZ03OPtJMFt0YFuQ=
+
+Name: org/eclipse/ui/texteditor/GotoLineAction$NumberValidator.class
+SHA-256-Digest: 3Q8jSu3ZX3nI8ZOrUJpclWAtrZg4JroEi5B3VqWBbOc=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$5.class
+SHA-256-Digest: 4YD4NcBLPJtiQn/URkU2njmDozuYOyHh2TJNOcSBaoQ=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence/S
+ ystemHashFunction.class
+SHA-256-Digest: oMRoKPKZDjF3LRf6tW+keLZBWGJiAj2X524oBRsaN4Q=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/DocumentLineDiffer$3.
+ class
+SHA-256-Digest: D5rBBDsbdxxZ67RwAWIIlCf3CIeOCWSlRiDyuJAXYTk=
+
+Name: icons/full/dlcl16/new_template@2x.png
+SHA-256-Digest: uiTe6RLqXwDeCezHo3x7x3SnZsWhV6r/BpIWe4+Ks5w=
+
+Name: org/eclipse/ui/texteditor/AbstractDocumentProvider$1SaveOperation.
+ class
+SHA-256-Digest: NtHsX8Quvd9dkCnm1vk6pOir565By+mdmAk35dovZ/c=
+
+Name: org/eclipse/ui/internal/texteditor/spelling/SpellingMessages.prope
+ rties
+SHA-256-Digest: +E5bNhCZGWPM0DyZuHqAGvPpJ7KJDBRo99iQCfwctaM=
+
+Name: org/eclipse/ui/texteditor/AbstractTextZoomHandler.class
+SHA-256-Digest: XlgtQrs/RE1P9Y6/ZDtlt/n/UyMiZqfg3Zm2tvCVaIM=
+
+Name: icons/full/etool16/wordwrap.png
+SHA-256-Digest: ohlUL+pbPxl0kK/x0LOZIXKLXPCiZo1l0p8zrH2T8nI=
+
+Name: org/eclipse/ui/texteditor/ValidateStateException.class
+SHA-256-Digest: 7E8tsTsuBLiUBbf5eA7VSIFWqfpRahpq7FtGxgWGTr8=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$3.class
+SHA-256-Digest: Zut/PFrz9hfaCZuzQecL9yboLacMAkd5wHsXMTtmsm8=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension6.class
+SHA-256-Digest: izEi1300pjgCutfnPNzW9iwCzp9NcAC81ah0FF41V3Q=
+
+Name: icons/full/elcl16/delete_template@2x.png
+SHA-256-Digest: 9HM8FRv6ZUhG6baVu4Qs9G4xmBXenLNTUGKubulwGyo=
+
+Name: org/eclipse/ui/texteditor/rulers/AbstractContributedRulerColumn.cl
+ ass
+SHA-256-Digest: s3mGOderh4GVNvKhL1sxHkIhtE4KpTqYMUx4zVkn1Kg=
+
+Name: org/eclipse/ui/contentassist/ContentAssistHandler$2.class
+SHA-256-Digest: 0E3UI130B928/BTQq7BkyZsFxYtrT0K/aRoJl1iuPUI=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingProblem.class
+SHA-256-Digest: 1GHCJ0SJeXL78i/pDn76rkPKFv0SVVUh3SQh2AQo1Yw=
+
+Name: org/eclipse/ui/internal/texteditor/multiselection/MultiSelectionDo
+ wnHandler.class
+SHA-256-Digest: R4EZDUQQsoBnh9hjBl9GGm2H5iuhL5rzoyPm2Yue+c4=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$InformationDispatchAc
+ tion.class
+SHA-256-Digest: IYZqs3RDRvfvuIwuOxUgE8eV840rjgK+oEHL3SoKWuQ=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$4.class
+SHA-256-Digest: idIJ7ALSTIlhahIOD42JNrUo1c86Agi9X/ZLE6zDEdo=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ElementStateListener$
+ 1.class
+SHA-256-Digest: QXh6ADD9aR47NxsFENo+1anTpXyn+1PaozIWiBeEfSQ=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$4.class
+SHA-256-Digest: TxQblx512PIuoAaWfigESxe2kSpnpTB/lkKv2HqlKNo=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingService$1.class
+SHA-256-Digest: 9XZsJDEaeeWW068lGIKNa5jstEk0o8LfqyYmWTsua2Q=
+
+Name: org/eclipse/ui/internal/texteditor/ToMultiSelectionHandler.class
+SHA-256-Digest: Ha9Hr7MkFnyyKgJP/XBaAKWS2W7INXCcXvZhYgON9T0=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$15.class
+SHA-256-Digest: JBA6DOxAtmLAP50uCuI2/5Ye/tlv0eWXBy9mrvOfOjU=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatePreferencePage$EditTem
+ plateDialog$2.class
+SHA-256-Digest: tAJKerbPDHVWyX6OfbkV4T9+Rr5oUuJgNN+PnUWdZZo=
+
+Name: org/eclipse/ui/internal/texteditor/spelling/EmptySpellingPreferenc
+ eBlock.class
+SHA-256-Digest: BBN/m6QO8cTM/To/a8G2H2fQo7zytp65K3ioN0dXmlE=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$EditorDr
+ opTargetListener.class
+SHA-256-Digest: IdE0dJyo0uE66wD7bWJDBiFM09I55QFdLOrKaPYz5z8=
+
+Name: org/eclipse/ui/texteditor/spelling/IPreferenceStatusMonitor.class
+SHA-256-Digest: vuR+1ai3qh/dZPsqZJjoBynXNyUm+++dp6OXSSeOtZw=
+
+Name: org/eclipse/ui/internal/texteditor/HistoryTracker$Navigator.class
+SHA-256-Digest: +8qVATnVuxsxkwah1puhkXGfSOG987fS3G9PHx+x2Jw=
+
+Name: icons/full/etool16/block_selection_mode.png
+SHA-256-Digest: SACHrtbrFAI0EVTBj2oL8cw1JBxcBcDwZbzGoIS4QkE=
+
+Name: org/eclipse/ui/texteditor/AbstractDocumentProvider$DocumentProvide
+ rOperation.class
+SHA-256-Digest: uanFwbtb7XkptPwmKt2lHE6J5/kOMVR83QTPIZuVXx0=
+
+Name: org/eclipse/ui/texteditor/EditorMessages.class
+SHA-256-Digest: y/cSH4EOXgBzK/L5GjBtqozW7RvAQWvT2c38GqR73LI=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/DocumentLineDiffer$Ra
+ ngeDifferenceFactory.class
+SHA-256-Digest: qFnaKqMpEXQaJ/5WtPcSo0ajM52/kda295xIbYU7Jus=
+
+Name: org/eclipse/ui/contentassist/ContentAssistMessages.class
+SHA-256-Digest: Ig7uUntD1bOmhaqDduOEJKq+VkUE5wThg/q1p7u9YNU=
+
+Name: org/eclipse/ui/texteditor/MarkAction.class
+SHA-256-Digest: euPIoq/9EQLL8xKUr31twMeqz+2xanCkOkP6IFfzwqw=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/QuickDiffMessages.cla
+ ss
+SHA-256-Digest: OBZtQRn85qxVdewBU+BNFR55FrRni8bqZ/mkhdxAN2M=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$3.class
+SHA-256-Digest: DavYdFU9ctF7lXAN2YtoW/8k52nXJj9DVjECYJm2AYU=
+
+Name: icons/full/elcl16/edit_template@2x.png
+SHA-256-Digest: AmwTj5voj4xTafvsgL97DsuC1Zdwby9mOIPmNo2zhow=
+
+Name: org/eclipse/ui/texteditor/HippieProposalProcessor.class
+SHA-256-Digest: 64K6dzTJwKCAqjReBWm7ABiaRhsaeCLcsHnIOjj0oXc=
+
+Name: org/eclipse/ui/texteditor/SelectAnnotationRulerAction.class
+SHA-256-Digest: eigYz4e0nHwDDVZa4K7kU4C0Ss0nltkFO9FsOD4Qs+4=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$11.class
+SHA-256-Digest: z56BzdMzjNTHAUQJ7oRemGmLJNCrPUbH9LW57+8qHso=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$2.class
+SHA-256-Digest: sGVnkwosiQiJG5FubDooj4gWM/h8K+Pk+PuB3owKX6c=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension5.class
+SHA-256-Digest: IcvlOPrfG+g/pcIpbIm8aXPR/VBWhFq45/kZNHuiYO0=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$14.class
+SHA-256-Digest: LagH+6zaCNnNfnaZ0HbvG6qQdTKgPyH7GhTpx5LlL/A=
+
+Name: org/eclipse/ui/texteditor/KeyBindingSupportForAssistant.class
+SHA-256-Digest: hFnWMYAdInBsITG7b+ywZo6aKlBilyQwXbskRcnCNP4=
+
+Name: org/eclipse/ui/internal/texteditor/HistoryTracker$CandidateEvaluat
+ or.class
+SHA-256-Digest: JkwLIgv6v9xRHgBnWfCCQf6r4Y0nPXKw91hdNK+DHWI=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ColumnSupport$1.class
+SHA-256-Digest: a7eW15HRO/rNjT6kU3mHT+QOIbIFJ+za7yFzHeYi6R4=
+
+Name: icons/full/etool16/toLower.png
+SHA-256-Digest: 5gcifOwhCBqQmkIdYPaG3JcI2RZjeQ5JrBLUnWuknp0=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$TextListener.class
+SHA-256-Digest: c6WBoP5bmjb84AixejAUevztgUCZDa/ympViLTKs1oc=
+
+Name: org/eclipse/ui/contentassist/ContentAssistHandler$1.class
+SHA-256-Digest: M9h1CqjgyfU4FDRPtBJnMTYK0W+Zveb3NGxUg6Q6iWE=
+
+Name: icons/full/etool16/zoomOut.png
+SHA-256-Digest: Ag9Damg2hZKYkV/pcDqzzX0F98epQO4WElb61NOUn7M=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$12.class
+SHA-256-Digest: nQNdVzY2ME9w4MhnWeCzx7DfaHg0ElflG8jsrYSXqTQ=
+
+Name: org/eclipse/ui/texteditor/TextZoomInHandler.class
+SHA-256-Digest: wGKzyyARfGQIywC8P7IJiBcHxEwq8wo/8NFhB6z9MMc=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatePreferencePage$EditTem
+ plateDialog$1.class
+SHA-256-Digest: p4v4j4IOe4w6ibbK/zs6HjU8xvqCT/YA6seucw10lY4=
+
+Name: org/eclipse/ui/texteditor/JoinLinesAction.class
+SHA-256-Digest: QoVLUe/1+xRKbp0RqRLqfkya7Xy46kHzAlDwaHfgXG4=
+
+Name: icons/full/etool16/zoomOut@2x.png
+SHA-256-Digest: +/lqtRIl1zhUXCPawVTTbLLDz+SmLTGJvcoyvaKYnpE=
+
+Name: org/eclipse/ui/texteditor/IReadOnlyDependent.class
+SHA-256-Digest: YeSdCOaY+rTock1NvlSzjx8Gofpzhi23md1iWOl1qmc=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$10.class
+SHA-256-Digest: 7TnNQfvCr/Ll5/pEyOprqiSYiHsALsX4wGfUf4flA10=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingReconcileStrategy.class
+SHA-256-Digest: 3s+Oiak5aaX0J+1/MbCeB45t0RMvAqn/v44aJLY9KGk=
+
+Name: org/eclipse/ui/texteditor/BlockSelectionModeToggleAction.class
+SHA-256-Digest: B/aORg+9JrghJ7hwnza3GtainlG/KzJn14c9UGxJKT0=
+
+Name: icons/full/elcl16/collapseall@2x.png
+SHA-256-Digest: Vx5h16r56NBbPUAxTAiWdEBzUXnT8ZUWpHg4f2a4vow=
+
+Name: org/eclipse/ui/texteditor/quickdiff/QuickDiffToggleAction$1.class
+SHA-256-Digest: 59IAhPeObD2FDil/MNPDfZ9EwgJztMjOSz8oHogo2n8=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension2.class
+SHA-256-Digest: 9jKzCKg+efh6Vysdo+bOYIX/4g3wQJKJlYS1npupbos=
+
+Name: org/eclipse/ui/texteditor/ISchedulingRuleProvider.class
+SHA-256-Digest: PsAnJGWVoGYRW6gZCLBwfjnTGmfh1rr5dhsw/ZjglwA=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/QuickDiffExtensionsRe
+ gistry.class
+SHA-256-Digest: 0D3CkeUgRENSOaIbMCpGuSYOyZiYmjcYYE/CShPS9Vo=
+
+Name: org/eclipse/ui/contentassist/ContentAssistHandler$3.class
+SHA-256-Digest: 29k+vtYS3/kERHPMvd3cFLlNwO1ojcUqDbBJoBs7e7Y=
+
+Name: icons/full/elcl16/new_template.png
+SHA-256-Digest: 9gFYALMBzA5oAd4327/tYtR1RG8m21GmWXVEGzSbkd4=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$16.class
+SHA-256-Digest: 6Wj9Nm5TdcACsfCcW/hkSItVkzXzlIcz16s2JNVmVQ8=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/StringSetSerializer.clas
+ s
+SHA-256-Digest: x3iLWHtRNY32IVJeTbqCpQb36XGhYZ05KzVrc/XHwG4=
+
+Name: icons/full/dview16/templates.png
+SHA-256-Digest: egJqO/y5Ba2rWv9eh8qjgAWUxg9hgvzKM8AalT4G5J4=
+
+Name: org/eclipse/ui/texteditor/RevertToSavedAction.class
+SHA-256-Digest: XUs7czsmJ8KtamCNzw52tO5sbJEgTk3O5/lGh9Vo6TU=
+
+Name: org/eclipse/ui/texteditor/quickdiff/QuickDiffToggleAction.class
+SHA-256-Digest: MIOcJnAxVe0MIhT+ZyG4AC4H0pDIXYINm/rWIgh+bco=
+
+Name: org/eclipse/ui/texteditor/GotoLineAction.class
+SHA-256-Digest: p94U2WRqUWNpJ2bcLC/oLfWHSeNMrrGvrmGxGP01BAk=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$8.class
+SHA-256-Digest: DjxJfnO5RPOBrQcveguaLSkwTFkxxcSmr0eYoqT/vtA=
+
+Name: org/eclipse/ui/internal/texteditor/TextEditorPlugin$TraversalDirec
+ tion.class
+SHA-256-Digest: BVV/WCR8F3+whb3/uNku9hrQfjfFY5bM0os1bC0Tygg=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$1SelectAllRunnable.cla
+ ss
+SHA-256-Digest: 0gOWuChd/wQMczD2ZhRmsU5dytiGoP7TDQWB/Ak2sZo=
+
+Name: icons/full/dlcl16/new_template.png
+SHA-256-Digest: WVktMJdJNTYP31OVXzHm/Z7dbCxbQa744obJMTgkoHQ=
+
+Name: org/eclipse/ui/texteditor/ITextEditorActionConstants.class
+SHA-256-Digest: 1jloNznC0FIJ/5WHa1O41BpUTn9zNXhdtU2+vmCktdU=
+
+Name: org/eclipse/ui/texteditor/EditorStatusLine$StatusLineClearer.class
+SHA-256-Digest: SxarwNSV3AuNAw0/MZg132AN3Z10K4Z3IlbCO9RDuCc=
+
+Name: org/eclipse/ui/texteditor/IAbstractTextEditorHelpContextIds.class
+SHA-256-Digest: Bp/dreCwFEt3u2eNfxZfPx4eLCOzUQ8qkZVdzkmoAU0=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence/D
+ JBHashFunction.class
+SHA-256-Digest: ayjV/PfH1u8Dj+6SBnBa1reJ2P6hKBF4oD2hEstdH28=
+
+Name: org/eclipse/ui/texteditor/GotoLastEditPositionAction.class
+SHA-256-Digest: AvrLandnVgRvntyA7m6DJMbaBwF5gPibRgcG8Hysc6Q=
+
+Name: org/eclipse/ui/contentassist/ContentAssistHandler.class
+SHA-256-Digest: /2wQVX5Va8TUQN+TYluaA6ql0SxLJyP7BGH56/eVIe8=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatePreferencePage$EditTem
+ plateDialog$3.class
+SHA-256-Digest: 5eTNAvLcAtezpVGhMB66nKGpx0TQzy0ClKJz7vE5Tk0=
+
+Name: icons/full/elcl16/new_template@2x.png
+SHA-256-Digest: IQb20pXlSJmqHbQBB5rJCujO+BHyqSt830NYARi2E40=
+
+Name: org/eclipse/ui/texteditor/spelling/ISpellingEngine.class
+SHA-256-Digest: Ku9qnqvWHLOE/RGCajkKeP1jl1ZP1RKlgpp3L2qwhLw=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$SelectionListener.cla
+ ss
+SHA-256-Digest: mnJOXk7HR8TwPAgyFihfHNtey89fnCljxQQi07IGwBw=
+
+Name: icons/full/elcl16/edit_template.png
+SHA-256-Digest: GNGYGTEcZ1qAPorvk5WFWYhDwWqKxL+4QJWaXURw4iY=
+
+Name: org/eclipse/ui/internal/texteditor/multiselection/MultiCaretUpHand
+ ler.class
+SHA-256-Digest: 0uD+k6BZfCWBB8QVImdcyKum4HXjy5xoQautU08GapI=
+
+Name: icons/full/etool16/zoomIn.png
+SHA-256-Digest: coZrzdX9Ky0T90vXtHHpICUX8XYQKhmSQDb3EyIDf3E=
+
+Name: org/eclipse/ui/texteditor/RetargetTextEditorAction.class
+SHA-256-Digest: xECD/t9/qE2egMng0lJBnd0RE1PLDRNjAEuTe593A7E=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/RulerColumnTarget.class
+SHA-256-Digest: 0Tp6FSQ9kx6+KYo6Odq/IFTHhzlM1g0Yc783/e/WDUk=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$9.class
+SHA-256-Digest: YXjOJ3Wtdoi8gV2wcUXC5JNCgVZaHksEcGdePstMmIQ=
+
+Name: org/eclipse/ui/texteditor/FindReplaceTarget.class
+SHA-256-Digest: SEkv7P8N1dGYitQpg4gX43nFIWaDWVltp3KriQClX0c=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingEngineDescriptor.class
+SHA-256-Digest: asCTGYNbVoAB+AwwS3jPCUYEebZJjJvZ2U2EEkxJbLc=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/RulerColumnMessages.prop
+ erties
+SHA-256-Digest: M5iA0ckKO30qu3cIibRamuwOCzf8zcxGAMkqYkDv8WY=
+
+Name: org/eclipse/ui/internal/views/minimap/MinimapWidget$EditorTracker.
+ class
+SHA-256-Digest: S+QOMOzcCnp/tTvAJfq5q2tNUjh1TJ/kXraTQ0SQHEM=
+
+Name: org/eclipse/ui/texteditor/MarkRegionTarget.class
+SHA-256-Digest: A3xhlMhSuUz8IAX7fbdUnzagcKjgJa5KPmGGzhyRtmE=
+
+Name: icons/full/obj16/preview.png
+SHA-256-Digest: fjZ37iPcLxHk1TAseCJZoLhZNz9GbP0qn+D0PlDy3hI=
+
+Name: org/eclipse/ui/texteditor/ConstructedEditorMessages.properties
+SHA-256-Digest: 94oiSAE6pDKzVRaw29umDWA/pfgUncRIdqAljvLOn2M=
+
+Name: icons/full/etool16/toLower@2x.png
+SHA-256-Digest: mx6fSwI33KwHYuLr8/FGUXrDXT7Xt1GiDhTo78fvL2A=
+
+Name: org/eclipse/ui/texteditor/HippieProposalProcessor$Proposal.class
+SHA-256-Digest: odHRxbVRWljwz6YdraQ9mdxc0ztcvHKkFgSN1ktlFdc=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatePreferencePage$EditTem
+ plateDialog$4.class
+SHA-256-Digest: x20VXvAlHLgDd6YVm7lynpMWDBw03joRw6e5oxljcQE=
+
+Name: icons/full/dtool16/zoomIn@2x.png
+SHA-256-Digest: 9XWuvVDHmB6wgbJnJekNH3XBsx4Tpho66269UGmbIk8=
+
+Name: org/eclipse/ui/internal/texteditor/multiselection/MultiCaretDownHa
+ ndler.class
+SHA-256-Digest: FUFBTI+EFXy5rf1/E3WMwmmY0/5QdKXNrHIxf+KNCv0=
+
+Name: icons/full/dtool16/toLower.png
+SHA-256-Digest: nh+lGG3oTp30JSwvRcon2z8zhPO5mrzLbHT8sy8XLGo=
+
+Name: org/eclipse/ui/texteditor/TextViewerDeleteLineTarget$DeleteLineCli
+ pboard.class
+SHA-256-Digest: GJOH+UkLnwpWSxwiJ50VBBaLcXurCqRbFDTNObvoAgg=
+
+Name: org/eclipse/ui/internal/texteditor/HistoryTracker.class
+SHA-256-Digest: QYYJUZHG8M8SvJnQD4BTn+a/tj8ZX0cqnBeH9/C/qWM=
+
+Name: org/eclipse/ui/texteditor/quickdiff/IQuickDiffReferenceProvider.cl
+ ass
+SHA-256-Digest: g6Yl2l0QQtUsO1cTPF15AZRRL1QpTQoKxBjZbqrS1kA=
+
+Name: org/eclipse/ui/internal/texteditor/templates/TextViewerAction.clas
+ s
+SHA-256-Digest: 3Jph0nusyMoLnXLIWd1EMBkKIky0a5GriMR6Po+/k6g=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$Template
+ LabelProvider.class
+SHA-256-Digest: xKAuAMNTJPFVWsp6NDtHvtRmu83V+Vht8mZxHMSB9iI=
+
+Name: plugin.xml
+SHA-256-Digest: 6SuSdavErvhdE5lIx5MAkuNMDLfsngBVEc6dXPaVV/8=
+
+Name: org/eclipse/ui/texteditor/FindReplaceAction.class
+SHA-256-Digest: Ux0IIX5KWHyuF37wT/oSRsohA9l5U6VfaGiQ70GcI3g=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/QuickDiffMessages.pro
+ perties
+SHA-256-Digest: fghZa2s6xuuAA7dHY2E3JNN8q9gEQHONSe2I5W8Ajq4=
+
+Name: icons/full/dlcl16/link_to_editor@2x.png
+SHA-256-Digest: jlkmyoXnyWEBZDvX/5ngH3Lsko02nzKbwrDZodCXdjM=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/ClassTarget.class
+SHA-256-Digest: mTB3Nhoeo+8jMyuwFBLgPbkNGcJoeWDgOqhKnY3CvBs=
+
+Name: org/eclipse/ui/texteditor/HippieCompleteAction$CompletionState.cla
+ ss
+SHA-256-Digest: PoMHbRdtIDKtc4ESHapaTGxnPV3XwcMBRjGQ3dAY70o=
+
+Name: org/eclipse/ui/texteditor/CaseAction.class
+SHA-256-Digest: uZ1487M7XOD40yDBi9mOUHlj249t4JFBDeWV0oU1WHg=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$1.class
+SHA-256-Digest: tHMh/DQVe4eCyScWLkt6fZfr7MPz9Wg15icp+e2/j9M=
+
+Name: org/eclipse/ui/texteditor/ITextEditor.class
+SHA-256-Digest: ZMyjbAxkBGthm8KpJTqrKDJ41J9c+C0hXa1kSC8aCtM=
+
+Name: icons/full/etool16/toUpper.png
+SHA-256-Digest: hMoU+NQSew0VtRUaia1BpqG0OnW44vodM75jPcgsGGU=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$PropertyChangeListene
+ r.class
+SHA-256-Digest: Zhj7owwTB05ur28R+kz0Y6FC0psaVl4039xsikNVwn8=
+
+Name: org/eclipse/ui/texteditor/AbstractDocumentProvider.class
+SHA-256-Digest: z8BzvVtXNyo1ar4HiaWsAUoQCG8ltxExj93ty+Oetx8=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$7.class
+SHA-256-Digest: z9prsxeRBKz8B2luVigoQmgggyqnQLj3zKfNc9y3LoA=
+
+Name: icons/full/dtool16/toUpper.png
+SHA-256-Digest: agKS+90z4rI9NTk19ivCIyOnowqfJB9f3u8dZ3cioSY=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/DocumentLineDiffer$2.
+ class
+SHA-256-Digest: 53+S4m9rlCf9kEA1etHw1t2iIuXtuogUsu/90yoWm8U=
+
+Name: org/eclipse/ui/texteditor/StatusLineContributionItem$Listener.clas
+ s
+SHA-256-Digest: B65/Konx15/mbxwAxmRRNirPix1qGTJ4Olb0E1gPxNc=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$1ReplaceAllRunnable.cl
+ ass
+SHA-256-Digest: Jo5mw9i2LJEsGztHXOZt4U4ib+Gt0wQekfMEeKgvNPE=
+
+Name: org/eclipse/ui/texteditor/ConvertLineDelimitersAction$ConvertRunna
+ ble.class
+SHA-256-Digest: Ou/B69PHNgCDAG3F7osDkWy3pH+L625nhTaT840Ihhs=
+
+Name: org/eclipse/ui/texteditor/link/EditorLinkedModeUI$EditorHistoryUpd
+ ater.class
+SHA-256-Digest: 5NKn/pLR17nHUIsYj7bOyQP+cLxnywt/b3SAnwXcows=
+
+Name: .api_description
+SHA-256-Digest: goAi/+4nqbO1C6GxL/NjHAJXGr3t/tRrufFvExpt18k=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension3$InsertMode.class
+SHA-256-Digest: /hxJK331k9l0gHPukIu56KbGFFjF7vh7V4KN8RceGHs=
+
+Name: org/eclipse/ui/internal/texteditor/FocusedInformationPresenter$Def
+ aultInformationControlCreator.class
+SHA-256-Digest: RLVOnhqOwiW+d5nPxViOK4WhWuTPzSwtDom59wgIri8=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/RevertBlockAction.cla
+ ss
+SHA-256-Digest: Wn3F/wTH4G0FuRfgP4uJzGQ+euuKRLQ5i4gS4PsGgNw=
+
+Name: org/eclipse/ui/internal/texteditor/TextEditorPlugin.class
+SHA-256-Digest: sVwM3TWEkSZNUW1sa6fdoZOMLCAiEGR8T4nloiKoxHo=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatePreferencePage$Templat
+ eColumnSelectionAdapter.class
+SHA-256-Digest: /lpijQ1ZBPjOCrjnq4sGkIkYpJ38mmItAqSbSAGu/kM=
+
+Name: org/eclipse/ui/internal/texteditor/NLSUtility.class
+SHA-256-Digest: abrCURZYbQztFhiD516Bhgw5pLp8Wh73xkwQ/qiyRUw=
+
+Name: org/eclipse/ui/texteditor/SaveAction.class
+SHA-256-Digest: ZfEakiOnX8lODkQumTWpJ+6sZr9dbWdoNX2kKzj33CI=
+
+Name: icons/full/elcl16/collapseall.png
+SHA-256-Digest: pAOGtZ4GKfmt6e+1VlskYEftxSRKqU77KrTwyex4/60=
+
+Name: icons/full/elcl16/link_to_editor.png
+SHA-256-Digest: otifVa+dQFq0LbN+9VZ+Rj43KTu59WxwPWBKj4R/b18=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension4.class
+SHA-256-Digest: 0Kej/uzxuDUzZcPlbB7yYLSDHzEyHz3RgGk/29njxKA=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ColumnSupport$2.class
+SHA-256-Digest: bzZxuGtWGrCdzr8xtt4ybRVAr+dBn+ZkWqG5XGpxGDE=
+
+Name: icons/full/etool16/toUpper@2x.png
+SHA-256-Digest: A5aA4vQyFP8r7NV2LKVHcmUEHaPwbD+BUBloSsns/gM=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$Template
+ ViewerComparator.class
+SHA-256-Digest: JVbcRNceszmr1XM7WzhjrQ3utnBkY9TYNOZeTE09smQ=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$13.class
+SHA-256-Digest: PGO8PL9HZAtI1M87KdMKQRMH16zSi2TYmIvqV83h3RE=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/DAG$MultiMap.class
+SHA-256-Digest: mqARtCMawdoSN5YilbnblbDy5+rJpIxl1Fp4+pjDBRE=
+
+Name: org/eclipse/ui/internal/texteditor/multiselection/MultiSelectionUp
+ Handler.class
+SHA-256-Digest: uJIeuwSRUN9wwfyDrK9C1IrfbYM2emX5uPEf0+HTGQY=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingService.class
+SHA-256-Digest: SYgysljrZ7CBqPLkhrM4O+YM06x+/TpbkwkWHW54LxE=
+
+Name: org/eclipse/ui/texteditor/IUpdate.class
+SHA-256-Digest: 8OkJjpr/rL4VV0cvrCQUGXGaEWraUnCJvSmOl0lxMcs=
+
+Name: org/eclipse/ui/texteditor/RecenterAction.class
+SHA-256-Digest: O7NJOxUZ03995wMM0siMoFM+wfEYVpKggM8FVVd3dm8=
+
+Name: icons/full/dtool16/zoomIn.png
+SHA-256-Digest: pv2mfaKD6IYFvbydi37IvGeXUhbHUXl68If2DkDvF+I=
+
+Name: org/eclipse/ui/texteditor/GotoAnnotationAction.class
+SHA-256-Digest: KReeYMAeR9Tjusxf2uPe/WzcxjnLPJrXsnRcQba6Cy4=
+
+Name: org/eclipse/ui/texteditor/WorkbenchChainedTextFontFieldEditor.clas
+ s
+SHA-256-Digest: gjocmj7lqHN8P07o0Fbo1IZPnJfQ0OF9vhhrILsuTgY=
+
+Name: org/eclipse/ui/texteditor/IStatusFieldExtension.class
+SHA-256-Digest: RWGiV2JwrNp0aqVzDFLt5W1uo7boiNtH+OqxLMTH/no=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/RulerColumnPlacementCons
+ traint.class
+SHA-256-Digest: 0ma04hKsKN+TzjkZp1ArvrBWnjmaO1gfaAEHwyDLjW4=
+
+Name: org/eclipse/ui/texteditor/rulers/RulerColumnRegistry$1.class
+SHA-256-Digest: Ay7v5WVnQQaJajbTHU1P9EwpWhyBItN1grHkeTxIGyE=
+
+Name: org/eclipse/ui/texteditor/rulers/IContributedRulerColumn.class
+SHA-256-Digest: 84av4yZ1dQHhM7pxKW8FN+UZ6OvQ8GJpPeharxlwEW0=
+
+Name: org/eclipse/ui/texteditor/IDocumentProviderExtension3.class
+SHA-256-Digest: aKlSpnYvnErFImK8YgzO6ToFMpvkIJ89uG3/X5V+hr4=
+
+Name: org/eclipse/ui/internal/texteditor/FocusedInformationPresenter$Inf
+ ormationProvider.class
+SHA-256-Digest: 9IOB0R4JLta9TPV4Q+ogTz1bG54urPWHNvyKynwj9pg=
+
+Name: org/eclipse/ui/texteditor/IncrementalFindTarget.class
+SHA-256-Digest: Rse9OLsTcFLatcekjFQ7A6xXFiyeIe4WLZIywprN6+k=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/RevertLineAction.clas
+ s
+SHA-256-Digest: Duhzpkw3LWmhTsWepNC5OhSBu99p/v8WYfkFMWM46P0=
+
+Name: org/eclipse/ui/texteditor/AbstractDocumentProvider$ElementInfo.cla
+ ss
+SHA-256-Digest: rO85SSihlBPZlQqzd/lHJbmseBxk7IcTeRW0M2PC9ZY=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$ActivationListener.cla
+ ss
+SHA-256-Digest: HVio0ZqDgeY9O/i5KSOr2I0R/ze1tnaaWH9mlMKxWDU=
+
+Name: icons/full/eview16/minimap@2x.png
+SHA-256-Digest: OhoFvINFAL0M3q+mlforkdOB24Dgrry3qBKhjo8od6w=
+
+Name: icons/full/eview16/templates@2x.png
+SHA-256-Digest: j0YhLFB5/DuiwK/97gaSgaNVLytpLeMJhKTI2hsa8po=
+
+Name: org/eclipse/ui/internal/views/minimap/MinimapWidget.class
+SHA-256-Digest: VHXrZMo/MO2/3GIOCzcwBVWi1Nsq/N2ylpOTJQlRWDo=
+
+Name: icons/full/dlcl16/delete_template.png
+SHA-256-Digest: w4eNd/byn2wAkaKhlXBjBuCjtAcaJG1DjicGfpLpEj8=
+
+Name: icons/full/dtool16/toLower@2x.png
+SHA-256-Digest: ncOnJKAXfUINKBgDhkR2t0acyaoxvFwDYPFnHPy8YRk=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/RulerColumnPlacement.cla
+ ss
+SHA-256-Digest: Kd9yZ7QfmeG+/kVSmZ3VTqlHqHOGtA4AF4El6nxqKn4=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$13.class
+SHA-256-Digest: uKH2R7mZ7mNluDGEy+OWG1txx0XTGV2O06UV3+seoH4=
+
+Name: org/eclipse/ui/texteditor/IWorkbenchActionDefinitionIds.class
+SHA-256-Digest: xguKhAWCJp5hw4EQDUWh9/v3KnsNVJVKtSU4+GqRyr8=
+
+Name: icons/full/obj16/context.png
+SHA-256-Digest: 5fua/7BMO3zA9qu/Trs/euJGFKrwm4LXQr9hsugplII=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$7.class
+SHA-256-Digest: yWILlW83/wGeW8TSK2MniOZaOVsoNzNl/A8WmTLXCCM=
+
+Name: org/eclipse/ui/texteditor/DefaultRangeIndicator.class
+SHA-256-Digest: FeBnX4VfZ80cF0VZqMJ42Yk2LcvNo66Z1TwFwCF/Cgg=
+
+Name: org/eclipse/ui/texteditor/TextEditorAction.class
+SHA-256-Digest: ArQX9t7KSzNGQm0bgDxU97DLWbbn9XQoqrhMQCd4TE4=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$5.class
+SHA-256-Digest: QFsE5o+uKgEQ74LGmSJunKNrn2YLoS3XXI6KHEaa2iQ=
+
+Name: org/eclipse/ui/internal/texteditor/spelling/NoCompletionsProposal.
+ class
+SHA-256-Digest: I7p/zbZ6sbbXK+GGr5Tz310RNkZeLd3bWlVxnCziIbw=
+
+Name: icons/full/obj16/context@2x.png
+SHA-256-Digest: Es/MBAiFbskkIOmUHgfmgk5jTmIoco5ZpjrOSpK1YW8=
+
+Name: org/eclipse/ui/texteditor/TextViewerDeleteLineTarget.class
+SHA-256-Digest: bheDZr0SojwBz2tjkNOANA4b7nQ3JLzecLjH8AKqm8M=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$PositionLabelValue.cl
+ ass
+SHA-256-Digest: qqR+VN6dwcl9VoLz5nytFIDV8PWbSNgP/gbFIDKmnlE=
+
+Name: org/eclipse/ui/internal/texteditor/ICompoundEditListener.class
+SHA-256-Digest: 7tOmFi9AX61S7yqTAEjk79U4DANtzH4F/Kobopdseq8=
+
+Name: org/eclipse/ui/texteditor/spelling/ISpellingPreferenceBlock.class
+SHA-256-Digest: NGs+mCAkostHSOXsTdmKn2HeKyw97HxEIjrYu/pbWzI=
+
+Name: org/eclipse/ui/internal/views/minimap/MinimapWidget$MinimapTracker
+ .class
+SHA-256-Digest: CFaoH/SPmhQcL51uvqEaOFTfmyZi02PiK2iToUe3Zfc=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ToggleInsertModeActio
+ n.class
+SHA-256-Digest: D/eAeoNXVn5ZLEHrqVLvj3YOkMLAUJ4WomUZBTv4Q2Y=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/RulerColumnMessages.clas
+ s
+SHA-256-Digest: NXeYF/9sbCGZNHVsBnd2x7Qg2RtHe00F4IzBu5CS5+g=
+
+Name: org/eclipse/ui/texteditor/IDocumentProviderExtension5.class
+SHA-256-Digest: woZ8SDuU6hBzaMcycM4TVnI3G34ZULe4er9lfB0aC+A=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatesPageImages.class
+SHA-256-Digest: XEq1qdzy+osvmAALWxuwHqA+2xzLkXzwatxw601r0tw=
+
+Name: icons/full/dlcl16/insert_template.png
+SHA-256-Digest: vkcXbGweGgDcCOcGRTw2/HWajJaU3wv5nW8vLaq0YSA=
+
+Name: icons/full/etool16/segment_edit@2x.png
+SHA-256-Digest: eELLH87XshEzWvbGl0mqxQCgC0rFYvAumSuL4M55bfI=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$2.class
+SHA-256-Digest: 9YX+PeTTzkTv98tLxILd8+8Ss+Q2P+q6Q3Dh3oEZJlw=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$IdMapEntry.class
+SHA-256-Digest: tdhXHm82ZnOf6M1BZh/f9/6Z9NKG82XTIqpDRP4dIHs=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$6.class
+SHA-256-Digest: Oe/5YpFaZWu4vzJtOCNkBV7C8BLrPGXnlQk49ZJp3Hk=
+
+Name: org/eclipse/ui/texteditor/IStatusField.class
+SHA-256-Digest: WgSA9ufyGC1IrUIbDxHW7GtF6pUTA2p6TreIgdBeX0M=
+
+Name: org/eclipse/ui/internal/texteditor/codemining/CodeMiningProviderDe
+ scriptor.class
+SHA-256-Digest: yWv6V5AjhscU8I7pmax42iTweexzRaYp8p1S+SHngX4=
+
+Name: org/eclipse/ui/internal/texteditor/FocusedInformationPresenter.cla
+ ss
+SHA-256-Digest: vt/2EH3wv/364JXmaXYY1OUOeauXnN3VFGVZqVTm5q4=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$5.class
+SHA-256-Digest: MOaEmQxmt+WCT7DEdZopfZwd4M2MVixNgrKaU8epXqk=
+
+Name: org/eclipse/ui/texteditor/WordWrapToggleAction.class
+SHA-256-Digest: tvMTc7vQeG4JLjhqYzJ5oMhMiJDG5a3ZkqJ7pLSLu8E=
+
+Name: org/eclipse/ui/texteditor/HyperlinkDetectorRegistry$HyperlinkDetec
+ torDelegate.class
+SHA-256-Digest: duxjAEbTPsFXDEhUx24nSKDklXQk2DA+UzaLMtUvGnQ=
+
+Name: org/eclipse/ui/texteditor/BasicTextEditorActionContributor$StatusF
+ ieldDef.class
+SHA-256-Digest: wjseev31acdFm6EXH88o+fdqw7vsPe7quDsLdgseIJY=
+
+Name: org/eclipse/ui/texteditor/StatusLineContributionItem.class
+SHA-256-Digest: 34P0epzC5bzWmRyMuAEZFlRRdpVwASXzjissPWfNmCY=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$SelectionProvider.cla
+ ss
+SHA-256-Digest: 6LhgqD4Nz3ONRRnTYkhycCmdmgc7DoTifCH1oEunrQA=
+
+Name: org/eclipse/ui/texteditor/AnnotationPreference.class
+SHA-256-Digest: 4iBJzfVsrrpbc0kIj85aVhcbjDeXLo0i13/2zMNVOzg=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog$FindModifyListener.cla
+ ss
+SHA-256-Digest: FYsccxfxhFD5bBEvoT3XcfemapxUu4IL8PUR3oDnR10=
+
+Name: org/eclipse/ui/texteditor/IAnnotationImageProvider.class
+SHA-256-Digest: 9zRjby78AWJPcHaVKh0h56V9eEgxzGu6N/NTLqIehHk=
+
+Name: org/eclipse/ui/texteditor/ShowWhitespaceCharactersAction.class
+SHA-256-Digest: ethaCI2HT9MDuQy/6tkh8M10Dp0MmdqAr5Xhy+davX0=
+
+Name: org/eclipse/ui/internal/views/minimap/MinimapView.class
+SHA-256-Digest: fxc8B533eb04DGPlgmRsgsm7YlekB9Zt5OD/PKgt678=
+
+Name: icons/full/dtool16/segment_edit@2x.png
+SHA-256-Digest: esgwcGj6dpU7gyNs7wQZIyKMwDq6kaP76KfIZk+tOzE=
+
+Name: org/eclipse/ui/texteditor/link/EditorLinkedModeUI.class
+SHA-256-Digest: /ITYqWibPqIOG6t0ZSTGi7zxzkSdrbZsgKbwXuKyGzA=
+
+Name: org/eclipse/ui/texteditor/ResourceAction.class
+SHA-256-Digest: WT6mtiRGkmJQptGLVAIbVBq7OpRqojJVYZyPuIMNXk0=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence/D
+ ocumentEquivalenceClass.class
+SHA-256-Digest: bOz0nQSLB9ATLNffFEbGXKf3vRRNcKdGszkg90BfDGc=
+
+Name: org/eclipse/ui/texteditor/spelling/ISpellingProblemCollector.class
+SHA-256-Digest: m4brIdI3ZmsLr2foED/N8YcdyiJxLBdJ7gyOrJ7FHlw=
+
+Name: org/eclipse/ui/internal/texteditor/HippieCompletionEngine$HippieCo
+ mpletionForwardIterator.class
+SHA-256-Digest: Gm4/7zrqbOvn33pJywibZ9EqK9it1x51lgW1ls5kaAg=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$11.class
+SHA-256-Digest: RnbcfRvHZwKRyZO4KtkF3mSXeSemI/m8ZUEoo1NizLA=
+
+Name: org/eclipse/ui/internal/texteditor/multiselection/AddAllMatchesToM
+ ultiSelectionHandler.class
+SHA-256-Digest: cwXFN19WeXdUAwo+LghhO3oqlRI/KaIGHx+H0TDIn2U=
+
+Name: org/eclipse/ui/internal/views/minimap/MinimapPage.class
+SHA-256-Digest: wXY9Vv8V2LqeIcsltdPzn5KkbqmfWK7Ogy4jAT5kVhE=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence/D
+ ocEquivalenceComparator.class
+SHA-256-Digest: V5s0wp2b44Ms0shyf/0y+PLAPyDo/6oew+bQu+0TNc0=
+
+Name: org/eclipse/ui/texteditor/ConfigurationElementSorter.class
+SHA-256-Digest: /PT+OvAM1VWDczNRCcpymqDcTrRb7XYRRX44yeC+G9E=
+
+Name: org/eclipse/ui/internal/texteditor/HippieCompletionEngine$HippieCo
+ mpletionIterator.class
+SHA-256-Digest: PMTk5AuyScAetO2M8Fmmz93z2I96v6kjxFGykSmqtk0=
+
+Name: icons/full/obj16/preview@2x.png
+SHA-256-Digest: kwH3pLwGjrhSuUGvHI319sMFYlzPdO3kR2hPDyH8rTg=
+
+Name: org/eclipse/ui/texteditor/rulers/RulerColumnDescriptor.class
+SHA-256-Digest: JyzuKWE/McmZ0SPiQB3TiIhLyGLx7X9DUEiORRWJ4pE=
+
+Name: org/eclipse/ui/internal/texteditor/codemining/CodeMiningProviderRe
+ gistry.class
+SHA-256-Digest: 1UO72Jd6KftVCFSdCkphPYS2Wh6eBPoItZ05uG/P5w0=
+
+Name: icons/full/dtool16/zoomOut.png
+SHA-256-Digest: Urf6zH2aEMpKH9+v4+RSpozap12lWoNCSsr/OTSTEEY=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$9.class
+SHA-256-Digest: X8AtZd7mewUub/TsO6RW2TcmVXEiHy/L2dJA8Drmnjc=
+
+Name: org/eclipse/ui/texteditor/AbstractRulerActionDelegate.class
+SHA-256-Digest: sP8Pf8R7XugAYRmM/zMrCD19q9YPT2Ui/OYgvrOl2cU=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$9.class
+SHA-256-Digest: OJMiQXr5Jn4w7bViDccqitrB8YjAEB2EnSuh1mtTuPE=
+
+Name: org/eclipse/ui/texteditor/StatusTextEditor.class
+SHA-256-Digest: vocCznPe8JJz6uKVcNQr4Tq+zs31dA8rPE++98bWhhQ=
+
+Name: org/eclipse/ui/texteditor/TextOperationAction.class
+SHA-256-Digest: e1AShabUdnPD7weQxS8yoDiyrCXipyPVoamP8T7DFOE=
+
+Name: icons/full/dlcl16/edit_template.png
+SHA-256-Digest: J67CI9jWse/rEGQi8055/JNXNHOcUg+3dfSbpAcp//s=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/RestoreAction.class
+SHA-256-Digest: +9Q0pKMN/tN8B7df1+qlmP3r5zrYtIAs5FApytjx0iM=
+
+Name: org/eclipse/ui/texteditor/IElementStateListener.class
+SHA-256-Digest: F2Y4kPHakLZKnAFu9FVBfTN0kTpYPtWCKMegOKKHOgM=
+
+Name: org/eclipse/ui/texteditor/ConvertLineDelimitersAction.class
+SHA-256-Digest: MJfA/5AQlb3MZFNkHJITLdegSFJAD1cBoIx9qpJRvAc=
+
+Name: icons/full/elcl16/insert_template.png
+SHA-256-Digest: SZo86hdbUsKijS+bn2oc3fAPZAB8PJtEy1Dp9dbd0Fs=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatePreferencePage$Templat
+ eViewerComparator.class
+SHA-256-Digest: 8/4PLG93aaPoWsmDIGcf/iE4GZwQP4knLJU6t94fSxU=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$8.class
+SHA-256-Digest: 8mX3XlQrGOtKZEXi4K+ofKpzlejWFiRLd5VS2oRhBCw=
+
+Name: org/eclipse/ui/texteditor/GotoLineAction$GotoLineDialog.class
+SHA-256-Digest: 9tF/BWCHF8TIZfgTPxUhnCx8D+2V/BVwnBLwFbqJ+PY=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/QuickDiffRangeDiffere
+ nce.class
+SHA-256-Digest: ineR8qQeckllHW/4tk3fmUCSLrxHAI6fJiNsqZxzJeo=
+
+Name: org/eclipse/ui/internal/texteditor/EditPosition.class
+SHA-256-Digest: IM4jatMLqIGjLKSypNJrXKdODMv6meHO/XtE7+L7pwg=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor.class
+SHA-256-Digest: u5PK3J9u225Ic4Y6gmTDD+2/6ws0Rrco+SMiHB++RB4=
+
+Name: org/eclipse/ui/internal/views/minimap/MinimapMessages.class
+SHA-256-Digest: vAfSw4V+3XuNW3VisW852m9BPfQ5giguTmrUbwWji6Q=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingContext.class
+SHA-256-Digest: aXJDRPTzakGkftIkX0/bcTpQT6yZ53dSSrqTm96JDfQ=
+
+Name: org/eclipse/ui/texteditor/IElementStateListenerExtension.class
+SHA-256-Digest: k4KvmDqBhHvgRFZnYA2+MA5jkkmFryVqIxwEwg6MMAw=
+
+Name: org/eclipse/ui/texteditor/SourceViewerDecorationSupport$IBeamStrat
+ egy.class
+SHA-256-Digest: m2z9C7jaFntvyUulT0+5J1s7nGaeqdO1YAraBWkJTr4=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/RevertSelectionAction
+ .class
+SHA-256-Digest: 6fp6x/OoJ3YvoubPtyfdXlfqpIHU9HVl86NVp9Z3eP4=
+
+Name: org/eclipse/ui/texteditor/rulers/IColumnSupport.class
+SHA-256-Digest: PTI5YiSRCoAkZ5QfvQGxqleYqUSPk7EtAki56rf+v9Q=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatesMessages.properties
+SHA-256-Digest: GFoGcB6sRz1qnCaJAYEycxdSKRRHsx4gcZJ5330ZPu4=
+
+Name: icons/full/elcl16/link_to_editor@2x.png
+SHA-256-Digest: zsUn+52EQ7wMq8WXZBF6Y070q3vGH0ypfjzRDow7KQ0=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/QuickDiffRestoreActio
+ n.class
+SHA-256-Digest: fQKY4tUKCejdxt1q9kl2u+26J3+gSzL/HnkbVjr/gY0=
+
+Name: icons/full/dlcl16/collapseall@2x.png
+SHA-256-Digest: DBCG6xcuxhYA8155H4NPYkw6IFzg069OB+5RbKtJHVs=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage$8.class
+SHA-256-Digest: v9FenB3CIPCgcGRz42wK6+fUWwsxF3VUMBbAZkVE1ew=
+
+Name: org/eclipse/ui/texteditor/DeleteLineAction.class
+SHA-256-Digest: +YJhIlUUtIwtb+WtS15hps9EqPU3BmNSk1Gl0GcOc30=
+
+Name: icons/full/obj16/template_obj@2x.png
+SHA-256-Digest: dpF8kZd8mrMQoqYJ8ESAnJ1KvqtEQbxBL28lI5VBvz0=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/DocumentLineDiffer$Li
+ neChangeInfo.class
+SHA-256-Digest: AcDYc1/e+I76xUQ781oUVltj9y/TOOdRLlqdZfgnQNc=
+
+Name: org/eclipse/ui/internal/texteditor/HippieCompletionEngine$Multiple
+ DocumentsIterator.class
+SHA-256-Digest: x1HIHmId8VTEc57jRZiyz/OTCragZFs4x2eFAdIDya0=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatePreferencePage.class
+SHA-256-Digest: JLHZlWLDeER4xOSVeRMKV6USTBKcXNSugRu4lwSaOVc=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/DAG.class
+SHA-256-Digest: xUX036pgrxlbnAte2nY8T0ZDKIiJbJ34y6B+hZUTYy0=
+
+Name: icons/full/etool16/wordwrap@2x.png
+SHA-256-Digest: iZ+aUMp2aXKK3ZkFG0hq8p0n7Kh6SgGhjA2/MzwqMkA=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingAnnotation.class
+SHA-256-Digest: 13Wsrx1L3m7I/OiZf9xQy9dcTgsHHNYO8A2elye2zZw=
+
+Name: org/eclipse/ui/contentassist/ContentAssistMessages.properties
+SHA-256-Digest: ZTmi0JPBBNXfT66aQBZLUewevmsQ9jf9M6Q5i99RcM0=
+
+Name: icons/full/etool16/segment_edit.png
+SHA-256-Digest: DlCtY7ZpraJ+P+9S3CPaoeToa8K3kgKb22zIBVJWBcc=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/ReferenceSelectionAct
+ ion.class
+SHA-256-Digest: H/cKHsalinUyiYgAuM9rEmUKnG0LEZA9AoUzrDKbXIM=
+
+Name: org/eclipse/ui/internal/texteditor/HippieCompletionEngine.class
+SHA-256-Digest: 3AvmzyAJ0ZShsmajVgmsZOJd/RDJXh9EuW+L/Ec+hDI=
+
+Name: org/eclipse/ui/texteditor/templates/StatusInfo.class
+SHA-256-Digest: fbTKPlCE/rafq/i0r9oLNaYMQtVdoMVWpw+91KwUrp8=
+
+Name: org/eclipse/ui/texteditor/ITextEditorActionDefinitionIds.class
+SHA-256-Digest: Z8jc0mByjgB5s6J/DLSaoha0Dih9VpaAnQs9OSAmkP8=
+
+Name: plugin.properties
+SHA-256-Digest: iTzo7aCXQt6OttSplfTCSQROiori/ZrGqqGc2M2OMwI=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension.class
+SHA-256-Digest: SV9DkWljMW3zMOqgh66RzaFwCFsoau/UPD6nMqGbbBY=
+
+Name: org/eclipse/ui/texteditor/IDeleteLineTarget.class
+SHA-256-Digest: YWYK+vTdHA4VSgfJVhtLTtVbxvZjFXAEyZyuRPOxCPU=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/EditorIdTarget.class
+SHA-256-Digest: 2pwtmhIuDmLXYe7Usa2jmS3xNGp0zyN6XIwKKQi4QWE=
+
+Name: icons/full/dview16/templates@2x.png
+SHA-256-Digest: I/3lqAsfq8z47f1C8cH2DVWwnDlLyQjDmmsLa1XMWp8=
+
+Name: org/eclipse/ui/texteditor/EditorMessages.properties
+SHA-256-Digest: PKX2hDHmKFNdbaUv6nRUKtsk4/AFNxPL5CTp/kMmwb8=
+
+Name: org/eclipse/ui/internal/texteditor/EditorMessages.properties
+SHA-256-Digest: mBingKUG4MNApPG2nMs8Tk26H+OHOIMobQsXOfcVJXM=
+
+Name: icons/full/dtool16/toUpper@2x.png
+SHA-256-Digest: fFJRjm3vG3vsZ24DxE75P2L1/khuR8CC8sHFk0HniPw=
+
+Name: org/eclipse/ui/internal/texteditor/spelling/SpellingMessages.class
+SHA-256-Digest: iJMSvtBJkqC1gd9b/pRL/oRS/VfomJH6/CfDqqMmXPg=
+
+Name: org/eclipse/ui/internal/texteditor/spelling/SpellingEngineRegistry
+ .class
+SHA-256-Digest: sC5v4J4wpuL73QZiJokIzafLQOzwhFCB2r0V71W44U0=
+
+Name: org/eclipse/ui/texteditor/templates/TemplateVariableProcessor.clas
+ s
+SHA-256-Digest: cGP6i0YJ6rnU0lQClvWBmuZ21nR5XT5iJUQ6X/I/svc=
+
+Name: icons/full/eview16/templates.png
+SHA-256-Digest: LuxWpyg6UNrmku5H06nCDkkEDyPDaWUq4Mf3toJbbSw=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ActionActivationCode.
+ class
+SHA-256-Digest: k8ev/8WAHvpHCMVM+l49zT8gA7Oj+2wbRawJQrj+65E=
+
+Name: org/eclipse/ui/texteditor/HyperlinkDetectorDescriptor$1.class
+SHA-256-Digest: 3XVnmhboCkRvdqzV2KCvtQ+jkxeuFGTAS2Ur3FLRkHs=
+
+Name: icons/full/dlcl16/link_to_editor.png
+SHA-256-Digest: C9epe0yowc5MMphUA2vP29x7WgXDMMntY1JZWiTIgGk=
+
+Name: org/eclipse/ui/texteditor/quickdiff/ReferenceProviderDescriptor.cl
+ ass
+SHA-256-Digest: dq1SkddUNx6rYDP+AzrYQuey8lWrCItcJgyo9UM9GuY=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$TextInputListener.cla
+ ss
+SHA-256-Digest: M3ATrEl5cze2TR2NfPH2XahJ4EaDc9hVlSWp2sl1wTY=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ElementStateListener.
+ class
+SHA-256-Digest: kd+kq9ZSaAs6UeR+R5JFs/SVPmWIKSIzU71oHUcXEc8=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatesTransfer.class
+SHA-256-Digest: CPuC2DddQGFZZKVV/QqVj/rhPk3c2QN2gVbbFFEeL1o=
+
+Name: org/eclipse/ui/texteditor/quickdiff/QuickDiff.class
+SHA-256-Digest: DNZa/kp9dJpRW9VwHmJhxN2MmxhcBsrzG6CptNLJqRw=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ICursorListener.class
+SHA-256-Digest: 6l/dGiDtAP1qBP9ATqlDXZdxxVRjVy56IJmSq/dwoCk=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ShowRulerContextMenuA
+ ction.class
+SHA-256-Digest: wl5k7BDDxwFsi7z/LKilwvUfoVHz8p8K2kyPbOJv928=
+
+Name: icons/full/etool16/show_whitespace_chars.png
+SHA-256-Digest: ZJkE6Sxj9y6qyZxnmwQxO2vEWs5gRrOVHxTL0cvHnx8=
+
+Name: org/eclipse/ui/texteditor/BasicTextEditorActionContributor.class
+SHA-256-Digest: HaDwd2CbxfRYCHQrXocCU8J/JS7gcS91RkOensT/3IQ=
+
+Name: org/eclipse/ui/internal/texteditor/multiselection/StopMultiSelecti
+ onHandler.class
+SHA-256-Digest: pEUEoHy8HI0TfgUrLdQOzNiQN6gftWzugMVMbIpXsjs=
+
+Name: org/eclipse/ui/texteditor/TextZoomOutHandler.class
+SHA-256-Digest: tdklDv/3lYFbdTXyHDPrScxA5p0+rGHF6Rg/0gIcZdM=
+
+Name: org/eclipse/ui/texteditor/AbstractDocumentProvider$1SynchronizeOpe
+ ration.class
+SHA-256-Digest: bigblUvDrUr74uA+Eb0yDsFCo0eWUhb3pA7Y29D6HmM=
+
+Name: org/eclipse/ui/texteditor/InfoForm.class
+SHA-256-Digest: F55xHiF+npofdc+nBr/Nmc4gfjsyC5Krj+4/y1V8t50=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$LineEndAction.class
+SHA-256-Digest: RB70rBnxMi/oZUTtCyLL0B1MJeF4SuGIOXj/lHceOkQ=
+
+Name: icons/full/dlcl16/collapseall.png
+SHA-256-Digest: Wiv1ZAOyCdLGggoNxZa9l3PXnvsAvAogprVwM70Iucw=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage.class
+SHA-256-Digest: dEK9GZVySKdKsDf2Rt5q17FEY+QYHsY8YHogop0TFF4=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingReconcileStrategy$Spell
+ ingProblemCollector.class
+SHA-256-Digest: hqhUOdg4jc0ehS8fVNZp7Wy1Xi2hg8gJkq+204occsI=
+
+Name: org/eclipse/ui/internal/texteditor/SWTUtil.class
+SHA-256-Digest: +0idlN861lRdkSvE42ezKp2/L8YFYfrkM2FLWw/oTRE=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/DocumentLineDiffer.cl
+ ass
+SHA-256-Digest: ZO6aFH50rAV4Ims97FAI3kUfSVzHWYqiZoB8GE6DYNo=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog.class
+SHA-256-Digest: 0NVu9jZX5mqwMgUusCRwOUnJrevnadifQ/aySAPpIR8=
+
+Name: icons/full/etool16/zoomIn@2x.png
+SHA-256-Digest: mOs14pIandAROVECxlx9VegadS/0CC/xcMRmnN+gypY=
+
+Name: org/eclipse/ui/texteditor/rulers/RulerColumnPreferenceAdapter.clas
+ s
+SHA-256-Digest: qrX64Fk1M4Sj8XgALERQmTlksa+dK0yA9bJp5aEf/xo=
+
+Name: org/eclipse/ui/internal/texteditor/CompoundEditExitStrategy$EventL
+ istener.class
+SHA-256-Digest: ZgWdNhbpRMWBYge+GJVJEr4zFK29UpiESh8zn71G/Eo=
+
+Name: org/eclipse/ui/texteditor/ConfigurationElementSorter$Configuration
+ ElementComparator.class
+SHA-256-Digest: FOSPfNfzeSJR4cTggm95qrt7cPo0SqqGv+wUPtcBjpU=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor$ActivationCodeTrigger
+ .class
+SHA-256-Digest: +99VmS74TipLC5ZjakyyckS9ycChNZvKCaEk1IMEF6s=
+
+Name: icons/full/dtool16/block_selection_mode@2x.png
+SHA-256-Digest: yzZedLDqVQZfkRSR20GlhsoU765vuOhCLhP+w0FQxpg=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence/I
+ ntHash.class
+SHA-256-Digest: IVR5T9oIF5MsQrwgVtqMQaodlTiMVe0JYIy04S7qKbc=
+

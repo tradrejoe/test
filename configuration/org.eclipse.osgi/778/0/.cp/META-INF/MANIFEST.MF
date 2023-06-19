@@ -1,0 +1,568 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.wst.common.emf; singleton:=true
+Bundle-Version: 1.2.700.v202007161535
+Bundle-Activator: org.eclipse.wst.common.internal.emf.plugin.EcoreUtilit
+ iesPlugin
+Bundle-Vendor: %pluginProvider
+Bundle-Localization: plugin
+Export-Package: org.eclipse.wst.common.internal.emf.plugin;x-internal:=t
+ rue,org.eclipse.wst.common.internal.emf.resource;x-friends:="org.eclips
+ e.wst.common.modulecore",org.eclipse.wst.common.internal.emf.utilities;
+ x-internal:=true
+Require-Bundle: org.eclipse.emf.ecore.xmi;bundle-version="[2.4.0,3.0.0)"
+ ,org.eclipse.wst.common.frameworks;bundle-version="[1.1.200,2.0.0)",org
+ .eclipse.core.runtime;bundle-version="[3.4.0,4.0.0)",org.eclipse.core.r
+ esources;bundle-version="[3.4.0,4.0.0)",org.eclipse.wst.common.core;bun
+ dle-version="[1.1.201,2.0.0)"
+Eclipse-LazyStart: true
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/webtools
+ -common/webtools.common.git;path="plugins/org.eclipse.wst.common.emf";c
+ ommitId=9200809ecb5d8b98af3b1e58277169c39f8dab50
+
+Name: org/eclipse/wst/common/internal/emf/resource/ObjectTranslatorFilte
+ r.class
+SHA-256-Digest: LxKBxxwZZdWhZrKkS0Zn6Uz3/N8gu33I+chIX7U2Lbk=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/FeatureValueConverte
+ r.class
+SHA-256-Digest: qY4IDFbgKDX4hfoO+tAFaasH1JSz4gwPe4JLhuGD8Fw=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ICommand.class
+SHA-256-Digest: +y+wgxEePFBVd/rFEnoVeiyoHW7Ej7v5Sp1PH0+M8XI=
+
+Name: plugin.xml
+SHA-256-Digest: MmjK+1W+UvCQNbIPmB6qitkM1PZRuCjpRAaTEUcS7Oc=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/WFTUtilsResourceHand
+ ler.class
+SHA-256-Digest: aRlhrpdd9ph9ZkubchPtrPfD8jQYEc1WgDG9+VjVXsM=
+
+Name: org/eclipse/wst/common/internal/emf/resource/RendererFactory$Notif
+ ier.class
+SHA-256-Digest: vha+gzWPFRFvlPbaaHacMDci0tToPDNbQtwroorIBjI=
+
+Name: org/eclipse/wst/common/internal/emf/resource/CacheEventNode.class
+SHA-256-Digest: 7obfoWzxeXoH1tncbxKQHhu+pvCgEeXkJfV0IgcCCHY=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ExtendedEcoreUtil$1.
+ class
+SHA-256-Digest: egBx5KoaqDTPqEMeYz8yAgtXUgr6vtjVNYPbS6pbXS0=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ExceptionHelper.clas
+ s
+SHA-256-Digest: yfdoM5k8HbqRpz9mQrM8V6ZEtJP3dPbl6GYn8qAwh8A=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/PasswordCipherUtil.c
+ lass
+SHA-256-Digest: 1QQi+GQa1xlnNHBsIulvYQnwiVU/uAsRISJwkMJio/U=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/Revisit.class
+SHA-256-Digest: HEVeipYCLMN6LXslO2p+kZWw8IqbPzODdbijFrzVvus=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/DOMUtilities$3.class
+SHA-256-Digest: dMoWjrPypdNlhexR96UVodls2EFaFSlXeClu1lwgs2g=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/FeatureValueConversi
+ onException.class
+SHA-256-Digest: WOW4wgy9WlcXps3j8evvfY5iqj7V9EKJiaYUqU709S8=
+
+Name: org/eclipse/wst/common/internal/emf/resource/LinkUpdaterTarget.cla
+ ss
+SHA-256-Digest: 1TTYiy8LkaAGVLGJqV02FhYfX+P/EwxFXie1wSg3urs=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ResourceIsLoadingAda
+ pterFactory.class
+SHA-256-Digest: P5RY/3NbUk+m8OI2ETXcjy6lkbCPoWvSACL3uqc0mWk=
+
+Name: org/eclipse/wst/common/internal/emf/resource/AbstractRendererImpl.
+ class
+SHA-256-Digest: N17XiAvM9bV4W/t88VmQFx0kONedLjNV9WpcRAOm4Lk=
+
+Name: org/eclipse/wst/common/internal/emf/resource/EMF2DOMRendererFactor
+ yDefaultHandler.class
+SHA-256-Digest: v5Xi2IRwliCHBin2b8FPse8h5amdGWcZxL2UmIV3BDI=
+
+Name: org/eclipse/wst/common/internal/emf/resource/RendererFactory.class
+SHA-256-Digest: N0+Z7zOOxX7pu21Sbq8zhxOcuYhJ4g6YWJzY5ZYi7g4=
+
+Name: org/eclipse/wst/common/internal/emf/plugin/EcoreUtilitiesPlugin.cl
+ ass
+SHA-256-Digest: v5UdPNnAgOLQ8yPaUsSB3B+Q7OVJBPCP1o+ch3QUE04=
+
+Name: org/eclipse/wst/common/internal/emf/resource/EMF2DOMRenderer.class
+SHA-256-Digest: gSkkvz6vLYyi15VH2WiuFotLhAbawNgZUFjSJoWHJOM=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/AdapterFactoryDescri
+ ptor.class
+SHA-256-Digest: MJNDdLpk6znko68/YdSo0MqdgBzKMlQDgoKKbnvbVWQ=
+
+Name: org/eclipse/wst/common/internal/emf/resource/ConstantAttributeTran
+ slator.class
+SHA-256-Digest: aWguMDJvgenKk6aaU3/C+qbiFIdzAuMg7reZ58TXda0=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ResourceDependencyRe
+ gister$ResourceDependencyAdapter.class
+SHA-256-Digest: WW6/qRpkKX6cS+MwenfSFIvQErgQzpA53gKqjj3+iAg=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ArrayUtil.class
+SHA-256-Digest: LqOUDeIy/nxXU89m2FnN5SNCqhrrrn4SDuZuTjnevKU=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/Association.class
+SHA-256-Digest: QbbzJszvXhrWB0yvvjQgxcg3FQB7Z/oauc5Tl8GBRbQ=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/NamespaceAdapter$Not
+ ification.class
+SHA-256-Digest: qPJfiJQ03NWJUmzvQnC9LvvbWlM+K6HqR3W7pVJFgjE=
+
+Name: org/eclipse/wst/common/internal/emf/resource/IRootObjectResource.c
+ lass
+SHA-256-Digest: 7WFMrZ72e5H53yQxwkL4ZsTDexYPbUItwmyGVbLHUt8=
+
+Name: org/eclipse/wst/common/internal/emf/resource/TranslatorResource.cl
+ ass
+SHA-256-Digest: BVYmxF75YS8YckTzVWpJTEDScvzlZZ2fPsq7++cLNbQ=
+
+Name: org/eclipse/wst/common/internal/emf/plugin/PluginRendererFactoryDe
+ faultHandler.class
+SHA-256-Digest: W4vIlSiNMGqvXzN1MMGPt83kL5x+0TlJD+tPS6o0sw4=
+
+Name: org/eclipse/wst/common/internal/emf/resource/Translator.class
+SHA-256-Digest: UT1SVAVlcwkV3pNzPLPXmKLGhWGITQzhYPAjEG9eh78=
+
+Name: schema/translatorExtension.exsd
+SHA-256-Digest: 4gGqqjZ8M9D4o8nAVsZBDx8wuj/KMXA3eF4L+N/6/iI=
+
+Name: org/eclipse/wst/common/internal/emf/resource/Translator$ContainerF
+ eature.class
+SHA-256-Digest: Wwps1k2EdyyMQpNarZNOVq5UYactJGxF5GKtUh9TYtg=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/DanglingHREFExceptio
+ n.class
+SHA-256-Digest: DjTy0dgRAMIN3UUBexpPD7OWTgeYAdjd2Yq+GnYP8eA=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ResourceDependencyRe
+ gister.class
+SHA-256-Digest: MXNtE24oORP6aPbMNaQG9G+T7iMWTjkRSTlALY3law0=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/NamespaceAdapter.cla
+ ss
+SHA-256-Digest: KY050ls2tdHHuwnG8FuWSjPXTSJTeRs1kYfW+41r3L4=
+
+Name: org/eclipse/wst/common/internal/emf/resource/EMF2SAXRenderer.class
+SHA-256-Digest: rha2Fi7iwsrHBr/i6K8G1f0v6R0HYt8Cl/mo7be6PEE=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/EncoderDecoderRegist
+ ry.class
+SHA-256-Digest: 4F+Q30PaXbFXorLvRIjwpCMGEqXP/Ep6NpIKVt2BdUs=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/Assert.class
+SHA-256-Digest: qOFRfaM6kz8LCn0J6Ry9ojRONofnpCbeM6/42ho+w24=
+
+Name: org/eclipse/wst/common/internal/emf/resource/RendererFactory$Liste
+ ner.class
+SHA-256-Digest: CZQzX+1HSnSwfGlKlsiaWpJKbXbTqLtF60CEB/QZEQE=
+
+Name: wftutils.properties
+SHA-256-Digest: +FCwSClCtvmLMSjW1Ysmq9cjNYN4LsOWZN9kS+wvthY=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/AdapterFactoryUtil.c
+ lass
+SHA-256-Digest: at7jY8y5U7PB969W/2BQnjbWC9co2AZRdiy7HJiiyyY=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ExtendedEcoreUtil.cl
+ ass
+SHA-256-Digest: jUIy1VZ1ZfCkojXwDcSFvuG8ndljBFAtZZ7iEmBPv08=
+
+Name: org/eclipse/wst/common/internal/emf/resource/CompatibilityResource
+ Factory.class
+SHA-256-Digest: RSLwogMWwMrpdKjHElumk6K9ykmoOoJrhQ5Ga7dLpSQ=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/IDUtil.class
+SHA-256-Digest: 9gIGv6X0XhGJEfq6CR8C/kU4UazDOvtarHywUVQUR4o=
+
+Name: org/eclipse/wst/common/internal/emf/resource/TranslatorResourceImp
+ l$2.class
+SHA-256-Digest: Ww1S2+Fp+H2LYA83CIDX+M94yy6hCfgdIr/S9K8gnwk=
+
+Name: org/eclipse/wst/common/internal/emf/resource/CompatibilitySAXXMIHa
+ ndler.class
+SHA-256-Digest: v3MRP/Iy7v8e1oIJquvTJuHyzMIme9S1+xo6FfdCkZo=
+
+Name: org/eclipse/wst/common/internal/emf/resource/CompatibilityXMISaveI
+ mpl.class
+SHA-256-Digest: Ka606/8Z2K7c8NMbwGRiNwxBQ3xzu17jdsFdlGYLmFo=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/EtoolsCopyUtility.cl
+ ass
+SHA-256-Digest: rKrb/3UR64xAISHQgZFLqcxzOMBUgtgZjdgLU61Uexk=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/EtoolsCopySession.cl
+ ass
+SHA-256-Digest: qqdi9DPhBMkYFwzRdawp6jo3yy2TyfsxHNlNGRqs9zM=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/DOMUtilities$1.class
+SHA-256-Digest: KvZu0UvKhYmo9kFg7C5DZwOt8P9Sxb/vtdJCeryNk2s=
+
+Name: org/eclipse/wst/common/internal/emf/resource/NamespaceTranslator.c
+ lass
+SHA-256-Digest: OafT7dxeIfa8dFnzaiKYE/glEJuhbRSXWMfvcHLoqSI=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/DeferredReferenceUti
+ lityAction.class
+SHA-256-Digest: SuHpM9pCVKhuvlBdlKYmrItu6CZdZQni3+dZ3ap+bdg=
+
+Name: org/eclipse/wst/common/internal/emf/resource/EMF2SAXWriter$WriterH
+ ints.class
+SHA-256-Digest: pGvOodOCIvZ2rYb8kLBbkDAXWG/1n2pv6I9va7a3Go4=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ICommand2.class
+SHA-256-Digest: bnxfX0uBrcxo23PYa1UFv+/Dd7hVWJs6Aj8J1LQlbhg=
+
+Name: org/eclipse/wst/common/internal/emf/resource/SourceLinkTranslator.
+ class
+SHA-256-Digest: ikDRsaT6aCFzz2FVu24hy4eXPFAzDTrvDu4gEX/w2s4=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/Namespace.class
+SHA-256-Digest: 3pwubrE00zmTT7/1JTMssAH3TActOztraT3n6TWIp/0=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/XMLValueEncoderDecod
+ er.class
+SHA-256-Digest: 4Dua178KGmMc9+OSOAIoV6EULwRA4p+bGI8S6v480js=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/DOMUtilities$2.class
+SHA-256-Digest: vwRN3O7KPsq+TW2gYQ8wL/CV2meHt5eomtvtyJM2X3A=
+
+Name: org/eclipse/wst/common/internal/emf/resource/UnsupportedFeature.cl
+ ass
+SHA-256-Digest: Dzk/7qwUhJ/wGesTKnsThMwZdZe1inwVNK4xutviAok=
+
+Name: org/eclipse/wst/common/internal/emf/resource/IDTranslator$NoResour
+ ceException.class
+SHA-256-Digest: UlIKCXVsjue2G/j9/adp3OYEen3NwqIU74WXRroctDA=
+
+Name: org/eclipse/wst/common/internal/emf/resource/CacheEventPool.class
+SHA-256-Digest: T8BEAXUGloHg6CkFLnCWBO6233S5mogyQTokaxf2fPc=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/IsLoadingProxyAdapte
+ r.class
+SHA-256-Digest: UB6eRDCBXwyLJvADGk9XBdVXx0ldING5Eq3Nz1hQ57M=
+
+Name: org/eclipse/wst/common/internal/emf/resource/ReadAheadHelper.class
+SHA-256-Digest: ruLRJ6FgJY4/WaXt2jnyMVARZvel+/GTANanmCGdDXo=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/TranslatorService.cl
+ ass
+SHA-256-Digest: mdLfot/gVTWx8+UzegpVFmqCv02Lhrh5fS3IfuP5ydk=
+
+Name: org/eclipse/wst/common/internal/emf/resource/RootTranslator.class
+SHA-256-Digest: tRbYBrfxh6RwjAao9lLnQA0hvojVwSvbVaPWCTyuBoA=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/DefaultOverridableRe
+ sourceFactoryRegistry.class
+SHA-256-Digest: ibSCg6tLWRKZ7UGQZCZ6Cfqsc+i0FnxaGTqOj4+Iqe8=
+
+Name: org/eclipse/wst/common/internal/emf/resource/EMF2DOMRendererFactor
+ y.class
+SHA-256-Digest: stDzJ7QH7O/CveH5hxM/8iO0fsn4Gnj3//0Jf+hAVL0=
+
+Name: org/eclipse/wst/common/internal/emf/resource/TranslatorResourceImp
+ l$1.class
+SHA-256-Digest: Tt6Cx2XruXqLb8WfywmiG7MnoCQxdUjuZtpELDrsKco=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/EtoolsCopyUtility$De
+ ferredManyReferenceCopyAction.class
+SHA-256-Digest: AqMhBI3bpDFWthkt0rOCI80sW3lNMHcUUA+GL5aI2UM=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/CloneablePublic.clas
+ s
+SHA-256-Digest: yw1VvNzto7GbPN5p6fcMhY/p/Bp257efzXAFNBXB83I=
+
+Name: org/eclipse/wst/common/internal/emf/resource/ReferencedXMIFactoryI
+ mpl.class
+SHA-256-Digest: UHrmVzSc9iUmo0ZSqMoJRJqNj6r8LOmbJpu73K9ymAg=
+
+Name: org/eclipse/wst/common/internal/emf/resource/CompatibilityXMIResou
+ rce.class
+SHA-256-Digest: 0Vm+bNjuYTG76rC/MEbRXVXb9h1FK0eCIvsBYspcKmw=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ICommandContext.clas
+ s
+SHA-256-Digest: BEH7n7uS9y5VIQK52DWE+FXOindFNEWTCrBPJdGp5rk=
+
+Name: org/eclipse/wst/common/internal/emf/resource/GenericTranslator.cla
+ ss
+SHA-256-Digest: a4Dqp07HcSUpj68ZX+ldbEih9sUlEQaUUVi7mKrbl5E=
+
+Name: org/eclipse/wst/common/internal/emf/resource/IDTranslator.class
+SHA-256-Digest: gFgR/DACwfd0d/3ZtloDMHn4kPSpWSpmBnDNDOh/M+4=
+
+Name: plugin.properties
+SHA-256-Digest: GJJEhnOyswOT7AsCj9Iym3qLAE1qZVInpWPl1bKDjH4=
+
+Name: org/eclipse/wst/common/internal/emf/resource/TranslatorFilter.clas
+ s
+SHA-256-Digest: 7p/sj6ApI4JZkAfR65UCqFpy2NoiAFxyYJXZcs9xxsk=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ResourceIsLoadingAda
+ pter.class
+SHA-256-Digest: sNQSrvdkPrCWaTkDaKGM53ePCTVkTFAedcg8jZRoeRg=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/EncoderDecoder.class
+SHA-256-Digest: 6W+cGwSWCwguZGNE2u5qEQp2KSkefVSqHbKdQARk4/Y=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/StringUtil.class
+SHA-256-Digest: Y3lzshW1RhGsa5g6kklR67NnyHaE+LJU0sJRLrPbCWk=
+
+Name: org/eclipse/wst/common/internal/emf/resource/CompatibilityURIConve
+ rter.class
+SHA-256-Digest: OQLX7PZywlhl/U6xMG96h6SzhtGhmYFfQH2KSkVDlHw=
+
+Name: org/eclipse/wst/common/internal/emf/resource/MappedXMIHelper.class
+SHA-256-Digest: CQz4WFfqPtz48EYnZufSg8+DOdv6OC7BYrhMK4ijIVw=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ResourceDependencyRe
+ gister$ResourceSetListener.class
+SHA-256-Digest: DAujOjImpOydn7Uhqiv0iScxAaM5NrkHQDsQObtW5sc=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/InvalidPasswordDecod
+ ingException.class
+SHA-256-Digest: rCQCeBXaQ9ppMnaPJknt+lzyNBi76IkywzvTWG2/aiE=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/DOMUtilities.class
+SHA-256-Digest: /zGqrhfUjzxN1bOof005DTSdptn9QIXTf80bVdXWOOo=
+
+Name: org/eclipse/wst/common/internal/emf/resource/EMF2SAXWriter.class
+SHA-256-Digest: 1d9f+SbG2JQRF5jKd1V+63cyYMeI3eC+pWHnk/3se+I=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/TranslatorManager$Tr
+ anslatorDescriptor.class
+SHA-256-Digest: OekIzMtzI62RNPBKAWevTdNuS01C66ylv7hgeR5silc=
+
+Name: org/eclipse/wst/common/internal/emf/resource/ResourceFactoryDescri
+ ptor.class
+SHA-256-Digest: 9oWzvWWV1ehMPOG7OVs4v1R+I2JQjrUCdGUrRuol5Fs=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/NamespaceAdapter$1.c
+ lass
+SHA-256-Digest: iJ9C77sB/IeE3BleTcBwVlFcCFkqY6AbBHcet/xwiq4=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/TranslatorManager$Tr
+ anslatorRegistry.class
+SHA-256-Digest: g27cBoTuvkE5m0ja49MDJDtOQEV7eG3N6t8t4DcsxXs=
+
+Name: org/eclipse/wst/common/internal/emf/resource/Translator$RootFeatur
+ e.class
+SHA-256-Digest: RlnJWVTh12DkGglqXORPjJacpPY/cHUgObzbNp6sk+Q=
+
+Name: org/eclipse/wst/common/internal/emf/resource/XMLEncoderDecoder.cla
+ ss
+SHA-256-Digest: vvaDyASIAJ2V2QTh0yr+30TEvjX3giRXPPRlTYpzSxQ=
+
+Name: org/eclipse/wst/common/internal/emf/resource/TranslatorResourceFac
+ tory.class
+SHA-256-Digest: mm7DEE24akIAL702EKxUtgrMxeKXpDKvRisTD5Sf3zs=
+
+Name: org/eclipse/wst/common/internal/emf/resource/EMF2SAXDocumentHandle
+ r.class
+SHA-256-Digest: OksmYDT1zjMRjPYGpud8Jmd7GHoHYVvAFsuGnaPL8Ms=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/InvalidPasswordCiphe
+ rException.class
+SHA-256-Digest: txLGscQUpdCEezE8xoQlWXCQ8TloB9GjgAFu82vZpnI=
+
+Name: org/eclipse/wst/common/internal/emf/resource/ReferencedResource.cl
+ ass
+SHA-256-Digest: SPzdEMyMeYX9LByIa2RXpH7rVsXYz5bu5UiCgeKahgI=
+
+Name: org/eclipse/wst/common/internal/emf/resource/EMF2DOMAdapterImpl$De
+ pendencyAdapter.class
+SHA-256-Digest: /HVNtvkja30Pk9w7cUs4DRUOQXoLJfG9cITtWI8bBBA=
+
+Name: org/eclipse/wst/common/internal/emf/resource/DefaultTranslatorFact
+ ory.class
+SHA-256-Digest: NqARdz8Ivw5YmAW1UlgsAzkC5xu/znSvvZO2cXNUeAA=
+
+Name: org/eclipse/wst/common/internal/emf/resource/MultiObjectTranslator
+ .class
+SHA-256-Digest: 6cSJ95t4IyydbL+ywo8kuZNE2z1k/y6NVfFMvXfvPrw=
+
+Name: org/eclipse/wst/common/internal/emf/resource/VariableTranslatorFac
+ tory.class
+SHA-256-Digest: ADO3idTITxn0I8VoUXUd/B6sj7J9lmkvcICOsdAlqMM=
+
+Name: org/eclipse/wst/common/internal/emf/resource/DependencyTranslator.
+ class
+SHA-256-Digest: QVSIWtgxs+ofVlCix1VyDaHLUftBHs6h91dzB1nQSRM=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/WriteBackHelper.clas
+ s
+SHA-256-Digest: jt1tIUM2ZJWNBR4o55JLXNy3GmpQ6FsP7b7knM04Fus=
+
+Name: org/eclipse/wst/common/internal/emf/resource/Renderer.class
+SHA-256-Digest: No4PsoV3dEVNafym1mbpcEWnBjLXnn7gF+TnNm1TpGc=
+
+Name: org/eclipse/wst/common/internal/emf/ResourceSynchronizedIsLoadingA
+ dapterFactory.class
+SHA-256-Digest: qr6MTl+WoeVkAhx8jU9DWEqaDTpJKgc7rntLJP/XGVs=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ExtendedEcoreUtil$ES
+ ynchronizedAdapterList.class
+SHA-256-Digest: Qv4xOXzFmW1c5LdJ7tX4SwWIoKxj3Ywr7T2V70DKURU=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ emf/pom.properties
+SHA-256-Digest: MsKD7CXVisSdVAdovWmKtxk1bMnMVaLMD5FI71oHlkE=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/UnsupportedCryptoAlg
+ orithmException.class
+SHA-256-Digest: ggFTq6m9A3J4+xHqmVTgduHWFh9xldlr0ZiLulRJMmQ=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/CopyGroup.class
+SHA-256-Digest: 3aRX7nGU6fg+LPBHBDurwzCWhgLo/FBBoq8R+rejYRM=
+
+Name: org/eclipse/wst/common/internal/emf/resource/CompatibilityXMIResou
+ rceImpl.class
+SHA-256-Digest: NDK5V+OMxrmHitRZuaE3l6k503MCuOfHsQ10DRl6OXQ=
+
+Name: org/eclipse/wst/common/internal/emf/resource/EMF2DOMAdapterImpl.cl
+ ass
+SHA-256-Digest: ErHQbyixiBOdkb7EHc/Kwt1pM5FgrEfMDfl8T1q7sHk=
+
+Name: org/eclipse/wst/common/internal/emf/resource/CompatibilityXMILoadI
+ mpl.class
+SHA-256-Digest: NmZDKUGGJmsYGp9W7AXXoTvQLarwbSGaOxmr5Ta3c9k=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/EtoolsCopyUtility$De
+ ferredSingleReferenceCopyAction.class
+SHA-256-Digest: /PolPGnJ2NCyb/oXNyjWF1UlCM7l5+ZIH+hudt8vNWc=
+
+Name: org/eclipse/wst/common/internal/emf/ResourceSynchronizedIsLoadingA
+ dapter.class
+SHA-256-Digest: T/Wt0pQiTQ5S01IFAn+WsyVRqPlYAYWms5cInRFcU4A=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/IsLoadingDetector.cl
+ ass
+SHA-256-Digest: HH5i//rsV7sAxxwgK/ks5L0BYlhQO4gLcnYlzYC0tmA=
+
+Name: about.html
+SHA-256-Digest: uNtdcam2UGRj5nbnesFNLRgKf5AFSxB9QgGcPDz4vOU=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/PasswordException.cl
+ ass
+SHA-256-Digest: axBoR1uRsbrpQIl5PY2BE5LGN4u/tfojhBqOQliropY=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/CommandContext.class
+SHA-256-Digest: fYRgOIkxQq35/Xuq70WKszlXQq5WW4gT+0HTohnJT54=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/DOMLoadOptions.class
+SHA-256-Digest: ZKlblDsMy/sg4BqHfe6Ll+sTkM4acEYOQsD1IQIQvNE=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/EncoderDecoderAdapte
+ r.class
+SHA-256-Digest: sqTjcu41Mvxe5iZzCfDT24Ax3Qm0e89ZqIBd0nGu1FU=
+
+Name: org/eclipse/wst/common/internal/emf/resource/CompatibilityPackageM
+ appingRegistry.class
+SHA-256-Digest: LE/9FCCarJreWJQN3z27a8N8r+gfSZ2NAt0Fbcv1U5M=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/PassthruEncoderDecod
+ er.class
+SHA-256-Digest: LDwvNjtat+vzAXgDj865rvN+cdUhpmLjhmoGEOvoNSw=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/ExtendedEcoreUtil$Fi
+ leNotFoundDetector.class
+SHA-256-Digest: TTihnBCM4EFStFHM4d95kR1yznYAwB4h2jvmnL5K8tU=
+
+Name: org/eclipse/wst/common/internal/emf/resource/AttributeTranslatorFi
+ lter.class
+SHA-256-Digest: 1wIgbMkbkBj0oVvY/fYoV3IjfoqIN0GDzP8znoVjPWI=
+
+Name: org/eclipse/wst/common/internal/emf/resource/CacheEventStack.class
+SHA-256-Digest: id8vf7lNtRaVobXPZk8TbsRTfsNTx+GHlyPVCHMj0m4=
+
+Name: org/eclipse/wst/common/internal/emf/resource/StaticResourceFactory
+ Descriptor.class
+SHA-256-Digest: gbIBQtA+Iv8L2fJbQs4FkhYNqDc/8Z5pUDnYMV+0584=
+
+Name: org/eclipse/wst/common/internal/emf/resource/ReferencedXMIResource
+ Impl$ESynchronizedAdapterList.class
+SHA-256-Digest: jjvfwkYF/X52EyrOY+Ei+io3JGxNEb18IkXcFx4MUtQ=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/AssertionFailedExcep
+ tion.class
+SHA-256-Digest: Tr0qImaluLw2qYYU3DnG/LctA1Y0oejw5Ar9bnqWnbE=
+
+Name: org/eclipse/wst/common/internal/emf/resource/EMF2SAXRendererFactor
+ y.class
+SHA-256-Digest: ZFHM7ovYOYhsNyqtvvuqtqMDHejmoFPCnhvkLFmavZ4=
+
+Name: org/eclipse/wst/common/internal/emf/resource/TranslatorResource$Do
+ cTypeFeature.class
+SHA-256-Digest: 5GHVuj018BPUcL2VWzqBaLU2AOv6Idrxv5bYbsSC3wk=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/InvalidPasswordEncod
+ ingException.class
+SHA-256-Digest: xtGnbJNLMrE7hfpUCunZkPXUTsxy6UNcDN56kwuqVi0=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/PleaseMigrateYourCod
+ eError.class
+SHA-256-Digest: C8eLHulqXagaX+NyUffLnGW72yjd/WXOzBrqUixrHbI=
+
+Name: org/eclipse/wst/common/internal/emf/resource/ReferencedXMIResource
+ Impl.class
+SHA-256-Digest: 5U9PSQ8/pPsPbfDN4MdqxjX6T9YlpZSk+OPT9hAMROE=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/DefaultFeatureValueC
+ onverter.class
+SHA-256-Digest: 9pJKXo8pmPSDpd252WxfoOUt8wOiJ668bH7/t7e4bVU=
+
+Name: org/eclipse/wst/common/internal/emf/resource/FileNameResourceFacto
+ ryRegistry.class
+SHA-256-Digest: FvuHaa7XdQTg724ITJhh2ibjwjbZbdWYuIwEFiCEaJE=
+
+Name: schema/packageURIMap.exsd
+SHA-256-Digest: WlpJcgTs7SFKOrXJsldidKRjFF2JKyu9ujF1MTyGy2o=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ emf/pom.xml
+SHA-256-Digest: Al1vTR1fSejtsjj8Ssy1ydo/ENwvwNZX86JK2FeNOu8=
+
+Name: org/eclipse/wst/common/internal/emf/resource/EMF2DOMAdapter.class
+SHA-256-Digest: YjWw5HjM/xyR5T7A3jTC30PHPikpA5SEkVM9OtMVgDI=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/PasswordUtil.class
+SHA-256-Digest: /+eYCwxwQMSoSWI8wjLtn9ktfXj2QsYlCld7JpmZy2s=
+
+Name: org/eclipse/wst/common/internal/emf/resource/RendererFactoryDefaul
+ tHandler.class
+SHA-256-Digest: y5wI+6wjXRyx+n2fUl88DAxOph6hospeoRVjBfrvbF8=
+
+Name: org/eclipse/wst/common/internal/emf/resource/ReferencedXMIResource
+ Impl$1.class
+SHA-256-Digest: 2LhseFfL/Vvytcc0MSv5qdO5xJ2M6WQTSCMaaj9/tOI=
+
+Name: org/eclipse/wst/common/internal/emf/resource/TranslatorResourceImp
+ l.class
+SHA-256-Digest: H4tR18XdBwsy1pzTTQ3zql/Q3+f/qJD8WS8guuZHy0I=
+
+Name: org/eclipse/wst/common/internal/emf/resource/TranslatorPath.class
+SHA-256-Digest: /7NkdssuZA9d/9yD1sO5h11fC6lo3fYA0rt3SGKEGtI=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/PasswordEncoderDecod
+ er.class
+SHA-256-Digest: igykCglxfqoJ07e3N9DvVuPX/Ovr4m0IEw6TBD2ko+k=
+
+Name: org/eclipse/wst/common/internal/emf/utilities/TranslatorManager.cl
+ ass
+SHA-256-Digest: bzuXIMT7aPVXLNLaeC76xf71LNKh9VT13ys6WRsEYOQ=
+
+Name: org/eclipse/wst/common/internal/emf/plugin/PackageURIMapReader.cla
+ ss
+SHA-256-Digest: ZPoDytNjxNNo5YbtiFxmRGb905B63DKI6EYrr6ZcUbc=
+

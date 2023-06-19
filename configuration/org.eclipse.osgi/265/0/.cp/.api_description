@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.e4.core.commands_1.0.200.v20220629-1225" version="1.2">
+    <plugin id="org.eclipse.e4.core.commands_1.0.200.v20220629-1225"/>
+    <package name="org.eclipse.e4.core.commands" visibility="1">
+        <type name="CommandServiceAddon" restrictions="14"/>
+        <type name="ECommandService" restrictions="3">
+            <method name="defineCategory" restrictions="8" signature="(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lorg/eclipse/core/commands/Category;"/>
+            <method name="defineCommand" restrictions="8" signature="(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lorg/eclipse/core/commands/Category;[Lorg/eclipse/core/commands/IParameter;)Lorg/eclipse/core/commands/Command;"/>
+            <method name="defineCommand" restrictions="8" signature="(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lorg/eclipse/core/commands/Category;[Lorg/eclipse/core/commands/IParameter;Ljava/lang/String;)Lorg/eclipse/core/commands/Command;"/>
+        </type>
+        <type name="EHandlerService" restrictions="3"/>
+        <type name="ExpressionContext" restrictions="14"/>
+    </package>
+</component>

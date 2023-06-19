@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="org.eclipse.m2e.core.internal.repository.RepositoryRegistry" activate="updateRegistry">
+  <service>
+    <provide interface="org.eclipse.m2e.core.repository.IRepositoryRegistry"/>
+    <provide interface="org.eclipse.m2e.core.project.IMavenProjectChangedListener"/>
+    <provide interface="org.eclipse.m2e.core.embedder.ISettingsChangeListener"/>
+  </service>
+  <reference name="maven" interface="org.eclipse.m2e.core.embedder.IMaven" field="maven"/>
+  <reference name="projectManager" interface="org.eclipse.m2e.core.project.IMavenProjectRegistry" field="projectManager"/>
+  <implementation class="org.eclipse.m2e.core.internal.repository.RepositoryRegistry"/>
+</scr:component>

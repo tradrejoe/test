@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.e4.ui.workbench3;singleton:=true
+Bundle-Version: 0.16.0.v20210619-0956
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.eclipse.equinox.common;bundle-version="[3.7.0,4.0.0)
+ ",org.eclipse.swt;bundle-version="[3.6.0,4.0.0)",org.eclipse.equinox.re
+ gistry;bundle-version="[3.5.0,4.0.0)",org.eclipse.core.runtime;bundle-v
+ ersion="[3.15.0,4.0.0)"
+Export-Package: org.eclipse.ui.testing,org.eclipse.ui.testing.dumps
+Automatic-Module-Name: org.eclipse.e4.ui.workbench3
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platform
+ /eclipse.platform.ui.git;path="bundles/org.eclipse.e4.ui.workbench3";ta
+ g="I20210619-1800";commitId=435a3a7a9589845066c31a0e3e2358898e121058
+
+Name: org/eclipse/ui/testing/dumps/TimeoutDumpTimer.class
+SHA-256-Digest: wLOr9JHBqA/QnBsQAonlqDPtdswzA8hWVjPPvWhCrI8=
+
+Name: org/eclipse/ui/testing/TestableObject.class
+SHA-256-Digest: TL3jIOaryyMCCKxaywT9Dqv16WE32eunOUFL85bmm9E=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/ui/testing/dumps/TimeoutDumpTimer$StreamForwarder.clas
+ s
+SHA-256-Digest: jzBjblufM2qQnUd/Q+setcMhhMtggCbLUPNMtqXxMLc=
+
+Name: org/eclipse/ui/testing/dumps/AwtScreenshot.class
+SHA-256-Digest: V979unsUAXuZ3QwMUZQte03FGIvdA5BO8HLQwPBekpw=
+
+Name: org/eclipse/ui/testing/dumps/TimeoutDumpTimer$1.class
+SHA-256-Digest: 5A8k7PtJiaNzkldhU9ahRZCymJm/5A15UK7mjyH+aSs=
+
+Name: plugin.properties
+SHA-256-Digest: FB4Dct5qN443F340oDLCiU3syUSbhSZVOHbc0DVWHKQ=
+
+Name: org/eclipse/ui/testing/IWorkbenchPartTestable.class
+SHA-256-Digest: 0uy0/dyn0ifvuRI/zmpWt+tnk/AMnYq3ueXPP3RTN8o=
+
+Name: org/eclipse/ui/testing/ContributionInfo.class
+SHA-256-Digest: WMHjOeBnfGdW5VPUpzoaInF95GIPrOWXFO6QdNT4kcE=
+
+Name: .api_description
+SHA-256-Digest: eVhNXRvLgL5ZSilXIygBvr8SwAj0Rp0ogHHwkvr5SkY=
+
+Name: org/eclipse/ui/testing/ITestHarness.class
+SHA-256-Digest: aa9Aui/50mvjxgr0DT6pQpsdTTGLqQI/MzXI0F3HbhM=
+

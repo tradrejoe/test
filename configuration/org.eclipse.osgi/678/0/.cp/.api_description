@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.osgi.services_3.11.0.v20220618-0838" version="1.2">
+    <plugin id="org.eclipse.osgi.services_3.11.0.v20220618-0838"/>
+    <package name="org.osgi.service.http" visibility="1">
+        <type name="HttpService" restrictions="1"/>
+    </package>
+</component>

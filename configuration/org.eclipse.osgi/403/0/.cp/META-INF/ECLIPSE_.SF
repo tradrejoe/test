@@ -1,0 +1,51 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: AakuQInAOMYttGfSZydM51VoUBEQ2M/lFN+GwO+EhZQ=
+SHA-256-Digest-Manifest-Main-Attributes: dd6Xi1CrGoco0CBeFl8uVzlwrYHOlhC
+ uWcP3Wj438Qs=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: bundle.properties
+SHA-256-Digest: zEvlrMlrIpW2GPN7sHoSrR496PLP/n5hUzJMCUiBfyo=
+
+Name: src/org/eclipse/jdt/annotation/Checks.java
+SHA-256-Digest: C+9PBBmuGpWUDhslpaxyST3Z4QXhB/5cv6qVoAGbKgk=
+
+Name: org/eclipse/jdt/annotation/NonNullByDefault.class
+SHA-256-Digest: dSr9Z0I7OANEeOEOhsGS+bY4zy1vuEF6Q5WC0k/uOtc=
+
+Name: org/eclipse/jdt/annotation/NonNull.class
+SHA-256-Digest: Hyaowh7nWx86eMkasEhIxEJ+I1DOjmoAq2c/9A4xg/I=
+
+Name: .api_description
+SHA-256-Digest: 4+tEGKTZxd/6pT/rfcgegSxzcv+ayLJCq1hgISxxnBw=
+
+Name: src/org/eclipse/jdt/annotation/DefaultLocation.java
+SHA-256-Digest: 72/veDGDQhF8qcCqvqPbPh03MMjSfyNpHCbWFNtikws=
+
+Name: src/org/eclipse/jdt/annotation/Nullable.java
+SHA-256-Digest: SviivGNYaRCBl9qv5a4LOR/pvD6rzWGvCqlYn2XOG+U=
+
+Name: src/org/eclipse/jdt/annotation/package-info.java
+SHA-256-Digest: ycrN6zh3GrPc95S6Qu3Ucm47T0SNr9RgTBe3xzignRo=
+
+Name: src/org/eclipse/jdt/annotation/NonNullByDefault.java
+SHA-256-Digest: AdyuPjxoFxMR0m+Fmfg7CnmBHFkhULyoHLYlSofFtDA=
+
+Name: org/eclipse/jdt/annotation/package-info.class
+SHA-256-Digest: rUd4mvZxIm+aLo7shw6t5zS7AeOIc7Nafxx+VC3GT3g=
+
+Name: org/eclipse/jdt/annotation/DefaultLocation.class
+SHA-256-Digest: qZqsD1IAaN5RzXNG9sDOaCHQBShV25Yz6rOshnl/Sis=
+
+Name: src/org/eclipse/jdt/annotation/NonNull.java
+SHA-256-Digest: SeEAeaIdF0e7jyxoDdorxefclo8XY1SAEZ3J5fre3eE=
+
+Name: org/eclipse/jdt/annotation/Nullable.class
+SHA-256-Digest: +MoQk1AWoulE85rrLJAlEabl/LV9WRpzuRuIufiAe9k=
+
+Name: org/eclipse/jdt/annotation/Checks.class
+SHA-256-Digest: Eyr82QxmvgtRJcL8bANwNcgPGi3keCO91wXPq4hC+nI=
+

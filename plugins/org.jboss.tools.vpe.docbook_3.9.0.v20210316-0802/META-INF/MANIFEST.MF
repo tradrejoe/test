@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name.0
+Bundle-SymbolicName: org.jboss.tools.vpe.docbook;singleton:=true
+Bundle-Version: 3.9.0.v20210316-0802
+Require-Bundle: org.eclipse.ui;bundle-version="3.7.0",org.eclipse.core.r
+ untime;bundle-version="3.7.0",org.jboss.tools.jst.web.ui,org.eclipse.jf
+ ace.text;bundle-version="3.7.0",org.jboss.tools.vpe
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %Bundle-Vendor.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-Activator: org.jboss.tools.vpe.docbook.DocbookTemplatePlugin
+Eclipse-BundleShape: dir
+Eclipse-SourceReferences: scm:git:https://github.com/jbosstools/jbosstoo
+ ls-vpe.git;path="plugins/org.jboss.tools.vpe.docbook";commitId=c941ca33
+ 81d8276a4c1a34e009faa6d7aaf29c6f
+

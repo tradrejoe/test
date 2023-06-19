@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.ui.forms_3.11.400.v20220817-1444" version="1.2">
+    <plugin id="org.eclipse.ui.forms_3.11.400.v20220817-1444"/>
+    <package name="org.eclipse.ui.forms" visibility="1">
+        <type name="HyperlinkSettings" restrictions="2"/>
+        <type name="IManagedForm" restrictions="3"/>
+        <type name="IMessageManager" restrictions="3"/>
+    </package>
+    <package name="org.eclipse.ui.forms.widgets" visibility="1">
+        <type name="Form" restrictions="2"/>
+        <type name="ScrolledForm" restrictions="2"/>
+    </package>
+</component>

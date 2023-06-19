@@ -1,0 +1,185 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: /ZfqL0NQHMsd7YA7Xi2WKgnnAXh/OsZMocnTLnvOswQ=
+SHA-256-Digest-Manifest-Main-Attributes: vg1Kk6eh4sxlzaXa+wB8paxy4OZZOAW
+ BRc9Vrq+vvjM=
+
+Name: org/eclipse/e4/core/services/adapter/Adapter.class
+SHA-256-Digest: hsSZRxunhRQxmIDeXKGiySE2WfCqzSfb5f9xG/UQXro=
+
+Name: OSGI-INF/org.eclipse.e4.core.internal.services.DefaultResourceBund
+ leProvider.xml
+SHA-256-Digest: hKilESjEdF3XGeJre4p17LKg/KdRMn6rTcB5IpDj5eA=
+
+Name: OSGI-INF/org.eclipse.e4.core.internal.services.MessageFactoryServi
+ ceImpl.xml
+SHA-256-Digest: 7qoHZAOD3v5j9+NtSaUcotNyWoGndQkFdb0+/6BXohw=
+
+Name: OSGI-INF/org.eclipse.e4.core.internal.services.about.SystemEnviron
+ ment.xml
+SHA-256-Digest: lTjdm/efLHUMZlkUfk4ImeqEAltfDjLaF0lb3Zhj6fU=
+
+Name: org/eclipse/e4/core/internal/services/ResourceBundleHelper$BundleR
+ esourceBundleControl.class
+SHA-256-Digest: ZddOEaeY4PKUjiYM2In79omG7WHSZZPMXKeTdCMDjIw=
+
+Name: org/eclipse/e4/core/services/nls/Translation.class
+SHA-256-Digest: PnV9FvSjcW7fXLYpF88fa5B+IXDkMqcZcye2kXbhTJQ=
+
+Name: org/eclipse/e4/core/services/log/ILoggerProvider.class
+SHA-256-Digest: Et2uLrLy5zvicFbtq7nlZh6s8gK6z+vPsNa2YzfdVsg=
+
+Name: org/eclipse/e4/core/services/nls/BaseMessageRegistry$MessageSuppli
+ erImplementation.class
+SHA-256-Digest: DvJbP9wVKG0pG9w5acaFjFGBYwY2Bkr9HsziFLBw0is=
+
+Name: plugin.properties
+SHA-256-Digest: SieybSMq9EvVG3cOMxrI2nns0LedJbExBSeitLpp8+8=
+
+Name: org/eclipse/e4/core/internal/services/MessageFactoryServiceImpl.cl
+ ass
+SHA-256-Digest: DuSGUTQfLPx1FLaLlFSAbsZ3gtWTyP0rFoSiP1++CU0=
+
+Name: org/eclipse/e4/core/internal/services/ResourceBundleHelper$1.class
+SHA-256-Digest: XtRIr/8nH2P+uD2sZ2pkwjlOjINcp0P23N9bAiKBcjQ=
+
+Name: org/eclipse/e4/core/internal/services/about/SystemEnvironment.clas
+ s
+SHA-256-Digest: o6Nqb2Xe0BTOnVfPzVY4A2QMP4tlSL27UhCplPcWCp8=
+
+Name: org/eclipse/e4/core/internal/services/about/AboutMessages.properti
+ es
+SHA-256-Digest: 7mWquSFcvsqCR1jNoF+NtAIOHMkDYA5aXkOJEnt2LWM=
+
+Name: org/eclipse/e4/core/services/nls/BaseMessageRegistry.class
+SHA-256-Digest: /sHTcB3OjLcqvlvh/axbCI4I8kp8F9XPkCjVPPYtif4=
+
+Name: org/eclipse/e4/core/internal/services/about/SystemProperties.class
+SHA-256-Digest: bM+/+FgJD5OhNW6/XJAFXWfNCQYe1+rCayQ7rpbNKI8=
+
+Name: org/eclipse/e4/core/internal/services/EclipseAdapter.class
+SHA-256-Digest: g0T2Gn01kg31GdpfxNePbvjhsEwC7EH85zJaoCfV7mM=
+
+Name: org/eclipse/e4/core/internal/services/about/AboutMessages.class
+SHA-256-Digest: 7kobSjnsplYVJs8ELx4dBqJN7HV7bXe8QVcf7plNJzI=
+
+Name: org/eclipse/e4/core/internal/services/about/InstalledBundles.class
+SHA-256-Digest: PCIY1F2wuoOylisKjOuKaj/PQQGKlAqLBkUp8Aralfg=
+
+Name: .api_description
+SHA-256-Digest: OzDxkLBqnk+26ByaEGbcI4xGw5nR4eUvSyqCyZS4Jxo=
+
+Name: org/eclipse/e4/core/services/nls/IMessageFactoryService.class
+SHA-256-Digest: 1Z8jZwkWTPguVsHHCQ53igpb+I1kEYpQdyNaK9LntPs=
+
+Name: org/eclipse/e4/core/internal/services/DefaultResourceBundleProvide
+ r.class
+SHA-256-Digest: 7bYJFFsLm7XXjDpysO1gHDlZCf5JK4qKTOoLPCEGFs4=
+
+Name: org/eclipse/e4/core/internal/services/about/PrintedMap.class
+SHA-256-Digest: EDWvgQGd8AG+NzYjj5QjDOFGGx5GSB7CeZOq7UxGK/Q=
+
+Name: org/eclipse/e4/core/services/about/AboutSections.class
+SHA-256-Digest: 2M6YJA0ftCi+vsF3j2ah4fS/eg/gI1tIy2hrkvBSJkk=
+
+Name: OSGI-INF/org.eclipse.e4.core.internal.services.about.InstalledBund
+ les.xml
+SHA-256-Digest: nRXoJFi/mqIBds+fXMffGF26D/0+CgrsgKLJ/PvDI4k=
+
+Name: org/eclipse/e4/core/internal/services/BundleTranslationProvider.cl
+ ass
+SHA-256-Digest: 7vJHY0gN6B8v+9cf2y5vf4b1KZwNJoIxeWlIjP0uxSQ=
+
+Name: org/eclipse/e4/core/services/nls/ILocaleChangeService.class
+SHA-256-Digest: cYfRvhXBmYK/I3DOc2vwVt6QPRAFQIVdf7xyu6RU7js=
+
+Name: org/eclipse/e4/core/services/about/ISystemInformation.class
+SHA-256-Digest: sFlTTFt8cNAlp0nzkEcHGw0o6xyMtd6MIo1DGINTFM4=
+
+Name: org/eclipse/e4/core/internal/services/TranslationObjectSupplier.cl
+ ass
+SHA-256-Digest: 2f+zMp7CjjY/b4yxMxu6Af1fSNcdz6L1bFySTyw+E/8=
+
+Name: OSGI-INF/org.eclipse.e4.core.internal.services.about.UserPreferenc
+ es.xml
+SHA-256-Digest: Qg+Xjcw1E7B6EgpIGsV43UEQmiMLDMtuP6Cg0itKE/o=
+
+Name: org/eclipse/e4/core/internal/services/ResourceBundleTranslationPro
+ vider.class
+SHA-256-Digest: jguxEypJGNObW7Sk0ctDIWRtnZd0yxCh8j+VgOmaHZ8=
+
+Name: org/eclipse/e4/core/internal/services/ResourceBundleHelper.class
+SHA-256-Digest: Zf+Bw0artqm2n5zJUtW86OTbiKGXrV7XkfPCf5LKtyw=
+
+Name: org/eclipse/e4/core/services/contributions/IContributionFactory.cl
+ ass
+SHA-256-Digest: UQwxVsK3/BeX1C1RDQ94Ygd9ReL1cl4CahXJyZJLNW4=
+
+Name: org/eclipse/e4/core/services/nls/MessageSupplier.class
+SHA-256-Digest: 4OMJ8ZiBtAeVkTkhzZ2fxPqxB9w2YO+uoM8v6t+O16Q=
+
+Name: .options
+SHA-256-Digest: pJBcE2+nz1kSvvusQlsltCevqT0xTpumwQaPTJb5GHM=
+
+Name: OSGI-INF/org.eclipse.e4.core.internal.services.about.InstalledFeat
+ ures.xml
+SHA-256-Digest: HFfezqRxfafCOx/CKTn50lFIOmB0714J+sUimuyc4vo=
+
+Name: org/eclipse/e4/core/services/log/Logger.class
+SHA-256-Digest: 7v50PE/tKhsLqNBbYMF+fBy94wshEpZx1GvtrSXbuU0=
+
+Name: org/eclipse/e4/core/services/events/IEventBroker.class
+SHA-256-Digest: 77MC2BZCfD0SI/3v+dXZLb4863HTp3jnBGjUSYVrclc=
+
+Name: org/eclipse/e4/core/services/nls/MessageConsumer.class
+SHA-256-Digest: TPrt2tg3QNwi0+Ogi0IqX7Zaw3GqXRuM7QUSWXeK7vk=
+
+Name: org/eclipse/e4/core/services/translation/ResourceBundleProvider.cl
+ ass
+SHA-256-Digest: 31v4zIMNX4bxVbCV/OQkLwrpIgE965rttrRt416twZo=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/e4/core/internal/services/about/InstalledFeatures.clas
+ s
+SHA-256-Digest: QYV3G4nbBQtKXQb4ADM8c+6ByD2bF8Mc26emEb2DxE4=
+
+Name: OSGI-INF/org.eclipse.e4.core.internal.services.about.SystemPropert
+ ies.xml
+SHA-256-Digest: FFJNANJUSKWovWVQnDRh26v8/8evDxxl5JySGGBa0fA=
+
+Name: org/eclipse/e4/core/services/translation/TranslationService.class
+SHA-256-Digest: VFtpy5z7zwL7RsB5A6gIZVr2eM1JXxj3RK119S6B4Gw=
+
+Name: org/eclipse/e4/core/services/translation/TranslationProviderFactor
+ y.class
+SHA-256-Digest: XY+hb+xSh8Q4q9LCtzyqJU+s9UGnOcmJfKp/gd9kh4s=
+
+Name: org/eclipse/e4/core/services/statusreporter/StatusReporter.class
+SHA-256-Digest: UC+d/zG6k7jHGVuG2LH6uHYRUhQzirlC8aNX/d0RycE=
+
+Name: OSGI-INF/org.eclipse.e4.core.internal.services.TranslationObjectSu
+ pplier.xml
+SHA-256-Digest: mKjVoxuz4Chmh5rLCejnraCEtW+2I2Y0BgZRa0ki9Ns=
+
+Name: org/eclipse/e4/core/services/contributions/IContributionFactorySpi
+ .class
+SHA-256-Digest: jxPqMyLzylQBaMmFtVnwarp3rElT0uqGQHGmgj2zFm0=
+
+Name: org/eclipse/e4/core/services/nls/Message$ReferenceType.class
+SHA-256-Digest: vP8v+KLGkRz8JTbmOznlvXHvHyxaX9/R3jUtz7EZakE=
+
+Name: org/eclipse/e4/core/services/nls/MessageFunction.class
+SHA-256-Digest: l3ZvI5Xe7PxPVrqVm6iMmmU5pKUtP86sQYWIpnTWqlg=
+
+Name: org/eclipse/e4/core/internal/services/about/UserPreferences.class
+SHA-256-Digest: X57KpP8qweZOOzvtC3eG/U/RV++M6ISmpUBHrq+ULTU=
+
+Name: org/eclipse/e4/core/services/nls/Message.class
+SHA-256-Digest: ubyb0/Aa4ipM6UTWwmVc80xvMXR33I3fVwrUtR0ob9M=
+
+Name: org/eclipse/e4/core/services/nls/BaseMessageRegistry$MessageConsum
+ erImplementation.class
+SHA-256-Digest: WPmqajHMZmIMPhjiqFOjdsYXUv5KV+Y4b1Zc0IK3Q5w=
+

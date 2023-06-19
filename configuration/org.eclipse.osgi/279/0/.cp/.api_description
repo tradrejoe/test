@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.e4.ui.di_1.4.0.v20210621-1133" version="1.2">
+    <plugin id="org.eclipse.e4.ui.di_1.4.0.v20210621-1133"/>
+    <package name="org.eclipse.e4.ui.di" visibility="1">
+        <type name="UISynchronize" restrictions="2"/>
+    </package>
+</component>

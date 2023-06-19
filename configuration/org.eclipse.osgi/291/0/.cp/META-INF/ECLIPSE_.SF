@@ -1,0 +1,40 @@
+Signature-Version: 1.0
+Created-By: 11.0.10 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: RLWyosaylg/cVn7m1GLTuprEOtZIad4//iW5yV45Fx0=
+SHA-256-Digest-Manifest-Main-Attributes: G8QquLZYrwo6DNzBae2NWuPhYOA9Y1O
+ Wqr4zD8qC31o=
+
+Name: org/eclipse/ui/testing/dumps/TimeoutDumpTimer.class
+SHA-256-Digest: Aqb/9oA8m6Zxc2DOyqTKGUjYJ/YgxugoWrENREzkNpk=
+
+Name: org/eclipse/ui/testing/TestableObject.class
+SHA-256-Digest: HvqBLy/KN7Vb5dvdx+ZDjOWvd8bl8+r2Ou2ZHtORvRA=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/ui/testing/dumps/TimeoutDumpTimer$StreamForwarder.clas
+ s
+SHA-256-Digest: GL3Q5qKeWFoMnFwuG9V5L5dSHalxpCxAmCmK1PU8cgQ=
+
+Name: org/eclipse/ui/testing/dumps/AwtScreenshot.class
+SHA-256-Digest: VfIFj7ITAZJ4raaVyJFgFpkFOxL+HJuJsxIuZR8PNW8=
+
+Name: org/eclipse/ui/testing/dumps/TimeoutDumpTimer$1.class
+SHA-256-Digest: aIAHBqomuALz/eAVGTNgG+zagpyUYc1+7C/bQbaAfSo=
+
+Name: plugin.properties
+SHA-256-Digest: XYCh+P6xmdvAlSmn0Lw3SqB7Q4zdcRDgpu1ZM92tbDQ=
+
+Name: org/eclipse/ui/testing/IWorkbenchPartTestable.class
+SHA-256-Digest: 9AYUjgBgQfbRZyeKLLD+sA0NvZEtTu6Hc+KOPsIh5I0=
+
+Name: org/eclipse/ui/testing/ContributionInfo.class
+SHA-256-Digest: VgZOwHJlh9aTEKpIev6Rj1kb3R2Ksvvee4fMnoBYTWk=
+
+Name: .api_description
+SHA-256-Digest: rs1Iqfi2m0fnP4pq5RUdiV0BJBJ2fRFB7QGn8pU5MSo=
+
+Name: org/eclipse/ui/testing/ITestHarness.class
+SHA-256-Digest: ZKh7EuLVHmjFQ526C4/n5Y4nHPSOEFWBS7NNR7POqqk=
+

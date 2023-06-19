@@ -1,0 +1,64 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.team.svn.nl1.sources; singleton=true
+Bundle-Version: 4.0.0.I20160226-1700
+
+Name: src/org.eclipse.team.svn.nl1_4.0.0.I20160226-1700/about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: Subversive.png
+SHA1-Digest: eRbbpm0wCXworxZwvRzVZvN7s5k=
+
+Name: about.ini
+SHA1-Digest: TWTRU/3VakPmnNJUW4Vv+WOystE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: src/org.eclipse.team.svn.ui.nl1_4.0.0.I20160226-1700/src/org/ecl
+ ipse/team/svn/ui/messages_ja.properties
+SHA1-Digest: IKFI6EQsSrunS0b7v5ZEtZ3vFfc=
+
+Name: src/org.eclipse.team.svn.ui.nl1_4.0.0.I20160226-1700/plugin_ja.p
+ roperties
+SHA1-Digest: uTv6C3tAoWwKYPFVGgeksYq7Qa8=
+
+Name: about.html
+SHA1-Digest: TJE/VnPy57cRfceSrcf0Ew/GbX0=
+
+Name: src/org.eclipse.team.svn.ui.nl1_4.0.0.I20160226-1700/Subversive.
+ png
+SHA1-Digest: eRbbpm0wCXworxZwvRzVZvN7s5k=
+
+Name: plugin.properties
+SHA1-Digest: 023VAUWkUQ2S9dr+GScTLAX9Ado=
+
+Name: src/org.eclipse.team.svn.ui.nl1_4.0.0.I20160226-1700/src/org/ecl
+ ipse/team/svn/ui/messages_fr.properties
+SHA1-Digest: kvWueiqiy8tQ8naJEzeJGHmdduY=
+
+Name: src/org.eclipse.team.svn.core.nl1_4.0.0.I20160226-1700/src/org/e
+ clipse/team/svn/core/messages_fr.properties
+SHA1-Digest: gf2LROl4B55mGIjEImtbHZtsDMw=
+
+Name: src/org.eclipse.team.svn.nl1_4.0.0.I20160226-1700/about.ini
+SHA1-Digest: tNArhDQgzv5EwdGHpBIqClTqpHM=
+
+Name: src/org.eclipse.team.svn.ui.nl1_4.0.0.I20160226-1700/plugin_fr.p
+ roperties
+SHA1-Digest: 7p+DoxYxlZsvo1vgONZ10O92gNs=
+
+Name: src/org.eclipse.team.svn.ui.nl1_4.0.0.I20160226-1700/about.html
+SHA1-Digest: TJE/VnPy57cRfceSrcf0Ew/GbX0=
+
+Name: src/org.eclipse.team.svn.nl1_4.0.0.I20160226-1700/Subversive.png
+SHA1-Digest: eRbbpm0wCXworxZwvRzVZvN7s5k=
+
+Name: src/org.eclipse.team.svn.ui.nl1_4.0.0.I20160226-1700/about.ini
+SHA1-Digest: N1/QKVC7kuAKxYmWdKd/nqOFwBM=
+
+Name: plugin.xml
+SHA1-Digest: I0t+o6kXbySrxIY1bLaTaeai3Vc=
+

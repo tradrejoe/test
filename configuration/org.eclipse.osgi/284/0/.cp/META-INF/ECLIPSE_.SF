@@ -1,0 +1,58 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: sfcET4jn2FIj4cNjUCIpQWGgzDAhD
+ CbRw3xRDznbzGY=
+SHA-256-Digest-Manifest: ZOzxz4zRIYTSLl3TyKPGio/x9e2YoGF6P9lxvbnsIIE=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: org/eclipse/e4/ui/services/ContextServiceAddon$1.class
+SHA-256-Digest: DnMoFkFRlmm6B2BbiRA612jUGsMhuNICi0u5wEaKZS4=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/e4/ui/services/EMenuService.class
+SHA-256-Digest: KlSjz3VkeDe1NqA5YJQU5az/3GYeSxCLrEolIvmZrIM=
+
+Name: .api_description
+SHA-256-Digest: 4qIAk7RK88FQKK/+xqA9jfnfjD2l/6bx2/mReybgu6o=
+
+Name: org/eclipse/e4/ui/services/IServiceConstants.class
+SHA-256-Digest: dl28isdUT05cKpsYKeJBenqPzlVAWAUGeaz28vrOWrY=
+
+Name: OSGI-INF/org.eclipse.e4.ui.services.events.EventBrokerFactory.xm
+ l
+SHA-256-Digest: Ctb91RqcxT0ge8VK2Ac403bpIAqy7wKicSfRMjDWORE=
+
+Name: org/eclipse/e4/ui/internal/services/ContextContextFunction.class
+SHA-256-Digest: 2dkoR5l9UZf61nljSzaJ8N3dG3xR7k+jHurwTOLqyJw=
+
+Name: org/eclipse/e4/ui/services/IStylingEngine.class
+SHA-256-Digest: ES0Tav/QNmH/i8DJM4phdcYodq/UPACiGqpoOnpVrEI=
+
+Name: org/eclipse/e4/ui/services/internal/events/UIEventHandler.class
+SHA-256-Digest: wFbR4mx/dRJKuh+n4xUt+3mIJGdg5hfEPZY8byToG/E=
+
+Name: org/eclipse/e4/ui/services/events/EventBrokerFactory.class
+SHA-256-Digest: hbGJUf5+pM/foEIIOXSENqjd+5yuZM4bO2g2u11Waws=
+
+Name: org/eclipse/e4/ui/services/EContextService.class
+SHA-256-Digest: ensp+xPW3jqvOuC7FG6rfomLKSUM8NvaHjAVEdNOaho=
+
+Name: org/eclipse/e4/ui/services/ContextServiceAddon.class
+SHA-256-Digest: ZIuzGzygsU6R2A21TFIheg2M5SpaqbEfy9p+6BIsaPk=
+
+Name: plugin.properties
+SHA-256-Digest: d1t0Hir96QHBJrAcuO8NPXO/SYPnqcgbOXZTByOSmqY=
+
+Name: org/eclipse/e4/ui/services/internal/events/EventBroker.class
+SHA-256-Digest: 3WTgOvbC9UZQnpmOCb0BXqrd9l2Go675FoVKLRZnv5E=
+
+Name: org/eclipse/e4/ui/internal/services/ActiveContextsFunction.class
+SHA-256-Digest: TAoysmCVQlWBP1rXYDXkMF069DsrnpCk8xRKBD5uQY8=
+
+Name: org/eclipse/e4/ui/services/help/EHelpService.class
+SHA-256-Digest: 70fM5YamqG9zJbB9W48DA8o7lUVrmQNLXjUWZbA8bbA=
+
+Name: org/eclipse/e4/ui/internal/services/ContextContextService.class
+SHA-256-Digest: qIn61bgRNs1xLosuOr4tFpS4Tm6yDf/eYUVplDACkYs=
+

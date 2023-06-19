@@ -1,0 +1,597 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.e4.ui.workbench;singleton:=true
+Bundle-Version: 1.13.200.v20220808-2019
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.e4.ui.model.workbench;bundle-version="1.2.0"
+ ,org.eclipse.equinox.common;bundle-version="[3.7.0,4.0.0)",org.eclipse.
+ e4.ui.services;bundle-version="0.9.0",org.eclipse.equinox.registry;bund
+ le-version="[3.4.0,4.0.0)",org.eclipse.e4.core.services;bundle-version=
+ "0.9.0",org.eclipse.e4.core.contexts;bundle-version="1.0.0",org.eclipse
+ .e4.core.di;bundle-version="1.1.0",org.eclipse.core.jobs;bundle-version
+ ="[3.4.0,4.0.0)",org.eclipse.core.commands;bundle-version="[3.5.0,4.0.0
+ )",org.eclipse.e4.core.commands;bundle-version="0.11.100",org.eclipse.e
+ mf.ecore.change;bundle-version="2.5.0",org.eclipse.core.expressions;bun
+ dle-version="[3.7.0,4.0.0)",org.eclipse.e4.ui.di;bundle-version="0.9.0"
+ ,org.eclipse.emf.ecore.xmi;bundle-version="2.7.0",org.eclipse.e4.core.d
+ i.extensions,org.eclipse.core.runtime;bundle-version="3.3.0",org.eclips
+ e.jdt.annotation;bundle-version="2.2.200";resolution:=optional,org.ecli
+ pse.e4.emf.xpath;bundle-version="0.2.500"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Export-Package: org.eclipse.e4.ui.internal.workbench; x-friends:="org.ec
+ lipse.e4.ui.workbench.fragment,  org.eclipse.e4.ui.workbench.renderers.
+ swt,  org.eclipse.e4.ui.workbench.swt,  org.eclipse.ui.workbench,  org.
+ eclipse.ui.ide.application,  org.eclipse.ui.ide,  org.eclipse.e4.emf.xp
+ ath.test",org.eclipse.e4.ui.internal.workbench.addons;x-internal:=true,
+ org.eclipse.e4.ui.internal.workbench.handlers;x-internal:=true,org.ecli
+ pse.e4.ui.workbench,org.eclipse.e4.ui.workbench.lifecycle,org.eclipse.e
+ 4.ui.workbench.modeling
+Bundle-Activator: org.eclipse.e4.ui.internal.workbench.Activator
+Service-Component: OSGI-INF/org.eclipse.e4.ui.internal.LocaleChangeServi
+ ceContextFunction.xml,OSGI-INF/org.eclipse.e4.ui.internal.workbench.Ext
+ ensionTrackeContextFunction.xml,OSGI-INF/org.eclipse.e4.ui.internal.wor
+ kbench.ModelAssembler.xml,OSGI-INF/org.eclipse.e4.ui.internal.workbench
+ .PartServiceCreationFunction.xml,OSGI-INF/org.eclipse.e4.ui.internal.wo
+ rkbench.ProgressMonitorFunction.xml
+Import-Package: javax.annotation,javax.inject;version="1.0.0",org.apache
+ .commons.jxpath;version="1.3.0",org.osgi.service.component.annotations;
+ version="1.3.0";resolution:=optional,org.osgi.service.event;version="1.
+ 3.0"
+Require-Capability: osgi.extender; filter:="(&(osgi.extender=osgi.compon
+ ent)(version>=1.2)(!(version>=2.0)))",osgi.service; filter:="(objectCla
+ ss=org.osgi.service.event.EventAdmin)"; effective:="active"
+Automatic-Module-Name: org.eclipse.e4.ui.workbench
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.ui.git;path="bundles/org.eclipse.e4.ui.workbench";tag="I
+ 20220808-1800";commitId=bd828c57921e948228cccbb67de68040dcd2d33b
+
+Name: plugin.xml
+SHA-256-Digest: sGn1MRzGGGdL0vcfZT+lfH5OU7p7GYpGtqDNuxgQ1bo=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Placeholder.class
+SHA-256-Digest: QpPYbPnB100oXFYGP9LvbuwBGLVEr9oqDQC1y+LHJwE=
+
+Name: org/eclipse/e4/ui/internal/workbench/SelectionAggregator.class
+SHA-256-Digest: pavOK4Y16Z1pWwncuchgW+7/4CRTYY8zueMzl5vtorI=
+
+Name: org/eclipse/e4/ui/internal/workbench/BundleFinder$VersionComperato
+ r.class
+SHA-256-Digest: LigZcGHq+JlG1XMCoL3aamtCVhYMD7Vj7tnaxnQcCug=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$HandlerContainer.class
+SHA-256-Digest: xnbNVAhr/40IvQSjoiLlOt22McDg8C3VMsjnclDx4lA=
+
+Name: org/eclipse/e4/ui/internal/workbench/PartServiceImpl$4.class
+SHA-256-Digest: 8D5To0r4ubZKejcf+/ZY/hCzooVDgKSK8Qvrj1WpZM0=
+
+Name: org/eclipse/e4/ui/workbench/modeling/ISaveHandler$Save.class
+SHA-256-Digest: 5H+rNPITMoCalpr9CetnS3+4aU3zRGAMtwbSBtu4Hbk=
+
+Name: org/eclipse/e4/ui/internal/workbench/PartServiceImpl.class
+SHA-256-Digest: Qf6nzOJM/La+n+luqsAX8epVlq1qFaZYm5oNf8+UFKA=
+
+Name: org/eclipse/e4/ui/workbench/modeling/ISelectionListener.class
+SHA-256-Digest: Cno5st/c3oHlpu+XYzI7zVb9rsp8QjWli/V5s26Xc2A=
+
+Name: org/eclipse/e4/ui/internal/workbench/PartServiceImpl$1.class
+SHA-256-Digest: MHNtmc3JKgUs0c7RLXwTpFbrVKU8uNsf3Ai1hGTRTaU=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$MenuContribution.class
+SHA-256-Digest: +xEzKg7iRpEUq41+YZwqstz4+4vamIseNuRkMAMmQrs=
+
+Name: org/eclipse/e4/ui/internal/workbench/PartOnTopManager.class
+SHA-256-Digest: vOlj+IVGZo+W5vRxOILFwzdta+wBNt9OaYKkuTq1b6I=
+
+Name: org/eclipse/e4/ui/internal/workbench/SelectionAggregator$3.class
+SHA-256-Digest: NyUBWAW+ozWpzeMdGKCfY7v7nYbmyNYD+bIze4ZOFcw=
+
+Name: org/eclipse/e4/ui/internal/workbench/ModelServiceImpl.class
+SHA-256-Digest: +NdIVJ7ZhUcMomGMtCKlR4dFFmfxl3y1waI1r++0+Pc=
+
+Name: org/eclipse/e4/ui/internal/workbench/E4XMISave.class
+SHA-256-Digest: k+QIegu7JiblZR4Lw8hkxNMhKKxzDzX65Sv+0iStFlI=
+
+Name: org/eclipse/e4/ui/internal/LocaleChangeServiceContextFunction.clas
+ s
+SHA-256-Digest: ZcS25R7lF9DAmb5ahw7hz0ovnBuufn+C2rVc+AGaMD0=
+
+Name: org/eclipse/e4/ui/internal/workbench/RenderedElementUtil.class
+SHA-256-Digest: rxDAwmBWNvHOg3aeUJWSKYkB67V4+wbu/kX0xGHFBHc=
+
+Name: .api_description
+SHA-256-Digest: PvAO7kn9QRmAq6hnK4VGVRTwKRvG14QNqo2RrmD63CA=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Context.class
+SHA-256-Digest: /7//xsNjO+OtLkrJBt999aoVnlZ5J8bPTX0Xi0GCMd4=
+
+Name: org/eclipse/e4/ui/internal/workbench/SelectionAggregator$6.class
+SHA-256-Digest: SqerB91BdM3PIg3raQSxNCP1nVF4L8e8Jg0VRLi3bTQ=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$OpaqueMenuSeparator.class
+SHA-256-Digest: XDD9XjlOd+nXfOaLGXvhANUuwfpi5JV4Ho95+JvhUR8=
+
+Name: org/eclipse/e4/ui/workbench/IExceptionHandler.class
+SHA-256-Digest: Wngrco6Dnx6/Zb5+NIrkumkSC9lk+cnQD+DAcglQaao=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$SnippetContainer.class
+SHA-256-Digest: 0r/oA0uZc5xZt1GIA9RJesWyoK0ntJQpUsBxh6Wdvpw=
+
+Name: org/eclipse/e4/ui/internal/workbench/addons/CommandProcessingAddon
+ $1.class
+SHA-256-Digest: UaMODd+B16SZdjBEZ8+DdT1JcmnQ4do4E4nLFBye4qY=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$RenderedMenu.class
+SHA-256-Digest: zZU4mF6zzE/FTCx/yTpjssYMslfTHIe126iDNmpU7l0=
+
+Name: org/eclipse/e4/ui/internal/workbench/WorkbenchLogger.class
+SHA-256-Digest: UMlZaZBBqdcI7V2IEfdjGUQLJWHL5Lo75Jo7TvVe9B4=
+
+Name: org/eclipse/e4/ui/workbench/modeling/IModelProcessorContribution.c
+ lass
+SHA-256-Digest: 1AYOra3gfgDsHww6YkpaMSMVPAdlwE1L1VDKnJ9hpI8=
+
+Name: org/eclipse/e4/ui/internal/workbench/addons/HandlerProcessingAddon
+ .class
+SHA-256-Digest: Ip3yiEyxRXvNNO0mVCQNZmC4CvcAeLzxocABNhS//tQ=
+
+Name: org/eclipse/e4/ui/internal/workbench/Trackable.class
+SHA-256-Digest: 6cr9fRWF4hDqMxmGfvIz0ZTjnsxXqL9Q46z0dIH1I2Y=
+
+Name: org/eclipse/e4/ui/workbench/modeling/EPartService$PartState.class
+SHA-256-Digest: eOeAecv6sypfhQ1N9gjIjTe3l1p0FcavyhgyHyff/Dc=
+
+Name: org/eclipse/e4/ui/internal/workbench/TopologicalSort.class
+SHA-256-Digest: +vKey2Y4VHjlnupcT+bHpN999OEZZqOkHtPr/b7U2fY=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$BindingTableContainer.class
+SHA-256-Digest: hqu5hNg8ydlQodNKDgmDD1c8R7P60XJtsvHgXTQ6PRg=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Application.class
+SHA-256-Digest: qD/yrm84rhfI9J5NCxM1GN5FqT/IeoWlJ0inPC4O3RU=
+
+Name: org/eclipse/e4/ui/workbench/lifecycle/ProcessRemovals.class
+SHA-256-Digest: gshc6rJIfDEDy1kZJGWZzNL4g9c0EWMQsjfuBQ3VTCg=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Part.class
+SHA-256-Digest: FC0FQsE37ZQ5ODwP3sPTVeTqeLFP7Lb654hlNjj+ug0=
+
+Name: org/eclipse/e4/ui/internal/workbench/Parameter.class
+SHA-256-Digest: IYr2mkhh6d6hht5IE3lUH/c4WDZVgmP81ErSh6gufcI=
+
+Name: org/eclipse/e4/ui/internal/workbench/addons/CommandProcessingAddon
+ .class
+SHA-256-Digest: nEzAlUs4DB1AARUelN/nvRn/IepAwB9crvZjbLWmNfk=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Bindings.class
+SHA-256-Digest: Jsaur6gNQB5/4Y7Fyw9zpXOYDBim2VvEJGPEw9SXtgI=
+
+Name: org/eclipse/e4/ui/internal/workbench/handlers/SaveAllHandler.class
+SHA-256-Digest: ZL7XOyJohJIAGHepSnlxpqTZKiIwKxSdr8uf7LWDFzQ=
+
+Name: org/eclipse/e4/ui/internal/workbench/ReflectionContributionFactory
+ .class
+SHA-256-Digest: 0yK0lbvCvOlTaKHdJjgnEYgvsdNDSz9REtWGE7rmMp8=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$UILabel.class
+SHA-256-Digest: ZXumFWEXkmtA9Sy9dxB9LihhKL7pa0qDqktg+YOg80o=
+
+Name: .options
+SHA-256-Digest: 7nY3UGZCD6Fj+KPRXgQFpy98U7t0pqBSj72xthoSxYw=
+
+Name: org/eclipse/e4/ui/internal/workbench/ContributionsAnalyzer$ToolBar
+ Key.class
+SHA-256-Digest: nxq/iuyqHhlEP9jBJggzjJQzivmMusMx5ju6c3/Dms0=
+
+Name: org/eclipse/e4/ui/workbench/modeling/IModelProcessorContribution$M
+ odelElement.class
+SHA-256-Digest: cMQySeqZMY+v5/4fCX0IZkXAHvsWSdSKyGE2c9RuXKw=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$MenuElement.class
+SHA-256-Digest: I7FgmXQUdzgShhNLaU1nCjq8hVWCLA56/txO1jzeYIE=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Handler.class
+SHA-256-Digest: igVWYM7MipbXLggVpbmbpwSAS0RTvg4+kFfqnvh6qmw=
+
+Name: org/eclipse/e4/ui/internal/workbench/ActiveChildLookupFunction.cla
+ ss
+SHA-256-Digest: If/fqtp1uREG2s2EutuzWCQ8jZYlItbjEI6xo911WYQ=
+
+Name: org/eclipse/e4/ui/workbench/lifecycle/ProcessAdditions.class
+SHA-256-Digest: G4PqamTY+8/jH+GtJy9AbFkV9jRXot3oXE1jXfwIHi8=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$OpaqueMenuItem.class
+SHA-256-Digest: LEMTvIk5PzlQOIn3vkdntWnMXHImWt/HWv/HskNI6JE=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$ElementContainer.class
+SHA-256-Digest: OBoF/SfXT6DZDl+CUk9zt4lUvpo3tCIQQALFSPKgYWk=
+
+Name: org/eclipse/e4/ui/internal/workbench/PartServiceImpl$6.class
+SHA-256-Digest: CH4YdJRdgf1xnJVl+e2kixlmqmgLtDRv0WoKAdrOL2s=
+
+Name: org/eclipse/e4/ui/internal/workbench/ContributionsAnalyzer$TrimKey
+ .class
+SHA-256-Digest: +ayjEovSq2FQasvCBrJnuHHhc8vv67sMqbIXooA7Zic=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$ToolBarContributions.class
+SHA-256-Digest: kwtWjScOrVdXMQcqbuK4akf5NJxF1azI9wyoZ9TSgWo=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$PartDescriptor.class
+SHA-256-Digest: FhF7VQDOJz+gDLgjppoPN7sM0vizNFtnm8AaEEnB+Wg=
+
+Name: org/eclipse/e4/ui/internal/workbench/E4XMIResourceFactory.class
+SHA-256-Digest: +Wg3CzMPoEpOONQe2wFlWifylkQUh7ZiHbHF9pEz4yM=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$GenericTrimContainer.class
+SHA-256-Digest: 4M6u2kFnrHuOQkxUCFeASXzr3QFPnxKsDcj8QdAy72o=
+
+Name: org/eclipse/e4/ui/internal/workbench/E4XMIResource.class
+SHA-256-Digest: LFlRGk+eyQPPBlDSb8uA0opMO9P4xgzmXKxrcGNrfQ4=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$EventTags.class
+SHA-256-Digest: 36RRxUrN2Hm2e0hVfwGFqVh0XS+yPOAtBH8m9vtEkXw=
+
+Name: org/eclipse/e4/ui/internal/workbench/PartServiceImpl$5.class
+SHA-256-Digest: tJKOQ1H78/2PwWr2YVCEEScn5cWOOZAt3kfxVBgb2RE=
+
+Name: org/eclipse/e4/ui/internal/workbench/GenericMApplicationElementFac
+ toryImpl$MApplicationElementClassToEClass.class
+SHA-256-Digest: xOjeqydmyor2AY6lMFSS4S8/pw/SIEzEydkVf/qmpIM=
+
+Name: org/eclipse/e4/ui/internal/workbench/Util.class
+SHA-256-Digest: AMG5ODNFiKR4jsaVFMK2hlGv4Kw3Gls0WwEAgobtTog=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Perspective.class
+SHA-256-Digest: Lsx8o3ExpU5AmITmqhgLGbTiWsqmf2QV/+3VmVEATcU=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$UILifeCycle.class
+SHA-256-Digest: irmu5UmHPj6c3YNmTS2OJW4fUL1eQDlv8fXdy+4Cqtc=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$KeySequence.class
+SHA-256-Digest: jyLuo4pNEOpwi412KAWStPwQG4lX9nJRQM9LEcc5PYU=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$RenderedMenuItem.class
+SHA-256-Digest: W9K6xDFPmbFc2lRB6qE1zpCiBPURf43FCJGOnYsN6/M=
+
+Name: org/eclipse/e4/ui/internal/workbench/UIEventPublisher.class
+SHA-256-Digest: rsM7WIdigTGHfFAE+fLmb4ZXQCqSTNKw9v5OwRaX2/U=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$TrimContribution.class
+SHA-256-Digest: 7q/yQpo2HPInp+jBjwzMYs+JBkxpUlymzvHxrDmFkSA=
+
+Name: org/eclipse/e4/ui/internal/workbench/ModelFragmentComparator$Posit
+ ionPlace.class
+SHA-256-Digest: Iu47CKtyxFo+WnzLzsIQ5oYvTkpbdVPXcb2zvZ/nFs4=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$MenuContributions.class
+SHA-256-Digest: Y7T5pd6/r+INIAf3hKqjItfeFZZxqagrWPJEgWkLYl4=
+
+Name: org/eclipse/e4/ui/internal/workbench/ProgressMonitorFunction.class
+SHA-256-Digest: lWpfsADlgpQi9D+YpSErJVDtGNamC8b2yepRB5iRdco=
+
+Name: org/eclipse/e4/ui/workbench/modeling/ModelHandlerBase.class
+SHA-256-Digest: n018BRKT8/usI2XXGBMLoqi279hlYYmESCNJkuBlklE=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Category.class
+SHA-256-Digest: JAWpEsXF1iNbj1Mp+6F3IaPSScLmqLi/XOEeVO/QGs0=
+
+Name: org/eclipse/e4/ui/internal/workbench/PartActivationHistory.class
+SHA-256-Digest: zDmfb263OSoKA2XK/wjGpfNJyLb+dPU0yi6Besa0jho=
+
+Name: org/eclipse/e4/ui/internal/workbench/SelectionAggregator$1.class
+SHA-256-Digest: WzRuUMXAkyt/chLTzKoX6S2/f+UlBZuynFq+heZQRAs=
+
+Name: org/eclipse/e4/ui/internal/workbench/handlers/SaveHandler.class
+SHA-256-Digest: /dT2BtwOFL3zJYay6IABr35Z012Rlj1J9wteCspzKGE=
+
+Name: org/eclipse/e4/ui/internal/workbench/IDelegateInitializer.class
+SHA-256-Digest: yPlVGr0iYgxkmls4xrLKGnb+v1/ucZdmSfBAVUXzJKs=
+
+Name: org/eclipse/e4/ui/internal/workbench/ApplicationPartServiceImpl.cl
+ ass
+SHA-256-Digest: IcredsubU1+Xy2gbe4QAN4IJsZOcRDVN1Jl+XimT1pY=
+
+Name: org/eclipse/e4/ui/internal/workbench/BundleFinder.class
+SHA-256-Digest: 0iseWopiRuEq6MVRxyMoqLpW2DfPlk0FfYdQ5xfh4wc=
+
+Name: org/eclipse/e4/ui/internal/workbench/ResourceHandler.class
+SHA-256-Digest: ChQZl+u5XXVcH4aGcxtGhsArWRJLS15lqGaw4ofxXRM=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$StringToObjectMap.class
+SHA-256-Digest: T+2Af7oRWFZOLVj9w6tabm5h2sbIqTDni3FOZywo01s=
+
+Name: org/eclipse/e4/ui/internal/workbench/Policy.class
+SHA-256-Digest: ndZvz4Usx/8HddD9uxTQ3q9pw1UISu9ofH5i0fonexc=
+
+Name: org/eclipse/e4/ui/internal/workbench/ModelAssembler$ModelFragmentB
+ undleTracker.class
+SHA-256-Digest: 9gQdH8kxQP8AhrRzwv1NeKs+6XSAU9d3gP2a44hWUmY=
+
+Name: org/eclipse/e4/ui/workbench/modeling/ESelectionService.class
+SHA-256-Digest: 1sz28NOS3/UuQ8/rDP0k6PwwhkcXhMfXqBgjwAIXVGc=
+
+Name: org/eclipse/e4/ui/internal/workbench/DefaultLoggerProvider.class
+SHA-256-Digest: /7AQ0LkEbxzOEwgj0VRzdQm2z2/IKgDIULN8j/f7UWc=
+
+Name: org/eclipse/e4/ui/workbench/modeling/EPlaceholderResolver.class
+SHA-256-Digest: A9O2zioCNYGKIOrD8X761QbMBDRdkOeUgMp8LBkeviI=
+
+Name: org/eclipse/e4/ui/internal/workbench/SelectionAggregator$2.class
+SHA-256-Digest: eq+77/8sbof6pCkhwU7NyTVP/OcQ3tdTa+2PsWodZgc=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$PartDescriptorContainer.class
+SHA-256-Digest: O14FDmwZ2n++VT6IDkgLyMjjQpv0jmeKq4uCzsTv6/k=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Window.class
+SHA-256-Digest: Qox/dv3mvOHM9NUIYNOLn6j03yNFdUfk4yl3f2EAKjE=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Parameter.class
+SHA-256-Digest: BVgVzs9tl/2B9nG5WRFUDNYwYq0etyFtyuK+mgB+mf4=
+
+Name: org/eclipse/e4/ui/workbench/lifecycle/PostContextCreate.class
+SHA-256-Digest: sv9Bd8YmmCuDCJLybkEjKcw8vqZOGR2Ikdr3WNQsmEs=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$OpaqueToolItem.class
+SHA-256-Digest: Hr5coRR74mOAJ57ksCgP6E2cQDb8T6W9w/+DqRMoRG4=
+
+Name: org/eclipse/e4/ui/internal/workbench/ContributionsAnalyzer$MenuKey
+ .class
+SHA-256-Digest: Xkc1OxlKe1Rdfv5qfGL9c+uPxFT3jsnnLJUq/RbpOng=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$UIElement.class
+SHA-256-Digest: vCLLv/zJ7my4KncUCy75mzfJISVaqVc3N8jdd0Tsqnk=
+
+Name: plugin.properties
+SHA-256-Digest: BMnE0xBDHQ98rA/M3RaQy2a9C2AOKFySW1UgM0DtzLs=
+
+Name: org/eclipse/e4/ui/internal/workbench/SelectionAggregator$5.class
+SHA-256-Digest: wFmBra8DS2yzchLnRU6yccR1y1/psdDuJuWBjHgHf9s=
+
+Name: OSGI-INF/org.eclipse.e4.ui.internal.workbench.PartServiceCreationF
+ unction.xml
+SHA-256-Digest: gGnUC/q5SgiExt238l5tAQcKrphTinZ4kYpETb4WSaU=
+
+Name: org/eclipse/e4/ui/internal/workbench/ExceptionHandler.class
+SHA-256-Digest: 1JYRu2Y3bXhFt4n1B0u4k1/V89RI0KlgLrjAHcrFMAg=
+
+Name: org/eclipse/e4/ui/workbench/modeling/EModelService.class
+SHA-256-Digest: dgbF2s2BYKeM9MFPnyASMb9rcqDNj2eoNdAw2GmHa3M=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$BindingContext.class
+SHA-256-Digest: GqQPjJy/VLpHitakNehA3GGEUSCVLyuilQRYm4Q93v4=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Item.class
+SHA-256-Digest: rFSp4YdR19K0nyrHR17C2syhE8ABTLpybLTMOm6/Dgk=
+
+Name: org/eclipse/e4/ui/internal/workbench/PartServiceSaveHandler.class
+SHA-256-Digest: uCTREjr7N5YLR3Prs5P2GdSt38ABGLgUSkiTk1B2QpA=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$ToolBarContribution.class
+SHA-256-Digest: nApnxn9CsLu3HBwFhx12s9ZLWBO5Ye/UYFZkay879w4=
+
+Name: org/eclipse/e4/ui/internal/workbench/E4Workbench.class
+SHA-256-Digest: PPAmoYT1KLvELejpIsO8zWxIxhp/2S70BZ+Qn4VjvcU=
+
+Name: org/eclipse/e4/ui/internal/workbench/ModelAssembler.class
+SHA-256-Digest: jAbr2GdnhZRN1RHYMnfYcynT+vB0lD61MhXrqeTZ8HA=
+
+Name: org/eclipse/e4/ui/internal/workbench/SelectionServiceImpl.class
+SHA-256-Digest: 6EVWnzYiUZkk8ZQDOOD31rZyvELPt53cDTPl/LRzEJk=
+
+Name: org/eclipse/e4/ui/internal/workbench/handlers/ExitHandler.class
+SHA-256-Digest: /Ux/00u4AQNjtxaJIV3n+w8EYNOM0Wq+ZjVHQvy9IfY=
+
+Name: org/eclipse/e4/ui/internal/workbench/ModelAssembler$Bucket.class
+SHA-256-Digest: zcqrbkGrKKsGJuYqsjXKBputtKUALyBuyMyEggLEvIE=
+
+Name: org/eclipse/e4/ui/internal/workbench/handlers/UnimplementedHandler
+ .class
+SHA-256-Digest: bmHMLBodQrdkXCFva/VweLWMR/h1ZJrABEe/uv9uhi8=
+
+Name: OSGI-INF/org.eclipse.e4.ui.internal.workbench.ProgressMonitorFunct
+ ion.xml
+SHA-256-Digest: IEyX27gcuXYxumpKZyz3ylkOd+nAH2xv5LdjbtL4AWs=
+
+Name: org/eclipse/e4/ui/internal/workbench/URIHelper.class
+SHA-256-Digest: l2JkXoMZgpi9E7MOacF0WkwXK5aeJqqKOcoJveN7WRs=
+
+Name: org/eclipse/e4/ui/workbench/IPresentationEngine.class
+SHA-256-Digest: 5ItTYaqpv7+BeAJqpf3cmw2oWo7WGPGYIV4sUNSyAX0=
+
+Name: org/eclipse/e4/ui/internal/workbench/PartServiceCreationFunction.c
+ lass
+SHA-256-Digest: DYKh9PvU4nZ2mqiwRLSFiu/pBNWMdD0tQeXvYWkyrvY=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$EventTypes.class
+SHA-256-Digest: 6NjLjt67wH2CPdfQ42G8WHEYgxpNlXanATycI0fP0MM=
+
+Name: org/eclipse/e4/ui/internal/workbench/ModelAssembler$FragmentWrappe
+ rElementMapping.class
+SHA-256-Digest: drBmsrBmQ6UnrTpJD1B4h5C1G5AFMcEOcXY54dTuPZA=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Menu.class
+SHA-256-Digest: VUWoNxqnhEd4L3Z9RC/M/Oaq/lKc2UXrV8kB/n83uVw=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$ToolItem.class
+SHA-256-Digest: PnZtwB6KMklDBZ16Br5AnAWwHKJ3RYhQVheThr3/jdQ=
+
+Name: org/eclipse/e4/ui/internal/workbench/ModelFragmentComparator.class
+SHA-256-Digest: jbeapOFxL8oPYTXBYRBHUm5MmAhwkkmy4krH/QZFyR8=
+
+Name: org/eclipse/e4/ui/internal/workbench/Activator.class
+SHA-256-Digest: 4Njao/zgRx38cTYW/dC7HDNT0Zpci3fUyERVlENcFpw=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$CoreExpression.class
+SHA-256-Digest: jabSWSpVC4zCabVMhnRgu/+ApJ2fefPzwHom9MoGlvs=
+
+Name: org/eclipse/e4/ui/internal/workbench/ModelFragmentComparator$Posit
+ ionDescription.class
+SHA-256-Digest: O+/MYdyctXkx1Xyo46mkGgpgPpTVRPhUBDGBNncMuPo=
+
+Name: OSGI-INF/org.eclipse.e4.ui.internal.LocaleChangeServiceContextFunc
+ tion.xml
+SHA-256-Digest: JyruuXko3vGKtPowOPLuK6KkkhByDc0WaoyVOvEmY/Q=
+
+Name: org/eclipse/e4/ui/internal/workbench/ContributionsAnalyzer$Key.cla
+ ss
+SHA-256-Digest: j2d61luqiEBFGriQiMbA0+9dzu3VxlPVICw7v2Trr4k=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$GenericTile.class
+SHA-256-Digest: WYwkeLS2Z2hB110+qcUceGSSVJOTNssKz8h5LLBbhXY=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Dirtyable.class
+SHA-256-Digest: R4duz0UcVdg78r0ngqDm2Ynt4Ds9AnV+LXM2x07nJjg=
+
+Name: org/eclipse/e4/ui/workbench/Selector.class
+SHA-256-Digest: 69GUejaLc/9T+mNgOlx3gVzefiExuPfKP8KM0zxXEpk=
+
+Name: org/eclipse/e4/ui/workbench/modeling/EObjModelHandler.class
+SHA-256-Digest: KFUY4zgA7MmnNTV4mN4gtpm38O467+gayO2JYx3CDnw=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents.class
+SHA-256-Digest: MmHRQS/Um4YwxsY9nWCTM+kkkTBDTPXyxoOWmvrK558=
+
+Name: org/eclipse/e4/ui/workbench/modeling/IWindowCloseHandler.class
+SHA-256-Digest: LUd6DbcDcVk5gUQVGcxOa6DaxzoZHbvN+wBIPS4dolc=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$KeyBinding.class
+SHA-256-Digest: av/uELNJHwLNRXePoc0cc73LyxRRUsdY5kHJhVTqU18=
+
+Name: org/eclipse/e4/ui/workbench/lifecycle/PostWorkbenchClose.class
+SHA-256-Digest: N2PtRJyOjJ9xST7VPADdM46FvGplAjwYCyCVNTBYGic=
+
+Name: org/eclipse/e4/ui/internal/workbench/UIEventPublisher$1.class
+SHA-256-Digest: 2Mw8XMN6sIAkCHSRNmlwFK5K9C+AEwV1ECB0qbG4OMc=
+
+Name: org/eclipse/e4/ui/internal/workbench/ModelFragmentWrapper.class
+SHA-256-Digest: 7HSneb5E8vTbwqPXwep0tDCF+1mUCiJ2Y2z5Wcn9Bqw=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$RenderedToolBar.class
+SHA-256-Digest: FMxKwTn/qhT0/2iw/9X10knZBE0KAa1GQdR8Ou+Pg+Q=
+
+Name: org/eclipse/e4/ui/internal/workbench/ExtensionsSort.class
+SHA-256-Digest: Moi4rHlteFHNo84fq4iCFWtexFMXvlsY1XUGGPm+dbs=
+
+Name: org/eclipse/e4/ui/internal/workbench/CommandLineOptionModelProcess
+ or.class
+SHA-256-Digest: r7VqGBUH9l3/3cDPNro2Lzqt/7iO+qMEps5vatsiEho=
+
+Name: org/eclipse/e4/ui/internal/workbench/ContributionsAnalyzer.class
+SHA-256-Digest: QVn2a5HdeyLpAbqgzLT5Gx66ung7zZBWfEc9AlWseaE=
+
+Name: org/eclipse/e4/ui/internal/workbench/HostedElementEventHandler.cla
+ ss
+SHA-256-Digest: +6TTloo43vgR3vmfY4B9HZkbsmA2yxydn0vgaS2CqdU=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$CommandParameter.class
+SHA-256-Digest: dDIujEuLvOmU6FRdKKo5Ng4TyKShj6cvlQNNSICHElk=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$ImperativeExpression.class
+SHA-256-Digest: 6QPus3J6eLEpQRco6bPpouRCBJDCSnA3CIvJNuMo+II=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Command.class
+SHA-256-Digest: Dy7Zl8tV8X/yG5rYrNgTCdf+gr6W5os8PHLCc/v9yqA=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$HandledItem.class
+SHA-256-Digest: 3JI/A0Ts/pGJNG2BqSm58TdiMH9BCDtTeJ3wbmA/zdQ=
+
+Name: org/eclipse/e4/ui/internal/workbench/GenericMApplicationElementFac
+ toryImpl.class
+SHA-256-Digest: 8SFhyWla46KUIMTx2GAuqM56DzAnaDTKvziyngcd9+o=
+
+Name: org/eclipse/e4/ui/internal/workbench/PartServiceImpl$3.class
+SHA-256-Digest: khX++fLf90BOSLfXVy14dylmtfSFRxl4I06zZye8dYU=
+
+Name: org/eclipse/e4/ui/internal/workbench/PlaceholderResolver.class
+SHA-256-Digest: +NjEjUM1rPVqcA7uE9bAiHdL6ibp6OFyeh19XfNFQ1U=
+
+Name: org/eclipse/e4/ui/internal/workbench/ExtensionTrackeContextFunctio
+ n.class
+SHA-256-Digest: 6x9DYC0N6QjRUw8XOD3XPttvcwHQA7ziQ0teOwLG8Mc=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$TrimContributions.class
+SHA-256-Digest: e14eOV4lppXcQqpqafz/Su9kB0eNX8rje9dim+6Tn8I=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/e4/ui/workbench/modeling/ISaveHandler.class
+SHA-256-Digest: pEDP4TzaQHnpr6QcvflrDBDyliGFIXMmemdkidmnUdc=
+
+Name: org/eclipse/e4/ui/workbench/IModelResourceHandler.class
+SHA-256-Digest: ShTBpKUuMhNf62UmJAHbZQKgzRd6zmriUnAzqul/yWo=
+
+Name: org/eclipse/e4/ui/internal/LocaleChangeServiceImpl.class
+SHA-256-Digest: On8UOc6ztipC8a2o/+Gj+WRkdE3UDipY5Pdwh7ZeR0Q=
+
+Name: org/eclipse/e4/ui/workbench/IResourceUtilities.class
+SHA-256-Digest: bRwn9L4r+WEabzckFxa3ZMyQEdg607DOFcDRoUDLfC0=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$Contribution.class
+SHA-256-Digest: 0k1lRAgNUV8hLqjABk4JZhax9S3JkpdNrbcT+Wo9/H4=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$BindingTable.class
+SHA-256-Digest: krGvDnkgYIOb4MfVoK28/Np78dl5hDW2sobWfak6LTQ=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$ApplicationElement.class
+SHA-256-Digest: oid7laeLA74vFf2zAFoXQht2mSNgavPbrstjeyPs2Mc=
+
+Name: org/eclipse/e4/ui/workbench/modeling/EPartService.class
+SHA-256-Digest: 0d8G5rijRClD44CEOVWR55uQ/RtGBZaNDGLKR6sPDFY=
+
+Name: org/eclipse/e4/ui/internal/workbench/addons/ContextProcessingAddon
+ .class
+SHA-256-Digest: Atm+53Vpy/BtwyOpBPanEFsbV5WVFVtm71pd4yrcaeo=
+
+Name: org/eclipse/e4/ui/internal/workbench/PartServiceImpl$2.class
+SHA-256-Digest: myEQCGHAAz0y4iQ2MtenZ+eQeq01sssUKP9v2rQDljc=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$TrimmedWindow.class
+SHA-256-Digest: fY5a40SS+snXrYnawWdzSiabpPqZONEJbpxBu4AhW18=
+
+Name: org/eclipse/e4/ui/internal/workbench/ActivePartLookupFunction.clas
+ s
+SHA-256-Digest: FghKg1m1TTMDN1HR5jyChb669ET0CFnlg7hiShvxkEo=
+
+Name: org/eclipse/e4/ui/workbench/modeling/ElementMatcher.class
+SHA-256-Digest: O8p62HH8Gqy3aKiMKUoS4TfzmeEzkD04vcLJTvhPlF4=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$StringToStringMap.class
+SHA-256-Digest: jjL45jDLJuaekUam81Gd3yUiOEB5onUQy9vH9vXhmgo=
+
+Name: OSGI-INF/org.eclipse.e4.ui.internal.workbench.ExtensionTrackeConte
+ xtFunction.xml
+SHA-256-Digest: m5zoq6CYdyY+qTUAMC1hZWWGlDUSe1qme5wEgp11+8o=
+
+Name: org/eclipse/e4/ui/internal/workbench/OpaqueElementUtil.class
+SHA-256-Digest: MJPcgmJCLv67yiwpA7A0J+P5oLpyYSXvP+ohyXleEzE=
+
+Name: org/eclipse/e4/ui/internal/workbench/SelectionAggregator$4.class
+SHA-256-Digest: v/+IzZJxumfsdfU8AMb2zc7cg4G2bwTFPqNWOR4HT+o=
+
+Name: org/eclipse/e4/ui/workbench/lifecycle/PreSave.class
+SHA-256-Digest: 8gh4zSs3UYIgDw8tyNd8xO8R9W+rOutEqEhws/vHAgA=
+
+Name: org/eclipse/e4/ui/workbench/UIEvents$TrimBar.class
+SHA-256-Digest: 6cmXiwC6m9MJ+xZq9Q9ghpF/7W3Pkv62U1bQzAj9U8U=
+
+Name: org/eclipse/e4/ui/internal/workbench/ConfigurationElementAdapter.c
+ lass
+SHA-256-Digest: WcgTz99Rn3KjwJc1ofGGmBesWbezRLhfPe5BxXY0D5E=
+
+Name: org/eclipse/e4/ui/internal/workbench/UIExtensionTracker.class
+SHA-256-Digest: txifNqpVIVHdA4zp3/n59cQueoqSj4nQh5v5DjN+d+w=
+
+Name: OSGI-INF/org.eclipse.e4.ui.internal.workbench.ModelAssembler.xml
+SHA-256-Digest: X/vgg6Yr+lTdDPLdfgo8Bu3pDTpMLYwiq8hjtm0l4JM=
+
+Name: org/eclipse/e4/ui/workbench/modeling/IPartListener.class
+SHA-256-Digest: EOo2WA9VxHbt/+8fqDCjRMefdSfgA2omEuvbQDCE58k=
+
+Name: org/eclipse/e4/ui/workbench/IWorkbench.class
+SHA-256-Digest: XjdlVem1D5nApomLlvABn2Ya4wZiXxhbVOtx5N0H1UE=
+

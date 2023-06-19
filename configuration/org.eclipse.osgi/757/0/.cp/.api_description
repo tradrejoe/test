@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.ui.views_3.11.200.v20220817-1444" version="1.2">
+    <plugin id="org.eclipse.ui.views_3.11.200.v20220817-1444"/>
+    <package name="org.eclipse.ui.views.contentoutline" visibility="1">
+        <type name="ContentOutline" restrictions="6"/>
+    </package>
+    <package name="org.eclipse.ui.views.properties" visibility="1">
+        <type name="ColorPropertyDescriptor" restrictions="2"/>
+        <type name="ComboBoxPropertyDescriptor" restrictions="2"/>
+        <type name="IPropertySheetEntryListener" restrictions="1"/>
+        <type name="PropertySheet" restrictions="6"/>
+        <type name="PropertySheetPage" restrictions="2"/>
+        <type name="TextPropertyDescriptor" restrictions="2"/>
+    </package>
+</component>

@@ -1,0 +1,92 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.variables; singleton:=true
+Bundle-Version: 3.5.100.v20210721-1355
+Bundle-Activator: org.eclipse.core.variables.VariablesPlugin
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.core.internal.variables;x-internal:=true,org
+ .eclipse.core.variables
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.3.0,4.0.0)"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: org.eclipse.core.variables
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platform
+ /eclipse.platform.debug.git;path="org.eclipse.core.variables";tag="I202
+ 10721-1800";commitId=5143924c24f9fe9c69fdf72fa1a0ac14c895ddf0
+
+Name: org/eclipse/core/variables/IValueVariableInitializer.class
+SHA-256-Digest: DphyAcEj9Pm6Wb/Ty8ajLiT7npcKxVu7+l0/Kx2HLDI=
+
+Name: org/eclipse/core/internal/variables/VariablesMessages.class
+SHA-256-Digest: CQwzvzk6sSI+Xo4i4pwmBy+YO6jd0HS8JrcUQIAtSrg=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: plugin.xml
+SHA-256-Digest: N8OsI8T2QvMuhql2EYVSkMGkXLfD9ApvPwg8zIJd6Vc=
+
+Name: org/eclipse/core/variables/IStringVariable.class
+SHA-256-Digest: njmWIPciaT25Q1/in/ykbRcalYEbttUwE6zHFqODFok=
+
+Name: org/eclipse/core/variables/IValueVariableListener.class
+SHA-256-Digest: NYBjskcvywIY4bcPlfabvW6q+gjSEdkycB3yEz/4al8=
+
+Name: org/eclipse/core/variables/IDynamicVariable.class
+SHA-256-Digest: kgroxGHG1WwiMyp/r58vg/S768J25HNZBjQI9ugWdYQ=
+
+Name: org/eclipse/core/internal/variables/StringVariableManager.class
+SHA-256-Digest: 3ZyXOqTTjT0zcDNmk2Y5YuRNoPWm2MxDepd1P11n3Ps=
+
+Name: .api_description
+SHA-256-Digest: MFSbCAb1g9PGD9HJ5c8iZZeBtODyO4qijtbJy/fUuxQ=
+
+Name: org/eclipse/core/internal/variables/ValueVariable.class
+SHA-256-Digest: 01QiB8JU8/CMMZvvlaD3rcoSe60QefUXBzlznw1LhcQ=
+
+Name: org/eclipse/core/variables/IValueVariable.class
+SHA-256-Digest: nCOoxnzP/9rMDeyXyC8T1pS8gTquBx6TI1/2mIX3V58=
+
+Name: org/eclipse/core/internal/variables/StringVariableManager$StringVa
+ riableNotifier.class
+SHA-256-Digest: clgIaxTdLBNfBuKbd8eCMvDBGlg7slyXv1A9C3D9qp8=
+
+Name: org/eclipse/core/internal/variables/EclipseHomeVariableResolver.cl
+ ass
+SHA-256-Digest: 976WHETRtdNtG/Jfe5CHk+cbvrzOXdUcix2ReqZdZhE=
+
+Name: org/eclipse/core/internal/variables/StringSubstitutionEngine.class
+SHA-256-Digest: wd4AWtrYNQWH+4T4fQSbMRfXngX1hSj/quG+Ycg6Yzc=
+
+Name: org/eclipse/core/variables/IStringVariableManager.class
+SHA-256-Digest: e297njW2rCgorNpeU2FhYG4sXktca3fjlpK0wsPkztg=
+
+Name: org/eclipse/core/internal/variables/DynamicVariable.class
+SHA-256-Digest: W/Hp/3bjqNLwGBi+zOnqTWc6ad3wV3kGIsNLx8TtnDc=
+
+Name: org/eclipse/core/internal/variables/ContributedValueVariable.class
+SHA-256-Digest: BjM2qyCDz/+V3nc3Ugz4JW5DTpKZJGBCkPnYuwQ0loY=
+
+Name: org/eclipse/core/variables/VariablesPlugin.class
+SHA-256-Digest: h6JayOH790GHUooz1CRJ9WePFQVqfo29XcTF3iaf/cQ=
+
+Name: org/eclipse/core/variables/IDynamicVariableResolver.class
+SHA-256-Digest: FrZrpjvwiA2w4XKAWWl3sFGY0lCjfA7Uw1Tuk6hHotc=
+
+Name: plugin.properties
+SHA-256-Digest: JaDwYQwQogTuiY72A8buirZkprGDsO59VePJ1oRQUpE=
+
+Name: org/eclipse/core/internal/variables/StringSubstitutionEngine$Varia
+ bleReference.class
+SHA-256-Digest: jM4zzwGkTx842761uXVuFyL9npPxYnbjYyUIRDHA/ec=
+
+Name: org/eclipse/core/internal/variables/StringVariable.class
+SHA-256-Digest: FEI4tkeM1Bq6QCy7JnIClN+rj4sOiG3j2l+fV6g6QaY=
+
+Name: org/eclipse/core/internal/variables/VariablesMessages.properties
+SHA-256-Digest: wB0K/RrLxK5A0IUw9j5+J3Bp01Wy0kzBlAdscMoB+rU=
+

@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name
+Bundle-SymbolicName: org.eclipse.e4.core.di.annotations
+Bundle-Version: 1.7.200.v20220613-1008
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Export-Package: org.eclipse.e4.core.di.annotations;version="1.6.0"
+Import-Package: javax.inject;version="1.0.0"
+Bundle-Vendor: %Bundle-Vendor
+Automatic-Module-Name: org.eclipse.e4.core.di.annotations
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.git;path="runtime/bundles/org.eclipse.e4.core.di.annotat
+ ions";tag="I20220613-0910";commitId=195aa692a459f685f85eecc493f58c74543
+ fc65f
+
+Name: org/eclipse/e4/core/di/annotations/GroupUpdates.class
+SHA-256-Digest: Pmz0JvykuEByVVQxKXbHARHxxwJWqoezxseifIok8Eo=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/e4/core/di/annotations/Optional.class
+SHA-256-Digest: +Wrly9BTwcjV2cG7P1ihirIV8sEdi4qs0UBO6myAEgc=
+
+Name: org/eclipse/e4/core/di/annotations/Execute.class
+SHA-256-Digest: RtCbgBj7ZSFVm3A2fKa7r2UVSc77+gjoTNaz3TzQ3KM=
+
+Name: org/eclipse/e4/core/di/annotations/CanExecute.class
+SHA-256-Digest: mL3P7aD5ZNbi3JNZqzM8pUYn6JnpA2JP5a/V0anTZtI=
+
+Name: .api_description
+SHA-256-Digest: 30NBDod2uSVRTYzLyNkU2RK+Joe9CxG9YfWCsG3AT+c=
+
+Name: org/eclipse/e4/core/di/annotations/Creatable.class
+SHA-256-Digest: q5YzWd+0VS6xQiXKySOii1LUaJ2f5xicMClpcloOiPc=
+
+Name: org/eclipse/e4/core/di/annotations/Evaluate.class
+SHA-256-Digest: ZbL4P7TZW7VNk8qxq/2yzIt6igB0NDrpJcvme+twqzM=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: dogGt8l6167SRoqM3wGf/VhMDMSkD1QZ5iY201oSCqE=
+

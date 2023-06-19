@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name.0
+Bundle-SymbolicName: org.jboss.tools.jsf.vpe.ajax4jsf;singleton:=true
+Bundle-Activator: org.jboss.tools.jsf.vpe.ajax4jsf.Activator
+Bundle-Version: 3.9.0.v20210224-1443
+Bundle-Localization: plugin
+Require-Bundle: org.jboss.tools.vpe,org.eclipse.ui;bundle-version="3.7.0
+ ",org.eclipse.core.runtime;bundle-version="3.7.0",org.jboss.tools.jst.w
+ eb.ui,org.eclipse.jface.text;bundle-version="3.7.0"
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %Bundle-Vendor.0
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-BundleShape: dir
+Eclipse-SourceReferences: scm:git:https://github.com/jbosstools/jbosstoo
+ ls-javaee.git;path="jsf/plugins/org.jboss.tools.jsf.vpe.ajax4jsf";commi
+ tId=0894e416b26464a8657d5ff341ec06d2d2fd1fbe
+

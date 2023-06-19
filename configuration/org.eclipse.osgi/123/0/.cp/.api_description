@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.core.filebuffers_3.7.200.v20220202-1008" version="1.2">
+    <plugin id="org.eclipse.core.filebuffers_3.7.200.v20220202-1008"/>
+    <package name="org.eclipse.core.filebuffers" visibility="1">
+        <type name="FileBuffers" restrictions="4"/>
+        <type name="IFileBuffer" restrictions="3"/>
+        <type name="IFileBufferManager" restrictions="3"/>
+        <type name="IFileBufferStatusCodes" restrictions="3"/>
+        <type name="ITextFileBuffer" restrictions="3"/>
+        <type name="ITextFileBufferManager" restrictions="3"/>
+        <type name="LocationKind" restrictions="4"/>
+    </package>
+    <package name="org.eclipse.core.filebuffers.manipulation" visibility="1">
+        <type name="FileBufferOperationRunner" restrictions="2"/>
+        <type name="GenericFileBufferOperationRunner" restrictions="2"/>
+    </package>
+</component>

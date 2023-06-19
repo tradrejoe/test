@@ -1,0 +1,161 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.emf.ecore.change;singleton:=true
+Bundle-Version: 2.14.0.v20190528-0725
+Bundle-ClassPath: .
+Bundle-Activator: org.eclipse.emf.ecore.change.ChangePlugin$Implementati
+ on$Activator
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Export-Package: org.eclipse.emf.ecore.change,org.eclipse.emf.ecore.chang
+ e.impl,org.eclipse.emf.ecore.change.util
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.6.0,4.0.0)";
+ resolution:=optional;x-installation:=greedy,org.eclipse.emf.ecore;bundl
+ e-version="[2.18.0,3.0.0)";visibility:=reexport
+Import-Package: org.osgi.framework;version="[1.5.0,2.0.0)"
+Eclipse-LazyStart: true
+Bundle-ActivationPolicy: lazy
+Automatic-Module-Name: org.eclipse.emf.ecore.change
+Eclipse-SourceReferences: scm:git:https://git.eclipse.org/r/p/emf/org.ec
+ lipse.emf.git;path="plugins/org.eclipse.emf.ecore.change";commitId=6827
+ 924871e4b5a3df8cdd97cfb2c7b7c6c4ca42
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.emf.ecore.change/pom.pr
+ operties
+SHA-256-Digest: X1ULMHIE+G98K22e3+0TrMfBrH7fW94LpkX1XPtPMVU=
+
+Name: org/eclipse/emf/ecore/change/impl/ChangeDescriptionImpl$1.class
+SHA-256-Digest: i3HNgDZeeUvqwCoLBTobO3UgcMnORakmG26N6gloT7o=
+
+Name: org/eclipse/emf/ecore/change/impl/ChangePackageImpl.class
+SHA-256-Digest: z0yWnfooYBy/mnD41Flo5q+VdyzpuJdPUtuLJV87clc=
+
+Name: plugin.xml
+SHA-256-Digest: qzjQpyM83bFzzY0EktjnhtRWK7WP1kzld5nE/pJyTfk=
+
+Name: org/eclipse/emf/ecore/change/impl/ResourceChangeImpl.class
+SHA-256-Digest: AHGxJfCR4eXFI3m3g1MCEAhz8J+LNIde05iHqQ8oiO0=
+
+Name: org/eclipse/emf/ecore/change/package.html
+SHA-256-Digest: C1xx09GUa2hn0ewc73BwkkkvEkO/yK6DyHQjjM6k8cc=
+
+Name: org/eclipse/emf/ecore/change/impl/ChangeDescriptionImpl.class
+SHA-256-Digest: gCbkaaM7VaBR5asYGTW7VfPyR7FJt12ENU/1P+gviZs=
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.emf.ecore.change/pom.xm
+ l
+SHA-256-Digest: 2YEdFW1rssoP3okYpZdWk0r/g5bsrSugp0XPFFwQKUY=
+
+Name: org/eclipse/emf/ecore/change/impl/ChangePackageImpl$1$1.class
+SHA-256-Digest: AnEx3uXyTqcpJsE+Y9XycSgM9O6rgDo7pILSsh2ztu0=
+
+Name: org/eclipse/emf/ecore/change/impl/ChangePackageImpl$1.class
+SHA-256-Digest: Dy9c0UemFGEbOFsx45gTmSb3Pkb5Xtj5oncW4aRXBeM=
+
+Name: org/eclipse/emf/ecore/change/impl/ChangeFactoryImpl.class
+SHA-256-Digest: UPlzYsO+Qx/8AMIN8XwquEqqF+eegpKE5zEQ8nCmBm8=
+
+Name: org/eclipse/emf/ecore/change/ChangePackage$Literals.class
+SHA-256-Digest: 1od6Z3v0KuVivlOPhU3zNTXW8cbEmPhWKPdTXqS70R8=
+
+Name: org/eclipse/emf/ecore/change/ChangeDescription.class
+SHA-256-Digest: iHuNxpzR4uOD8wPSptpxjaOybgXz0B/reAwu9SIEcVk=
+
+Name: org/eclipse/emf/ecore/change/ChangePackage.class
+SHA-256-Digest: MLM5285XaPrzseC9MlWHGNA84nEAL4rrkWAs3jIoOQA=
+
+Name: org/eclipse/emf/ecore/change/ChangeKind.class
+SHA-256-Digest: vSNIxb5xsRE+Jtem1Yly+gjhw0UlX/y09ot5E7T/FGg=
+
+Name: org/eclipse/emf/ecore/change/util/ChangeSwitch.class
+SHA-256-Digest: Q9ELiiD++VQ9VBgknXyhXwDE9yjlb0BFrfJ45xPLY/0=
+
+Name: org/eclipse/emf/ecore/change/util/ChangeAdapterFactory.class
+SHA-256-Digest: Ltu8wK2+zYbGYO/XIbD2itJGjlCOnXSFXRrttjo08cs=
+
+Name: org/eclipse/emf/ecore/change/impl/ListChangeImpl.class
+SHA-256-Digest: MwGPtfwd2um3ejUdz6yKVaB1Fqxfcjrz6+TMBpHQlQQ=
+
+Name: plugin.properties
+SHA-256-Digest: 0KFwuP+K9/AVROsICVTrDZNcnWoxMGchUdjaWJQaVgg=
+
+Name: org/eclipse/emf/ecore/change/util/BasicChangeRecorder.class
+SHA-256-Digest: FCzmfRBNZsSGEcH6jH1SDa2lwHu/1KclBw9QR7PX6E0=
+
+Name: org/eclipse/emf/ecore/change/util/ListDifferenceAnalyzer.class
+SHA-256-Digest: aNtC6JUZLseGS7wE2Xb03+rrAFkn7m0TX1Sbo6cGoqg=
+
+Name: org/eclipse/emf/ecore/change/ChangePlugin$Implementation$Activator
+ .class
+SHA-256-Digest: MqLFnvQ8ry/RsBw7HBBmKNow97o3qNfrSEZVkPWrcSU=
+
+Name: org/eclipse/emf/ecore/change/FeatureChange.class
+SHA-256-Digest: MV129g6WEWH+Owi3rWrMZ6j2OLWWe80HkvgWEiVUeiU=
+
+Name: org/eclipse/emf/ecore/change/impl/ListChangeImpl$2.class
+SHA-256-Digest: hRubi4wpBZlvyryTx0GH/gta95Mw0oAhACnoApvuFGI=
+
+Name: org/eclipse/emf/ecore/change/ListChange.class
+SHA-256-Digest: U1aDkZvnSF4+1mkqN14FaJHE2OU3q/zW6H7JxO97wwU=
+
+Name: about.html
+SHA-256-Digest: 94hJ6ZOHrZnO+XGpAhKNrMqA4v4X3qzwnfB0x9OL4eQ=
+
+Name: org/eclipse/emf/ecore/change/impl/EObjectToChangesMapEntryImpl.cla
+ ss
+SHA-256-Digest: 7D8HW+uj515v6sMG/tUxbgDhogm6cxZ0c9YK2+uSLlU=
+
+Name: org/eclipse/emf/ecore/change/util/package.html
+SHA-256-Digest: +7uXJeDLJXPBJQqyWYPABmEqLcnqlPAt4IDbNnR08kI=
+
+Name: model/Change.genmodel
+SHA-256-Digest: Teh1as7p0zmLHoHOQK+Pwar5fY2UcjwVt1yKcyxoBWs=
+
+Name: org/eclipse/emf/ecore/change/ChangePlugin.class
+SHA-256-Digest: 0s5h2z8/HyAvX4qHHWg8nJEXXPAyf3iCDekMvo+LKfc=
+
+Name: org/eclipse/emf/ecore/change/FeatureMapEntry.class
+SHA-256-Digest: uJ2S/h5otN8oHdRXg0EGsgj4clLeM99HTsRx+uV/0/M=
+
+Name: org/eclipse/emf/ecore/change/impl/ListChangeImpl$1.class
+SHA-256-Digest: s+x/J3BqhgZFapd3IceDIoMDjUEdRMh5OpuTB6nmOAU=
+
+Name: model/Change.ecore
+SHA-256-Digest: iKsi122SyrAKJ9igSWbaa3GFW58uug4Z1TnkT4dwkGc=
+
+Name: org/eclipse/emf/ecore/change/impl/package.html
+SHA-256-Digest: j0agcrqttpWf5xWpqaOqL83kNP2FBndVYWyDOiofV7c=
+
+Name: org/eclipse/emf/ecore/change/impl/ChangeDescriptionImpl$1Visitor.c
+ lass
+SHA-256-Digest: 3Lhajnfqc+NuercLJecl9KOdl3F+F3nGJ9A2l0d597Y=
+
+Name: org/eclipse/emf/ecore/change/impl/FeatureMapEntryImpl.class
+SHA-256-Digest: QHeqjcWjEZbjKafhg75S7wT0yr/U372Hl4/6z2xR6A4=
+
+Name: org/eclipse/emf/ecore/change/ChangePlugin$Implementation.class
+SHA-256-Digest: JAl2GKTqbg/M9ibJ4mslU0EfkodxR9dAssZqWjqXCkE=
+
+Name: org/eclipse/emf/ecore/change/ResourceChange.class
+SHA-256-Digest: mYuT6y2v7CwWe3ITwNHRO6erZ8kQ+ZKqhma9WcxbONk=
+
+Name: org/eclipse/emf/ecore/change/ChangeFactory.class
+SHA-256-Digest: DLB9M7z4ZxlYkROyv2wMbYpt4gSBxcPQ/PmXe2bvh9E=
+
+Name: org/eclipse/emf/ecore/change/impl/FeatureChangeImpl.class
+SHA-256-Digest: ByIDsmhr7Pj+3eCPPZSZyQFvd/coQN46HWLc8ro3dsM=
+
+Name: org/eclipse/emf/ecore/change/util/ChangeAdapterFactory$1.class
+SHA-256-Digest: x4vgXe7DL4N+NVCENdPPtqoGFP0T6PpJrqLFUxv17L4=
+
+Name: org/eclipse/emf/ecore/change/impl/ChangeDescriptionImpl$OldContain
+ mentInformation.class
+SHA-256-Digest: UNFOT0TC7DQcKOmJ/cHzzs2h7mluLUr0wI3nxet43Vc=
+
+Name: org/eclipse/emf/ecore/change/util/ChangeRecorder.class
+SHA-256-Digest: dDDFPXHDed9iUIy+QYzRbmayU/U66eKySArxew3e7Qc=
+

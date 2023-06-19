@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jboss.tools.foundation.feature"
+      label="%featureName"
+      version="1.6.1300.v20220617-1153"
+      provider-name="%providerName"
+      plugin="org.jboss.tools.foundation.ui">
+
+   <description url="http://www.jboss.org/tools">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.jboss.tools.foundation.core"
+         download-size="110"
+         install-size="274"
+         version="1.6.1300.Final-v20220617-1153-B513"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.foundation.ui"
+         download-size="165"
+         install-size="273"
+         version="1.6.1300.v20220523-1600"
+         unpack="false"/>
+
+  <plugin
+         id="org.jboss.tools.foundation.checkup"
+         download-size="63"
+         install-size="123"
+         version="1.6.1300.v20220415-1544"
+         unpack="false"/>
+
+
+</feature>

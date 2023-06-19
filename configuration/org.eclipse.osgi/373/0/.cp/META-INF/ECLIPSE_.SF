@@ -1,0 +1,763 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: NOYMplf2BKDromsGn+XryDJzrixhXhtu/jY/w6KRTnk=
+SHA-256-Digest-Manifest-Main-Attributes: FME/pWyhGYQp+MfuIvEHOT/BmtosH6J
+ YapcnYCagmZ8=
+
+Name: org/eclipse/equinox/p2/metadata/index/IQueryWithIndex.class
+SHA-256-Digest: MApki6K93XBXOSblWTfVaVyepUSC/4qCwVWgRZ9edcA=
+
+Name: org/eclipse/equinox/p2/metadata/IVersionFormat.class
+SHA-256-Digest: nCr8mFYZMvvzDEffejp5Uwlu7hUJdUTegkNa8Z/IT6g=
+
+Name: org/eclipse/equinox/p2/query/CompoundQueryable.class
+SHA-256-Digest: 6QElIOKTBzctxPaU3Lq4wUmyslQEP4n3COhiA7iPRPM=
+
+Name: org/eclipse/equinox/p2/metadata/expression/SimplePattern$EndConsta
+ ntNode.class
+SHA-256-Digest: q+vWAPxImlZe/qL9+yJrqwQ05GGbR0wsDfQUzN4bEIE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Expression$Mem
+ bersFinder.class
+SHA-256-Digest: IjoNK9CDHy8mVZ1iPk30vMG2dbqg1sDLmPN5XYzRo6w=
+
+Name: org/eclipse/equinox/internal/p2/metadata/TouchpointInstruction.cla
+ ss
+SHA-256-Digest: MQi075jhv9x2rvcinP7UZA3oemNLdVoN5Cbknyx9AFg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Exists.class
+SHA-256-Digest: 51JP4Bax8poNNna3i30XVa5co5nE85+36R0IG6KoOMA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/RepeatableIter
+ ator$ArrayIterator.class
+SHA-256-Digest: qnvD0VoanN286u0bpMbW4v9XoiiD+YSxJLAUE7esWC0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/TouchpointData.class
+SHA-256-Digest: H+9LI7PpDGHZnGcKcfrOmZC5Y6bs0Ql7Ymi7EjB9tn0=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IMatchExpression.class
+SHA-256-Digest: OQ5ypxveus2jDOHRyfNisNvwmFiztEj3CqqyQSau6pE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/index/CompoundIndex.class
+SHA-256-Digest: ZVAzXY6FYFCB1iETjxmrNg8IwqTlYIPXStgmQSt/jwk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/parser/LDAPFil
+ terParser$1.class
+SHA-256-Digest: kq/YmflMgfCW3ZZhZYOvKPPkw4CRwTua3Nzc6tBtpx4=
+
+Name: org/eclipse/equinox/p2/metadata/ITouchpointData.class
+SHA-256-Digest: 0gK/YuKq/9swyvtOZJ1Vw2wNfH1iap3xG+uv0xae+a8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Not.class
+SHA-256-Digest: e4Gz+I1HO8H1l4khoS1ykqOo55BJmZzOZ5umh5qQt/A=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IContextExpression.clas
+ s
+SHA-256-Digest: Y1zcFqoIxNA+C+LDZrCC+amlv/6LTh3ThjdjMdYkfFg=
+
+Name: .api_description
+SHA-256-Digest: ZWF3x/jPqkk0T4NIvQMLW9I0EsV7jz7bIXYBjXzXN54=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/ContextExpress
+ ion.class
+SHA-256-Digest: DRgEL/6BpkP5sY7ImKqDGktuuJOgsioJOs9NRRzLQLc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/RangeFunction.
+ class
+SHA-256-Digest: VSAJrPoDew/dde4n1oH3hiTD85pY7ewDz8iCcXCLKts=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$Eleme
+ ntFragment.class
+SHA-256-Digest: aapCntJ57tHidd9hwj9Vq8OALPcRXajK33RjCv56F54=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionVector$MinValue.cl
+ ass
+SHA-256-Digest: oPJvBa3kSlJhU/R+RvW4VlS9s8SzFbw7fFoQeKDP95A=
+
+Name: org/eclipse/equinox/internal/p2/metadata/IUMap$MapIterator.class
+SHA-256-Digest: vEHmWqi3VMS16+ngFSLZvS47T/pMD+hzn39BrVO0nkc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Select.class
+SHA-256-Digest: stplOYxbsHFbSL3sSpYw0mIKl2Nwtgyjftd7DB5asok=
+
+Name: org/eclipse/equinox/p2/metadata/IUpdateDescriptor.class
+SHA-256-Digest: LXIBddC/EnfVZzpDoiloB0JKl6xE4nszTRJFCx5Ot8c=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/QueryResult.cl
+ ass
+SHA-256-Digest: prA0yDcKE8D3+eO8Tpijc1TS2pg/Ix0WLf1wv+2dE/c=
+
+Name: org/eclipse/equinox/p2/metadata/expression/SimplePattern$Node.clas
+ s
+SHA-256-Digest: Rpp+hmV03Q29CJN8Tk30qosTkCqtZ7vbC7XGMpAxTrA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/IRepeatableIte
+ rator.class
+SHA-256-Digest: 8DwVfcAk+DoRgM1Ce+L2PF/Jx+bRutL2jMHIC54BIu8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/At.class
+SHA-256-Digest: yyQXer2xA+3ScB2u17IAvcHqkv2i+PsBoNVMi1GX9BE=
+
+Name: org/eclipse/equinox/p2/metadata/IArtifactKey.class
+SHA-256-Digest: 2cN+dIu5s6Q/aS9dCdaP5PaScP7K6EatVLvDk+S+lRc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/UpdateDescriptor.class
+SHA-256-Digest: 4jQPxK2Z0T2HIydp5IoAO/eTBvEi7bwjyS0KQexEIIc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/OmniVersion.class
+SHA-256-Digest: 5kXaw0VhkbbpL14mtvrTp7VIQMSF4o21uv7kKpiQ/a0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/ResolvedInstallableUnit.c
+ lass
+SHA-256-Digest: ACKAO6tQil18zUMUsVJHF3P4R/dVlYXczhAaoXy/SIo=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$RawFr
+ agment.class
+SHA-256-Digest: /2pqMhlthsXDoGa/RE3X/N5ITs1m+tz5hLkzOe7GdvM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$AutoF
+ ragment.class
+SHA-256-Digest: XpU2/LX/9KyYS1dc2BzqeJzanfDRplWb7RZIX9WhM/k=
+
+Name: org/eclipse/equinox/internal/p2/metadata/EnumDefinition$EnumSegmen
+ t.class
+SHA-256-Digest: OFW+p1oNil9o46r2yTh3q/MMKv2b7yf6NtjFQuWTOFA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Unary.class
+SHA-256-Digest: qe0ABpooNCSOtzeRnv4tL7Rf5PzocZqmMIntCEI5Qp4=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/WrappedIQuery.
+ class
+SHA-256-Digest: 2RvOi27ttF6B21kaClMp++x5q00HQUfCY+ZlOsCywps=
+
+Name: org/eclipse/equinox/internal/p2/metadata/Requirement.class
+SHA-256-Digest: gIC6GKj9B+KhRZnf/RUUYL3zqDYW+BO+oxtLTC1l9UU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormat$TreeInfo.cl
+ ass
+SHA-256-Digest: Au0dZK/dgdePzJ0OEtSWrXxZq6cZOVz/3QDh4e20b9A=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/parser/QLParse
+ r.class
+SHA-256-Digest: bf2CxaKMVOrgd+/P0hNeC1Vy/JCUgCMmBmeGcpulomU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/messages.properties
+SHA-256-Digest: K9X15gfu8dMQLoJS7IZdSbGcW02HZxb2op1F0iOla8I=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/UnaryCollectio
+ nFilter.class
+SHA-256-Digest: AfSODMfK35YNv01Wm5ilFR99kIcFk8Dnfid5Vk8cLTQ=
+
+Name: org/eclipse/equinox/p2/metadata/MetadataFactory$InstallableUnitDes
+ cription.class
+SHA-256-Digest: xWNj0f4sQOECAno7Q/itVKnM0Hye3Kk9iWi8wvaYvjU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/And.class
+SHA-256-Digest: Spf8/surwJPRy61okJI68D3EsUu09ph0uz0SrNKMcTc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CoercingCompar
+ ator$ClassCoercer.class
+SHA-256-Digest: 0xitxF1rtoFT4uW+jiJ2ktLRJzuB4lKrVx73QUpjEsQ=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CoercingCompar
+ ator.class
+SHA-256-Digest: DCyU1oqlXMRM2+zv4I51zDcqtRThQyaGewhoIO1iyY8=
+
+Name: org/eclipse/equinox/p2/metadata/MetadataFactory$InstallableUnitFra
+ gmentDescription.class
+SHA-256-Digest: NBe5BxVZTwQjBR7MQe1ryeuQpUKP7GLyCPvyZw3bb3Y=
+
+Name: org/eclipse/equinox/p2/query/IQueryResult.class
+SHA-256-Digest: M+WBfuKxiIIg7qvF1MSUQE8SIajMj13cpOJIJmgDgl4=
+
+Name: org/eclipse/equinox/p2/metadata/IInstallableUnitPatch.class
+SHA-256-Digest: HPSIwnLAAgZxHyAMwP52LM/LnpBKucfwNGeDbunHbyg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/parser/Express
+ ionParser.class
+SHA-256-Digest: JIuLR8ZlXi+DwyqV0IGnaAqi3QhRVjg256XHklKvRi0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Expression.cla
+ ss
+SHA-256-Digest: NiUPAXGQrDF3J0mbqzu2gv/qMP5TmKf5hymcvQT7/iY=
+
+Name: org/eclipse/equinox/p2/metadata/ITouchpointInstruction.class
+SHA-256-Digest: 3PBKwe9E3fhxaTu8w23vs+sM9ju3sza3KTSV3jnsy/s=
+
+Name: org/eclipse/equinox/internal/p2/metadata/InstallableUnit.class
+SHA-256-Digest: S4c0xnws6xtcd3TRl1CzH48BjBHGWuP3JentGHNM6JM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/query/UpdateQuery.class
+SHA-256-Digest: jZLpio883Hd2+0svfnmFFZS8dnbvmS6v0ZSwxZFXrFo=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IExpressionFactory.clas
+ s
+SHA-256-Digest: Lq+FUFgAj8f7+Txi5VSlOMczu15DYLrLdtHhZ/1bDaU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/index/IndexProvider.class
+SHA-256-Digest: VBLOMgz6Le3MQilkkycl5pVPmozNuizzP4e8oiRtHfg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/MemberProvider
+ .class
+SHA-256-Digest: HZDpFS9OfJ0GW6PJ9zgwQODt1egvJTYdmXVeLesspFk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CurryedLambdaE
+ xpression.class
+SHA-256-Digest: lCe8TFDnhoGFJCbLynWe2Lskaah4wn6m6gr2LfvqnG0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$Numbe
+ rFragment.class
+SHA-256-Digest: JD8RiDqFNj7pFY//WWCgTBXBsJoX8fQE7XfLvU6G6rA=
+
+Name: org/eclipse/equinox/p2/metadata/ITouchpointType.class
+SHA-256-Digest: yY6xHIhkl0+as8yn0oGomY5VhVf1EdZjaUu+bXoXMfo=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Intersect.clas
+ s
+SHA-256-Digest: KtZrUJozUsbL78NiheokldScrnPUlZzsOvSwMgrX57Q=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionVector$MinMaxCompa
+ rable.class
+SHA-256-Digest: TZLoctsKSiijierjirAiBJ255S/3cOG9xbcO5HjKhuw=
+
+Name: org/eclipse/equinox/p2/metadata/index/IIndexProvider.class
+SHA-256-Digest: UKGdThsdrYDrK/oIlGLPiMtbfV0P2qQxxorwdBqCr1g=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/RepeatableIter
+ ator.class
+SHA-256-Digest: 3dOWBH0KB+x2D2KwEXveUECNyXbIrJr7DmOtIq52gA4=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/EvaluationCont
+ ext$SingleVariableContext.class
+SHA-256-Digest: iG5cNL1avZaCkAy2C2QpXEiT55OpqMdKeT7t4qcOe4s=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CompoundIterat
+ or.class
+SHA-256-Digest: MVvtW6a7h/M2VYPPrxP7ydcZkmqbxYZw7CRJR2MC4Lo=
+
+Name: org/eclipse/equinox/internal/p2/metadata/RequirementChange.class
+SHA-256-Digest: MwvhvFBkTJ/3lN6N9gEwxyIORUBR9i1P+Xglsx+pOW8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CoercingCompar
+ ator$LongCoercer.class
+SHA-256-Digest: vM/5hnw8ca0vo0DN9vM1fEVQVIHvwBfsP8GZt9fmCqo=
+
+Name: org/eclipse/equinox/p2/metadata/expression/SimplePattern$ConstantN
+ ode.class
+SHA-256-Digest: 4Wy7r+4isdqIOD+hpF94p2uRu8Gpyw24lmWJixv4Ufg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/MatchIteratorF
+ ilter.class
+SHA-256-Digest: B6OUyRl70JrU5Wy1oFQMaOa03IYH77dZHD9iy684jIE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CoercingCompar
+ ator$IntegerCoercer.class
+SHA-256-Digest: zEdMEGeUInt6FAhC8WwUesHOxCimxNTWrdc+ezqjd2Q=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/RepeatableIter
+ ator$QueryResultIterator.class
+SHA-256-Digest: RqahtoxaBXd2rK3YdB9gatAfsxD9sUs3F7te7grh1fE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/All.class
+SHA-256-Digest: 3tWoIg4Rh7/hHCORVEwfV43D/GrTJ8iHhzsIrv5/sCY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/Copyright.class
+SHA-256-Digest: R3FHN2S7laT56KRzAdMyDyZGuxtf0Axy1v+QPBqyG0A=
+
+Name: org/eclipse/equinox/p2/metadata/expression/SimplePattern$AnyCharac
+ terNode.class
+SHA-256-Digest: k3qilpn32bi3vpAO7PYhi4wFFPex/235W4OXryuNwEw=
+
+Name: org/eclipse/equinox/p2/metadata/expression/SimplePattern$RubberBan
+ dNode.class
+SHA-256-Digest: 3QKl9REJzvdNhj1w2EFpnxIBTws38gxF5n6lI+V00QU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/MemberProvider
+ $CIMapMemberProvider.class
+SHA-256-Digest: 6i6z1joC6weyns7a2fTahH2i2AvdGtWrOuNwJNGEZSI=
+
+Name: org/eclipse/equinox/p2/metadata/IVersionedId.class
+SHA-256-Digest: BspkhsvTWWAB2LMAxGqagnABYCTcwuqtVV19MRPS9y8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Array$ArrayIte
+ rator.class
+SHA-256-Digest: ZpfTEiKM5AYbE28m+WpWNZO+PFUxkTd7lfUP9ETq7cI=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/VersionFunctio
+ n.class
+SHA-256-Digest: M49UXxEiXlNh79YgSOf1GTYodzgZXjvsOz1Qt6XhiBE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Expression$Var
+ iableFinder.class
+SHA-256-Digest: aWkiyCtngk4e4svWZVwOLS1wIXwQ5eiM1Zx+dvAJxLY=
+
+Name: org/eclipse/equinox/p2/metadata/ITouchpointType$1.class
+SHA-256-Digest: busob/d81gFmqMRqp0Eofpya27vR8WMYDyBhsiq4Q4o=
+
+Name: org/eclipse/equinox/p2/query/ExpressionQuery.class
+SHA-256-Digest: 1OqymU6ULB+0jvm7nI+3GiPjzaSwpF4UnqjAejFx1fQ=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$Quote
+ dFragment.class
+SHA-256-Digest: +VrypjeMFCLx6WduFVU/o4tf/gmAyXJ75RpMCr+Pbls=
+
+Name: org/eclipse/equinox/internal/p2/metadata/BasicVersion.class
+SHA-256-Digest: UBeXACamdJOtYaUSR/tSkMc8fygOC8DNs38v2EuDpfk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/IRequiredCapability.class
+SHA-256-Digest: xAZce8TGs7GO4bM2tgRtzdQkkcbwyFv7TMNQV+jMJ8w=
+
+Name: org/eclipse/equinox/p2/query/ExpressionMatchQuery.class
+SHA-256-Digest: mqiv6bR6OTn5oAkLvK0iHWLJC6wK1bn6QjurTk9mLho=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$EnumI
+ nstruction.class
+SHA-256-Digest: aEvD8IwmXc5lB4nx3RyrDoRAeYhdPlCm0ldZjlDNvK0=
+
+Name: org/eclipse/equinox/p2/metadata/MetadataFactory$InstallableUnitPat
+ chDescription.class
+SHA-256-Digest: RGUnxoWkaeu7FIlYC145rvvDwZ2ayxJRS25dXqjIQPs=
+
+Name: org/eclipse/equinox/internal/p2/metadata/TranslationSupport.class
+SHA-256-Digest: T6GPoyBIQ/Ocesl7o5LembHsFKJvvV8yrWgxR2G9NGs=
+
+Name: org/eclipse/equinox/p2/metadata/IInstallableUnitFragment.class
+SHA-256-Digest: LkLHsVfV0QoDDPJrD69qvtorKnnLf0MWe0BpZwEfoKY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Collect.class
+SHA-256-Digest: jAuNYXhkPsQBDGCFjHmR9EY9dNqgWG5u5ayxs1n0y3g=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Pipe.class
+SHA-256-Digest: BqxsPrZ2vhJmthz9l8N7nZpXKFQRXUcKvBNwjoKkyeM=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IMemberProvider.class
+SHA-256-Digest: wpNLtyvqFqwvW0KGkblAdq6+/+hUk1Wi0WO3LGkWJ/U=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Traverse.class
+SHA-256-Digest: eRpWV/Cyc47BeR/f1jB44PLV5Xagr6hARmEZJbsp5cI=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/BooleanFunctio
+ n.class
+SHA-256-Digest: bCAPBrWoLXLUQoO2X9nGjvSHySaGUBTcOdd/AlFfs2s=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/ExpressionFact
+ ory.class
+SHA-256-Digest: GQ9w1rlWGnNAZCr5V9202rI9pOTUZGwVxdfes0iZsVY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Member.class
+SHA-256-Digest: EeH1tXQsdArXnEOVlM8x0jWpb5X4z97mFhLANi393uQ=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/MemberProvider
+ $DictionaryMemberProvider.class
+SHA-256-Digest: cz+wGTy2D1kehr7sUajzNFGzbuI+qy8VDBA4WsHJVRI=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Member$Dynamic
+ Member.class
+SHA-256-Digest: /IC/rAebpp7E1/P5abM426+oYEEkSxddSiBcaFtl5Mo=
+
+Name: org/eclipse/equinox/p2/query/MatchQuery.class
+SHA-256-Digest: 9Om8N+I3knsoYOy/JvFASQeuS6YcinfyIYdJ9vFlbLA=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IExpression.class
+SHA-256-Digest: JsXAEcK42JPRrC8I8+MUj3y3gleZbUOynoNt2U6PZf4=
+
+Name: org/eclipse/equinox/internal/p2/metadata/InstallableUnit$1.class
+SHA-256-Digest: yH/k0Fc5AE3vghps+cs+Dv2HIl4clDBBaRJPJn+zyhA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Binary.class
+SHA-256-Digest: 50Zsovh3pEyQhyo4PywudmP6KypnMvDlTXoHa1E+o/g=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/LDAPApproximat
+ ion.class
+SHA-256-Digest: 2jsBcCSR+wHnobkoy993RfDQn0A3DHZrY5nquZbB0oY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Pipe$NoIndexPr
+ ovider.class
+SHA-256-Digest: wk5WtYjLYkrU5a/NyX1iy+3CRfkOYOOGKV3KWWFXXWA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/parser/LDAPFil
+ terParser.class
+SHA-256-Digest: SCeApEwL59tSWxF2MrvE/d8cocqjKhchprcqGvbaWcg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/RawFormat.class
+SHA-256-Digest: GQcidtF3/yaW6RHh4FA47rnImwNtQ4VISXs4+Bwrmm8=
+
+Name: org/eclipse/equinox/p2/query/Collector$1.class
+SHA-256-Digest: 1t+O5v5JdJYeYx9R+aq96tMR9Vr+sD+6Z4DgZTwqtAA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/FilterFunction
+ .class
+SHA-256-Digest: Pdsm9VRS0p4SD08zD2GxSxtSPEzJXns+umKmcrw8e7I=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormat$StateInfo.c
+ lass
+SHA-256-Digest: DH5IQMVybbTg6q6ij/WoWh8vy9+ReW/QBxa4RDZ/ULE=
+
+Name: org/eclipse/equinox/p2/metadata/expression/SimplePattern$AllNode.c
+ lass
+SHA-256-Digest: XbH/ZIu3LuEp9I0gOOAoKcvhhf0o++TMYi9WF7FTAzk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/RequiredPropertiesMatch.c
+ lass
+SHA-256-Digest: 0IHMIncFRknuJpEChYnG8Qmo66OznNV2qZkUow+OLFU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Limit.class
+SHA-256-Digest: g/zTVrzDoweH4s+timyF7toy8yq61ay1uVLaff53eLQ=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormat.class
+SHA-256-Digest: lubFrIq6CHm6aFUVLpgpA1NNrN8uKC0N7se3Ri6GWDs=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Matches.class
+SHA-256-Digest: qcs09p0w4Wc4PwUok1n1MtXucRUgMcrjMxVJQNYQx2E=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$Quali
+ fier.class
+SHA-256-Digest: dQF+9dA5jYTycR+kjiL7W6enb95MehJy/L1/ALE2yBc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/LambdaExpressi
+ on.class
+SHA-256-Digest: eXa9FB5ZVhfZww9fKvJ3+Pc0ziraCGp3iN6bk60zNvc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Member$EmptyMe
+ mber.class
+SHA-256-Digest: fW9TU3zJHYg3UI0OfRPCZOGvNjbMDQKHNNLbWCPP+os=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Select$1.class
+SHA-256-Digest: a0+MFspTRp08jGXU/YHcObfMYC6m3KjEdzBrwJmT9/o=
+
+Name: org/eclipse/equinox/internal/p2/metadata/ProvidedCapability.class
+SHA-256-Digest: 0+U9+AZ8ueVJTxK9u66TCWkkVCDx0eEzy7068IMZAI0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/ArtifactKey.class
+SHA-256-Digest: iu6RL77buI/konIFjLmu4fr82uYmOBR0thy89JV4h+g=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/SetFunction.cl
+ ass
+SHA-256-Digest: 4qjtqk0oO0hnQbPtHD+qtoqSvvNPw0l6re8y+vNp9oc=
+
+Name: org/eclipse/equinox/p2/metadata/VersionFormatException.class
+SHA-256-Digest: Rk11OlD1zHTtajM+qHyO5Rw4Tpt+lTE7pwPMOnlRz2g=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CoercingCompar
+ ator$BooleanCoercer.class
+SHA-256-Digest: ekLYk9MZt9t610ZRXi70lz2zIgHpjLGEda48uSTwlvg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionVector.class
+SHA-256-Digest: /7K19GQDGeSRWTP9xWEsAZPY0RwnP771palL0M0M2zs=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Literal.class
+SHA-256-Digest: b8tFDrv9QQBR4U/fR7oTbu4n51Aj/Sict9n2xabe9C0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Expression$Com
+ pacter.class
+SHA-256-Digest: HE3JNovdoCYkgfJkyRF06ZOX6hNDo7dOvH5TXWhABmQ=
+
+Name: org/eclipse/equinox/p2/metadata/IRequirementChange.class
+SHA-256-Digest: 6mRDVBn8+t584AqrDbdM1yZg1FyArg6M0c2HGtDP15Q=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$Liter
+ alFragment.class
+SHA-256-Digest: WJLwrWKgYPew+xWT4GPownyMJVgZ7ZnnTKe7Bfs4Q+4=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/EvaluationCont
+ ext.class
+SHA-256-Digest: W7FD8+jemdn9iQTXgEX7qHVeOWhetG0g9X6K3PW5ynk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Limit$Counting
+ Iterator.class
+SHA-256-Digest: HMYC8FAchIw7+zsYLBrIXkTfDVjqHCgJVrvvtlL+xo4=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Variable.class
+SHA-256-Digest: c34aQW5oURndVqbP9q4PRZ8hfSVDAFEl9V9jcA49yt8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CollectionFilt
+ er.class
+SHA-256-Digest: W6URYc3xZU0UEXeeY2PPxlbb9eoos9AT0R1eqrF+y94=
+
+Name: org/eclipse/equinox/p2/metadata/VersionRange.class
+SHA-256-Digest: G0W9KVETuZCeLluigxF1SsuDtiK2Hzy3IDBpk+uqhd8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/index/IdIndex.class
+SHA-256-Digest: t7nDtbDrOB7IhVO3V898VucCmX7W9RntOlffExX+dlU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Union.class
+SHA-256-Digest: W+L1LVRnVx3rf6BfujM8zjfJQ4p1gP+Dwg5QITqVYtA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Member$LengthM
+ ember.class
+SHA-256-Digest: lyNem9J4tnTNBjQ30a67kN2OOP5WPKYL1wPNSCslK7s=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Everything.cla
+ ss
+SHA-256-Digest: LtK9mNmIffhnE/xErNzW/5CVssOXqRaTFqLNzHSVPJg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$Instr
+ uctions.class
+SHA-256-Digest: sJJ/Pjgr0SG1w+t5ldjGHlOcr8/+NB8M0FVBKsP/cwo=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/RepeatableIter
+ ator$IndexProviderIterator.class
+SHA-256-Digest: Sr9lmzwD70x8FROKJJsruwOwO32CyrEOrwAjGmw0TKc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Flatten.class
+SHA-256-Digest: zSjdjcLzViyPu9JGwJp1+5WDdUtt3i9q5QfnGUkU878=
+
+Name: org/eclipse/equinox/internal/p2/metadata/index/Index.class
+SHA-256-Digest: UebNzn2w/nYzrwdUjj38Dq8t2toTdggnJCOEYgkmDHk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Or.class
+SHA-256-Digest: vHTrmqEV7/KtuE369z1R6mqN3MDonjHgLqiBfliKCrI=
+
+Name: org/eclipse/equinox/p2/metadata/Version.class
+SHA-256-Digest: he6cJt5N+Vf99XOkyv/kXK0RWMAo/xo32IKD5xaTQ9E=
+
+Name: org/eclipse/equinox/internal/p2/metadata/IUMap.class
+SHA-256-Digest: A5ga1z/rVqb4MXQd0OF8G6pICQFSpAEGzDId2ad7efY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Expression$Tra
+ nslationSupportFinder.class
+SHA-256-Digest: fxooxPGSqlWtdcfNvShryKlL+C0B7Hr97tXgjM5+0u4=
+
+Name: org/eclipse/equinox/p2/metadata/expression/SimplePattern.class
+SHA-256-Digest: MJkcm2qi6Cv9VAULtc1FatyyWJkka+KlyEe+12UhQC0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionVector$MaxStringVa
+ lue.class
+SHA-256-Digest: WUC4mPs57EOJZND852XGaHrnPBiowLwIOdYD+Sn16no=
+
+Name: org/eclipse/equinox/p2/query/CompoundQueryable$PassThroughIndex.cl
+ ass
+SHA-256-Digest: BlQu2tfjA8orX7nGBWm9ZKz8GAHBKDgtjdxrEbjMqos=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IEvaluationContext.clas
+ s
+SHA-256-Digest: MOz3qsVTtIGvL55F5+/H9xcw8L1j3BlJiO+fpZNTBOM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/Messages.class
+SHA-256-Digest: 3H4NOte9lidqEi328+fBpakEgQefH2BlkL//SeSi86I=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$Group
+ Fragment.class
+SHA-256-Digest: XPotEKF4TiXpp/WUMcxsIrmszOIH8VN/WaUBf8taMdc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/OSGiVersion.class
+SHA-256-Digest: /OJlUI+2gnrOJ8+vm4bYmzfc5WwhpmPEBSho1FGi2SM=
+
+Name: org/eclipse/equinox/p2/metadata/expression/ExpressionParseExceptio
+ n.class
+SHA-256-Digest: vHM7hdEFLnF5eyRrHp6uY6Q44VusTaqp2Pr1AH6zw2s=
+
+Name: org/eclipse/equinox/p2/query/Collector.class
+SHA-256-Digest: MH69j6cD794rQR9avM5MS+I4OfomiqOndhS2KLQTXUc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/InstallableUnitFragment.c
+ lass
+SHA-256-Digest: uBDpCzwxQAnzvOdScN8QrZN0CUA849C3rBbm39FBkWc=
+
+Name: org/eclipse/equinox/p2/metadata/IProvidedCapability.class
+SHA-256-Digest: KQ20IhMebNKioBhhSWzA5FziuqCWrR2dnavOIhA7PsU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/RequiredCapability.class
+SHA-256-Digest: 0HxpK3x3hlrHGqhm2Dr4KUACblgERJMAPx4Wy6z45DQ=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionParser.class
+SHA-256-Digest: iqonZif3kM4RGV5DmeR3mIvr9wXye+OJ1KLICX8NQIU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Assignment.cla
+ ss
+SHA-256-Digest: RvCUpM5fP1NLnmqQ19V0HNUjTA+ihUtRw1HMCu/F3YA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/index/CapabilityIndex.cla
+ ss
+SHA-256-Digest: 5Ir9pUV7svJZrQy5XVm5aI72BRwG+tigXPm3osx+Kr8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/ClassFunction.
+ class
+SHA-256-Digest: n5mrplOKhNm21KaXlUmeusVez1gfy9pZgOCl/Q1nZPY=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IExpressionParser.class
+SHA-256-Digest: vISMlEvp+2rMeGEOKUqr4/6E/FoVzm01pm+1f72ecUM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$Strin
+ gFragment.class
+SHA-256-Digest: MYeAeDlfdNua6e5Qkaq9fu1ZevRjCxMWYkDm/Bf7qBw=
+
+Name: plugin.properties
+SHA-256-Digest: ZunK+ZUMxBGCf+Ii476CK04Ud/xLVYTbcHGd4cWNbGM=
+
+Name: org/eclipse/equinox/p2/query/IMatchQuery.class
+SHA-256-Digest: yUSQ8gbgFJxFzybkkTTm5F4REo6sH65Rb98tnYhHU60=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/MatchExpressio
+ n.class
+SHA-256-Digest: Cz/KmQWTT7LpCx9A4v/wOLH3H8boEE32yMa+znh390A=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Collect$Collec
+ tIterator.class
+SHA-256-Digest: vJhG1bUV6ZT/G0gPPUKKsC59IsbxQkzu6r4t3Ujco90=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/LDAPFilter.cla
+ ss
+SHA-256-Digest: QqtPrGqNMIAtlZdt6p7B1UBrYiI3hK2IclIRpDNaFjY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CoercingCompar
+ ator$StringCoercer.class
+SHA-256-Digest: V0yzaPhsVVwCSarEl43IjN1DeL1l2F+r6hdHj5+G4RM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CoercingCompar
+ ator$VersionCoercer.class
+SHA-256-Digest: sgKNZ6RlBwzSeLF3LuAg9Jb6StZCeHF51XrACpwECZs=
+
+Name: org/eclipse/equinox/p2/metadata/MetadataFactory.class
+SHA-256-Digest: o5b7QHWfw0EJJ/2un+woke/0wuQ0dBxNgSas0Eh+kxo=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$Fragm
+ ent.class
+SHA-256-Digest: FJo6U7C3wJ6ykrfatDsbebqlql3Tk4XqlhXipsjJiJo=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IFilterExpression.class
+SHA-256-Digest: F/9N9COxCq5FKHnyO/fqVpXqcO6S76hyFEhC63Rf9dU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionVector$MaxValue.cl
+ ass
+SHA-256-Digest: aQZCM1KSOF+MEdGjXBpclZhPd+LKvJjoFvUIf1A64xk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/License.class
+SHA-256-Digest: ZFVuGJXxh3SelAQ1CwZYF8CDiB9WnxTT5vEp7RybBPA=
+
+Name: org/eclipse/equinox/internal/p2/metadata/TouchpointType.class
+SHA-256-Digest: 4u0JL0R6k9kKHjTpfDvz9SahRJu3yOj9KfTXtgq2v1o=
+
+Name: org/eclipse/equinox/internal/p2/metadata/EnumDefinition.class
+SHA-256-Digest: OrbC6j5U6W6GvyGMctgJfxgyA+hx92CsHEo6mrh6Ofk=
+
+Name: org/eclipse/equinox/p2/metadata/ICopyright.class
+SHA-256-Digest: xOKwGQi2oDCx1VtQqJE5lTXGBpETLQ2xNzF391cuzUM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/MemberProvider
+ $ServiceRefMemberProvider.class
+SHA-256-Digest: vbxd09fDcSJDfPp6dH4XeyOlXcIA0UpF4OWlDM9vOqg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CoercingCompar
+ ator$FromStringCoercer.class
+SHA-256-Digest: wOTVEPF8bSBFXCsXRKLIdcwM84w3AFw5O9VTCWsgYHs=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/First.class
+SHA-256-Digest: d21G/5cVIswCDch/uVQGy5/fukkTlOD/B6kFervFH8U=
+
+Name: org/eclipse/equinox/p2/query/CollectionResult.class
+SHA-256-Digest: QjaE30NQfIn/vpXxl+tRgDe5Vy42fnYl2uovNnOS8IE=
+
+Name: org/eclipse/equinox/p2/metadata/KeyWithLocale.class
+SHA-256-Digest: Oyrdkl8vOnf82F6lZI51Wwp/o9c7byInrDMaX0y2WHk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$Delim
+ iterFragment.class
+SHA-256-Digest: W6NvqAt425hyyzAas2LiEhLTrsL3AG8Fz0g+MzBSFm0=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$PadFr
+ agment.class
+SHA-256-Digest: ruRXfce0T5BDJr0Kww7fUcRLztJvNQJJRoV79iKXJ90=
+
+Name: org/eclipse/equinox/internal/p2/metadata/InstallableUnitPatch.clas
+ s
+SHA-256-Digest: us5ctWnF4P4Sljst2/+X32YXeHkItHdZ5gclx3vcH94=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/MemberProvider
+ $MapMemberProvider.class
+SHA-256-Digest: paKxNjBFrbWeyZ5w6Ds4JGB5afF6hvbnaa0Luewz/Fk=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Equals.class
+SHA-256-Digest: 8bJLljjZ6r3x35L6j1Pt3+qOhtB2+BHP9LGI0kN3cKc=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Unique$UniqueI
+ terator.class
+SHA-256-Digest: sVi0G96QcsGoPqVaihcROPF2WR/OICxFQwitAO8WAE8=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/NAry.class
+SHA-256-Digest: 3AUeX7L6KD2NE37MrJqraIVfyB6YWcInGNOybaZdvzk=
+
+Name: org/eclipse/equinox/p2/metadata/expression/IExpressionVisitor.clas
+ s
+SHA-256-Digest: Eq2MC1ILUe1HDQJqE861WYGr1S4mRrdUNRvHfDyHZt0=
+
+Name: org/eclipse/equinox/p2/metadata/IInstallableUnit.class
+SHA-256-Digest: xTBTeDfEeW1On8xMQpASm3ovHo05eQ3ZS7y3eXp7sPY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Function.class
+SHA-256-Digest: BNJcQRuEpC7qSjO10HMSfWpDH0FM7hXSOVwmjoa8hyM=
+
+Name: org/eclipse/equinox/p2/metadata/expression/ExpressionUtil.class
+SHA-256-Digest: 5Ef9Pcjsic2lDhFgL0L/pBRWo8AhUnkjgdhwN+Dq9zE=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/IExpressionCon
+ stants.class
+SHA-256-Digest: rMxnm0lvym19tfTae6OFcXx1ljPSVewiVFb3RW+A2Xg=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Unique.class
+SHA-256-Digest: Ox2KWtPhYv4K5c8SDKO8a0nKvL6nWB8gPRnqmlmeNOU=
+
+Name: org/eclipse/equinox/p2/query/QueryUtil.class
+SHA-256-Digest: pu1bu9tQLlsiQ/ZCSmM6e7G018RS0nVTabBMkJ25dyE=
+
+Name: org/eclipse/equinox/p2/metadata/index/IIndex.class
+SHA-256-Digest: gLawaludYJTlZaaCN0V70iHDPfxzIcLSl3lkphUpHKU=
+
+Name: org/eclipse/equinox/p2/query/CompoundQueryable$IteratorCapture.cla
+ ss
+SHA-256-Digest: Pks7FqkHFZ6NPbw4hmP0N1D9l+Dc2NKPCyA0/9I7kp4=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/EvaluationCont
+ ext$MultiVariableContext.class
+SHA-256-Digest: fIHlmIdU/RxqrU9f+HB9nPsA5FWbf4MTNxSp7lSzq3E=
+
+Name: org/eclipse/equinox/p2/metadata/IRequirement.class
+SHA-256-Digest: sJkOQH7pVkO+imcQ18E0dIOuQWZdmFkxW8J30Qy3gn8=
+
+Name: org/eclipse/equinox/p2/query/IQuery.class
+SHA-256-Digest: VhUNlEKIkQYRIt5mEb0CTFxz+cfMD7szKO1o/2ZCYFo=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser.class
+SHA-256-Digest: xskA6DWvhA95VYMTe2eWGP33okfQXvmgsYiGZGFcs5I=
+
+Name: org/eclipse/equinox/internal/p2/metadata/VersionFormatParser$Range
+ Fragment.class
+SHA-256-Digest: DppLI6SaHONv/NB7tGFqhOAJF5yLxSZFKR1grLq1I/E=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Compare.class
+SHA-256-Digest: MIE+vGI3BPvlzPeHBXWOgDE/RwZ3YBN/S2+iIhm/WBY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Latest.class
+SHA-256-Digest: +cCaYveiwR8384MGKonUulO4t34hASsVg1frZY1BlNY=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Parameter.clas
+ s
+SHA-256-Digest: y5lavN8fwVgwXAULGJ0+dRzpicdBs89ehG1xg00kCXs=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Array.class
+SHA-256-Digest: RRLftPzwIGzIdO8MZNAHMHWeh3YSDhBhlz3qckR2OTU=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/MemberProvider
+ $CIDictionaryMemberProvider.class
+SHA-256-Digest: U1vlvy4OBkVJ58VZOBd3MAVNNVe0YMQ+bORyABZdJ+w=
+
+Name: org/eclipse/equinox/p2/query/IQueryable.class
+SHA-256-Digest: FyE4C91dopcG1Y63YQeVI/r93jtpuCahThFVgsRr8Wo=
+
+Name: org/eclipse/equinox/p2/metadata/ILicense.class
+SHA-256-Digest: oRLKYeiOwiO7F0J+Prjcs6hJtCGXKhHnXexEOXoQRfM=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/Condition.clas
+ s
+SHA-256-Digest: EK0jBAmTwkMADb/yQpwTuZBAwXmnPpQfkiffWBQPtOw=
+
+Name: org/eclipse/equinox/p2/metadata/VersionedId.class
+SHA-256-Digest: KL1uyNLvgVgnjZxqAkymEVewyOEwtFw1+xFO7q3LU2I=
+
+Name: org/eclipse/equinox/internal/p2/metadata/expression/CoercingCompar
+ ator$SetAccessibleAction.class
+SHA-256-Digest: XNDSjw+5TCirk0L2UMgCkEZrKrwJOib37de1NJT6Zjk=
+

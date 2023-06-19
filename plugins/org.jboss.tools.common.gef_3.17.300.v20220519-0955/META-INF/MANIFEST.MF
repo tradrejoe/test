@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-SymbolicName: org.jboss.tools.common.gef
+Bundle-Localization: plugin
+Export-Package: org.jboss.tools.common.gef,org.jboss.tools.common.gef.ac
+ tion,org.jboss.tools.common.gef.alignment.xpl,org.jboss.tools.common.ge
+ f.edit,org.jboss.tools.common.gef.edit.xpl,org.jboss.tools.common.gef.e
+ ditor.xpl,org.jboss.tools.common.gef.figures,org.jboss.tools.common.gef
+ .figures.xpl,org.jboss.tools.common.gef.outline.xpl,org.jboss.tools.com
+ mon.gef.xpl
+Require-Bundle: org.jboss.tools.common,org.eclipse.jface.text;bundle-ver
+ sion="3.7.0",org.eclipse.ui.workbench.texteditor;bundle-version="3.7.0"
+ ,org.eclipse.ui.editors;bundle-version="3.7.0",org.eclipse.ui.ide;bundl
+ e-version="3.7.0",org.eclipse.swt;bundle-version="3.7.0",org.eclipse.ui
+ ;bundle-version="3.7.0",org.eclipse.ui.views;bundle-version="3.6.0",org
+ .eclipse.draw2d;bundle-version="3.7.0",org.eclipse.gef;bundle-version="
+ 3.7.0",org.eclipse.core.runtime;bundle-version="3.7.0",org.eclipse.core
+ .resources;bundle-version="3.7.100"
+Bundle-Version: 3.17.300.v20220519-0955
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-BundleShape: dir
+Eclipse-SourceReferences: scm:git:https://github.com/jbosstools/jbosstoo
+ ls-base.git;path="common/plugins/org.jboss.tools.common.gef";commitId=1
+ e6a0d00d897b50df87c98aca3ef4e332bed099a
+Bundle-License: Eclipse Public License;link="http://www.eclipse.org/lega
+ l/epl-v10.html"
+

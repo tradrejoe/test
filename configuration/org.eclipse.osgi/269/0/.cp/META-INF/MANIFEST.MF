@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-Vendor: %providerName
+Bundle-SymbolicName: org.eclipse.e4.core.di.extensions;singleton:=true
+Bundle-Version: 0.17.200.v20220613-1008
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Export-Package: org.eclipse.e4.core.di.extensions;version="0.16.0"
+Bundle-Localization: fragment
+Import-Package: javax.inject;version="1.0.0",org.osgi.framework;version=
+ "1.8.0";resolution:=optional
+Automatic-Module-Name: org.eclipse.e4.core.di.extensions
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.git;path="runtime/bundles/org.eclipse.e4.core.di.extensi
+ ons";tag="I20220613-0910";commitId=195aa692a459f685f85eecc493f58c74543f
+ c65f
+
+Name: org/eclipse/e4/core/di/extensions/Service.class
+SHA-256-Digest: 48fsafDJdU5djq5CDMgIslk5tTJUVhnpO25nc4Ege80=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: fragment.properties
+SHA-256-Digest: IotaaV4fg5SnUHNYw2rrVwbfu11DSn3aF2/p7EnsvRg=
+
+Name: org/eclipse/e4/core/di/extensions/Preference.class
+SHA-256-Digest: kWNhsDoMnmdh2HH2pVK0ooHbCGHPlG9x85DbuBzMitM=
+
+Name: org/eclipse/e4/core/di/extensions/OSGiBundle.class
+SHA-256-Digest: XepoJRR4aH9zGMyzSSd7CDy9CEQUFBrz+3BQzFeR0CY=
+
+Name: .api_description
+SHA-256-Digest: XawXFMZzZ5oS0NCcV650HpIplCw3gOThDskx39shhmY=
+
+Name: org/eclipse/e4/core/di/extensions/EventTopic.class
+SHA-256-Digest: QzAOussvFQeSOc2P72YwMH5RJWkKarPOBsbHGRMOV6U=
+

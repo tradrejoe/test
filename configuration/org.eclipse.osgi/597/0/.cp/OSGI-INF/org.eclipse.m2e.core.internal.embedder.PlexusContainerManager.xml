@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="org.eclipse.m2e.core.internal.embedder.PlexusContainerManager" deactivate="dispose">
+  <service>
+    <provide interface="org.eclipse.m2e.core.internal.embedder.PlexusContainerManager"/>
+  </service>
+  <reference name="loggerManager" interface="org.codehaus.plexus.logging.LoggerManager" field="loggerManager"/>
+  <reference name="mavenConfiguration" interface="org.eclipse.m2e.core.embedder.IMavenConfiguration" field="mavenConfiguration"/>
+  <reference name="workspace" interface="org.eclipse.core.resources.IWorkspace" field="workspace"/>
+  <implementation class="org.eclipse.m2e.core.internal.embedder.PlexusContainerManager"/>
+</scr:component>

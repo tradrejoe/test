@@ -1,0 +1,271 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: SMmK9UprqJs4BRsAmscPUHohWsnEJ1wRkdfT25P/zT8=
+SHA-256-Digest-Manifest-Main-Attributes: lSO8qaTypghVCcpTChRrFGpjP8vW42B
+ hMEae8yaieUc=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/ArtifactReposi
+ toryComponent.class
+SHA-256-Digest: IZJE8DtQIUgscbRO/+0VzqsTI7/HoZtOGddyATBc4a8=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/CompositeArtif
+ actRepositoryFactory.class
+SHA-256-Digest: dTtCn01QNf9AhtJG/vrWUN1Wa6RxGeKCkD7hUrqLwTk=
+
+Name: plugin.xml
+SHA-256-Digest: VHo8djU9tJcMrPTj/xY1GbNwnN0nC5N78PhiBLnNUqM=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/pack200/Pack20
+ 0ProcessorStep.class
+SHA-256-Digest: 6d1ncbaBHudOTpjY0lmWG49zPhRKvoBT7f0wJAZxpUY=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/checksum/Check
+ sumVerifier.class
+SHA-256-Digest: myP1K92Y3k8BHB1e7lk2OMyk71dZ42R8qPQ5MFio/Gk=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO$Parser$RepositoryHandler.class
+SHA-256-Digest: Z5qm8gYGqnw11LtqEIKq+//w98wdXCUqNjaXr1t1Ts4=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/Messages.class
+SHA-256-Digest: 801ngJqLhuuiBwIi1msgfo1GQmobWJCb1/biERZ2jQs=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/pgp/PGPPublicK
+ eyStore.class
+SHA-256-Digest: dtGDUBcPYpf1RoXYoDFCsSe7XCCK5qP4jr8GphCTHcs=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/md5/MD5Verifie
+ r.class
+SHA-256-Digest: GHuSxUZCdl9/UJxILLTwuTb4P39TwSoD8pjwOXNWig4=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactDescriptor.class
+SHA-256-Digest: j0tLc9eajyM+XEsOkr9zFrFPNcHDDGQBOfjqWRToENM=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/ArtifactReposi
+ toryManager.class
+SHA-256-Digest: eC9X2tG7/LlU3BY9RPoyq5b77Xfagq9TdaFRE8id6EI=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/MirrorRequest.
+ class
+SHA-256-Digest: t50A8n0gsrP4JBV+hjxKwNg76AoZc8KgctpbVhhS9w8=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/MirrorSelector
+ $MirrorInfo$1.class
+SHA-256-Digest: 7k2GXuOco/7v05JY4CO/I78OpTyJ2XOYOUsxQk0yrg8=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/md5/messages.p
+ roperties
+SHA-256-Digest: ZvzkbSp2m77DeCo+YZyHJRyz/w9qWw/aMT36s/lVE9U=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/checksum/messa
+ ges.properties
+SHA-256-Digest: Ls2192ZfJijZKPX4r8IUJIiayqXgidzMpf82W0X7A2E=
+
+Name: org/eclipse/equinox/internal/provisional/p2/artifact/repository/pr
+ ocessing/Messages.class
+SHA-256-Digest: W3ZXZZiQqt6VAeQ9mAAzz8yCDTrcSAfmP8ctoTbUG6w=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/messages.prope
+ rties
+SHA-256-Digest: gre1K0Z0jOufYjuCJp7fD38ljvSjhHbODkqVGuYTm6I=
+
+Name: plugin.properties
+SHA-256-Digest: monH51EkC3hUQ8wefbOiVEdUq6cfRT15D0U1WUSFCaw=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/checksum/Check
+ sumUtilities.class
+SHA-256-Digest: gJCE2jC9kgDyl/uLvGtxXE8ode33CDnbuV78InxStH4=
+
+Name: org/eclipse/equinox/internal/provisional/p2/artifact/repository/pr
+ ocessing/ProcessingStepHandler$ProcessingStepHandlerException.class
+SHA-256-Digest: jASxQFqGC1cfYIkcZmcMnAjB0JSlC4KLo4sPpgFm6Fo=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/RawMirrorReque
+ st.class
+SHA-256-Digest: 5h8Ti16lbgvDLRsXZ4Rzdrrxon6vrvd68BHbDuchdV8=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/MirrorSelector
+ $MirrorInfoComparator.class
+SHA-256-Digest: OtzMPYAspQDOO5Bl+UzjSksS7HoXxDvw1E8V2x6kPRM=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processing/AbstractBuffer
+ ingStep.class
+SHA-256-Digest: +TtJMv+pe8P7IJNxuilkFu37W5iQJmDy1yekiv3RFqY=
+
+Name: .api_description
+SHA-256-Digest: y46XEq9RNaJ+n1f/4ZAxhvw9SCML5BVaJTJoyjfm1C8=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/pgp/Messages.c
+ lass
+SHA-256-Digest: hLwTT+0SMtClZIRykWz0pcY/64eFW03FroDHcsKclqE=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO$Parser$ProcessingStepHandler.class
+SHA-256-Digest: +upKBxBK9X9sm/NXelKViWhcut1iWwibDGmo4EJNcPo=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/Univers
+ alUniqueIdentifier.class
+SHA-256-Digest: EtvjyCqqPr5Xi/r4UYU8afSTFxc+re0qrHQtbdtv0qg=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/pgp/PGPSignatu
+ reVerifier.class
+SHA-256-Digest: 7FX8RBJJ4/98NI7vV8R2MAk+ujytE/lmf7yGyErQT7s=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO.class
+SHA-256-Digest: 5v3M4h3nWVY8umsj+l/4D85PITN2VISdAmkB+vrhG8w=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO$Writer.class
+SHA-256-Digest: eCWLmm+WRLvS1oDq9MchYufkULvDAKL/iC6B+2/L9NQ=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/ArtifactReques
+ t.class
+SHA-256-Digest: e8yvdOJERQS+fKWKtC7wjM0fiwM0nrykWnOff8Jk8gs=
+
+Name: org/eclipse/equinox/internal/provisional/p2/artifact/repository/pr
+ ocessing/ProcessingStep.class
+SHA-256-Digest: 9UYkBIe/0h0ChBnwl5bb3z7c1p2dZniVuz3OBxgd6rU=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryFactory.class
+SHA-256-Digest: +8tAZAjz1SGn/6WHqYkoIg5LhwnHIh6dKFXMn/M6o5U=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO$Parser.class
+SHA-256-Digest: 00rg3n2RH/L6A/pz4adW6amDp5wfVUcT9KBMYsdZWHE=
+
+Name: org/eclipse/equinox/internal/provisional/p2/artifact/repository/pr
+ ocessing/ProcessingStepHandler$EmptyProcessingStep.class
+SHA-256-Digest: KpaCD+EVeTxWQdsDj2DWkDs6y3WXOtD0sHNiBTGwCrg=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO$Parser$RepositoryDocHandler.class
+SHA-256-Digest: uJzd/GFbzmF0Cp2HLjJpGMK0cD+JQoNh1Ny4A1tWmeE=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/MirrorSelector
+ $MirrorInfo.class
+SHA-256-Digest: J7xTv2wLWwWXMJqnekpjKs//xRpDPIwoGzn/n07xMp4=
+
+Name: OSGI-INF/repositoryManager.xml
+SHA-256-Digest: CkPK7jLM2gLY4Evj38KX4WDr807suy6LffAS/9NFrnE=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/Activator.clas
+ s
+SHA-256-Digest: 1UwzszN+ehZNgthY5CD+LJNZAoYI91WxwBEDEvbQ/dk=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/CompositeArtif
+ actRepository$ChildInfo.class
+SHA-256-Digest: SVztUrbpVXQuyftA0C55xWhJb72FdRAIMloxZYZ3GzQ=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO$Parser$ArtifactHandler.class
+SHA-256-Digest: Z0f6CstBXFk2BrIwS0hocWNm4IZiOiJo2tYtQvDFdkw=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/MirrorSelector
+ .class
+SHA-256-Digest: jqFkWBIljqMUVeRTr8YyDqBjeJyGCTNyCDMa2X6+CfM=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO$Parser$MappingRuleHandler.class
+SHA-256-Digest: ALhqs1DxhNJqJkLGYAXVuzTk3XcfppRXkxooeC6MoeI=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepository$ZippedFolderOutputStream.class
+SHA-256-Digest: aBzsj90yY8SJcmTf8PPHIbnodyodCIL5w3QQ4Y6rlSM=
+
+Name: org/eclipse/equinox/internal/provisional/p2/artifact/repository/pr
+ ocessing/ProcessingStepHandler.class
+SHA-256-Digest: Mlyd2I9mF7PM21oLUBDhLIDVjNW9oeF58Y2Jsg+29ys=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepository$ArtifactOutputStream.class
+SHA-256-Digest: oirbH00cs0hexmzVZEDLGS0hepKBqwUnaLmOvAHSQpc=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepository.class
+SHA-256-Digest: EsSRdY+zZbcMmJOLDwi2qg7sh6IitRgV1hqgZwDNHrM=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/checksum/Messa
+ ges.class
+SHA-256-Digest: sZmsLLQrUxKmMVRBNke3TWyhgVO2qMiIIaH8tcAOK3Q=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/KeyInde
+ x.class
+SHA-256-Digest: xuYP4kasBNhXW0jZZ/qfQj3x2W+qELMSBWrl8i4VXXs=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processing/Messages.class
+SHA-256-Digest: ukneSkjxvP8l4U7Gu51CU4ufrl9JNBCrLy8vi6HDBvQ=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/CompositeArtif
+ actRepository.class
+SHA-256-Digest: dC9LxOQBHYMLE5UZUz9bf1seQ4V2mRbwyKYmxoR4Re8=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/Downloa
+ dJob.class
+SHA-256-Digest: 6S9qqczHohjIRbLZknEYgDN4sK0J8s1s37qQV9JgQ7E=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/BlobSto
+ re.class
+SHA-256-Digest: wmVs0tG6bCFa8mvwVhgWrqv9VBqOl8RMxBru+U9Y2tc=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/MirrorEvent.cl
+ ass
+SHA-256-Digest: BODwEfUaQi9lJbV80uiRZepFF8i7szQlg1HcGK9NpoU=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/equinox/internal/provisional/p2/artifact/repository/pr
+ ocessing/messages.properties
+SHA-256-Digest: XsOPNiKuknD8MgXXXYkQYyHNGnAENNP3ZZdcR+4ADkQ=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/md5/Messages.c
+ lass
+SHA-256-Digest: Ta7o6mWhJ+oyvQjnbB7Z0vzkP+P4zXid73xCqwRtkM8=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO$Parser$MappingRulesHandler.class
+SHA-256-Digest: iYTxJK6Ljwx7NkRsPxdqIl95ETYvZxv8ruatEdFz9Zk=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO$XMLConstants.class
+SHA-256-Digest: aWlq+RxbmqUAuyd6MRFykM2vHItQquExHYMmyf/O0tQ=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/SignatureVerif
+ ier.class
+SHA-256-Digest: FEwy6jfTPBUv/z6abfEELM/2Pn422i0ZCXdlWPBIVLk=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/checksum/Messa
+ geDigestProcessingStep.class
+SHA-256-Digest: l21Z3k9lZbrreDlu6kp79nPVvFkUqd5SGXRr93pZ2sA=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processors/pgp/messages.p
+ roperties
+SHA-256-Digest: dRVpTtmpH+tLa5Uwq2ewG0fnyaaOUJI4gkieqzsgVdU=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO$Parser$ProcessingStepsHandler.class
+SHA-256-Digest: EZnSYyPuokgH97Bszu5YIsAcxJd5H+MhVtiJvuCUN0k=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/XZedSim
+ pleArtifactRepositoryFactory.class
+SHA-256-Digest: gGyI40t1coX4+vykhbCDQp+2ik44hyv7bt8FvvUDDI4=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/SimpleA
+ rtifactRepositoryIO$Parser$ArtifactsHandler.class
+SHA-256-Digest: ytRCrg8WOpd5/LEbijzCuOavRHEyTpPE5qy81b9AGyM=
+
+Name: org/eclipse/equinox/internal/p2/artifact/processing/messages.prope
+ rties
+SHA-256-Digest: gASVZ4bfDSOWhTSvchOK0Q3tjiWjyIqSxe9c1vTY5hA=
+
+Name: org/eclipse/equinox/internal/p2/artifact/repository/simple/Mapper.
+ class
+SHA-256-Digest: +dMewwFmZzFi4QoOt1Uo6OyOd1HHZAA6yioNi4ASwGk=
+
+Name: org/eclipse/equinox/internal/provisional/p2/artifact/repository/pr
+ ocessing/ZipVerifierStep.class
+SHA-256-Digest: 9qy85J6gzMexRk+YWjYn/oQJ0t3RCxdmBL4W0HgwAS8=
+

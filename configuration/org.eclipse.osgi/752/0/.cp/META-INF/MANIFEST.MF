@@ -1,0 +1,983 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %Plugin.name
+Bundle-SymbolicName: org.eclipse.ui.navigator; singleton:=true
+Bundle-Version: 3.10.300.v20220817-1444
+Bundle-Activator: org.eclipse.ui.internal.navigator.NavigatorPlugin
+Bundle-Vendor: %Plugin.providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.ui.internal.navigator;x-friends:="org.eclips
+ e.ui.navigator.ide,org.eclipse.ui.navigator.resources",org.eclipse.ui.i
+ nternal.navigator.actions;x-friends:="org.eclipse.ui.navigator.ide,org.
+ eclipse.ui.navigator.resources",org.eclipse.ui.internal.navigator.dnd;x
+ -friends:="org.eclipse.ui.navigator.ide,org.eclipse.ui.navigator.resour
+ ces",org.eclipse.ui.internal.navigator.extensions;x-friends:="org.eclip
+ se.ui.navigator.ide,org.eclipse.ui.navigator.resources",org.eclipse.ui.
+ internal.navigator.filters;x-friends:="org.eclipse.ui.navigator.ide,org
+ .eclipse.ui.navigator.resources,org.eclipse.ui.tests.navigator",org.ecl
+ ipse.ui.internal.navigator.framelist;x-friends:="org.eclipse.ui.navigat
+ or.ide,org.eclipse.ui.navigator.resources,org.eclipse.ui.tests.navigato
+ r",org.eclipse.ui.internal.navigator.sorters;x-internal:=true,org.eclip
+ se.ui.internal.navigator.wizards;x-friends:="org.eclipse.ui.navigator.r
+ esources,org.eclipse.ui.ide",org.eclipse.ui.navigator
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.18.0,4.0.0)"
+ ,org.eclipse.ui;bundle-version="[3.6.0,4.0.0)",org.eclipse.core.express
+ ions;bundle-version="[3.4.0,4.0.0)",org.eclipse.jface;bundle-version="[
+ 3.18.0,4.0.0)"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Automatic-Module-Name: org.eclipse.ui.navigator
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.ui.git;path="bundles/org.eclipse.ui.navigator";tag="I202
+ 20817-1800";commitId=08c480b6f7aa3276bac6d1de4c262eade5ec73fb
+
+Name: plugin.xml
+SHA-256-Digest: psF1Zdm8E/UGGj3eUOHd0AzXD+OIez3IcUsYq/XXlc0=
+
+Name: org/eclipse/ui/internal/navigator/extensions/RegistryReader.class
+SHA-256-Digest: Qf9EHibNOcRh0ywpywUZrYa7SPqbNm5EVZtwsMuoPmw=
+
+Name: org/eclipse/ui/navigator/ICommonActionExtensionSite.class
+SHA-256-Digest: D0ySZj5GKDT20iOk15EYlQYk8VcWztjbSxVgYYwFw1k=
+
+Name: org/eclipse/ui/internal/navigator/dnd/CommonDropAdapterDescriptor$
+ 1.class
+SHA-256-Digest: jjcZDQoS/7uiBTnVVYks/NZM5q4arjYmLgioge4jOOA=
+
+Name: org/eclipse/ui/internal/navigator/actions/CommonActionProviderDesc
+ riptor$CommonActionProviderDescriptorCompator.class
+SHA-256-Digest: A/YK8XgMnxkgR1gCODcHUUhILg2ZMtzcmXA0cWlsa90=
+
+Name: org/eclipse/ui/internal/navigator/framelist/UpAction.class
+SHA-256-Digest: SPVZoM0uyuWf6J/wi7VqWMapGTlPPW7JFtBXcEJTQwY=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SkeletonLabelProvider
+ .class
+SHA-256-Digest: AAtS3wjdB8aQF7aWjYNLchM5/JD81wHXKIQKhWWHnkY=
+
+Name: org/eclipse/ui/navigator/CommonDragAdapterAssistant.class
+SHA-256-Digest: C61/7ftBMfQpbrdOV06Hz96lUdrH7/FwF9kaV1NQc5U=
+
+Name: icons/full/clcl16/elipses@2x.png
+SHA-256-Digest: rilepQlsbqlszyWkSNPHGfmKLAMaIPsZJohLFpE87vQ=
+
+Name: org/eclipse/ui/internal/navigator/actions/LinkEditorAction$2$1.cla
+ ss
+SHA-256-Digest: qXQRg5n9gox13Y4gN7waNUyU577EsJtfGW4zTIo/mZs=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SafeDelegateTreeConte
+ ntProvider$2.class
+SHA-256-Digest: ZZfFyWP++PtAob6uzxJsdgxAZIrwx2qWI8DmDxenpJA=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorViewerDescri
+ ptor.class
+SHA-256-Digest: O6iD8j/J0wZspNlJmoq2gjGgtB8O5vZ83lv/zVsJnBw=
+
+Name: org/eclipse/ui/internal/navigator/extensions/LinkHelperManager$Lin
+ kHelperRegistry.class
+SHA-256-Digest: bXOmvjuCdf2fPtIFiy6VBHi+6qqy4+m/TTL74Au7QTs=
+
+Name: org/eclipse/ui/navigator/CommonNavigatorManager$UpdateActionBarsJo
+ b.class
+SHA-256-Digest: +KGxDH69QOgGbhVlYniA537JVhs0lAm1cCIKCqxV+kw=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorSaveablesService$Lifecy
+ cleListener.class
+SHA-256-Digest: y1+S8chjosInT11kvC0Pusj9Hg+NWF8vTn11X1EPUfw=
+
+Name: org/eclipse/ui/navigator/CommonViewer$1.class
+SHA-256-Digest: f1dN2deNhTdLxEwL64L3bPzytrH5Nwt41mTJZQ2dwsQ=
+
+Name: org/eclipse/ui/navigator/CommonNavigator$1.class
+SHA-256-Digest: miW8DPg+oxCWKKCvzbUAmz9ycM6fOggNqj+hqtkSDzE=
+
+Name: org/eclipse/ui/navigator/IMementoAware.class
+SHA-256-Digest: 3QCVNnzPRSbhD5klziG+1XVdqvvY+k4eb73HfytVo4k=
+
+Name: .api_description
+SHA-256-Digest: ai01LrsAqzK1pDD8DWnYtLkO5lgqbl9omkxwRAYSUgw=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorPlugin$LogJob$1.class
+SHA-256-Digest: nzHqfxG1r+hGnRe1uLgtvnyCxZRmVP7thuadgtStFYE=
+
+Name: icons/full/clcl16/collapseall@2x.png
+SHA-256-Digest: Ot1jsmH6vIdUI9SQQCPUMj/x4EYXj64NFH387xtwbpM=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorPipelineService$1.class
+SHA-256-Digest: FyIacGP4rRMMjsS3FqUkIOQ2siSLE+qVyJ6Oi67t5Cc=
+
+Name: org/eclipse/ui/navigator/LinkHelperService.class
+SHA-256-Digest: a8K602OlB3w3NPSf+Z2X18zv60qVWHsksLFWLVzpj9A=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentService.class
+SHA-256-Digest: YowyaI2NJ7+kc4pfHeQuC8Mp1wGuCIduNeJD6WNt82I=
+
+Name: org/eclipse/ui/internal/navigator/extensions/ILinkHelperExtPtConst
+ ants.class
+SHA-256-Digest: e2KCcWv6289EWb0DxRkuf2Cxnn9JLYtuopLIRgUIzGs=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterDescriptorMa
+ nager.class
+SHA-256-Digest: iAWWANT0vzlAXVjpz/PgFqft/nCTG4SQgCcA9P2dpS4=
+
+Name: org/eclipse/ui/navigator/NavigatorActionService$5.class
+SHA-256-Digest: fju9xdysT2ICQLHbHbmJn+WI5flxnARaI7r3UfM/ctE=
+
+Name: org/eclipse/ui/navigator/IExtensionActivationListener.class
+SHA-256-Digest: rZQZrUnAL+3gXYBhRVNLMqvvX6HxZc+xDLfDZRJ9UPs=
+
+Name: org/eclipse/ui/navigator/IExtensionStateModel.class
+SHA-256-Digest: pbc7DDSAp7Dp9xFsvuEMAjRG/Xz3KNadg3/zC8IdN70=
+
+Name: org/eclipse/ui/internal/navigator/actions/CommonActionDescriptorMa
+ nager.class
+SHA-256-Digest: V7GXhKBGtecki0AbOu565qqNLe+JH46/ThxpXJ6nnVU=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceLabelProv
+ ider$1.class
+SHA-256-Digest: fDbwl8CIR+UyJ3+ZnAMHD8DjdyG380YtKSuoUxivsUE=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorViewerDescri
+ ptorManager.class
+SHA-256-Digest: IV3w8pn0KIvY6jtc92UoUrHgnwHhDlPOoclET6DoeSw=
+
+Name: icons/full/elcl16/collapseall.png
+SHA-256-Digest: pAOGtZ4GKfmt6e+1VlskYEftxSRKqU77KrTwyex4/60=
+
+Name: org/eclipse/ui/internal/navigator/dnd/NavigatorContentServiceTrans
+ fer.class
+SHA-256-Digest: AAhVWNd871kYhGU3Aw70c8cdoDkZK2b5uZ5ywNC8EIY=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SafeDelegateCommonLab
+ elProvider.class
+SHA-256-Digest: b9pcS90i/J904P+3AHpxrS+LTQxDt9ESTaUdwT2wnU8=
+
+Name: org/eclipse/ui/internal/navigator/TextActionHandler$PropertyChange
+ Listener.class
+SHA-256-Digest: /oDCR/vlwff8A3NqWNzD6HUDfqLSV/ZJLHwL/bz2BZ4=
+
+Name: org/eclipse/ui/navigator/CommonNavigator$2.class
+SHA-256-Digest: NKxGODUj7hw4aV/H216NznWExbbypt5k8n1+21YTYRA=
+
+Name: org/eclipse/ui/navigator/NavigatorActionService$4.class
+SHA-256-Digest: xnu9HE8BIo032agcHJc7YdvLN6F6KfSxdbXI1yoRCtk=
+
+Name: org/eclipse/ui/internal/navigator/framelist/FrameAction.class
+SHA-256-Digest: BbKoaC2YQxf7drHt5EpNF8+vCHvT8aDhQRsfY+VHjNw=
+
+Name: org/eclipse/ui/internal/navigator/extensions/LinkHelperManager$Lin
+ kHelperRegistry$1.class
+SHA-256-Digest: 0wlS3X2OsC9mhBqoS82qQB5QUv+1+ry11/PHFw98JLk=
+
+Name: org/eclipse/ui/internal/navigator/filters/UserFiltersTab.class
+SHA-256-Digest: 9KTOpLP9kMgJ8ldjunGAwzpVnqyR0q4gY3pIR7nxmAc=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterSelectionDia
+ log.class
+SHA-256-Digest: mFbTroV7AxdERIaWNZk8VzBPAKYGbKxAnnoiZpQKVHE=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentDescr
+ iptorManager.class
+SHA-256-Digest: eQ8o9riuyLBIyIM7NofGHIx5YX5jPl7upQkMuFYH49o=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceContentPr
+ ovider$1.class
+SHA-256-Digest: 8BQQddOpbnpHaQvT/f53hbF0up6ePA/FHOVxgeu7880=
+
+Name: org/eclipse/ui/internal/navigator/extensions/LinkHelperManager.cla
+ ss
+SHA-256-Digest: E4aib3oz7sly0jk8rOvsTRiMuVT68004Qj03GH0aL5k=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentDescr
+ iptorManager$NavigatorContentDescriptorRegistry$1.class
+SHA-256-Digest: QUKqCwu5geiSYk0hIcXKDlkegJejuI6N2ZdfVra97AI=
+
+Name: org/eclipse/ui/navigator/ICommonViewerMapper.class
+SHA-256-Digest: 4LtdH0dsm2rZOEhSnPQrZhjMNk/gbO347xnlTMpvUdE=
+
+Name: org/eclipse/ui/internal/navigator/dnd/CommonDropAdapterDescriptor.
+ class
+SHA-256-Digest: h+Aa8GajB10ToQdEMCzj1R6c5IT1pZ1qoBCoNoJQpqU=
+
+Name: org/eclipse/ui/internal/navigator/VisibilityAssistant.class
+SHA-256-Digest: sEo2rW297IyLF0PG4iJhmhD0F/gVJnBlXC4a9v5MPoc=
+
+Name: org/eclipse/ui/internal/navigator/framelist/TreeFrame.class
+SHA-256-Digest: JCBXjn8a/xXC3+TYB7aNEefrzCqRLHqkKXFXuu2GTgU=
+
+Name: org/eclipse/ui/internal/navigator/wizards/CommonWizardDescriptorMa
+ nager$CommonWizardRegistry$1.class
+SHA-256-Digest: 9Gn8GtT+mVwYRj+lrhLhPMYJ6EW604BFt+67qSOqn5E=
+
+Name: org/eclipse/ui/navigator/CommonNavigatorManager$1.class
+SHA-256-Digest: jdGs4oLT9q8LMIQ9xVXOxIJqe8yBvSuvvZPTtExOQIQ=
+
+Name: org/eclipse/ui/internal/navigator/framelist/FrameListMessages.clas
+ s
+SHA-256-Digest: 1XdptAQSGQyW1vtxTQiG5qhVgCOU0AIQ+DjILa0qmig=
+
+Name: org/eclipse/ui/navigator/INavigatorViewerDescriptor.class
+SHA-256-Digest: sZNn0fjOVNeY4fLvRXzXeexvxO4VYr3LBS+OZjxCLKw=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SafeDelegateTreeConte
+ ntProvider.class
+SHA-256-Digest: 0PeMvnexVhz/n8ntu2i7PTXtHiSwyOypg227yoQ/33Y=
+
+Name: org/eclipse/ui/navigator/INavigatorContentService.class
+SHA-256-Digest: HJ9vSJgJmeKv9VuwasD+kWmMJy/WUEcAOVa2/8asyK4=
+
+Name: org/eclipse/ui/internal/navigator/extensions/LinkHelperDescriptor$
+ 1.class
+SHA-256-Digest: qd8kqHUkdhMlJvBGpsU0QphSqjzVjYIw1Qei/w4BVp8=
+
+Name: icons/full/elcl16/content@2x.png
+SHA-256-Digest: bVKqroIiavdxXw200AE8IkKrhGKMd0WIw+lL0/ICXJQ=
+
+Name: org/eclipse/ui/navigator/Priority.class
+SHA-256-Digest: FJLiIFwGGKbef1SuC6rF071yrw4r+jP9vmjES0DDGhQ=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorPlugin$Evaluator.class
+SHA-256-Digest: s8udrdj4IjYnwErCXsA1W6gHz5Hcl6HAJ2FIItnc+qU=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterContentProvi
+ der.class
+SHA-256-Digest: StPSeJc2vxnGDbLRneRYY/qWV2QO+vJuMvj7/1GZ17Y=
+
+Name: org/eclipse/ui/internal/navigator/sorters/SkeletonViewerSorter.cla
+ ss
+SHA-256-Digest: LDDhPw2vWxts/9BN3Fzwr+F4S/yeRHJIffAEAqHM++0=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorDecoratingLabelProvider
+ .class
+SHA-256-Digest: Bpf8IzLAIFGBRlhgRwPNgqSRMwrEPdBBSMNxcDyGnaQ=
+
+Name: org/eclipse/ui/internal/navigator/extensions/LinkHelperDescriptor.
+ class
+SHA-256-Digest: iMqUjjNQSF8k/VaqOv6VQ/FdMOCGvrEULbZXqlyvvMM=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterDescriptor.c
+ lass
+SHA-256-Digest: ncNvjrKI+BqGriCDWc06zxncDITL/gsseBYPyqFv70c=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceDescripti
+ onProvider.class
+SHA-256-Digest: VWBM7U0CC6D4yLxld4e/NrjCEewyL4F3h65T7nUfncQ=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentExten
+ sion$1.class
+SHA-256-Digest: 8QyionCv9I1sbEe6IZUToRFoJixeuiprwJeLtey1dr8=
+
+Name: org/eclipse/ui/internal/navigator/framelist/ForwardAction.class
+SHA-256-Digest: TLjCwxLLOQtTxtXpg7sKJje9qnbPgTCBEK3MeZ3+gVw=
+
+Name: org/eclipse/ui/internal/navigator/filters/UserFiltersTab$UserFilte
+ rRegexpEditingSupport.class
+SHA-256-Digest: 7+wpRIKyab2XEd/3vlQJoBH5bCEHOVeRWmRaTyyF3MQ=
+
+Name: org/eclipse/ui/internal/navigator/wizards/CommonWizardDescriptorMa
+ nager$CommonWizardRegistry$2.class
+SHA-256-Digest: 8+clsUbmsNJUSH3Tmzxen3I7KeklV/P7TuGgshzO4mM=
+
+Name: org/eclipse/ui/internal/navigator/framelist/Frame.class
+SHA-256-Digest: 6vKWqPJ2mC9HmRRRFVVzXw9EWSSfi7uFHH3GBFGz+Ug=
+
+Name: org/eclipse/ui/internal/navigator/filters/FilterDialogSelectionLis
+ tener.class
+SHA-256-Digest: hONg9DkMNiNHrFfeNQsQArKRP8vPnohGEwnx9Jk898Y=
+
+Name: org/eclipse/ui/navigator/CommonDragAdapter.class
+SHA-256-Digest: ULVwPvhYwdHZiKD+alpA4tkDv9oaf3EO/PU3lvPSvW8=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentExten
+ sion$2.class
+SHA-256-Digest: YrUnqLOe36bDdwLw+7YjL4Ax7jDgY/egbtZYXuz0als=
+
+Name: org/eclipse/ui/navigator/CommonViewer.class
+SHA-256-Digest: b0s/Iq4UXTjMyFo9pwjok1mhl84Gja75yxGRY6YGx5I=
+
+Name: org/eclipse/ui/internal/navigator/CommonNavigatorFrameSource.class
+SHA-256-Digest: m3DDeC3Ktb12cCTf5s5p9fYCX7wrR7RAnSDVQk+YNTE=
+
+Name: org/eclipse/ui/internal/navigator/actions/CommonActionProviderDesc
+ riptor.class
+SHA-256-Digest: TfoX4QNDsFYBQ86XqnRtdi8nGPkXFjPZBwY0kfIonmY=
+
+Name: org/eclipse/ui/internal/navigator/filters/UpdateActiveFiltersOpera
+ tion.class
+SHA-256-Digest: AKFuBYTCJpUNqgJeDHmYMYhG1u5U2lPjEd+PrGLf450=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceContentPr
+ ovider$CyclicPathException.class
+SHA-256-Digest: Jyv3/fRBDaGeaq3hFDgRC4m4WWWbRtu+6aCN0k8QnUo=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorSiteEditor$1.class
+SHA-256-Digest: ADD33l53+RjSinpWmSDH23A4yz6BblNtX7ChZNl1qG0=
+
+Name: org/eclipse/ui/navigator/CommonViewerSorter.class
+SHA-256-Digest: zmH39vZNFyxFgwwR30cpMo4xzBacqBBZzUPUlnISWVQ=
+
+Name: org/eclipse/ui/navigator/CommonDragAdapter$2.class
+SHA-256-Digest: a46IKGXwWoo7UcQQGvdh1eE0yUaiXxCbNvwH9tq4CFI=
+
+Name: org/eclipse/ui/internal/navigator/TextActionHandler$DeleteActionHa
+ ndler.class
+SHA-256-Digest: Nd+YsozRMJ/WDUf4u3zuTvQn5oulisq7loeQiT4pnqs=
+
+Name: org/eclipse/ui/internal/navigator/dnd/NavigatorPluginDropAction.cl
+ ass
+SHA-256-Digest: qNLlm98vPsJ2ZNenmUKtTWPQvucz5pZ2aU7RPQ4vlDw=
+
+Name: org/eclipse/ui/internal/navigator/TextActionHandler.class
+SHA-256-Digest: OUgxKJnpQiUFZNv4956LJD0EDJkoSB2mt+xAA+bpNhU=
+
+Name: org/eclipse/ui/navigator/INavigatorSaveablesService.class
+SHA-256-Digest: uDl2f3WC8+CJ+M7NLdoKj9sW1ZP9LUzLqbExfCRIFnc=
+
+Name: org/eclipse/ui/internal/navigator/CommonNavigatorActionGroup.class
+SHA-256-Digest: +OL3836eg+fM4VFeGjhcJrIlDI5tTCScwMD6Fo05l0Y=
+
+Name: org/eclipse/ui/internal/navigator/filters/ContentExtensionsTab.cla
+ ss
+SHA-256-Digest: 1EOfOxf3mKxWHknb77ez8WzwQeI5DfDcyORnpl0J1UM=
+
+Name: icons/full/clcl16/pause@2x.png
+SHA-256-Digest: 8CyF2Y4qbPA2O+WlgDZtvtAUB4a891FfIM0xD+1NJoM=
+
+Name: icons/full/clcl16/pause.png
+SHA-256-Digest: q/xi3vfCGuCIy/SOWWV+4DcBdn2kWBSCX12fKXoqLWE=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SafeDelegateTreeConte
+ ntProvider$1.class
+SHA-256-Digest: HuYZL6nhun8nykq2Enl4XyO6P35z1LIYWdMoZYPjLzg=
+
+Name: org/eclipse/ui/navigator/NavigatorContentServiceFactory.class
+SHA-256-Digest: eXx4rbKHUmYdL/NI+kNMwFU/ZzLOiiZQ8GBfjWHfm2I=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentExten
+ sion$4.class
+SHA-256-Digest: B7k5njyRxUoAeM/mKnmwGo3VTlFmFyjg9x9sO59EjNw=
+
+Name: org/eclipse/ui/navigator/IDescriptionProvider.class
+SHA-256-Digest: yceQsNzMns8MQEljsMCOcOLeXARdn2LC0Te1l63xZtg=
+
+Name: org/eclipse/ui/navigator/CommonNavigatorManager.class
+SHA-256-Digest: PThDAITBWM7Q6dBhYUe76dTD3RZxiErJJe5BmSKqnxs=
+
+Name: org/eclipse/ui/navigator/CommonDropAdapter$1.class
+SHA-256-Digest: BTlHnMt3i9IofHWpvTohLAlfXQEXtuT7m6fn+kqyOlw=
+
+Name: org/eclipse/ui/navigator/ICommonContentExtensionSite.class
+SHA-256-Digest: XjJu9LbTrQYPCZDVv5J+Q28XmG0YIPFpts2OgSM/q4E=
+
+Name: org/eclipse/ui/navigator/CommonActionProvider$1.class
+SHA-256-Digest: zSiNDt84jWEHGn15jFpUqsur2Dl5tL3pDgHyttjLdVQ=
+
+Name: icons/full/elcl16/synced@2x.png
+SHA-256-Digest: zsUn+52EQ7wMq8WXZBF6Y070q3vGH0ypfjzRDow7KQ0=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceLabelProv
+ ider.class
+SHA-256-Digest: mJApQNm05l/havlpbjVZeeTrlkVD1M3lJtDu1AvaeZc=
+
+Name: org/eclipse/ui/navigator/INavigatorContentExtension.class
+SHA-256-Digest: +PUxuCuheyZv3C+498cUxiO+Cfh7N79CaCv64E/1ghM=
+
+Name: org/eclipse/ui/internal/navigator/framelist/GoIntoAction.class
+SHA-256-Digest: khrKgSOn+DeL0CiH0I/5S9OnS0D+bZy8yVlBnBMFVv4=
+
+Name: org/eclipse/ui/navigator/IPipelinedTreeContentProvider.class
+SHA-256-Digest: YDz3Cfcsy4qFnMwU2Di/RMTbnQ0MtY+9m/TYfQWJi8E=
+
+Name: org/eclipse/ui/internal/navigator/TextActionHandler$SelectAllActio
+ nHandler.class
+SHA-256-Digest: +gNZlZXSP7DAmGX5OIJ5CxTZ2bGxKhgk//qMoPgDd38=
+
+Name: org/eclipse/ui/internal/navigator/filters/ToggleFilterAction.class
+SHA-256-Digest: 5a2fZE9B0VZhM2c0BsapyXqNgKPN5lun6UMl8FQ55Bs=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorFilterService$1.class
+SHA-256-Digest: T5jQX6B5QYl64z8YGoZmGefRtFBB1V+MAYKHP00cDLk=
+
+Name: org/eclipse/ui/internal/navigator/extensions/CommonContentExtensio
+ nSite.class
+SHA-256-Digest: mhVVqMJH5Fq09Jmx9yF2CRSnULP/NndCsjxxTm0LV6o=
+
+Name: icons/full/clcl16/synced@2x.png
+SHA-256-Digest: HBxrI4Dvo4hyTFiuL1ENfEEiGqCoH34SppTn3EFp9Wg=
+
+Name: org/eclipse/ui/navigator/CommonDropAdapter$2.class
+SHA-256-Digest: SEfI74KNs2u7VJG+F9CTxtBjBXKrjoJQKthFjUmLdIo=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFiltersTab$CommonF
+ ilterComparator.class
+SHA-256-Digest: 6JaGUxK0hOGWyH7Yth+atJi72yw5cz6ASk0z5Arb0Ug=
+
+Name: org/eclipse/ui/navigator/NavigatorActionService$1.class
+SHA-256-Digest: bSUDSLmfa/48fYao0UTmVfbl3thvPWVWmX+AAYhsQ94=
+
+Name: icons/full/clcl16/synced.png
+SHA-256-Digest: jyCwhIuQ8DEEmyoQC3xmWHYTCRNZgLhYY+gjFXYkaYI=
+
+Name: org/eclipse/ui/internal/navigator/sorters/CommonSorterDescriptor$1
+ .class
+SHA-256-Digest: zbtNNzYp1v4p/4lrjjro/wYsnJ/1Rar7TCYvRIGc4w4=
+
+Name: org/eclipse/ui/navigator/ICommonViewerSite.class
+SHA-256-Digest: hpkDlBom/Doz5r2+P5LpfqUJ9ZafiNNVyXf129ZnNJ4=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentDescr
+ iptor$1.class
+SHA-256-Digest: 2b+Zdv5Oh3ejJaPcR2efKR21my21QF6AseaN0Q9WAdQ=
+
+Name: icons/full/clcl16/collapseall.png
+SHA-256-Digest: LNUkPC6EFEVpy3QRwZvwqTLyMSHdb+jv0TCcPiJSaP4=
+
+Name: org/eclipse/ui/internal/navigator/sorters/NavigatorSorterService.c
+ lass
+SHA-256-Digest: ClUCzreH6tK4D/njvPvuDslAnsRcey4m7UvNhvzggKk=
+
+Name: org/eclipse/ui/internal/navigator/ContributorTrackingSet.class
+SHA-256-Digest: nijgixT84J16G1htnPhTKzYzob47NQJy4lBpmVGK3Zs=
+
+Name: org/eclipse/ui/internal/navigator/CommonViewerSiteIEditorPartSiteD
+ elegate.class
+SHA-256-Digest: jEYHBaWZ5XjkfYKKFU/hJ2fkuSfrZaypHpZiyMn7X14=
+
+Name: org/eclipse/ui/internal/navigator/extensions/EvaluationCache.class
+SHA-256-Digest: FZLz0RHhkAvUThcwgshLxsRcwPg4/ztq0vZEaQFIvn8=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceContentPr
+ ovider$TreePathCompiler.class
+SHA-256-Digest: OkHMYfKkydmzu5n2XkGuHyc260Qqy2iaz8MaaYU1/Jw=
+
+Name: org/eclipse/ui/internal/navigator/wizards/CommonWizardDescriptor.c
+ lass
+SHA-256-Digest: wmdfnokS64wIOC19ZgCimlj8M5MiOnTGvLHB2IGsIwA=
+
+Name: org/eclipse/ui/navigator/NavigatorActionService$2.class
+SHA-256-Digest: VHkYkX0a8i7E/KRiyc7WkxNnfqP1J6K74qC5uQk3w7Y=
+
+Name: org/eclipse/ui/internal/navigator/extensions/StructuredViewerManag
+ er$StructuredViewerAccess.class
+SHA-256-Digest: mkfesS6B4fVcdLNynf1l08m2dojdjsnkWULLAMOmwbQ=
+
+Name: org/eclipse/ui/internal/navigator/actions/LinkEditorAction.class
+SHA-256-Digest: w6sp1qfngFAv8BnqVnzvMjY5HYagLGZ/6xErbM/s990=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceContentPr
+ ovider$3.class
+SHA-256-Digest: pANI+yXxQpaYwqEVEzpJDP832zvSaH3ZArZKWKoC4a8=
+
+Name: org/eclipse/ui/internal/navigator/CommonViewerSiteIViewSiteDelegat
+ e.class
+SHA-256-Digest: tuWkHaLlJbARk+Jmo4/yhZWAHGpzDSDDLcY0wzgdHbU=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentDescr
+ iptor.class
+SHA-256-Digest: LhMlZWISBHTN3irfiWF//Xd9e7nbi+3XbYryHOswAOE=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFiltersTab.class
+SHA-256-Digest: xCzw6z1Oo/YOCrIH43MKDhjdhPs+yUgotS/vnOMWsss=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorDecoratingLabelProvider
+ $StyledLabelProviderAdapter.class
+SHA-256-Digest: Z1mAaLCWNzC8YKYe0mNF/OZZ4y817+wYV9QUqf52HXk=
+
+Name: org/eclipse/ui/navigator/INavigatorDnDService.class
+SHA-256-Digest: 8uIOScpNjHY/iC0YMEuB7O3HrS3dMoMzsXAfg+E7TQk=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentRegis
+ tryReader.class
+SHA-256-Digest: bd69KwFDpEBMcHEbn2Nunw7nM/5T+N3JDdjISnUOsQg=
+
+Name: org/eclipse/ui/internal/navigator/actions/CommonActionProviderDesc
+ riptor$1.class
+SHA-256-Digest: aH0/9cMps/wyJmXaP/irHHrDG0Vf0bhtBvH5rTmQEqo=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorActivationService.class
+SHA-256-Digest: IOBd0xRa8PMrlgXnpwlvT5Nljng5VAPwS8FWK075QR8=
+
+Name: org/eclipse/ui/internal/navigator/extensions/StructuredViewerManag
+ er$1.class
+SHA-256-Digest: PTFJB8al4gku74cvyXboS4zNglPDoEH2xDxfYbHY47A=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentService$3.class
+SHA-256-Digest: w0wSAUfYSjwKlYawRcKVWjknXrimt3TgJ94pfdyOfxw=
+
+Name: org/eclipse/ui/internal/navigator/extensions/StructuredViewerManag
+ er$StructuredViewerAccess$Listener.class
+SHA-256-Digest: S/vM1n7hrtOhjyMK+ejxReHc5I9ImFoZTsLC0MRiZ1Q=
+
+Name: org/eclipse/ui/internal/navigator/filters/ContentDescriptorContent
+ Provider.class
+SHA-256-Digest: fZj0RPzqusXz9ay096NbhtMt9btfBGZhaXTRbOwSFcs=
+
+Name: org/eclipse/ui/internal/navigator/TextActionHandler$2.class
+SHA-256-Digest: DJnpl/ZAgWJM/+qDVaeyndywhlQ49u3qYYQmpCnGJGo=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorSafeRunnable.class
+SHA-256-Digest: vntRJLEYCEAqU2JKBHrHVx1ftVWUD1TY1iPl35RedlE=
+
+Name: org/eclipse/ui/internal/navigator/filters/UpdateActiveExtensionsOp
+ eration.class
+SHA-256-Digest: gSIGn2KS1+VLZVqcZsU4EDja39aa0K+8q3oXURg4pOY=
+
+Name: org/eclipse/ui/internal/navigator/filters/UserFilter.class
+SHA-256-Digest: emuyPqkJDtRGJijimuh2aSxXi39l35NX5udqYC2EFMo=
+
+Name: org/eclipse/ui/internal/navigator/sorters/CommonSorterDescriptorMa
+ nager$CommonSorterDescriptorRegistry.class
+SHA-256-Digest: KZxmJQ1NZ/0/Z8CBYJ4LZE05VEtL+Sm22L6Js5vEQ4Q=
+
+Name: icons/full/elcl16/filter_ps.png
+SHA-256-Digest: 6M9DArtphXvwmabFe4Z0b42LbMmXO8Hj1U/AvyuU6No=
+
+Name: org/eclipse/ui/internal/navigator/messages.properties
+SHA-256-Digest: X0SQot/+EiZY6DXFePHvbk0gMAxrWvrsT/b7Lc1vq1Y=
+
+Name: org/eclipse/ui/internal/navigator/filters/CoreExpressionFilter.cla
+ ss
+SHA-256-Digest: NBrsy/l9i08CaUwtrOER619H7cGrmZKrYqa6V8LYmDg=
+
+Name: org/eclipse/ui/navigator/ICommonActionConstants.class
+SHA-256-Digest: mSxyFiUSIvSuu+1GaDDx2xzs04RjR4UdCCpFyMVvokg=
+
+Name: org/eclipse/ui/internal/navigator/extensions/IViewerExtPtConstants
+ .class
+SHA-256-Digest: VwWlKL/5JZyF/CCt/+ZHHW4sY5vhZt7RUpF/QEaJg0I=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorPipelineService$4.class
+SHA-256-Digest: fBI2pJi8SlJB3MfTJAPE09n3QBbZJN267Tylp30k/hk=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterLabelProvide
+ r.class
+SHA-256-Digest: Ie8DeJdOnpcPAf32LVLE7uynpzaPrf06wnKyzg5LUhw=
+
+Name: org/eclipse/ui/internal/navigator/filters/CustomizationTab.class
+SHA-256-Digest: 0IXZDmY03LkKClX95dXH9HuJHLiCp0IPzKG2dy/aMiE=
+
+Name: org/eclipse/ui/navigator/INavigatorContentServiceListener.class
+SHA-256-Digest: 3nPw1SSv5IkLPswfXPaG17AJHHfsVvgPG4tzrleONnI=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterSelectionDia
+ log$1.class
+SHA-256-Digest: pCgBzyqQ689GzdzGdzoJMceHJmMXUz4Q862TjwPEHq0=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorSaveablesService.class
+SHA-256-Digest: y9OB3MpeowIq/MtKc22CiHx6WZ6/0VPMmGEmS5EQYPA=
+
+Name: org/eclipse/ui/navigator/INavigatorSorterService.class
+SHA-256-Digest: lMTdum7Gz+rysYo/RIPMdKIweyOhQHOffjTrZh6W2Es=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentExten
+ sion$3.class
+SHA-256-Digest: jFxFEiqSs95lXDZw2V1eSy6mm/3zwyjzr8t6W3rMSVE=
+
+Name: icons/full/elcl16/synced.png
+SHA-256-Digest: otifVa+dQFq0LbN+9VZ+Rj43KTu59WxwPWBKj4R/b18=
+
+Name: org/eclipse/ui/navigator/ILinkHelper.class
+SHA-256-Digest: 2ft6wpDHUaK9F53u8hSr2fkq1pSqje5V6iEpbbiWHr4=
+
+Name: org/eclipse/ui/navigator/PipelinedShapeModification.class
+SHA-256-Digest: kflyHihFb/IRzTMnkVJl3RshAv/tTsG6v6ObvAuePVo=
+
+Name: org/eclipse/ui/internal/navigator/framelist/messages.properties
+SHA-256-Digest: v/UVKEC2dAinqrEDyR/auwBDXO8fH7k47ACQvpWwYbo=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterDescriptorMa
+ nager$CommonFilterDescriptorRegistry.class
+SHA-256-Digest: AxpwRvhJmcOgk6ZxAbNir4ouytzWzjduoU6mgMOz1CY=
+
+Name: org/eclipse/ui/internal/navigator/INavigatorHelpContextIds.class
+SHA-256-Digest: sZMyEHfW5YuOtHqEuWjBD0JwwDPmtkx1pbPOnP0WOhk=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorPipelineService.class
+SHA-256-Digest: zH3C8I4oXqo8ta76OcqJyAs8n6lh1shaQ4zUOF7WCpk=
+
+Name: org/eclipse/ui/internal/navigator/Policy.class
+SHA-256-Digest: 1h09ZSPoR17EIWGxQASE142q35BW6sKlQ8IE9lh+bUI=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentDescr
+ iptorManager$NavigatorContentDescriptorRegistry.class
+SHA-256-Digest: +hdwL9Jf5u4RAWPfaIqWpL2MlAV/mK02KXi9l3x5O4Y=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorPlugin$LogJob.class
+SHA-256-Digest: E7S7euB73zT5jBdMU5iPlLSXTXVdVdEC1jK2Zlh3P9E=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentService$4.class
+SHA-256-Digest: TYcBMpPiVR+onZnWV1MrE2uPq73kysnStyg069tNrGA=
+
+Name: .options
+SHA-256-Digest: +JJd2NV322QxrTATQLPKfTpWh+CqkdoiyLAMrg3zbw8=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorExtensionStateService.c
+ lass
+SHA-256-Digest: hfWfWtPaoNNEKs8bs9kUjWlDy5KPJES3la97zITqK+Q=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SkeletonTreeContentPr
+ ovider.class
+SHA-256-Digest: n4ePpWLtn+SNwQW0QlglCECUui9UQ7jXqS+uXEEeLhY=
+
+Name: org/eclipse/ui/internal/navigator/filters/SelectFiltersAction.clas
+ s
+SHA-256-Digest: dS7dGwLDqB0+aotJMz5BCrMSTQTuE6Az8XlIurbidQ4=
+
+Name: org/eclipse/ui/navigator/CommonNavigatorManager$UpdateActionBarsJo
+ b$1.class
+SHA-256-Digest: pR1XLgV88LyH2RuzMDL6pSmGF++j+xFCbOhMUsEhoVo=
+
+Name: org/eclipse/ui/internal/navigator/dnd/CommonDropDescriptorManager.
+ class
+SHA-256-Digest: wWhWYMJutr0hqXe/8tlNyGDsKzvQvGFJ+tI7ZaIGgF4=
+
+Name: org/eclipse/ui/internal/navigator/extensions/CommonExtensionSite.c
+ lass
+SHA-256-Digest: wf5DkjkxaNBJ5xc4Zy1y5gtE52FFBZuJj/KEE9CZPrg=
+
+Name: org/eclipse/ui/internal/navigator/filters/UserFiltersTab$1.class
+SHA-256-Digest: zftg1iiKw3LYiIK+JTOuXCpOdfNqK3sEY5dmr1CEPAU=
+
+Name: org/eclipse/ui/internal/navigator/dnd/CommonDropDescriptorManager$
+ CommonDropAdapterRegistry.class
+SHA-256-Digest: R+mU+DlcZrQ5TuPrhehR0BsIUzb+q2Bof2P2olkpQZc=
+
+Name: org/eclipse/ui/internal/navigator/framelist/IFrameSource.class
+SHA-256-Digest: C1dp+DRuBEyoPOFP7VBJQCh/9q/eyVAXPXMg8MeJm6s=
+
+Name: org/eclipse/ui/navigator/IPipelinedTreeContentProvider2.class
+SHA-256-Digest: /+GdfJ4ZBqz+fov7V5Kq5LiugcegqgpzFkDCZH0A/dY=
+
+Name: org/eclipse/ui/navigator/CommonDropAdapter.class
+SHA-256-Digest: wR3Gb/WwEf/7VCPuK9yP/eXf5I/91i7cfyL8XViNfAA=
+
+Name: org/eclipse/ui/navigator/ICommonLabelProvider.class
+SHA-256-Digest: M1NfBG/GpeY8hWlsSHbEvV+UHdIxo9kvxet8mTeketM=
+
+Name: org/eclipse/ui/internal/navigator/extensions/ExtensionStateModel.c
+ lass
+SHA-256-Digest: LZf3RdVtP4YJ4o+xPkyeg4nSIfRV2LPIb3UJZntV0ZY=
+
+Name: org/eclipse/ui/internal/navigator/TextActionHandler$CopyActionHand
+ ler.class
+SHA-256-Digest: ypiNcgUvOeWJVcSsCk5T+wZFC9n1sTo6j7HDA6u0biI=
+
+Name: org/eclipse/ui/navigator/CommonActionProvider.class
+SHA-256-Digest: W/qCFwKjtZe2pt6WOyPQulHTJ11igdPiDpse2UKXDCA=
+
+Name: org/eclipse/ui/navigator/INavigatorFilterService.class
+SHA-256-Digest: j/0cVOb3t07jLw3vo9+WSFWPbK4m/a1p4txoEAFe+9o=
+
+Name: org/eclipse/ui/navigator/NavigatorActionService$3.class
+SHA-256-Digest: 21W/KZ9RmraF63kKQtabK1c/GgXHAqkC1kJogdMjJnU=
+
+Name: org/eclipse/ui/internal/navigator/extensions/INavigatorContentExtP
+ tConstants.class
+SHA-256-Digest: GrGbkZYmIZJ0S+Z38bMrn4ylV43On6ozLQd1q+U4eKQ=
+
+Name: org/eclipse/ui/navigator/ICommonContentProvider.class
+SHA-256-Digest: uBsCmiNXY52LL4HmoDbqTCnjdId78NTAJ5js2rwrYe0=
+
+Name: org/eclipse/ui/internal/navigator/extensions/EvaluationValueRefere
+ nce.class
+SHA-256-Digest: +dLgro/Hl/MoaqLjfXK1cY2eLZ5K48KQiY5sDwKdBzE=
+
+Name: org/eclipse/ui/internal/navigator/CommonViewerSiteIPageSiteDelegat
+ e.class
+SHA-256-Digest: kqXaJy8RszpZ3yCwIFpS2wwy9USO0lH4ji5DBNnmGGo=
+
+Name: icons/full/elcl16/filter_ps@2x.png
+SHA-256-Digest: FpcdlP/AO2mPBo/CdrSdReMA3kCuwmLlrHLyY+NWVZo=
+
+Name: org/eclipse/ui/navigator/CommonNavigator.class
+SHA-256-Digest: nzM+NaOStQrV1sMHc4y2U7Zx1wEKc37DJcdswNevj/M=
+
+Name: org/eclipse/ui/navigator/CommonDragAdapter$1.class
+SHA-256-Digest: E/u66PWxyMASXiYUWvsDbCnU1K02e6LQR2j1nbQ0DSw=
+
+Name: org/eclipse/ui/internal/navigator/CustomAndExpression$1.class
+SHA-256-Digest: uI+e72cCq2vtlL+7o4F8V/E3Cdw40/wmNmtuOmIezE0=
+
+Name: org/eclipse/ui/navigator/WizardActionGroup.class
+SHA-256-Digest: ppUZPRlo5bcLdvLWfLSAGkKNpaj0My8rf3dzb7fTXwo=
+
+Name: org/eclipse/ui/internal/navigator/ReusableViewerLabel.class
+SHA-256-Digest: guIN4jSUnzapnGIK98BZLRVO1NJoKfD2o1Ue6yOc9Rk=
+
+Name: org/eclipse/ui/internal/navigator/wizards/CommonWizardDescriptorMa
+ nager$CommonWizardRegistry.class
+SHA-256-Digest: lUBncOvVkT9vK559fILoB/s1tQcQJBJ4d+gkJVoHKT8=
+
+Name: org/eclipse/ui/internal/navigator/extensions/ExtensionSequenceNumb
+ erComparator.class
+SHA-256-Digest: eSWBLhPxhvj13wsjV95E+GvNwNKmUzCszbIfjhVo1gk=
+
+Name: org/eclipse/ui/navigator/SaveablesProvider.class
+SHA-256-Digest: z/H+3gPL0ajxFtNEjN11CPKylkqw5izxiRCF5Ty9caM=
+
+Name: icons/full/elcl16/collapseall@2x.png
+SHA-256-Digest: Vx5h16r56NBbPUAxTAiWdEBzUXnT8ZUWpHg4f2a4vow=
+
+Name: org/eclipse/ui/internal/navigator/extensions/CommonDragAssistantDe
+ scriptor$1.class
+SHA-256-Digest: dS9UMbRJJH3iSdj6IXDPkD8AK4m6+n5ngGPVVErQ4Uk=
+
+Name: org/eclipse/ui/navigator/INavigatorContentDescriptor.class
+SHA-256-Digest: PfaRVihPr1hZQabk+BtesI/AXiTn45RjZJItXpvKK00=
+
+Name: org/eclipse/ui/internal/navigator/extensions/Binding.class
+SHA-256-Digest: rbq43cAiMeZpGEaTN8OBJOA7MA7jhvR9z3iRpPVvsy0=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentExten
+ sion.class
+SHA-256-Digest: UD6BN6OtKdcSdpl70gTfD19ayJtcyl+tNGZ4HHVF1Q4=
+
+Name: org/eclipse/ui/internal/navigator/ContributorTrackingSet$1.class
+SHA-256-Digest: 6/p8qBpAzXhTBS+HaNldoP4sVCKl7x8fAmcNHMSCTz8=
+
+Name: org/eclipse/ui/navigator/ICommonFilterDescriptor.class
+SHA-256-Digest: Cx2Nxe4oSliNgEZ4R2O3XgH3CxJ+SuwpbNDPiu5Uidc=
+
+Name: org/eclipse/ui/internal/navigator/VisibilityAssistant$VisibilityLi
+ stener.class
+SHA-256-Digest: dgPcKeXiOVP5kP+cl0shhLg8urfShdeZFT8tlU+HfBQ=
+
+Name: plugin.properties
+SHA-256-Digest: GNSQjVcuCZw1OHrhKQu/aV5WkI2/JEQqlqklh7dBWz4=
+
+Name: org/eclipse/ui/internal/navigator/dnd/NavigatorDnDService.class
+SHA-256-Digest: 85V9nI1ZInk8vLTnotNqWoOItZ+35v89g1jPWnQOlCI=
+
+Name: org/eclipse/ui/internal/navigator/sorters/CommonSorterDescriptor.c
+ lass
+SHA-256-Digest: DtiPmHrXgoIsWZy+rEsHrdbUMwc30HG8/U052Pl0fxo=
+
+Name: icons/full/elcl16/content.png
+SHA-256-Digest: 2dOsRQoQbblMZJ3qzJ3jxURS8OlELBwKP9LOwjNktVQ=
+
+Name: org/eclipse/ui/navigator/INavigatorActivationService.class
+SHA-256-Digest: 9cz8qyftm6M1sy06PYPIy4Lfx6WrW/TK1WcRkRRP/0A=
+
+Name: org/eclipse/ui/navigator/NavigatorActionService$6.class
+SHA-256-Digest: jsme40he2MPBuj0JT5K/gBWoHkTgS+3uS4gZeNbxhJs=
+
+Name: org/eclipse/ui/internal/navigator/TextActionHandler$CutActionHandl
+ er.class
+SHA-256-Digest: K2Fjl0XPPDJeokReuk9fKks94gjiFQCD5CoLlO0RBus=
+
+Name: org/eclipse/ui/internal/navigator/framelist/IFrameListHelpContextI
+ ds.class
+SHA-256-Digest: fceuLagAjB6YHt4D2PAKe7lJPrcaHn1GETr9ERjJNaY=
+
+Name: org/eclipse/ui/internal/navigator/actions/LinkEditorAction$1.class
+SHA-256-Digest: JYJrlg1GiaTjJVgXOZDL7cNf4Q+yZpsC/BW4IMIXMQQ=
+
+Name: org/eclipse/ui/internal/navigator/extensions/StructuredViewerManag
+ er$2.class
+SHA-256-Digest: xudAVA6Z/nEQeiTNRQdEkkns2fvv/N1zhqVwq8XjHy0=
+
+Name: org/eclipse/ui/navigator/ICommonMenuConstants.class
+SHA-256-Digest: k6JURiIh11AwU/JsReWRDVX0hTnbWVYfzOmuUM/VMcY=
+
+Name: org/eclipse/ui/navigator/CommonViewerSiteFactory.class
+SHA-256-Digest: kS13kwhJIMDnj4pWb7uolxxTRe4hyffd1bb1wqPqsfc=
+
+Name: org/eclipse/ui/internal/navigator/actions/LinkEditorAction$1$1.cla
+ ss
+SHA-256-Digest: IqzAOcxlpisuZg2YA0Lo88Xvk7ako/irNPJbnERR4iQ=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SkeletonCommonDragAss
+ istant.class
+SHA-256-Digest: VeLP7YWBH/jpHCkl0hGwr6UHHeGMtUHhMvC6snsm4HQ=
+
+Name: org/eclipse/ui/internal/navigator/dnd/SkeletonCommonDropAssistant.
+ class
+SHA-256-Digest: X63ZsS1tXOGVNsBUuI/9rjIgC/MhuZMkFjazaIPMFPQ=
+
+Name: org/eclipse/ui/internal/navigator/extensions/CommonActionExtension
+ Site.class
+SHA-256-Digest: B+NvDl0mjI3OWMJEoSWDmGe/4O8YLZ2V+0cpatZgNAE=
+
+Name: org/eclipse/ui/internal/navigator/CommonViewerSiteDelegate.class
+SHA-256-Digest: 3sU1WDMYZyz01Zel8RqueaN3ikP0WzY1/37HX4dUcMQ=
+
+Name: org/eclipse/ui/internal/navigator/actions/CommonActionDescriptorMa
+ nager$ActionProviderRegistry.class
+SHA-256-Digest: BDBZqX/QCRnTKrB8AkUsKL8XqdL9bI7Szr2iLGsrniM=
+
+Name: org/eclipse/ui/internal/navigator/framelist/TreeViewerFrameSource.
+ class
+SHA-256-Digest: dgVYcY9gCkUni+Km2Uo0EhYaCeoCbqrl04oRBcz2yuY=
+
+Name: org/eclipse/ui/internal/navigator/filters/SkeletonViewerFilter.cla
+ ss
+SHA-256-Digest: p3oAAepqyuAgS3D2NWF10MdzF3YJjjd7vy9RCu0ebXU=
+
+Name: org/eclipse/ui/navigator/CommonDropAdapterAssistant.class
+SHA-256-Digest: gwC4dQxVRC3JPHigaeCYJNEk3kPh/DvHt2BU/5pgN7g=
+
+Name: org/eclipse/ui/internal/navigator/TextActionHandler$PasteActionHan
+ dler.class
+SHA-256-Digest: A+6P8hqH+stxUPUTJc5lJvfyN0fQ3BDpx42fSx3ggBs=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorViewerDescri
+ ptorManager$NavigatorViewerDescriptorRegistry.class
+SHA-256-Digest: c6vDg0RN6L/mJ/Qgw94Hlq4yDevL9QDynt+xBLruSBo=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFiltersTab$1.class
+SHA-256-Digest: YIe/BlJZ/QArFPCzaKcmCsiEunwb8qt4E3KONc4sowk=
+
+Name: org/eclipse/ui/internal/navigator/actions/CollapseAllAction.class
+SHA-256-Digest: zxtq/x1xfRBoWS0QvxPaecWbtX2UN00FwlzH7I8BWMY=
+
+Name: org/eclipse/ui/navigator/OverridePolicy.class
+SHA-256-Digest: bpAC2PWMuv22+/1QDZIzHeCMNehxO7WVbIfpZt4Z2fQ=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceContentPr
+ ovider$2.class
+SHA-256-Digest: xsgudgYYqd3ENzu1nuDPyUXr90bD6BMek2w0HKRro5Q=
+
+Name: org/eclipse/ui/internal/navigator/actions/CommonActionDescriptorMa
+ nager$ActionProviderRegistry$AddProviderSafeRunner.class
+SHA-256-Digest: dHOq4c6tSLD6OAIBYgjTZCEL9ET0uAn4mhoe4lEOUzo=
+
+Name: org/eclipse/ui/navigator/INavigatorPipelineService.class
+SHA-256-Digest: ljDergX+brpktpozzIeqdseoEAC4rYJ/hUZwrsAT8CA=
+
+Name: org/eclipse/ui/internal/navigator/filters/UserFiltersTab$2.class
+SHA-256-Digest: EYcy8YWugANrq+aHyWbqO+Ixw8MRUO962pYOkd80JeA=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceContentPr
+ ovider.class
+SHA-256-Digest: TQYaNhGy/ouw9gEFSJ/pMNndiJbr8Ryj2rJ3Bgy2kP0=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentService$1.class
+SHA-256-Digest: P7Apmf6fzmayKu9oErfpZVo0ice39hnnUl3IG2okR8o=
+
+Name: org/eclipse/ui/navigator/ICommonViewerWorkbenchSite.class
+SHA-256-Digest: s5T9uqR+nnVucQxh3w+2Xp7WGrtEBzise0sZuJJ7S4M=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorPlugin.class
+SHA-256-Digest: e0WgB4T1aIBcwdbO6fHSwf++tKWQqeNM8AaOO/tIcZ4=
+
+Name: org/eclipse/ui/internal/navigator/wizards/CommonWizardDescriptorMa
+ nager.class
+SHA-256-Digest: 3eYAYbm/bUHyvS135bKHLnU7IIeP3cL7OxAIeE17mvo=
+
+Name: org/eclipse/ui/internal/navigator/CommonNavigatorMessages.class
+SHA-256-Digest: UpZHCJj3Y4DA9gaVvJSyCXJiELWSF8YrpmcozEBRF3c=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SkeletonActionProvide
+ r.class
+SHA-256-Digest: zP8yOZSAz0cxU99npftaIDXBAHlE/olS26MViPv8nqQ=
+
+Name: org/eclipse/ui/navigator/MenuInsertionPoint.class
+SHA-256-Digest: gJdgiEqAcOLii4N+CFCaDI67RdFufTDd+KMwz0T7Tyk=
+
+Name: org/eclipse/ui/internal/navigator/extensions/StructuredViewerManag
+ er.class
+SHA-256-Digest: WO6JAHbXNIRt0LUblgJZolFMLiUtPR2/uRlTKxLrkJc=
+
+Name: icons/full/clcl16/elipses.png
+SHA-256-Digest: jRAQdwhiibmHEa4rJPJGMieLfWMnZ0kuWNnYcROMOyQ=
+
+Name: org/eclipse/ui/internal/navigator/extensions/EvaluationReference.c
+ lass
+SHA-256-Digest: No3jjZmJezMxUPWauKtNSlz79x0XySS3QuuWbarJLpk=
+
+Name: org/eclipse/ui/internal/navigator/wizards/WizardShortcutAction.cla
+ ss
+SHA-256-Digest: Og5CAqWls9QOwgJP4d5vM6Ey1Tf6QE07rSiF5IMo0kY=
+
+Name: org/eclipse/ui/internal/navigator/CustomAndExpression.class
+SHA-256-Digest: f9LlHudKFIs6Od/78QrI5Z5DT4+0o+myvEF+fj7N2qI=
+
+Name: org/eclipse/ui/internal/navigator/actions/LinkEditorAction$2.class
+SHA-256-Digest: S1P3XtuhSrSUVHMpj6NvzOFhCoIyqgqH6RoqlKmmgr8=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFiltersTab$2.class
+SHA-256-Digest: 7zF9+sD8E7mvdCCv2NCVi85hF4nTp+CMJBh59kNR5yo=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorPipelineService$3.class
+SHA-256-Digest: vPnrv2IsRbjpBuUw9VpTCUh9uBixk3//otkibRUC96Q=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFiltersTab$TablePa
+ tternFilter.class
+SHA-256-Digest: 5J/YrgZD3t7bHdyLPZZew3ZlmB9lmQZL/NUuArYh4bE=
+
+Name: org/eclipse/ui/internal/navigator/extensions/CommonDragAssistantDe
+ scriptor.class
+SHA-256-Digest: UFOdz6hAYppmF3fuzNiGM2dlkgMXQaEjkPGZW46MKCk=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceContentPr
+ ovider$4.class
+SHA-256-Digest: 5VqGMqKGyzCDT4nqP6ptTvh4MkrB1ji3XqJajP1WYZs=
+
+Name: org/eclipse/ui/internal/navigator/sorters/CommonSorterDescriptorMa
+ nager.class
+SHA-256-Digest: TMEZOb0CmCI2IlzqmiQGux3RgU9fypKJzkEAHButDEE=
+
+Name: org/eclipse/ui/internal/navigator/framelist/FrameList.class
+SHA-256-Digest: MeEWFZvoC1f9jx1af2ENzUdwCxvp++84q7UG+ciy5xM=
+
+Name: org/eclipse/ui/internal/navigator/sorters/CommonSorterDescriptor$W
+ rappedViewerComparator.class
+SHA-256-Digest: kxkif+muA6uTLi9ajdaZMYnm/j1A3TFKazpBakjQ3C0=
+
+Name: org/eclipse/ui/internal/navigator/framelist/README
+SHA-256-Digest: ssIWWApztB2ZH4vs+JV1zBewuuFyzeHAyLS5dKXO33s=
+
+Name: org/eclipse/ui/internal/navigator/TextActionHandler$TextControlLis
+ tener.class
+SHA-256-Digest: jHn5bQxlFxf77OZx1yLHmgMw0ZBTCVFo9zBEPxvA4bA=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SkeletonLinkHelper.cl
+ ass
+SHA-256-Digest: 9bsiWaDRdjQuib/LFmxoSsVGgeSbDJg7IDJirdt0ypM=
+
+Name: org/eclipse/ui/internal/navigator/framelist/BackAction.class
+SHA-256-Digest: 3MwVFESUzPMM/7joyJIQ8UClOJbMyQsDevGmBodC33g=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorFilterService.class
+SHA-256-Digest: pLdF8QxisiUfh+yRXAmYmYw6DCno4bSQXOWc/HtbtzM=
+
+Name: org/eclipse/ui/navigator/WizardActionGroup$ActionComparator.class
+SHA-256-Digest: uSKGR2UHBKRNdvlazmYmOG/nxwMd82kWVY73zdsS/4E=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorPipelineService$2.class
+SHA-256-Digest: vgg9G6mG+DfgdMbfOI5od5ib12xRfCz6+42bMihQsH4=
+
+Name: org/eclipse/ui/internal/navigator/extensions/INavigatorSiteEditor.
+ class
+SHA-256-Digest: BN/siNS40oFpceIgQH5ZlXE6s14xn1KAZkcSSEHLamQ=
+
+Name: org/eclipse/ui/internal/navigator/TextActionHandler$1.class
+SHA-256-Digest: xUXMwY7vs2z0qCC6msnJdg5RWuWECRsAapfGN+Fuw+A=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterDescriptor$1
+ .class
+SHA-256-Digest: GVoD01v3/TU9IljQhVgq2r4Z1qGXjumdRAXjRuBGqZc=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentService$2.class
+SHA-256-Digest: BbL0dblA62LNRn101z+T3mV11Nss+t1wTakoIleEzdc=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorSiteEditor.class
+SHA-256-Digest: 084YL/fZfiDlBIJ+gZ3Vb+yvafrxWatuWbMXSMnLOJA=
+
+Name: org/eclipse/ui/navigator/NavigatorActionService.class
+SHA-256-Digest: d6L2vg7U+ttgB41QbVvB0+aLHFjgivB7WYIdeYhSwLM=
+
+Name: org/eclipse/ui/internal/navigator/actions/LinkEditorAction$3.class
+SHA-256-Digest: vIt9wMuwTIfTo6J8U3wEywGzp29xLXh+oFQuZpqDLCk=
+
+Name: org/eclipse/ui/navigator/PipelinedViewerUpdate.class
+SHA-256-Digest: IRlAHMAR+d13aTl2EurTQWUmudqhbj3+ncF33nnWycU=
+
+Name: org/eclipse/ui/internal/navigator/filters/FilterActionGroup.class
+SHA-256-Digest: C7Y7cEr+sP+DEUYPOJHn6GzVgkwXTzI7xeTi1pyqVBE=
+

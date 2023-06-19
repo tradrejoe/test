@@ -1,0 +1,1127 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: Nt+kJp3rYYPDiwXYI6BI1/KEha9MUGQfdhQk7KJ4zaw=
+SHA-256-Digest-Manifest-Main-Attributes: 6v0Wx+SImr/c5ApW5tiQG/wc4uITKc+
+ TKvrHNvNn26g=
+
+Name: org/eclipse/m2e/core/internal/project/EclipsePluginRealmCache.clas
+ s
+SHA-256-Digest: nATDo7A/jwAwoeo/E3ttA9Owzn6NT3+g2quOFAgHGts=
+
+Name: org/eclipse/m2e/core/internal/launch/MavenExternalRuntime$Exceptio
+ nWrapper.class
+SHA-256-Digest: wS/xIhoGQeI9AfshsWFpJCCsxG+zEKAAQNwVKcL0oTY=
+
+Name: org/eclipse/m2e/core/repository/IRepository.class
+SHA-256-Digest: Bn9VLmL8lfJLO6jGkDmKqgeLelFkz84jd0whWUNrezo=
+
+Name: plugin.xml
+SHA-256-Digest: 3qz4So60VCxSnG30zfvhGQU+2Iz2A6dwLjHDqx2L4wI=
+
+Name: org/eclipse/m2e/core/internal/builder/MavenBuilder$2.class
+SHA-256-Digest: 4jzGDU5rpEAw8acPvwwulbyEJH/lJxXtIZTc5avtcM4=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/NotCoveredMojoExecu
+ tion.class
+SHA-256-Digest: jmna05ObrtMD+JqKpBMXaPtOPSrPj0DLTrXtFAvm90Y=
+
+Name: org/eclipse/m2e/core/internal/builder/IIncrementalBuildFramework$B
+ uildResultCollector.class
+SHA-256-Digest: 30mqjKAHUZ+8nxWJYFx4rxMmpz2xQCY5o1txoOjW3Ns=
+
+Name: org/eclipse/m2e/core/internal/index/MatchTypedStringSearchExpressi
+ on.class
+SHA-256-Digest: iglHp2bbIi1Cpp+yUyz52yQvwQ5Hbi3xbzqdxpbdpXg=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/model/LifecycleMapp
+ ingFilter.class
+SHA-256-Digest: rwa70u12Aq/PJbGBgTEgp6O60Ft+1QH+f/3Qz0XJvng=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectRegistryRead
+ er$IPathReplace.class
+SHA-256-Digest: c+yqCjFXfOOqyHsJEEQNSZf0G2YEKtoHejVvpllr4SQ=
+
+Name: org/eclipse/m2e/core/internal/repository/IRepositoryIndexer.class
+SHA-256-Digest: khvP/dggPHAGXS/xxgDPt6eHSDWtFwhGyymrj/LtPUk=
+
+Name: org/eclipse/m2e/core/internal/builder/plexusbuildapi/ResourceDelta
+ Scanner$1.class
+SHA-256-Digest: gr/IepUw1OLb9r/RyGzcoGEovcgR1XyCs5J1R1rdz0o=
+
+Name: schema/indexes.exsd
+SHA-256-Digest: PsdQV2p3nZPdTfbiyozdKGABBPwbIgkI1sIcp9qvvOE=
+
+Name: org/eclipse/m2e/core/internal/project/registry/VersionlessKey.clas
+ s
+SHA-256-Digest: N3qPB6e8XwTspWME3iitdP2yFGkcc2LWKYOby/Md1Sc=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.project.registry.ProjectReg
+ istryManager.xml
+SHA-256-Digest: 9sLjihzTH2g7gb7TS06WDlIJmH/pPYqZ3c/W5P+bUEU=
+
+Name: about.ini
+SHA-256-Digest: 0U4pw0oODmgTdj7zN+DVlEkHlJlOkqKhjTo7ooYiO+8=
+
+Name: org/eclipse/m2e/core/internal/embedder/EclipseLogger.class
+SHA-256-Digest: SaFB5mQ1ML8OzfV+qGiG67uu4BaYo5igxCu70sMWSgQ=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/AnnotationMappingMe
+ tadataSource$State.class
+SHA-256-Digest: 00HCno2U1XoC73H71DNHif9+hPIwDkuDvMaZvRmWJP8=
+
+Name: org/eclipse/m2e/core/internal/index/MatchTyped.class
+SHA-256-Digest: SpHWECNEKybv8w/HO3r+PXQqbA6bOAzYATT9FP/N+uc=
+
+Name: org/eclipse/m2e/core/internal/Messages.class
+SHA-256-Digest: Y6f2VKrUkOwyK1uiV7cCshv/GBg4L6X7ggBv16q5+D4=
+
+Name: org/eclipse/m2e/core/internal/builder/MavenBuilder.class
+SHA-256-Digest: FhQtHSVaKxf/CTBVj9OO+vQ0viFTRnkNmpIjf6W/cwM=
+
+Name: org/eclipse/m2e/core/internal/IMavenToolbox$1.class
+SHA-256-Digest: c6Ic8gW8xI95EvLa1pErUyJEy0IVPeehplQJshDyJ9I=
+
+Name: org/eclipse/m2e/core/internal/builder/MavenNature.class
+SHA-256-Digest: IkuFmEBTlWBHq1J76AOXTtNHBzoSFbZVbzcMmQDT4uk=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/discovery/IMavenDis
+ covery.class
+SHA-256-Digest: Se9JZapAcfsUYjBswktIW5K3iPBorp6BqZOr+5M0ncQ=
+
+Name: org/eclipse/m2e/core/internal/repository/RepositoryRegistryUpdateJ
+ ob.class
+SHA-256-Digest: LYhzyQDGG9OrxsI3+3rk8P2wh6bwPQOoJOLXeAnY/X0=
+
+Name: org/eclipse/m2e/core/internal/project/IManagedCache.class
+SHA-256-Digest: qy7+rv2ftmTkSItCmOwvaVmyPW/0im5/0vdXIqKdk/0=
+
+Name: org/eclipse/m2e/core/internal/content/PomHandler$StopParsingExcept
+ ion.class
+SHA-256-Digest: Ct5dYDsda/4ehVsnj00dEINFjD1iJoYVsMv8KHJ5KUI=
+
+Name: org/eclipse/m2e/core/internal/project/registry/DefaultMavenDepende
+ ncyResolver.class
+SHA-256-Digest: Yeqo3vrUuodMbVfQJtv+uZag/teTH+/46NeNe23vYU8=
+
+Name: org/eclipse/m2e/core/internal/project/registry/MavenProjectManager
+ .class
+SHA-256-Digest: tjYmZ8lH/YJGlg5dTH6HY20X88YocWcRM/3V4w6mei0=
+
+Name: org/eclipse/m2e/core/internal/project/ResourcePomFacade.class
+SHA-256-Digest: KxvLc/DpE60lR9x9mWidf7nXnAxQESdB/H01aUvmhsc=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/MojoExecutionProble
+ mInfo.class
+SHA-256-Digest: LKDN9KBPbrj4iwEPsDVOIXBLtiq+8m3oDFsyCVyv/8s=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/MissingConfigurator
+ ProblemInfo.class
+SHA-256-Digest: z0aGSSFIxcysi/csJft0IhoVAGgLSFSWeUFNN5O7yNk=
+
+Name: org/eclipse/m2e/core/internal/index/UserInputSearchExpression.clas
+ s
+SHA-256-Digest: c6yfM1oK4P+F4GjL5RpRZxn9TTmkxzEIuOnz0zQOcuY=
+
+Name: org/eclipse/m2e/core/internal/project/ArtifactKeyAdapterFactory.cl
+ ass
+SHA-256-Digest: 8CBziqvd/ei0yY2eKzUlkz4iPuUafYvV4zz5xNGwNq8=
+
+Name: org/eclipse/m2e/core/internal/IMavenConstants.class
+SHA-256-Digest: ZoGClsJLa2/N145iIbejkpnuUkLwTRdyGoW1mM/Tgd8=
+
+Name: org/eclipse/m2e/core/project/MavenProjectChangedEvent.class
+SHA-256-Digest: J8MWwT/H69nkKIHmKC3uQ9/aEaYnp9vlQf7ERWayPo8=
+
+Name: org/eclipse/m2e/core/internal/embedder/PlexusContainerManager$Plex
+ usComponentLookup.class
+SHA-256-Digest: igKCX30wSRZu3h4Lrg4erJb7GIAL2l2Q/ZCQ+0TuMQY=
+
+Name: org/eclipse/m2e/core/project/MavenProjectUtils.class
+SHA-256-Digest: fStBi7rxVpGnVJASs+bI6J4zheBOFfyhGznGb7ietkI=
+
+Name: org/eclipse/m2e/core/internal/project/registry/MavenRequiredCapabi
+ lity.class
+SHA-256-Digest: uPgcz7UUXcBNcgooue1++1/kW8O4iXRWv7m59ddhH/8=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectRegistryRead
+ er$2.class
+SHA-256-Digest: S1xqDYS8CGAZKUmPgVr7TlweBWZEz/DxvK1jfRFhaVM=
+
+Name: org/eclipse/m2e/core/internal/preferences/MavenConfigurationImpl$1
+ .class
+SHA-256-Digest: 7jStPMbWEgy50ZBdY/Q9MJupf96Yg4HWYwOBkHtbGxY=
+
+Name: org/eclipse/m2e/core/internal/embedder/MavenExecutionContext$1.cla
+ ss
+SHA-256-Digest: vQP/f6+UdIdUIhZnHdaOnGugL44WEMw3LfI7No8jU/c=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/InvalidLifecycleMap
+ ping.class
+SHA-256-Digest: HQUIbKatrtCikn/qYgLpZbT0qKw57tWGr16ZkktLlEY=
+
+Name: org/eclipse/m2e/core/internal/content/XMLContentDescriber.class
+SHA-256-Digest: TrLeQmliR331CMG7Ju5nBRldAgOQpwLVl7G7+de9Acw=
+
+Name: org/eclipse/m2e/core/internal/launch/IMavenLauncher.class
+SHA-256-Digest: 0dwkbtGnjKNaYIHHa4sojAVDARliVXxJ2esp9Xvk50U=
+
+Name: org/eclipse/m2e/core/project/IWorkspaceClassifierResolverManager.c
+ lass
+SHA-256-Digest: FVF7eirEqz5D0ivYeBv9icxevE7hodWPwIBxfNrIhPU=
+
+Name: org/eclipse/m2e/core/internal/project/registry/StaleMutableProject
+ RegistryException.class
+SHA-256-Digest: t5RimTRXZGOJ58oCNgR17zpzuGdeHYhrz97BuG1JgoE=
+
+Name: org/eclipse/m2e/core/internal/project/MavenProjectImportResult.cla
+ ss
+SHA-256-Digest: bf9anUYq3Xal1YsDOmf5cNgwaxaSuRmo2YGYVUjDPjQ=
+
+Name: org/eclipse/m2e/core/internal/embedder/MavenProjectMutableState.cl
+ ass
+SHA-256-Digest: SNnzKjfDhNIjwfgZvQfqqmYoFej32A3w2NaIlGRXXkI=
+
+Name: org/eclipse/m2e/core/embedder/IMavenExecutableLocation.class
+SHA-256-Digest: m8/5eY+8cO3G/yIzs8xoX2TP0tQRFMX8AHGTuYWbNBc=
+
+Name: org/eclipse/m2e/core/internal/launch/DefaultWorkspaceRuntime.class
+SHA-256-Digest: AZOp7h6xMl3gyZTbz5XIqGL57XpiycGdMVFOE7/QWQI=
+
+Name: org/eclipse/m2e/core/internal/embedder/IMavenComponentContributor$
+ IMavenComponentBinder.class
+SHA-256-Digest: T1jEwg8tsyjtsJ6BT1yoheR9JBCdyYAmMRTC84Cq0xs=
+
+Name: org/eclipse/m2e/core/internal/project/EclipseExtensionRealmCache.c
+ lass
+SHA-256-Digest: tSWVcmbb3cKO0/OEk1H2nWOJGzv3THmIK+XxzHmiUN8=
+
+Name: org/eclipse/m2e/core/internal/IMavenToolbox$2.class
+SHA-256-Digest: ZiKUF+1P222JvQuN/LvQEKo6HNEW1xXsZgR6YhPkUSE=
+
+Name: org/eclipse/m2e/core/internal/embedder/MavenImpl.class
+SHA-256-Digest: 3GpMs2+IyKFz4IfyDGdoLwax9xoMJjMwPUG3+wl/MA0=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/DuplicateMappingSou
+ rceProblem.class
+SHA-256-Digest: RAfi0cNuvWIWKqKH+5kPwUycMo/oKkzRMlreRqWhX+E=
+
+Name: org/eclipse/m2e/core/internal/project/WorkspaceClassifierResolverM
+ anager$1.class
+SHA-256-Digest: /XkfAzJAuRSPnlWWZvqOzHRRBt4ifxI6JhWkaRUHKfA=
+
+Name: org/eclipse/m2e/core/embedder/MonitorExecutionListener.class
+SHA-256-Digest: MM013/PM8Rk7Sww63mTteFhKbCf4IuH74GiSeWCFVZ0=
+
+Name: org/eclipse/m2e/core/internal/project/ProjectConfigurationManager$
+ 1.class
+SHA-256-Digest: bspge1bIP5rFcC565m9ml5I+iyzWQ3VVCMvprUv9E1M=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/LifecycleMappingRes
+ ult.class
+SHA-256-Digest: aOgsVmOeYxH9QWTKR4tO8m5df+f9MlXn8bCWqoYEtdQ=
+
+Name: org/eclipse/m2e/core/internal/MvnProtocolHandlerService$MavenURLCo
+ nnection$1.class
+SHA-256-Digest: P4CbjkhA/C+9YCjoB9HCHDYR7y+/cQyQJjruj+JDgpc=
+
+Name: org/eclipse/m2e/core/internal/M2EUtils.class
+SHA-256-Digest: JxRQOmhZRG83QHL2pTPScdHjPk+J6MMEQ09RV1uZQYg=
+
+Name: org/eclipse/m2e/core/project/configurator/AbstractLifecycleMapping
+ .class
+SHA-256-Digest: bm1GS9oeEb441x4WwVCGYRjYwXZfext+E+VYdxOXhVc=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/ProjectConfiguratio
+ nElementSorter.class
+SHA-256-Digest: IoNonH/LkRQwX50QJC3euvqYkkjrSk01CbaGoYerWjo=
+
+Name: org/eclipse/m2e/core/internal/index/filter/ArtifactFilterManager.c
+ lass
+SHA-256-Digest: v4TglIXUQsYkchWiktdtCcdx/3ihQYwOIU4yGW8CABo=
+
+Name: org/eclipse/m2e/core/embedder/ArtifactRepositoryRef.class
+SHA-256-Digest: +ieOATV27bYjYgRnGbcxoKaXYf8256G/DWqv+Xh6SX4=
+
+Name: org/eclipse/m2e/core/internal/builder/plexusbuildapi/ChangedFileOu
+ tputStream.class
+SHA-256-Digest: kEG1Js1kiptdVceuEL9LgFYwffutfpzlGnxtrr0MtTQ=
+
+Name: schema/artifactFilters.exsd
+SHA-256-Digest: gGK+Iy3PLq/rKWfYT7sITtwfSOCGQiVbQ+nKKWPkF5w=
+
+Name: org/eclipse/m2e/core/internal/embedder/ArtifactTransferListenerAda
+ pter.class
+SHA-256-Digest: dciz3CrOc5v3g9H+PcE7COhntFIoqxU3ULIECsPLWc0=
+
+Name: org/eclipse/m2e/core/embedder/IComponentLookup.class
+SHA-256-Digest: ExD1B7HDXTQpudHm4Dy6PP2OaMQec9VCj20ocfqZH1k=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.markers.MavenMarkerManager.
+ xml
+SHA-256-Digest: F5VFdp5k6fNMpeK/zG2i56/eT9BPwBIqyhqNYPwvXlQ=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectRegistryRead
+ er$1.class
+SHA-256-Digest: SIGMxKhySiWmIjnvUB8yunqn050DVIedpdXr8kKIFbw=
+
+Name: org/eclipse/m2e/core/internal/markers/SourceLocationHelper.class
+SHA-256-Digest: BgbgWvyZgQtvXtbvpdADapbYc046D0EDtoriac7hGac=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/discovery/Packaging
+ TypeMappingConfiguration.class
+SHA-256-Digest: Cz1EjBriUE5iZiusQfMl4y3UxR+XrkNsRyIx7ZNuVec=
+
+Name: org/eclipse/m2e/core/internal/project/ProjectCachePlunger.class
+SHA-256-Digest: IN9gJJCjOBZ4gJY3JP1PQx/JkkMeVCl3R7/qLQX7Sgo=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/ActionMessageProble
+ mInfo.class
+SHA-256-Digest: L0OJiqFrnT6AH1nGKjtrHbFRm3qblJbCfSPPKu6FFb8=
+
+Name: org/eclipse/m2e/core/internal/project/ProjectConfigurationManager$
+ 2.class
+SHA-256-Digest: wandnYNUshkMwmzP1d7gzA2r1R/wX5o7rshgMm8Yvc0=
+
+Name: org/eclipse/m2e/core/project/configurator/AbstractCustomizableLife
+ cycleMapping.class
+SHA-256-Digest: 01asw8zxbI2g/AB6NA2ahw037M+APIYrnXFpq4+xD+w=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.project.PomFacadeAdapterFac
+ tory.xml
+SHA-256-Digest: FckPyxYP0Mr2GhqLnwuwStntdnweKUYNex1wKSaOoT0=
+
+Name: org/eclipse/m2e/core/internal/index/MatchTyped$MatchType.class
+SHA-256-Digest: EdIEsCdcAoDa9qzNYCysaK+Ul8ST7/XGH/nOALGOXFY=
+
+Name: org/eclipse/m2e/core/internal/preferences/MavenConfigurationImpl.c
+ lass
+SHA-256-Digest: AZuYKOCsEJcfwIXPHeb/MfoTdRrDDUNLcNNtcjidO4Q=
+
+Name: org/eclipse/m2e/core/project/AbstractWorkspaceClassifierResolver.c
+ lass
+SHA-256-Digest: k5TK7KYqQq81Bd92d8703x05W7j06CDZpQQ3rPIkG2A=
+
+Name: org/eclipse/m2e/core/internal/launch/MavenExternalRuntime$1Version
+ Handler.class
+SHA-256-Digest: VQcb6MbQYBqlCsG5bNQBasnZ92j7qoIvlJsruR7QuoE=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectRegistry.cla
+ ss
+SHA-256-Digest: oCy+lpBEtzzhEvh5/fdyfMfHfpJrKjcrDmu3CgT9Q/s=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/model/io/xpp3/Lifec
+ ycleMappingMetadataSourceXpp3Writer.class
+SHA-256-Digest: 9j8A+eFe8aDYolo749bj7Pf9oJdcVpWP1qtlrgZuZ0g=
+
+Name: org/eclipse/m2e/core/internal/embedder/ContextRepositorySystemSess
+ ion.class
+SHA-256-Digest: Nu1RLiySdDIPO29ZMlXRc8+dthgscipOfT1wVDZxx/U=
+
+Name: org/eclipse/m2e/core/internal/embedder/FilterRepositorySystemSessi
+ on.class
+SHA-256-Digest: xyj7wL/Rq8YhLI2oZrLVFpnANi64qKQb8m59OLx8p/E=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/AnnotationMappingMe
+ tadataSource$PI.class
+SHA-256-Digest: DtXbbH+Vd7YAFsedqFWdc18TlEaeXxbD+KCpcylcaQ4=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/discovery/MojoExecu
+ tionMappingConfiguration$MojoExecutionMappingRequirement.class
+SHA-256-Digest: b9CAyGf9TdU+JdNgAs2eVX+hXuY/omp2WX0hAFfcN7A=
+
+Name: org/eclipse/m2e/core/internal/MvnProtocolHandlerService.class
+SHA-256-Digest: T0r3SUBkHQh1LCBl1VLCoySxkZi53uGqFkP5kMr29fc=
+
+Name: org/eclipse/m2e/core/project/IMavenProjectImportResult.class
+SHA-256-Digest: /uY3OGKFUxg7C87LS9tAd+nfP79AGt//mQYCp0Vn7EA=
+
+Name: org/eclipse/m2e/core/internal/project/registry/MavenProjectFacade$
+ 1.class
+SHA-256-Digest: iB1hfaiiWSHkuIpWyTED7Oo+sXaeRGodIbdmEqsXFFQ=
+
+Name: META-INF/maven/org.eclipse.m2e/org.eclipse.m2e.core/pom.properties
+SHA-256-Digest: mqPClc+mgBaIYSjlrtC+ByM5eEnh7phowbG1eu6WnqE=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.project.conversion.ProjectC
+ onversionManager.xml
+SHA-256-Digest: CkkFteBwGt9KXtxKBYA4nBmeO5ajI2wu6luHGskWUGQ=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.repository.RepositoryRegist
+ ry.xml
+SHA-256-Digest: Z70fUJJAGauZVfdVxy0mSVVjBtZ6B3R/Q09ZpRAVURA=
+
+Name: org/eclipse/m2e/core/internal/embedder/EclipseClassRealmManagerDel
+ egate.class
+SHA-256-Digest: xS4ac7JA9nbKeD8EkaTJBHl89jvssAgyJloH7Wsxkis=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/MappingMetadataSour
+ ce.class
+SHA-256-Digest: SiNWryfJdpCOPoAVOutDbZZc7rXEoPVF5wdprGPzqOc=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/FailedMappingMetada
+ taSource.class
+SHA-256-Digest: o1WhIPuPjd7CLQFDOdUKEpW96hGzy3CLPMRCarmY1xI=
+
+Name: org/eclipse/m2e/core/internal/launch/ProjectClasspathEntry.class
+SHA-256-Digest: hT2uXT/ryneyCpvdOdptxyw+bMrvNXPCMcBrb/DkLAI=
+
+Name: org/eclipse/m2e/core/embedder/MavenConfigurationChangeEvent.class
+SHA-256-Digest: i/iYXLXQfh50VNJdX49s6TR5/tPSmKJi3rp7XfoPQbk=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectRegistryRead
+ er$IFileReplace.class
+SHA-256-Digest: 6nG+w3QvxTIfVIWV2pYSrpTuSXrk+eik/ZaaK/77VAc=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ILifecycleMapping2.
+ class
+SHA-256-Digest: rxbD11+ZM0snTngzdLb5twcOlXLC7ro1024m9dfoA1o=
+
+Name: org/eclipse/m2e/core/internal/builder/InternalBuildParticipant2.cl
+ ass
+SHA-256-Digest: 0zH+iZhWJs12Kk/2OdufUvenl2rIvIb0kxMBU3VW91k=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/discovery/MojoExecu
+ tionMappingConfiguration.class
+SHA-256-Digest: S/7Vtj6QDOrTNjTyR2mHIHo/7jW6NRQOkxPHB3ymcG4=
+
+Name: org/eclipse/m2e/core/internal/project/WorkspaceStateWriter.class
+SHA-256-Digest: JJ+lizM7LlEBnkUQyP1l3cn5MBjk45Pf+n1Uko38vmE=
+
+Name: org/eclipse/m2e/core/internal/builder/BuildDebugHook.class
+SHA-256-Digest: cqhpZBz2jMt/bGMps3lZJ94NFPi+NffPrcgqMrP5pLc=
+
+Name: org/eclipse/m2e/core/internal/project/ProjectProcessingTracker.cla
+ ss
+SHA-256-Digest: m+3EeT/Lr6QL4pus422ubrROo9088SLczCTIXkZrYeE=
+
+Name: org/eclipse/m2e/core/internal/URLConnectionCaches$1.class
+SHA-256-Digest: 6Xhmj7IwxSr9to3K3G8M1+GrMI/Lp6IkWoaU7d+TXM4=
+
+Name: org/eclipse/m2e/core/internal/builder/MavenBuilder$1.class
+SHA-256-Digest: GvcMqGynflYWwXXZDUjtud5uxy6+gKs9a5gK5FwzyFQ=
+
+Name: org/eclipse/m2e/core/internal/builder/plexusbuildapi/ResourceDelta
+ Scanner.class
+SHA-256-Digest: E7odOgejNEmQ+5Ds75Y8q3IwhO8s0Dv+1NJjqUvbR6Q=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/model/io/xpp3/Lifec
+ ycleMappingMetadataSourceXpp3Reader.class
+SHA-256-Digest: ZMg9Vq1Gn8+w9UdprN+X6BRLesDr8HhK35kZ9PAmC6Y=
+
+Name: org/eclipse/m2e/core/embedder/ILocalRepositoryListener.class
+SHA-256-Digest: 5/ncvU/rBxpr5casiDbjn85yz8+uBzt6+h503PTCXS8=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.embedder.PlexusContainerMan
+ ager.xml
+SHA-256-Digest: Agnor+INzyViNzU4+dWQQ+3D2AIFh+sEv7mG7SNP8BM=
+
+Name: org/eclipse/m2e/core/internal/content/PomFileContentDescriber.clas
+ s
+SHA-256-Digest: JNuCQxQCFMG7idDf0F28aL6SWrNEDhmXeM8G6teJgGM=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/LifecycleMappingCon
+ figurationException.class
+SHA-256-Digest: nvnhShGuziCKH3wejZTkr4jgUOgoXe1l86VGrzvrAMU=
+
+Name: org/eclipse/m2e/core/internal/embedder/PlexusContainerManager$Exce
+ ptionalLookup.class
+SHA-256-Digest: pkvmaErq98aHtNJTjpgXNZwWL7wimdysM08Io3Fxx1g=
+
+Name: org/eclipse/m2e/core/internal/embedder/DefaultMavenComponentContri
+ butor.class
+SHA-256-Digest: Dxxb++a2c29Ea58VPp32Hnkj1n56rQIJ/Kkey0hPKrE=
+
+Name: org/eclipse/m2e/core/internal/embedder/MavenProperties.class
+SHA-256-Digest: 5UJjaMTZhKiqnhFbbEKrzg1k86+sVC5+BSmiFGLXEiM=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectFacadeAdapte
+ rFactory.class
+SHA-256-Digest: Uenmk38ZzZR69nbcKz1e6mw9lu3gY9gnjtv+Bzze5NY=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/DuplicatePluginExec
+ utionMetadataException.class
+SHA-256-Digest: pL0GD7hncZdnW+eXZxr3Q2TPB+9EMTUPXsIY+uN2fDc=
+
+Name: org/eclipse/m2e/core/project/IWorkspaceClassifierResolver.class
+SHA-256-Digest: vWphchctgfU88lmvV3gbVGVwatdTeeaPkUxan6tTXiQ=
+
+Name: org/eclipse/m2e/core/internal/repository/RepositoryInfo.class
+SHA-256-Digest: q0HMBatzlvle8jvbTlaM5MMDpyU/E3Va1swgG8At8R8=
+
+Name: org/eclipse/m2e/core/project/IMavenProjectChangedListener.class
+SHA-256-Digest: BCIRU1o2l2vsGCS9bs2Bv3KLhNk+kd408nS55TDOgr0=
+
+Name: org/eclipse/m2e/core/internal/builder/BuildResultCollector$Message
+ .class
+SHA-256-Digest: rBHe2MuOqPalC8PVsm6vR4PJGG5b24uFh+KXbRzs/U4=
+
+Name: org/eclipse/m2e/core/internal/project/registry/MavenCapability.cla
+ ss
+SHA-256-Digest: LQxC9NkK7QrmD22acA5AKpEhS/vOSZp+HBpF5WrEhh8=
+
+Name: org/eclipse/m2e/core/internal/embedder/PlexusContainerManager$1.cl
+ ass
+SHA-256-Digest: p/eSTdVMPpIz4W/XrgDWmnkAkM7wRcYOzy+80qDcdEk=
+
+Name: org/eclipse/m2e/core/internal/index/SearchExpression.class
+SHA-256-Digest: Af6aMhahpTDx3zK21yPG45Tdb9d1DkmKB2UruMZKaKc=
+
+Name: org/eclipse/m2e/core/internal/MvnProtocolHandlerService$MavenURLCo
+ nnection.class
+SHA-256-Digest: IVV4Ck86CWcPnbyAmgys/ZP5d1N9tIjAQ+sFhNd8eHQ=
+
+Name: org/eclipse/m2e/core/internal/URLConnectionCaches.class
+SHA-256-Digest: /RNoe2yALv/RSm9Ass5oPVR5Qc87ReDFH59tL19FUD0=
+
+Name: org/eclipse/m2e/core/internal/launch/MavenEmbeddedRuntime.class
+SHA-256-Digest: 5AMFkwMUYUeRUfzndCXCZBhsaBvEshlXg7qW+s5PXIY=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.project.registry.MavenProje
+ ctManager.xml
+SHA-256-Digest: Z9pnCX4JOHKlI68OWWQoaxRRd+tW2OICAcRjlkEnI9M=
+
+Name: org/eclipse/m2e/core/project/ProjectImportConfiguration.class
+SHA-256-Digest: kaP5v/QyTeUVB/vmMDqQeCYbCKPyqIKShqZEdfmaU74=
+
+Name: org/eclipse/m2e/core/internal/project/registry/AbstractMavenDepend
+ encyResolver.class
+SHA-256-Digest: vvREDDyPYSRkgpvUGnMXVVYJ/s+mY0RFZtjvrz49+To=
+
+Name: org/eclipse/m2e/core/internal/index/IndexedArtifact.class
+SHA-256-Digest: 7zdxHnHZRzZ8G1qUp0tFTnbYEcQSYWPG/Dtk6Vvm2OA=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.index.filter.ArtifactFilter
+ Manager.xml
+SHA-256-Digest: kWZ5Dtqva/xZ80+kQFhtBN5Adf55inPaI1bGvLKDFhc=
+
+Name: org/eclipse/m2e/core/internal/project/EclipsePluginRealmCache$1.cl
+ ass
+SHA-256-Digest: aUbjTxmmyxSfLvFAL2TR5Or4xZCoUWVKmBddV4PPaf4=
+
+Name: org/eclipse/m2e/core/internal/project/conversion/ProjectConversion
+ ParticipantSorter.class
+SHA-256-Digest: NygwjcKRKzxTzGqynd0LtJHjt80jX1TlgFRRc9THirA=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/discovery/Packaging
+ TypeMappingConfiguration$LifecycleStrategyMappingRequirement.class
+SHA-256-Digest: MKB2TgF6vWdMarUqJBi/EHbtf+jsYFF6CTGRVKSk29k=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/MojoExecutionFilter
+ .class
+SHA-256-Digest: b1OB9OfimoE49MIqy+TLJq7U7yoxS4E7SfLTJ2zIzuU=
+
+Name: org/eclipse/m2e/core/internal/markers/MavenProblemInfo.class
+SHA-256-Digest: lsLT/maCPTgcFHxJ2r1lEAsOSTQbO00v00L8mXCPCUw=
+
+Name: org/eclipse/m2e/core/internal/launch/AbstractMavenRuntime.class
+SHA-256-Digest: uRM736Gu0uBCDIy7UMCBbQH1E1SIlK5My4qmj2JacI4=
+
+Name: org/eclipse/m2e/core/internal/builder/MavenBuilder$BuildMethod.cla
+ ss
+SHA-256-Digest: Xj69ij81qi2AJdbJlxmaO1R/LJXENulGas9k9mdgGwA=
+
+Name: org/eclipse/m2e/core/internal/markers/IMarkerLocationService.class
+SHA-256-Digest: zu+mgBYPzalNms73oBzU3EyNZEIjjVHSqCb3u177MLw=
+
+Name: org/eclipse/m2e/core/project/IMavenProjectFacade.class
+SHA-256-Digest: fjiEHXfyNdbFk+YRjsvrXSBm3CyBVzDP4YdVWpEhd7g=
+
+Name: org/eclipse/m2e/core/project/configurator/MojoExecutionKey.class
+SHA-256-Digest: G9hmpiuWGaE2cUUZrJlgr7vL0+k5XfA1xrHbyENmmE8=
+
+Name: org/eclipse/m2e/core/internal/builder/IIncrementalBuildFramework$B
+ uildContext.class
+SHA-256-Digest: hBBX8oZRLZUBkpz+X6asGufl8lBE7j0D/xqkrsASZaQ=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/MissingLifecycleExt
+ ensionPoint.class
+SHA-256-Digest: YQ5L0bjJ311yE4H7dvnIxI0i4WRdCvyMwtz7sXcsDwo=
+
+Name: org/eclipse/m2e/core/project/LocalProjectScanner.class
+SHA-256-Digest: X1/+QPPnnfrFJMPw+A7hEa/F0Qs9atkRiMQP8VayC9s=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectRegistryRefr
+ eshJob.class
+SHA-256-Digest: wGuAzqLyTu9dkv3w+J8W/R5Lf3K4TBEgWPD4l7NibLc=
+
+Name: schema/projectConversionParticipants.exsd
+SHA-256-Digest: DWaPoIqDi5BzErmXNGerGnK++eg7XxoWKbeS1jApJX8=
+
+Name: org/eclipse/m2e/core/project/IProjectCreationListener.class
+SHA-256-Digest: uMDZQWDPJHOHHlFAa01S8tVJqBmjHJtu006RRXICCLQ=
+
+Name: org/eclipse/m2e/core/internal/embedder/PlexusContainerManager$2.cl
+ ass
+SHA-256-Digest: 7x6t3B3W9ERhvErydxDJdnzhST5QSQb9FbPmtD2LUYs=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectRegistryMana
+ ger.class
+SHA-256-Digest: qI4ODeged3UvSu1iPMq0VcD+HIEh6bdRiKozEvzooxA=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.project.registry.ProjectReg
+ istryReader.xml
+SHA-256-Digest: TzhBXz20eNFr4Pri8o9lup6wNEQ6B8745JrUwQLyq2Y=
+
+Name: org/eclipse/m2e/core/internal/markers/MarkerUtils.class
+SHA-256-Digest: 02OdqDZ6Bx5ZwxzrGZWthmy09OZVK1ieazmVidPs74o=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/DuplicateLifecycleM
+ appingMetadataException.class
+SHA-256-Digest: pjWNbUz26xQHBn321tgs/r2UEirHeXQSqgRGIwEOHnQ=
+
+Name: m2eclipse.gif
+SHA-256-Digest: ug1Remb9sL+Sil0cwbPUJgoIIJb/t9qSyKlnR+EsW5k=
+
+Name: OSGI-INF/org.eclipse.m2e.core.embedder.MavenModelManager.xml
+SHA-256-Digest: zSNScviA/jUAPPgpNZ1yl0puLXVkUDc/KrFPogqUUxw=
+
+Name: org/eclipse/m2e/core/internal/launch/AbstractMavenRuntime$IMavenLa
+ uncherConfiguration.class
+SHA-256-Digest: qOk0Qom/O84exLwG5KrquiGKEqDOI6WPqoKOigyg2Rk=
+
+Name: org/eclipse/m2e/core/lifecyclemapping/model/PluginExecutionAction.
+ class
+SHA-256-Digest: d/MJF2/IHOiDp8cT1PRl06bgorPM45cPemxRoTFRuJs=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/model/PluginExecuti
+ onFilter.class
+SHA-256-Digest: CJP209ORt3DgYWXnwAQDs6vkhiXHd0L/9T8rnsicqYI=
+
+Name: org/eclipse/m2e/core/internal/markers/MavenMarkerManager.class
+SHA-256-Digest: 8ptREBbZwnahdeUb1BN5YrbbkARiaBBGcm915Zn0D0Q=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectRegistryMana
+ ger$Context.class
+SHA-256-Digest: Cw600gLJ7VlGeuC9B00Kzo8peNsvYZ46sba61JI4nJ8=
+
+Name: org/eclipse/m2e/core/project/IArchetype.class
+SHA-256-Digest: jir2I/iEWPPBc3d5wVgV8jFDmvwU/LRJGh82py5zE08=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/discovery/Packaging
+ TypeMappingConfiguration$PackagingTypeMappingRequirement.class
+SHA-256-Digest: iRTO3agmNF7VowlifHDhDPKWpr4wcS/nsMbcnNRZVJQ=
+
+Name: org/eclipse/m2e/core/internal/index/IIndex.class
+SHA-256-Digest: ScJbTNZddvB/7merzcRq2ClXQEiqf6NP7SydzgZbfHw=
+
+Name: org/eclipse/m2e/core/internal/embedder/MavenExecutionContext.class
+SHA-256-Digest: Z8sGVfwCqRoxNMJgP/owue2R3687CGNw6ntKcD8f9to=
+
+Name: org/eclipse/m2e/core/internal/embedder/EclipseRepositoryListener.c
+ lass
+SHA-256-Digest: X5xkQqYPRd1sghEPMqu1scoaOqyjtOna30OA/qytun0=
+
+Name: org/eclipse/m2e/core/internal/builder/DeltaProvider.class
+SHA-256-Digest: ouavYvmHciixp41RLZF7lvWZXLH03nW6CCWvkj+8seI=
+
+Name: org/eclipse/m2e/core/internal/builder/plexusbuildapi/PlexusBuildAP
+ I.class
+SHA-256-Digest: 3hZdat2AHahT2L13GCHbOB0GyyEWXZBO51L0GQXbKt0=
+
+Name: org/eclipse/m2e/core/project/conversion/IProjectConversionEnabler.
+ class
+SHA-256-Digest: i8Afbe2gzhHmnacft26baG8ZxSZX0Ssl9SI2k7sKUN4=
+
+Name: org/eclipse/m2e/core/internal/project/EclipseExtensionRealmCache$1
+ .class
+SHA-256-Digest: Gzt2ZnNzBcu2kWNhS+HYeadBA+uP9R/2TiFVXLRLRD4=
+
+Name: org/eclipse/m2e/core/internal/project/PomFacadeAdapterFactory.clas
+ s
+SHA-256-Digest: JLIwVDFAnD1OGKdVolM9R8K/ALmkV6mW5HNjTg15JS0=
+
+Name: org/eclipse/m2e/core/internal/project/EclipseMavenMetadataCache.cl
+ ass
+SHA-256-Digest: vYa1ylmulGOqsy//Dt4aobORTjPE6BZeig8hCIJD0Eg=
+
+Name: org/eclipse/m2e/core/internal/project/ResolverConfigurationIO.clas
+ s
+SHA-256-Digest: dEcblP+8/bkdgK/blsAwOBn8kn4o2gdL05/7B8Yfhtc=
+
+Name: org/eclipse/m2e/core/internal/builder/plexusbuildapi/EclipseBuildC
+ ontext.class
+SHA-256-Digest: 1jOd9BkVCAAZmUYemkb+IfxSmduZxE5nxHdftmUW6FM=
+
+Name: org/eclipse/m2e/core/internal/NoSuchComponentException.class
+SHA-256-Digest: XE94H7+9gIbkk7+ooR6TUm5AjGs/yzsgdP1rR/+dFHA=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/DefaultLifecycleMap
+ ping.class
+SHA-256-Digest: V6WehVS+HBsOlHPcyofFNsCKEtnHz4ce8B19zikxdvE=
+
+Name: org/eclipse/m2e/core/project/configurator/AbstractLifecycleMapping
+ $1.class
+SHA-256-Digest: JrLORHXMGNFumSfNeti9KvWSC8SHgmaytScfakiCW5A=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.project.registry.ProjectFac
+ adeAdapterFactory.xml
+SHA-256-Digest: 7i09x7unE2LtJAuzvgRrprskql1VSZBL0OBmzPKtCk8=
+
+Name: schema/lifecycleMappings.exsd
+SHA-256-Digest: pJCI2DbRI2SAHvMJct/CqNGhdbJD4b8/zNOkTL/li6M=
+
+Name: org/eclipse/m2e/core/internal/launch/MavenWorkspaceRuntime.class
+SHA-256-Digest: uQtV04C3/ySzbA0gW0tCNqd3K/7rMy/00Hwy//gsMxw=
+
+Name: org/eclipse/m2e/core/project/configurator/ILifecycleMappingConfigu
+ ration.class
+SHA-256-Digest: SfOJ/wRErSNs+wA/enL6fQgSuC5uHlby0pe3nBBqpvg=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.launch.MavenRuntimeManagerI
+ mpl.xml
+SHA-256-Digest: jXAJ8UZwa0q2t+jBrOc+wEZuZ9RXZikQEh9x+CSqBvE=
+
+Name: org/eclipse/m2e/core/embedder/IMavenExecutionContext.class
+SHA-256-Digest: isIC35b6Wb2YU4qlTTfbyiOEcnJNTX1emsNDqW3nDXQ=
+
+Name: org/eclipse/m2e/core/internal/preferences/MavenPreferenceInitializ
+ er.class
+SHA-256-Digest: I5rms0wTuiJWWjFfcUDsJ+1pWqm/31l/2cU6imuUg8o=
+
+Name: schema/incrementalBuildFrameworks.exsd
+SHA-256-Digest: V5KH0lwmPpI0rcXgcKWanumn43vOhX7MD8W3n2OrifY=
+
+Name: org/eclipse/m2e/core/internal/builder/BuildProblemInfo.class
+SHA-256-Digest: FAVzFHZ3F1HJK7WgF8GIoCxXq0m1IAQiXIYgBadRlF0=
+
+Name: schema/lifecycleMappingMetadataSource.exsd
+SHA-256-Digest: 14VIEz+/TWtUa+ZWrh5OAnegP8sHji+rKaEKfbczUFQ=
+
+Name: org/eclipse/m2e/core/internal/project/DependencyResolutionContext.
+ class
+SHA-256-Digest: C0udbsoPnWePCSyun7twquDgnU46PBeZNTkbTlA456E=
+
+Name: org/eclipse/m2e/core/internal/builder/MavenBuilderImpl.class
+SHA-256-Digest: qJuwzTVhL7N9WfVJ7Q1G5amzJSliteQkzbav0rj0dZ8=
+
+Name: org/eclipse/m2e/core/internal/project/EclipsePluginArtifactsCache$
+ 1.class
+SHA-256-Digest: btoFruEWdynIZAbLMfulN9iepE4rVBodsrCqXKw61UA=
+
+Name: org/eclipse/m2e/core/embedder/IMavenConfiguration.class
+SHA-256-Digest: vPwMgmWL0PjR59TmApDbGNu7g0Vwbgri/Fr+RRzsaT4=
+
+Name: org/eclipse/m2e/core/internal/project/EclipsePluginArtifactsCache.
+ class
+SHA-256-Digest: Seu9O+CG57iSfGQiyBAiEYHDuVwkYpqcsYZOu+izBE0=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectRegistryRead
+ er.class
+SHA-256-Digest: sf97bVnICpnfYt27YX8ZZjkRd4h4xB/KMnnX1rM/Feo=
+
+Name: org/eclipse/m2e/core/internal/builder/InternalBuildParticipant.cla
+ ss
+SHA-256-Digest: XYwFFe9UlB/L9EsbqsrCDrN9vmk1nNYFxEZzfhYLa/g=
+
+Name: org/eclipse/m2e/core/internal/project/registry/IProjectRegistry.cl
+ ass
+SHA-256-Digest: O5mdICvM34Hgs5XX3304Xtf7dpoAPGiekwKSY5s5ep8=
+
+Name: schema/projectConfigurators.exsd
+SHA-256-Digest: o/SQrmnQMv+l/gOQjTrxlpJ3fir6PMLHICtGO8m8/GE=
+
+Name: org/eclipse/m2e/core/internal/markers/IMavenMarkerManager.class
+SHA-256-Digest: wgC+n4KyqkxQkrgr8+o+N47MbVAzAY+dWcvjPmQeM/0=
+
+Name: schema/workspaceClassifierResolvers.exsd
+SHA-256-Digest: a0lEw6hlLLmguIi8Kqly8cHhiqL9V4o9Y5hkmyyLgQI=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/AnnotationMappingMe
+ tadataSource.class
+SHA-256-Digest: TaTSGlHnthQtVTfI+lHe4vYDH4drAnwmyn+9ynUGktM=
+
+Name: META-INF/maven/org.eclipse.m2e/org.eclipse.m2e.core/pom.xml
+SHA-256-Digest: j4yBsU/in6LjBdm3pfw9jCr53insthPdERk1Q0tNymI=
+
+Name: org/eclipse/m2e/core/internal/project/LifecycleMappingConfiguratio
+ n.class
+SHA-256-Digest: Bnr9/UaQJ7shG73df0YHsMCUNVg3vTF+VLi1puCDUuQ=
+
+Name: org/eclipse/m2e/core/internal/project/conversion/ProjectConversion
+ Manager.class
+SHA-256-Digest: kJVKXf8M1zXND/TYl5hd4s5J6AnirzH1YQ6qdN4OUvQ=
+
+Name: org/eclipse/m2e/core/internal/builder/plexusbuildapi/EclipseIncrem
+ entalBuildContext.class
+SHA-256-Digest: fnajd7KkndjLiPCDW5BmWHkQTcG8OGsCrIcu9VMjRl0=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/discovery/MojoExecu
+ tionMappingConfiguration$ProjectConfiguratorMappingRequirement.class
+SHA-256-Digest: J3BZxG94x8gxx+FIgR2kNmKm1F1DdjQn4jRrBMnNNdU=
+
+Name: org/eclipse/m2e/core/MavenPlugin.class
+SHA-256-Digest: M+6/g8YP0QXjao2ZGO2vL8oFjzSpTn/QTC7mABCzFgU=
+
+Name: about_files/LICENSE-2.0.txt
+SHA-256-Digest: pgHwXlfwoswdBsTcqm60MdG9UCR1vmm7cVCWX+ZHJaw=
+
+Name: org/eclipse/m2e/core/internal/embedder/IMavenComponentContributor.
+ class
+SHA-256-Digest: glGykz5Rt5esXy3V644wjW17PWCQzoJK1aaIu/jJMAE=
+
+Name: org/eclipse/m2e/core/internal/repository/RepositoryRegistry.class
+SHA-256-Digest: TdDMgimk13eQJ7YmN/VPymlr2frrTEW1zc1o/t3EZbk=
+
+Name: org/eclipse/m2e/core/internal/project/registry/BasicProjectRegistr
+ y.class
+SHA-256-Digest: tmRvzEUNXIXm0nXv1ZgL//dfXVY9nTGWZbjCxqUwj88=
+
+Name: org/eclipse/m2e/core/internal/project/EclipseProjectRealmCache$1.c
+ lass
+SHA-256-Digest: AMSXyc7MDK8Nu65JDz/3AR6qS2+fSwdoKH/QGe4GhKw=
+
+Name: org/eclipse/m2e/core/project/configurator/MojoExecutionBuildPartic
+ ipant.class
+SHA-256-Digest: Zkhhk/aonE8XwfepjLELfHNISkixtsnYQqEv7H3bG/c=
+
+Name: org/eclipse/m2e/core/internal/content/TextContentDescriber.class
+SHA-256-Digest: 472vS0Sj/UQih6xVvp13ZCcFcTbimYBE1kSoXBtjYYU=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectRegistryRead
+ er$MavenProjectManagerImplReplace.class
+SHA-256-Digest: d45bkLnlqsE1GupHtVVbni8MNJtAALsF9fgVTvmeo0U=
+
+Name: org/eclipse/m2e/core/internal/launch/ClasspathEntry.class
+SHA-256-Digest: J8Yo0nkNzouGI/m+7dh1vfB68mJQANME0lhEhc59fEA=
+
+Name: org/eclipse/m2e/core/project/conversion/AbstractProjectConversionP
+ articipant.class
+SHA-256-Digest: 0ujprjwX5P1xoG9qPDiAKfA/+iSRJYWlgt0oiQKNWf4=
+
+Name: org/eclipse/m2e/core/internal/project/registry/MutableProjectRegis
+ try.class
+SHA-256-Digest: wyVmkEykdq4Ouw0f/pX3jxfLNngzJW4JaHtklLX5w4o=
+
+Name: org/eclipse/m2e/core/internal/embedder/EclipseBuildContext.class
+SHA-256-Digest: cmXbafEraMwXP/Mdlt48DDb8yxHa1wJxCc1MlbKWCe8=
+
+Name: org/eclipse/m2e/core/project/conversion/AbstractProjectConversionE
+ nabler.class
+SHA-256-Digest: AmHFp7QM80FFzvt+KNhod4UCP5uQPbSfZiHkyFO/aSI=
+
+Name: org/eclipse/m2e/core/project/conversion/IProjectConversionManager.
+ class
+SHA-256-Digest: pErWrmlG4BN+0awSByeHq5Glzyf9lZdfH5tyNWGqC0g=
+
+Name: org/eclipse/m2e/core/internal/project/registry/EclipseWorkspaceArt
+ ifactRepository.class
+SHA-256-Digest: pYs+xITj4FM4zXCAEE9vaMP5M2791GmCUx/ppxJxAQM=
+
+Name: org/eclipse/m2e/core/project/configurator/NoopLifecycleMapping.cla
+ ss
+SHA-256-Digest: tM0dYbQgrRPSfDDHYwbtKJklCt6rDzxM67nD7xbU7ZI=
+
+Name: org/eclipse/m2e/core/internal/builder/BuildResultCollector.class
+SHA-256-Digest: d9s5MOJm+AsPVXqd/qJJhi8l1GmjpjM6YA9AUxp/0r8=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/LifecycleMappingFac
+ tory.class
+SHA-256-Digest: iW7J4l4j27esdagvt/Jaw58zUFNMmPUMD8ivf3EE3z4=
+
+Name: org/eclipse/m2e/core/internal/messages.properties
+SHA-256-Digest: HKhEX8VyiRhz/gmN+eZDjtEQtuyQe7Pq8hXc7ZuVHHo=
+
+Name: org/eclipse/m2e/core/project/MavenUpdateRequest.class
+SHA-256-Digest: t1SBH4+gCt2isjnCxTOkz78K6CPmJyQO6vFfVteu3ME=
+
+Name: schema/archetypes.exsd
+SHA-256-Digest: 6GkkLPUaMJnB/69JdEFrG6rvkLls5JvHrU6M5ab9+LU=
+
+Name: org/eclipse/m2e/core/internal/builder/IIncrementalBuildFramework.c
+ lass
+SHA-256-Digest: lBVWvgcYAK1l+c6q1nx0oWG8NFbz+1HPJNFODShFaGg=
+
+Name: org/eclipse/m2e/core/embedder/ArtifactRef.class
+SHA-256-Digest: dhW5J1VVEsKrXC63tHp7gxJ8/b6I2Yjup4ZIoZTXUEc=
+
+Name: org/eclipse/m2e/core/internal/project/ProjectConfigurationManager.
+ class
+SHA-256-Digest: r92bUh+L2+L4AvwlMYi4JCeM/G6WGjk9oFEqhH09aWc=
+
+Name: org/eclipse/m2e/core/internal/preferences/ProblemSeverity.class
+SHA-256-Digest: jEBa8vnu5ABEo1P5DIi9Pt3xQAGR2Y0WIEiudBDwMLI=
+
+Name: org/eclipse/m2e/core/repository/IRepositoryRegistry.class
+SHA-256-Digest: 34BpOAaJH5x+ZhH5aAvszvAQKrdJCQ2fKO2+bthHrm8=
+
+Name: org/eclipse/m2e/core/embedder/ArtifactKey.class
+SHA-256-Digest: bsh+MX+7nyU7G+Ny/cA3KJo9U/EvfVK7vKZ2g73XX6Y=
+
+Name: org/eclipse/m2e/core/internal/project/registry/EclipsePluginDepend
+ enciesResolver.class
+SHA-256-Digest: Oz12cah18RYRo4yqbU8sEtsJJ9JhWTcVg8mfhB3QRac=
+
+Name: org/eclipse/m2e/core/project/configurator/ILifecycleMapping.class
+SHA-256-Digest: xdoNPOrPaoGm/xxsAOOguvV2Gs3n2WA72khlJB339BY=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.project.WorkspaceStateWrite
+ r.xml
+SHA-256-Digest: n5FMgOwfgAo8nPxCiXDGGeU5XIQCKTQb8EmLHJbHh6A=
+
+Name: lifecycle-mapping-metadata.xml
+SHA-256-Digest: qvYlGZd4ZLk/39lsBn+mybKsP27cW3oSPJhNtqt2lJ0=
+
+Name: org/eclipse/m2e/core/internal/embedder/ReadonlyMavenExecutionReque
+ st.class
+SHA-256-Digest: RFtQnbDy81qHs0B7FZ0KYthhUmaX734NdhOZfMT4PDo=
+
+Name: org/eclipse/m2e/core/embedder/ISettingsChangeListener.class
+SHA-256-Digest: R2QJ2i2Oq/xhFIjgXJQ0wvtuXsKFk+z4eJDrLyNgKPU=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/discovery/Lifecycle
+ MappingDiscoveryRequest.class
+SHA-256-Digest: 0hhjctU8+wqWzvKDeEn0Qoatjm/7whA/D/rZABRFuKM=
+
+Name: org/eclipse/m2e/core/internal/embedder/ContextRepositorySystemSess
+ ionImpl.class
+SHA-256-Digest: 9tB/uaPOJM4pCeI+8RCpde6trMAE+Te+GuEkI1yPUiM=
+
+Name: org/eclipse/m2e/core/internal/builder/plexusbuildapi/ResourceScann
+ er.class
+SHA-256-Digest: H8wiBAIHwCr64iTo2KxuzUrAKXa2Jd969eCBDRQQqeo=
+
+Name: org/eclipse/m2e/core/internal/jobs/IBackgroundProcessingQueue.clas
+ s
+SHA-256-Digest: lXiMXE03LQ2bSujjzzkj3v9MyYEJyWir+EZsTNiLxzY=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/DuplicateExecutionM
+ appingSourceProblem.class
+SHA-256-Digest: cYvVYbTBTp2Ztrmz9D2mqvgfV5b9wEygXSwmrHZzUVc=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.project.ProjectConfiguratio
+ nManager.xml
+SHA-256-Digest: +k73sG2OivraqLn7TgHIZhYDsnW0J98kUE4uBWk97r8=
+
+Name: org/eclipse/m2e/core/internal/embedder/EclipseLoggerManager.class
+SHA-256-Digest: VtmVdxtyhSgKGEl+MzSfsSxnSEZWilojGP2RdRSS/GU=
+
+Name: schema/mavenComponentContributors.exsd
+SHA-256-Digest: eElfy66T6/3Wo4x+DQ8vuMXSAWayFlJPm0e3JxHsjPs=
+
+Name: org/eclipse/m2e/core/internal/embedder/WagonTransferListenerAdapte
+ r.class
+SHA-256-Digest: jD9JLmiMqCE604erz29SIH5oUnKz4UMXJe+l38oiKr4=
+
+Name: org/eclipse/m2e/core/internal/markers/IEditorMarkerService.class
+SHA-256-Digest: jOSfRwWbpPjDx9CGem47Kn1OQqkBdpR56WXJBHmFcP0=
+
+Name: org/eclipse/m2e/core/internal/repository/IRepositoryDiscoverer.cla
+ ss
+SHA-256-Digest: EfHGkpBAcRHeSRCXKuE+WiJbKK+C2kOW7TyHrO1nbQQ=
+
+Name: org/eclipse/m2e/core/internal/builder/plexusbuildapi/AbstractEclip
+ seBuildContext.class
+SHA-256-Digest: fJrqX7eDsg8nRX0jZSRk8ieGVf0vSuLEh2DixgbCRms=
+
+Name: org/eclipse/m2e/core/project/configurator/AbstractBuildParticipant
+ .class
+SHA-256-Digest: gvgvAlNIqCQw3DWFf2o/AVYFMWFxo3vJ3Dbf7hylzCI=
+
+Name: org/eclipse/m2e/core/internal/project/registry/RequiredCapability.
+ class
+SHA-256-Digest: rOJzZXzq1aiAxDXMSrriGOduauyIAeBsGU90oGS5xa8=
+
+Name: org/eclipse/m2e/core/internal/project/WorkspaceClassifierResolverM
+ anager.class
+SHA-256-Digest: C5l2+r5cjKrsffUmXAfZcn65/b2W1lGOdTS8lo26Y88=
+
+Name: org/eclipse/m2e/core/internal/embedder/PlexusContainerManager.clas
+ s
+SHA-256-Digest: 41Iknw3brdS/QWS2VNoWzRxy0/E+mKR23DdTCvWrUjI=
+
+Name: org/eclipse/m2e/core/embedder/IMavenConfigurationChangeListener.cl
+ ass
+SHA-256-Digest: ZX+YJCfEq2e8+14C+P0xql21iW2A4Ruw1unDUIRHG3o=
+
+Name: org/eclipse/m2e/core/internal/project/registry/EclipseWorkspaceArt
+ ifactRepository$Disabled.class
+SHA-256-Digest: 58yHiKBIZSX5sBSEWTptDeHFxs/Yc03elv4ksya4Gck=
+
+Name: org/eclipse/m2e/core/internal/project/WorkspaceDefaultClassifierRe
+ solver.class
+SHA-256-Digest: aT0g+oH4wiQxPrvw5gzW8byFkUFVQ+Blgzh8Ldo60ms=
+
+Name: plugin.properties
+SHA-256-Digest: 7VVDftPkqn2jaJN6tg3IEbWihXK9VujFYjz3uqe7kWQ=
+
+Name: org/eclipse/m2e/core/internal/builder/plexusbuildapi/EclipseEmptyB
+ uildContext.class
+SHA-256-Digest: IMAn0ntKdbGZGUiolEXB7aOVjvYrTnhHETOEeW4uYdM=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/DuplicateMappingExc
+ eption.class
+SHA-256-Digest: +haM7sEjTP22THIKbqUzZpIzVUQCpcqhpG+rgeenujc=
+
+Name: org/eclipse/m2e/core/internal/index/IndexedArtifactFile.class
+SHA-256-Digest: Ie1hpwOjRh9WJdYZDJ2XQ0L6dcu8q+SwW1YFeLhbFEM=
+
+Name: org/eclipse/m2e/core/internal/project/WorkspaceTestsClassifierReso
+ lver.class
+SHA-256-Digest: 9IQHsKrTiKC3jvtbbrhfzgF447NA3X25erfR+HVRyFk=
+
+Name: org/eclipse/m2e/core/internal/project/registry/Capability.class
+SHA-256-Digest: b50LDGtdNYynmMaCBbG52DTxqTc8poOpb4510ht4Nkc=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/model/PluginExecuti
+ onMetadata.class
+SHA-256-Digest: qFOhQkHtkP1SYLNWXRhr+LK+t0PgMJ1BF+7FWM9OzZs=
+
+Name: org/eclipse/m2e/core/embedder/MavenModelManager.class
+SHA-256-Digest: sJJ4wRoar1aA0za/tndzHcRJ033aSA9ZCHQdoPeXljM=
+
+Name: schema/mavenProjectChangedListeners.exsd
+SHA-256-Digest: +uIQ7PXwJy5QcWd160H6rQhjMAyhI0aJNjrEpyz/HxQ=
+
+Name: org/eclipse/m2e/core/internal/markers/ArtifactNotFoundProblemInfo.
+ class
+SHA-256-Digest: s9l9qpQR/76Yi/+UzVfxBr13D4pUEDWBA9k/cOKzZeI=
+
+Name: org/eclipse/m2e/core/internal/markers/SourceLocation.class
+SHA-256-Digest: q58iFYsH7n5qcUuBEhAc1gcIp4GVOt/Mx6t2mpK6ds4=
+
+Name: org/eclipse/m2e/core/internal/ExtensionReader.class
+SHA-256-Digest: UPaDW7rq3qqNhEcHIMDtQoAAgixTZGOsiZMVquc+UNg=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/model/LifecycleMapp
+ ingMetadataSource.class
+SHA-256-Digest: H0UNq2iMNOy0BFlwGeFAup3Hz/x5rgHUfXQS0fcPIEI=
+
+Name: org/eclipse/m2e/core/internal/index/StringSearchExpression.class
+SHA-256-Digest: a2kgtMSnBZd1ejypeUmOJWSxO+d1aj4yETTDG+ytucE=
+
+Name: org/eclipse/m2e/core/lifecyclemapping/model/IPluginExecutionMetada
+ ta.class
+SHA-256-Digest: SE4VXnsosP6xjZRW5/yID7wm39/G392giGAkXBwFhoM=
+
+Name: org/eclipse/m2e/core/internal/embedder/AbstractTransferListenerAda
+ pter.class
+SHA-256-Digest: nKpUP3xDv0co+dknF6npk/6JSvSknLjuUUqb83fFgz4=
+
+Name: org/eclipse/m2e/core/internal/project/EclipseProjectRealmCache.cla
+ ss
+SHA-256-Digest: qvWWwW77aggovlhLgcnJIKGvmSpMTlTz3NCUccXhvMQ=
+
+Name: org/eclipse/m2e/core/embedder/IMaven.class
+SHA-256-Digest: qeXXN7fJ7uU51UBse6ZUqppaFlo4RkzQK9aiyq5lf4Y=
+
+Name: org/eclipse/m2e/core/internal/launch/MavenRuntimeManagerImpl.class
+SHA-256-Digest: O+c7Sq+WbJh6OJZK/JyLBpg+z8zWu5DwaZBQHh1kWFo=
+
+Name: org/eclipse/m2e/core/internal/MavenPluginActivator.class
+SHA-256-Digest: M1MfCupnEBfeiVMcaVerGlgjtu/znKKW1HJT8fIc4dQ=
+
+Name: org/eclipse/m2e/core/project/configurator/ProjectConfigurationRequ
+ est.class
+SHA-256-Digest: fAyeJW/tb1Rq9woCqSpQPO3tp8v+JG2GsSo9gMT1HdU=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/PackagingTypeFilter
+ .class
+SHA-256-Digest: qQmArQOWq7L0bW65pxKwLVu38axe5SRNhq6ifmZGv7k=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/model/LifecycleMapp
+ ingMetadata.class
+SHA-256-Digest: 3mbsy9f6qllcqJL0Ecj3YwNcy/hnXZFIUsHwh68zJTU=
+
+Name: org/eclipse/m2e/core/internal/project/registry/MavenProjectFacade.
+ class
+SHA-256-Digest: s2lk8e018ZD4Oc5EOmJ8bPM1kpyByh7D4Natno7ON0A=
+
+Name: org/eclipse/m2e/core/project/MavenProjectInfo.class
+SHA-256-Digest: 59CIO9DeJk3Ht/abE+U9Y0xi66hqufG92aOJbu+SAmk=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.embedder.EclipseLoggerManag
+ er.xml
+SHA-256-Digest: jfoWSre6OeOiilylqx9/ZZBjwJD5fwpWerXJH28av9w=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/discovery/ILifecycl
+ eMappingRequirement.class
+SHA-256-Digest: F6NgX4hRTTE34DzvgFXQR1L36oxk7sZsaF67uDHwqt4=
+
+Name: org/eclipse/m2e/core/internal/launch/MavenExternalRuntime.class
+SHA-256-Digest: G0S3sO5co9Zzt1CJwiQo9O4NsNMtNLT8X3uWciYxEtc=
+
+Name: schema/conversionEnabler.exsd
+SHA-256-Digest: gbFqvhjW49Dqfi9AcM/BgxloH6+KxIuj2MUSU5UEo9U=
+
+Name: org/eclipse/m2e/core/internal/embedder/AbstractRunnable.class
+SHA-256-Digest: k9Qs/4oxmGxQNPbBxDYED95Vrd3bvafRsc2xHLFiOKk=
+
+Name: org/eclipse/m2e/core/internal/index/filter/IArtifactFilter.class
+SHA-256-Digest: PyMN3T3hJHvPSv13IH3nVjtyFhvoey52K9odDD72DTM=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.preferences.MavenConfigurat
+ ionImpl.xml
+SHA-256-Digest: 1QwRxZbnBviRirK5AxOS7KhXZ0CUWmVYCZzZZSieC/w=
+
+Name: org/eclipse/m2e/core/internal/project/registry/ProjectRegistryMana
+ ger$1.class
+SHA-256-Digest: W+ar0Wbj+Kvtm1ZMDrTl6BlpueVTixg6aALhUEfKuJY=
+
+Name: org/eclipse/m2e/core/internal/preferences/MavenPreferenceConstants
+ .class
+SHA-256-Digest: O28VddWPsUhqdootPVPhQkLp6eyJrgHakgn2/0hB+80=
+
+Name: org/eclipse/m2e/core/project/configurator/AbstractBuildParticipant
+ 2.class
+SHA-256-Digest: ZbWfVnr3eRduR464D67q5qjYTsS5Ui8ikJfb9nrstUU=
+
+Name: org/eclipse/m2e/core/internal/content/PomHandler.class
+SHA-256-Digest: DuWbX1jXiPIElO0KaBBJa3B0UPQ/ZxGadFswPoQhAj0=
+
+Name: org/eclipse/m2e/core/project/IMavenProjectRegistry.class
+SHA-256-Digest: aPL5hqKM8xH28qpB8PK1EV4EWJi5HmlenAsiAhiQ7qM=
+
+Name: org/eclipse/m2e/core/project/AbstractProjectScanner.class
+SHA-256-Digest: gzyj2jmjWYUd03QBBNkPgbKUcEY3HZh4/VdwbqkIhXE=
+
+Name: org/eclipse/m2e/core/project/ResolverConfiguration.class
+SHA-256-Digest: wUpq83XX1n+6NUJImZygHuvRp/qiFJD+7L11Rzooyhg=
+
+Name: org/eclipse/m2e/core/internal/embedder/ExtensionModule.class
+SHA-256-Digest: YMNDLTxGNHOagjj2SV6MIv9uX3hDzYXrB3KKMxXQdEA=
+
+Name: org/eclipse/m2e/core/embedder/ICallable.class
+SHA-256-Digest: wGbZEQHzvt9Q8DlN9/W+mWZAuRIYptFcU1kxAHR34w0=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.project.registry.ProjectReg
+ istryRefreshJob.xml
+SHA-256-Digest: znXkj8CDeWj1Ns88O1U5nXYvAyiFuw+34WA/kkI/oHo=
+
+Name: about.html
+SHA-256-Digest: 1EJUCaWjw4L9lkHBR/sv4ESXx2lPM0fX1rB6Om02GEI=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/discovery/IMavenDis
+ coveryProposal.class
+SHA-256-Digest: 1ssGmHUJ8sVaut6KhF55nHTiRcl2U9gek0mkN07L0H0=
+
+Name: org/eclipse/m2e/core/internal/lifecyclemapping/SimpleMappingMetada
+ taSource.class
+SHA-256-Digest: CtIt4wmzn83DoWwO2vAzu9jTh06mSAefqu9wHRXqHOc=
+
+Name: org/eclipse/m2e/core/internal/IMavenToolbox.class
+SHA-256-Digest: jjla68TOK3/MGmx46A6ToYv/aJmTGZAw/jjyyaNr3Z0=
+
+Name: org/eclipse/m2e/core/project/configurator/AbstractProjectConfigura
+ tor.class
+SHA-256-Digest: 4HZud672LHpatYLXuzqCWauS+g2lyCK2D28PPIY3OvI=
+
+Name: org/eclipse/m2e/core/internal/project/conversion/DuplicateConversi
+ onParticipantException.class
+SHA-256-Digest: owMPozh/JZQusTrWjItqkJDBS6HVn1Yd3ZL++EvTpM8=
+
+Name: org/eclipse/m2e/core/internal/launch/MavenExternalRuntime$1.class
+SHA-256-Digest: X0/ZF5Jg43MOL2qmnQZiWVl/pu0xDodTO5QNcJuEZZI=
+
+Name: org/eclipse/m2e/core/internal/Bundles.class
+SHA-256-Digest: R+B4hO5rPo+JF9Mnz86InD/g4FfXy7CRPcXLWamnzPQ=
+
+Name: org/eclipse/m2e/core/project/IProjectConfigurationManager.class
+SHA-256-Digest: rh7bMMKPDjc6TkicpyBd4t1bMk4Vl9JZ69ciKR5CgII=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.embedder.MavenImpl.xml
+SHA-256-Digest: /PD01m0oFXAuN2LJaJ+o+EaPvr7Ky8ZTvryiMPXpyl0=
+
+Name: OSGI-INF/org.eclipse.m2e.core.internal.project.WorkspaceClassifier
+ ResolverManager.xml
+SHA-256-Digest: Twra2Ff2ZjQzibDi5q+k28ztT+datswT/munfnmgMm4=
+

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.m2e.pde.feature"
+      label="%featureName"
+      version="2.0.1.20220822-2010"
+      provider-name="%providerName"
+      plugin="org.eclipse.m2e.core">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <requires>
+      <import plugin="org.eclipse.core.runtime" version="3.19.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.pde.ui" version="3.12.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.equinox.frameworkadmin" version="2.1.400" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.m2e.maven.runtime"/>
+      <import plugin="org.eclipse.m2e.core"/>
+      <import plugin="org.eclipse.jface"/>
+   </requires>
+
+   <plugin
+         id="biz.aQute.bnd.util"
+         download-size="414"
+         install-size="1009"
+         version="6.3.1.202206071316"
+         unpack="false"/>
+
+   <plugin
+         id="biz.aQute.bndlib"
+         download-size="3108"
+         install-size="7216"
+         version="6.3.1.202206071316"
+         unpack="false"/>
+
+   <plugin
+         id="org.osgi.service.repository"
+         download-size="24"
+         install-size="43"
+         version="1.1.0.201505202024"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.m2e.pde.target"
+         download-size="70"
+         install-size="171"
+         version="2.0.1.20220822-2010"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.m2e.pde.ui"
+         download-size="119"
+         install-size="272"
+         version="2.0.0.20220708-0707"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.m2e.pde.connector"
+         download-size="23"
+         install-size="70"
+         version="2.0.0.20220705-1221"
+         unpack="false"/>
+
+<license url="%licenseURL">
+      %license
+   </license></feature>

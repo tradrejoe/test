@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.apache.batik.constants
+Bundle-SymbolicName: org.apache.batik.constants
+Archiver-Version: Plexus Archiver
+Built-By: default
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %bundleVendor
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Originally-Created-By: Apache Maven 3.6.0
+Export-Package: org.apache.batik.constants;version="1.14.0",org.apache
+ .batik.util;constants=split;mandatory:=constants;version="1.14.0"
+Bundle-Name: %bundleName
+Bundle-Version: 1.14.0.v20210324-0332
+Created-By: Eclipse Bundle Recipe Maven Plug-in
+Build-Jdk: 11.0.9
+
+Name: org/apache/batik/constants/XMLConstants.class
+SHA-256-Digest: CmVmGBoO1nkudLp6IGK4srTECR0sE6BJQIbTnBm7JkA=
+
+Name: META-INF/NOTICE
+SHA-256-Digest: Ryqqb47cOYIf6ljIHEgxxkXRqE/KJJyf08nqYkznPJA=
+
+Name: about.html
+SHA-256-Digest: /elQOmUf0ZIfX7+p8V97eckBYH+0NokDqrVG1yRqavs=
+
+Name: META-INF/LICENSE
+SHA-256-Digest: 2SqUaWMjLW2B6BtGF8uXVLCs+vP40k0jV7upvbkKgl0=
+
+Name: about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.consta
+ nts/pom.xml
+SHA-256-Digest: 4SWoY9aWi/+dwm/8czltCWlg2sLmmLkExczXOLSD2uE=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: rKEP5rcUPm9Y/ddQA5eilKRyL3uiK38pXhWF9YVG8Ss=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.batik.consta
+ nts/pom.properties
+SHA-256-Digest: gPynGIYuKNReaHWN/QvQhb6s+/0IcyVGpv0HB1cnrkg=
+

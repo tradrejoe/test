@@ -1,0 +1,612 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: FaXBu1SVOY3r6xAMpfT1VOqOBBmtb
+ FZjVXtv5J8PnD8=
+SHA-256-Digest-Manifest: 1ABUIlQkprj9k1fXXhzvDQ3osnlpjS1+Nj4/TVHpoM0=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: org/apache/commons/jxpath/ri/parser/SimpleCharStream.class
+SHA-256-Digest: pBhrPVol8KSfTiubQWmo2kxl8CKWCOQthdmJnpPsFnY=
+
+Name: org/apache/commons/jxpath/ri/model/beans/BeanAttributeIterator.c
+ lass
+SHA-256-Digest: sfS6X8dXQ+jHOt4v/If1q6q0Q6AmJQPxOGkfu5eJkG8=
+
+Name: org/apache/commons/jxpath/ri/compiler/NodeTypeTest.class
+SHA-256-Digest: 31o3h2OaBCLRYn3o3S44N9EO+7I/9kCDXpWuZEwbTJU=
+
+Name: org/apache/commons/jxpath/ri/compiler/Constant.class
+SHA-256-Digest: jpPqCFH5KEO/Owh78ufH4YvsZwSYH2ADndL0Y7VjqCE=
+
+Name: org/apache/commons/jxpath/functions/MethodFunction.class
+SHA-256-Digest: dk4PE+6zVI1zFHdYsZX4FOZrkPC6gLxJtnYtKBAXwuY=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationOr.class
+SHA-256-Digest: PxOdOTSCN+hxbkFDUKehuW3Ves7sjeg8kE6UwLWP8jE=
+
+Name: org/apache/commons/jxpath/ri/axes/ChildContext.class
+SHA-256-Digest: ThXq0p9EEy/eLsCpArnw0dlD2GvnDhPBHu4daBqjz/M=
+
+Name: org/apache/commons/jxpath/JXPathInvalidSyntaxException.class
+SHA-256-Digest: zB+GRbOGHulI67vxCYvfvTfrkI3hA8oPeNaD/eb2oek=
+
+Name: org/apache/commons/jxpath/JXPathContextFactory.class
+SHA-256-Digest: bzMRNZR4yXVoRdcDjNFco21gvtKu9nGIQ9oqzy+vN7g=
+
+Name: org/apache/commons/jxpath/ri/model/beans/PropertyIterator.class
+SHA-256-Digest: tV181cOYqA257o4Y0VZhZhm7E/pLawFbiGfHcwqQjIc=
+
+Name: org/apache/commons/jxpath/ri/model/dom/DOMAttributePointer.class
+SHA-256-Digest: uQeHKZBEaMwODRbZEHa4JQHpU2DDc5/bh3zSVFYzCzY=
+
+Name: org/apache/commons/jxpath/ri/model/dynamic/DynamicAttributeItera
+ tor.class
+SHA-256-Digest: DflBYcV7Mn+Ez7FdgDrVaE1C6cX0rV0bXaGgdouknRo=
+
+Name: org/apache/commons/jxpath/ri/Parser.class
+SHA-256-Digest: oyChgV1eHvTDyhrZ/tRRnYP1bTuxXbZNQJQtkBqprx4=
+
+Name: org/apache/commons/jxpath/JXPathNotFoundException.class
+SHA-256-Digest: IEv4ldh7EromTxyjVKr5lcHzVNXvwBvPkzDeiYRhKog=
+
+Name: org/apache/commons/jxpath/xml/XMLParser.class
+SHA-256-Digest: DKjsT5FQfhLdFiP0tKkUYfcizqk/uFlLz7O8eKSi5aM=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationAdd.class
+SHA-256-Digest: s9PGMUsz1LkGnFPaywzZ18gwfZxZU0QSl/aQNvv5o6w=
+
+Name: org/apache/commons/jxpath/ri/model/jdom/JDOMAttributeIterator.cl
+ ass
+SHA-256-Digest: r6JLr8U+vUD8ibzLM9A/xaMG5EkhgP9prHO/4ENnvmc=
+
+Name: org/apache/commons/jxpath/ExtendedKeyManager.class
+SHA-256-Digest: TY0DrHfjm6zHyNSCp0bxD0Ko8tpUmJLNu9winyF8ru4=
+
+Name: org/apache/commons/jxpath/ri/axes/InitialContext.class
+SHA-256-Digest: 4DeIiQv+Q33VlnK+2JjZy/tdXyjiB6pHvXG3me1DH7M=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationAnd.class
+SHA-256-Digest: tw2uQpO3/BdIqbDqxLc6iFgFNBz7MDZkyMWAzi+KWQ0=
+
+Name: org/apache/commons/jxpath/ri/compiler/ExtensionFunction.class
+SHA-256-Digest: vAxyNhXXlLtnxaQMI0SVSCDBluprNtGtylF35pFLCgM=
+
+Name: org/apache/commons/jxpath/servlet/PageScopeContext.class
+SHA-256-Digest: Y7TSBx+VZgDuVQ5bt/mvro/T3cefu1gJ67Jk7iPmAIc=
+
+Name: org/apache/commons/jxpath/ri/model/dynabeans/DynaBeanPointer.cla
+ ss
+SHA-256-Digest: 9ZRR3NA0R/L+k/0ZTsIDmqtKBsxzxH+nN4sb5szPC+8=
+
+Name: org/apache/commons/jxpath/xml/XMLParser2.class
+SHA-256-Digest: vMc2BvGq/T+ASXk303Aj6eKWnt3Vm9R3HDglZg7zCgs=
+
+Name: org/apache/commons/jxpath/AbstractFactory.class
+SHA-256-Digest: Goakx854HFD6EPzmTDBRO8s8YZLR9AlGyc7gupdNLxI=
+
+Name: org/apache/commons/jxpath/ri/QName.class
+SHA-256-Digest: R7dt8w23MkDTA+NU688sQUEoGcRjwS5An65OTb9xUEg=
+
+Name: org/apache/commons/jxpath/servlet/Constants.class
+SHA-256-Digest: kCZquO92lUfy4Iechz5WAYk2xcjVmUwjO+gL9qwrtt0=
+
+Name: org/apache/commons/jxpath/ri/model/dynamic/DynamicPointer.class
+SHA-256-Digest: sPi9H6W7bl5ulkithFrx1Xf/6wKJ5M7HZud7mgFGjuE=
+
+Name: org/apache/commons/jxpath/ri/axes/SimplePathInterpreter.class
+SHA-256-Digest: MF336FwPnvIAq9T/besdA6oakls+5MRFP9l+7woh6VM=
+
+Name: org/apache/commons/jxpath/ri/parser/XPathParser.class
+SHA-256-Digest: 0tM1Udou7G9MHzqOtAd7QoP0Sy0bGM8tmkWfj/9p/1M=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationSubtract.clas
+ s
+SHA-256-Digest: 7hiUC5n7xJlCvWUX2DfZgDHPBg4yRqkFn/d8m+wlPnU=
+
+Name: org/apache/commons/jxpath/ri/model/NodeIterator.class
+SHA-256-Digest: wajJbS6vkMFy64pntP0NDn/vVLR5JgWb2cdMKSu2G7o=
+
+Name: org/apache/commons/jxpath/ri/model/beans/PropertyOwnerPointer.cl
+ ass
+SHA-256-Digest: Y6n9V+DTZs9p+5iYdcAEwYHN3aQiNykUX9SSZxgbi5s=
+
+Name: org/apache/commons/jxpath/ri/model/dom/DOMNamespaceIterator.clas
+ s
+SHA-256-Digest: 1PbkwTSeFW1JKglt2FliFZm9o+kelLRg0gu8ScK4mCc=
+
+Name: org/apache/commons/jxpath/ri/axes/PredicateContext.class
+SHA-256-Digest: 0DqtcX8mNhJZKqRnhDgVRq1LjZEKQa9SyMrlOcP4x74=
+
+Name: org/apache/commons/jxpath/ri/model/VariablePointer.class
+SHA-256-Digest: BCVpqTjmOsgAA2JIZTEJhkSnT+tLeaElK3d8zX7kRgI=
+
+Name: org/apache/commons/jxpath/JXPathBeanInfo.class
+SHA-256-Digest: n+/Wt1LS6rPNWiI8YuvLH6qOKzCegYKrpntaCr7jhR8=
+
+Name: org/apache/commons/jxpath/ri/Compiler.class
+SHA-256-Digest: NMZdH+Nz1XLGHdzyeJ7rV7PqpPI3PKF+xgrOiQ6pnY0=
+
+Name: org/apache/commons/jxpath/ri/parser/TokenMgrError.class
+SHA-256-Digest: 7t5HVioVM9pSf4qfpkP+C/YcIx7SUSWMeXurUMxTqvQ=
+
+Name: org/apache/commons/jxpath/Functions.class
+SHA-256-Digest: G4PO6WBorMwWCEVASXnUDKnibfjJsIMy6mouybMZ8D8=
+
+Name: org/apache/commons/jxpath/ri/axes/NodeSetContext.class
+SHA-256-Digest: jrC8AWwnd6eLPr6p3T8HDmB45QxOeHBqbdZ0y94AVQ0=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExp
+ ression.class
+SHA-256-Digest: EKa6ocnYiHCcpTAobi0ce4IEU3ZTVDSvpb5eWaFfdoc=
+
+Name: org/apache/commons/jxpath/ri/model/beans/NullElementPointer.clas
+ s
+SHA-256-Digest: 7RMmIK2xj/kbpILIFu6W3Fomd9EhEAtg+BzZjxBl+zw=
+
+Name: org/apache/commons/jxpath/ri/JXPathContextReferenceImpl.class
+SHA-256-Digest: gcGOmS1glotWjiBHe2s6CYa4OBeZ8nQPGw5GOun2cXU=
+
+Name: org/apache/commons/jxpath/IdentityManager.class
+SHA-256-Digest: Yaza1l1pPE892M8xgt405u8GKBPRSGzTYZC6P2WRfbw=
+
+Name: org/apache/commons/jxpath/Pointer.class
+SHA-256-Digest: wX+6H6tOJzlc48t/m54209ISIKIqMSbnpQhmZ8VFWao=
+
+Name: org/apache/commons/jxpath/ri/parser/ParseException.class
+SHA-256-Digest: T+YokuntqnJQU+IzZedHuJvIPSM0/useyM4eeiO6w18=
+
+Name: org/apache/commons/jxpath/functions/ConstructorFunction.class
+SHA-256-Digest: c9mNvFvFfVwqR8dTlW8hIuxknS9ui3+mi+aMtyydEjs=
+
+Name: org/apache/commons/jxpath/Function.class
+SHA-256-Digest: uoyffywDn1unvhGRJSzbOPdlhMC4/F6LQ7ZA0FKpG0I=
+
+Name: org/apache/commons/jxpath/ri/model/dynamic/DynamicPointerFactory
+ .class
+SHA-256-Digest: jI7fUZ7f8z/0m01rUdwTd7Odnr6Hwtl+sfEo3/OlSr0=
+
+Name: org/apache/commons/jxpath/JXPathAbstractFactoryException.class
+SHA-256-Digest: Oc/SMOjx9af4jQ6pD9l2hUcrmLNRrsNbRW6ftN3ulM4=
+
+Name: org/apache/commons/jxpath/util/BasicTypeConverter.class
+SHA-256-Digest: D6XM2yDXC6c4/L8vag9ExAkyRJBJKS+8xY/aBbL0gFg=
+
+Name: org/apache/commons/jxpath/ri/model/beans/CollectionChildNodeIter
+ ator.class
+SHA-256-Digest: 24pzRfUe76FDUeWtO8zgf9pz8XI/5f3Gc+idUF8PF/8=
+
+Name: org/apache/commons/jxpath/util/TypeUtils$1.class
+SHA-256-Digest: Is7teoBC//F0arJ0oBA4HbpbaUy2n8Ac04PfJc31sFE=
+
+Name: org/apache/commons/jxpath/ri/compiler/ProcessingInstructionTest.
+ class
+SHA-256-Digest: 6T++rX10b+elJAA7IGb9Pj/oiMg+2v5tlhuVOFPDp4E=
+
+Name: org/apache/commons/jxpath/ri/model/dom/DOMNodeIterator.class
+SHA-256-Digest: HryP74XAKqZA5RQhe3ULq1Q9eAYi+e+kbGhi0tN35D4=
+
+Name: org/apache/commons/jxpath/ri/compiler/LocationPath.class
+SHA-256-Digest: Wa4XzaYtmcqVkI4TTC5NpMfFDFx8D3gjgUDhpiDrm5M=
+
+Name: org/apache/commons/jxpath/JXPathBasicBeanInfo.class
+SHA-256-Digest: ugHvR9uKcAGD/fF+MEbc+a8Jh+64HwWm7rZg45yNI8s=
+
+Name: org/apache/commons/jxpath/util/ReverseComparator.class
+SHA-256-Digest: nkYhSfmYNjGSu+o1RKplDdS3yzayoNNqRbHJ0rHzmhA=
+
+Name: org/apache/commons/jxpath/ri/model/beans/NullPointer.class
+SHA-256-Digest: WxYsrr9CpTkBdKqcKENQXbV4Y++8LfxESvC0BRYsNOg=
+
+Name: org/apache/commons/jxpath/JXPathInvalidAccessException.class
+SHA-256-Digest: XqLx5SFafNffseTxgAlKGBNs9atTF4C4sBW5Xp20GBs=
+
+Name: org/apache/commons/jxpath/ri/model/jdom/JDOMAttributePointer.cla
+ ss
+SHA-256-Digest: LOiVZ3SRy+DlFj8puyk4o6s5hdU0gUYlIRCvOIfq5L0=
+
+Name: org/apache/commons/jxpath/ri/JXPathContextReferenceImpl$1.class
+SHA-256-Digest: JmKQ7MSpN9EQFIPAuSdWfcsLKwpgUDkF7NlUNYvQsBc=
+
+Name: org/apache/commons/jxpath/ri/compiler/VariableReference.class
+SHA-256-Digest: WJEDO+QQ6ykYvii5lbXzdVeo4U8mkGfGBCm0C4sdXyE=
+
+Name: org/apache/commons/jxpath/util/BasicTypeConverter$ValuePointer.c
+ lass
+SHA-256-Digest: eSKkf2OsFpUordHlKg774Kih3FnZoOMnz8HxZF1nYOg=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationGreaterThanOr
+ Equal.class
+SHA-256-Digest: 2LN5jE3h6jF83V4jd/TfMys3Ru47dVTTSpK0UjViCvY=
+
+Name: org/apache/commons/jxpath/ri/EvalContext.class
+SHA-256-Digest: 6bk9q8WO4B2GvBWSPVK1i5jCmVvix/LUG+vOBJykr1w=
+
+Name: org/apache/commons/jxpath/ri/model/beans/CollectionPointerFactor
+ y.class
+SHA-256-Digest: 1H1O7MZO4hqWrjqv3can2kwXbb7tAkgtuhdTvougJkI=
+
+Name: org/apache/commons/jxpath/ri/compiler/Operation.class
+SHA-256-Digest: nOCu9h5keGm9D0p3CJd02ITXDlFy+SEZEWfPQH27hAI=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationMod.class
+SHA-256-Digest: fmoKwQYV+qdp80SVm896f081qunqbAgmlpz5G3DrNFo=
+
+Name: org/apache/commons/jxpath/ri/model/NodePointerFactory.class
+SHA-256-Digest: U7K3kD6EBR08APCyI0TvF8VxZ0rAggYErPJlT5+qTg4=
+
+Name: org/apache/commons/jxpath/ri/model/dynabeans/DynaBeanPropertyPoi
+ nter.class
+SHA-256-Digest: HO0DbA6gzVPM5wJa3fnClVkqWdLH8vQKCKGkvnK7lZg=
+
+Name: org/apache/commons/jxpath/ri/axes/DescendantContext.class
+SHA-256-Digest: chXA7zvADsseezAgWmP4nWTdrC+umt0CmCwIkO+/ec0=
+
+Name: org/apache/commons/jxpath/servlet/PageContextHandler.class
+SHA-256-Digest: A/z/maDEkOXk9iCeR4T/QMSloYCK9FCvY6vXv8gDVJ8=
+
+Name: org/apache/commons/jxpath/ri/model/beans/NullPropertyPointer.cla
+ ss
+SHA-256-Digest: 9HjWPjslwaYeHgWjxB8Lgx0QEf0+8m6hlVT+vAFHIgo=
+
+Name: org/apache/commons/jxpath/BasicNodeSet.class
+SHA-256-Digest: sEVJAIdrG5t2J9hMI4S98lE2U/P581qDZKm59XkElXk=
+
+Name: org/apache/commons/jxpath/ri/compiler/Step.class
+SHA-256-Digest: D8i5mMKJrbG/22FMoRoPQtM195NCAe/OdmgxThrYVbg=
+
+Name: org/apache/commons/jxpath/ri/model/dynamic/DynamicPropertyPointe
+ r.class
+SHA-256-Digest: XfCIxJ5AP+v7UMFNF2PtCrsSueF5vBBPj+Gz06YxE2s=
+
+Name: org/apache/commons/jxpath/ri/model/VariablePointerFactory.class
+SHA-256-Digest: Jw+647NpvKwnTHT8uX/eOUpSoRE1tnvIKmWmA6t941w=
+
+Name: org/apache/commons/jxpath/ri/model/VariablePointer$1.class
+SHA-256-Digest: XF+xTw65fLqjh1TjiNtWBDOdH2PAqqtCh3epjmqIOfM=
+
+Name: org/apache/commons/jxpath/servlet/KeywordVariables.class
+SHA-256-Digest: WjlfujBM8RX31xRhrk3q4De19ru9C5RXUXGub6H5SAw=
+
+Name: org/apache/commons/jxpath/ri/axes/ParentContext.class
+SHA-256-Digest: u82zzhlMNop76GocArN5p5OfhWQ0W2VBpQTfIwEa81Q=
+
+Name: org/apache/commons/jxpath/JXPathTypeConversionException.class
+SHA-256-Digest: QmDCuE47BwV/WQSSUOq7IQ5kazD4xoFmxuT9rfnCaOQ=
+
+Name: org/apache/commons/jxpath/util/JXPath11CompatibleTypeConverter.c
+ lass
+SHA-256-Digest: Gh4MucRD2Qbm92Vifef/PT5vV5PgGMdfwM6+w3TEOn8=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationGreaterThan.c
+ lass
+SHA-256-Digest: EWwxxY/6qXZAAi1kD0u3ybvUKvIk5B11LxW5bf12vFo=
+
+Name: org/apache/commons/jxpath/ri/model/beans/CollectionNodeIterator.
+ class
+SHA-256-Digest: fXeAcg2bfBWiHe6J1L9ES6ChmzE6hs2JksSjpoM8gto=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationEqual.class
+SHA-256-Digest: w90tnkFx2XrNbfxx4g6bkDkOHAq4epx5qjnaERETCxY=
+
+Name: org/apache/commons/jxpath/ri/compiler/ExpressionPath.class
+SHA-256-Digest: jRxI+Gp36TbVv5lzeO9OMAzMAyKuRhwNRE90YT/8IzE=
+
+Name: org/apache/commons/jxpath/servlet/HttpSessionHandler.class
+SHA-256-Digest: /Lc3af/NSGb2FjfdNP/TRj5+V8BQDWKxTw7/cSaDim4=
+
+Name: org/apache/commons/jxpath/ri/model/beans/CollectionPointer.class
+SHA-256-Digest: UE2dT4a2UUkCiq5SGyH480jtfFxaouwC+Ucj7UcU4OM=
+
+Name: org/apache/commons/jxpath/ri/axes/PrecedingOrFollowingContext.cl
+ ass
+SHA-256-Digest: jYo4TcC/ao7bGBYXyO4KFRe8v4hNedmmXj367syyBH0=
+
+Name: org/apache/commons/jxpath/util/TypeUtils.class
+SHA-256-Digest: GqsAHiLLEztzWgigNcaPlUQfpc+zLs1PWTH7tUJyhcY=
+
+Name: org/apache/commons/jxpath/ri/JXPathContextFactoryReferenceImpl.c
+ lass
+SHA-256-Digest: rkCB01C0TTQHfWXBcM/249CbjIt2JG/3Yg6yEZMrp6I=
+
+Name: org/apache/commons/jxpath/MapDynamicPropertyHandler.class
+SHA-256-Digest: cuWpCi9jM5/jwsIEanoswJeu7uEYub/i3iWq76Bm38E=
+
+Name: org/apache/commons/jxpath/Container.class
+SHA-256-Digest: T+T2TtUkby/ZFLwzzVSu5ydLuXBSsIJ8+qoJd+aCDFs=
+
+Name: org/apache/commons/jxpath/ri/parser/XPathParser$JJCalls.class
+SHA-256-Digest: Tic3Uoxo5s7f1K+oVVrkXi8PAhuStCiBpOrSZG5meJI=
+
+Name: org/apache/commons/jxpath/util/TypeConverter.class
+SHA-256-Digest: PHcLdXxVWEwFQRwix51SlLYJFIZic9Mgevh/bI8xFao=
+
+Name: org/apache/commons/jxpath/util/KeyManagerUtils.class
+SHA-256-Digest: LRixYAk1fTmvlDH72WDiwtDP04kT1AKfg3U8VzGBARQ=
+
+Name: org/apache/commons/jxpath/ri/model/dom/DOMAttributeIterator.clas
+ s
+SHA-256-Digest: MWZA9R/CjOwb9ZNoaCHi9el2La7nwSwOicfqWCiZh8M=
+
+Name: org/apache/commons/jxpath/xml/DOMParser.class
+SHA-256-Digest: G9LgwrBsSyQ0tdL4XRfF3bml+wEwLF/QYQ8W4jM2AG8=
+
+Name: org/apache/commons/jxpath/ri/model/jdom/JDOMNodePointer.class
+SHA-256-Digest: 3I/NkHxx2b3DCa0Z7hrkdylP0nbAuTyNLJiD4GihZPU=
+
+Name: org/apache/commons/jxpath/DynamicPropertyHandler.class
+SHA-256-Digest: PU1w6/qBaMHggQYe9U5/BdeKbIvwpI4uPEzmSLxwUw0=
+
+Name: org/apache/commons/jxpath/ri/compiler/NameAttributeTest.class
+SHA-256-Digest: aT0iNiF0ycfcZuQpaYjEpJo+loB7rJk7lSAsy8NO59Q=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationNegate.class
+SHA-256-Digest: j/hQXH31C+oWsCP0od4z9fksRvU5SEnZcWWyqoZPCqU=
+
+Name: org/apache/commons/jxpath/ri/model/dynabeans/DynaBeanPointerFact
+ ory.class
+SHA-256-Digest: J29WaohDKuBuazqef8PmNE2T1EvWLcE0w7PdrXTZ3AA=
+
+Name: org/apache/commons/jxpath/JXPathContext.class
+SHA-256-Digest: dUkZLPo+FSHKvohE5Jw5k1Msgj+8BOb6wqERfHN4h0Q=
+
+Name: org/apache/commons/jxpath/ri/compiler/Expression$PointerIterator
+ .class
+SHA-256-Digest: xKuXajqpp0zFIarICu0q2Mgk75lwTMdqxcW/45eS3ok=
+
+Name: org/apache/commons/jxpath/NodeSet.class
+SHA-256-Digest: ASJIrH4WlasriWX7GZH5J6mhJ12vcSgqWt7R/KZ/PMs=
+
+Name: org/apache/commons/jxpath/servlet/ServletRequestAndContext.class
+SHA-256-Digest: 3XTeu5jT47stgUP4sNOUDvzAO9d39t2wT2/Whsm5/Ww=
+
+Name: org/apache/commons/jxpath/JXPathBasicBeanInfo$1.class
+SHA-256-Digest: Jur4VpFrMv+VDn5LWfArRNn6/pEbvDJn8ggEYlHVuW0=
+
+Name: org/apache/commons/jxpath/ri/model/beans/BeanPropertyPointer.cla
+ ss
+SHA-256-Digest: ihduPNySVPUcorre7Ru65ajhZsjIOEEFYfrJVczE1nE=
+
+Name: org/apache/commons/jxpath/ri/model/jdom/JDOMNamespacePointer.cla
+ ss
+SHA-256-Digest: nmw2Hbno/y4JDBEDr5q7QATSlg1Kwmv0KLYx4NiE+GE=
+
+Name: plugin.properties
+SHA-256-Digest: QmTitow7uO4XfEyBW7H65B9bfIG6uNqrAALGlHpDrco=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationCompare.class
+SHA-256-Digest: EUxvQCKPBFolGfmAlOXWQjd1eNhDht+bsi7hVWm81Is=
+
+Name: org/apache/commons/jxpath/ri/compiler/Expression.class
+SHA-256-Digest: N/JBLv7YZFawCPymHyBOBh7VVFap+2Fhw2flM/IptQM=
+
+Name: org/apache/commons/jxpath/FunctionLibrary.class
+SHA-256-Digest: SY6U4O0L7vcmV7ko+JRrXCmZCSZ0F5u2f7f+gvABH0w=
+
+Name: about_files/LICENSE.txt
+SHA-256-Digest: HZlZ2zguVFDxeShXlS7nWgtAUfxRoSS5aEuwOtSTtYc=
+
+Name: org/apache/commons/jxpath/XMLDocumentContainer.class
+SHA-256-Digest: aFl+N0Vne28uc6I+eumph1CQycFn/AQst6KD2sqrHQE=
+
+Name: org/apache/commons/jxpath/ri/NamespaceResolver.class
+SHA-256-Digest: EnkN+tFfzUXt6gtQY22BqKNvztUBcwKSB8kSP1dRiMk=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationMultiply.clas
+ s
+SHA-256-Digest: wREjaKXk1jYnqbuzmtkpUtBkI4H6CzMHE/c6LRvDbv8=
+
+Name: org/apache/commons/jxpath/ri/model/VariablePointerFactory$1.clas
+ s
+SHA-256-Digest: gruQWlBXgLlTf8lPkc88q4MPx983bqz8YJBvfMP0haY=
+
+Name: org/apache/commons/jxpath/ri/compiler/TreeCompiler.class
+SHA-256-Digest: ki2xd4cNqynMCj6gXfTkpnKAQvPm1VK4yw8FkzpCx9I=
+
+Name: org/apache/commons/jxpath/ri/model/container/ContainerPointerFac
+ tory.class
+SHA-256-Digest: NxZg9lCs2cSAwOsA6hiEDBRlsr2rLSLWAxtseA4LD7Q=
+
+Name: org/apache/commons/jxpath/servlet/PageScopeContextHandler.class
+SHA-256-Digest: 5FFD2Obwcc34zvcKAZKm7jzrT3m59i+r6gp6MqadC/s=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperation.class
+SHA-256-Digest: FlKqNK+plrCf9ANz7A3RAs0PhPy2M22e0NVqmzMek1E=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationLessThan.clas
+ s
+SHA-256-Digest: ZRZ+HixcLDd/LF48ygF+/hyZfvEYOLa1T1I0X8gHAfw=
+
+Name: org/apache/commons/jxpath/ri/model/beans/CollectionAttributeNode
+ Iterator.class
+SHA-256-Digest: D1xMFyfKAMlzs61ppal8T5eCxIv53n3EFq23t0zcgR4=
+
+Name: org/apache/commons/jxpath/ri/parser/Token.class
+SHA-256-Digest: wuFqHG9upEsd2KgBWIkMbmLDGkjK/EiEqoUUJG7sI2E=
+
+Name: about_files/NOTICE.txt
+SHA-256-Digest: F0e7bIKaYhqSmjeuLDmF+RR/BcGVGpowlSE9vFHnPYo=
+
+Name: org/apache/commons/jxpath/ri/compiler/NodeTest.class
+SHA-256-Digest: nNCDqKnyJ2BlxaxLs3U69V1hhGSbdhHyyCdUcPED084=
+
+Name: org/apache/commons/jxpath/CompiledExpression.class
+SHA-256-Digest: 6dSTnrCjcj0m526cfW4PzzitLTghC4cKkKOSd+g3tf8=
+
+Name: org/apache/commons/jxpath/ri/model/dom/NamespacePointer.class
+SHA-256-Digest: GrUjHsaJ4XoH2mhYRIeUSjK06heN5FySHbG39BH9fNY=
+
+Name: org/apache/commons/jxpath/ri/model/beans/LangAttributePointer.cl
+ ass
+SHA-256-Digest: Fg9BvMlbWS2Ri2YJuAgKm/ePQOUnzz8bsAF8ufCUTGU=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationLessThanOrEqu
+ al.class
+SHA-256-Digest: 2+ZItCZTJR5/JN9waCGDmiemZ4V/aApLnwMeniJxL2E=
+
+Name: org/apache/commons/jxpath/ri/model/dynamic/DynamicPropertyIterat
+ or.class
+SHA-256-Digest: W2OtlVMS9fpV43ZOAh0nCR0L0cOs2yDsUiIkwvxYas4=
+
+Name: org/apache/commons/jxpath/ri/model/jdom/JDOMNamespaceIterator.cl
+ ass
+SHA-256-Digest: JurD9hWzKHMWlqKwEyxWKB4JMqVo41rEOs3lAVq9Cqk=
+
+Name: org/apache/commons/jxpath/util/MethodLookupUtils.class
+SHA-256-Digest: k8cqWJhJmaTNyELuIpfmsWYGfMeLUwNobsFKUvBohCE=
+
+Name: org/apache/commons/jxpath/JXPathFunctionNotFoundException.class
+SHA-256-Digest: F/Ywzi6PbhhxrTIHqH0Tc19vO4Ic03fjf2Wo/aghNIE=
+
+Name: org/apache/commons/jxpath/ri/compiler/Expression$ValueIterator.c
+ lass
+SHA-256-Digest: UrZmu2R9SfeC8rK9f6VRfIvghs7kIrtz23S28H/aGB0=
+
+Name: org/apache/commons/jxpath/ri/model/VariablePointerFactory$Variab
+ leContextWrapper.class
+SHA-256-Digest: YPDCATD8FRX4ZdRpzmxDbVPSh5YVZiX0CVt9uP2SHSA=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationNotEqual.clas
+ s
+SHA-256-Digest: MLiZYaXs2pAP3rRAJPYZZ6l7hvVHwQ0kfqjP1gVK/VY=
+
+Name: org/apache/commons/jxpath/xml/DocumentContainer.class
+SHA-256-Digest: Q0mwJsu9YSe8UjiNXKLsfPVkV7+wJzLt+ixoBmA4354=
+
+Name: org/apache/commons/jxpath/xml/JDOMParser.class
+SHA-256-Digest: Jy3V7ZLWAM20SUD0BukN9fBQdDBGK0VSBiFyBzc/LXQ=
+
+Name: org/apache/commons/jxpath/PackageFunctions.class
+SHA-256-Digest: EhJjfZd/DRMtq7hvUPdvqTZA8w4Z2U18cAQyhWnffV4=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationUnion.class
+SHA-256-Digest: b21t7LKI4frZ1u6PRHA1LZBuWhvqv85siSUM7QXreKM=
+
+Name: org/apache/commons/jxpath/ri/axes/AncestorContext.class
+SHA-256-Digest: oshIwp/VIg0cWydRKRSTDw1eR78NBWftW/IUog//lck=
+
+Name: org/apache/commons/jxpath/ri/model/jdom/JDOMPointerFactory.class
+SHA-256-Digest: Brn2fhi4P778Kioqn/Ty2jsb4nBZAEKEA+Hy3lCx1WI=
+
+Name: org/apache/commons/jxpath/ClassFunctions.class
+SHA-256-Digest: whJq0WwwmeI1cwCzEFohw/s5A3HzoUvzfXbDDyUDVjA=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreOperationDivide.class
+SHA-256-Digest: bGb5O1oDRWuOUnv9eXNK06AbScSPhYfquRODMHjRBaw=
+
+Name: org/apache/commons/jxpath/ri/compiler/NodeNameTest.class
+SHA-256-Digest: tHM8kdSpqtK7O9lLtr2xvuCm0jcLWS6CULoXZuAe5Vw=
+
+Name: org/apache/commons/jxpath/ri/model/container/ContainerPointer.cl
+ ass
+SHA-256-Digest: dw3HJU1XfhNEqFf0VjC8lTvip+Rqh8Voo7+4123zHyg=
+
+Name: org/apache/commons/jxpath/JXPathIntrospector.class
+SHA-256-Digest: sPgoxwcbVrmW1SSosNTVf3YCcNGXqIfwbTNFTQ/CTk0=
+
+Name: org/apache/commons/jxpath/ri/compiler/Path.class
+SHA-256-Digest: d7HFkZRwVk5w8tjlkVqCeyvccmQ0OZZL90nM9Pd7ykg=
+
+Name: org/apache/commons/jxpath/ri/model/jdom/JDOMNodeIterator.class
+SHA-256-Digest: pJre47Dn2bpZRurFEyCJ9mk8CkR0KvFO6u5iWspKPSU=
+
+Name: about.html
+SHA-256-Digest: 1cJ2bKQc+c8RbjzToFHKySybi7c+bHNq+epk8PW1KXE=
+
+Name: org/apache/commons/jxpath/KeyManager.class
+SHA-256-Digest: 9i87DfXsriy1hlw/O/SzeypVH/iUQxBp/YTWgnKXW0g=
+
+Name: org/apache/commons/jxpath/ExpressionContext.class
+SHA-256-Digest: 69VGOZ+5ZqfoDp0Du+YOognbB+nDDPhTi+g4dE8mrIg=
+
+Name: org/apache/commons/jxpath/JXPathContextFactoryConfigurationError
+ .class
+SHA-256-Digest: mNLfS20KdRc1N5x/tvmAg1irZb5/V9mbneFXn+gm4u8=
+
+Name: org/apache/commons/jxpath/ri/compiler/CoreFunction.class
+SHA-256-Digest: ghvdCUU7tlRUrJbjjjI+3x01pjG60w0jI1Nb8Ini5i4=
+
+Name: org/apache/commons/jxpath/ri/model/beans/BeanPointerFactory.clas
+ s
+SHA-256-Digest: UgrRfdDZjvymkowPl41/cgNaQ2faM9Do2CpuoBvXUCM=
+
+Name: org/apache/commons/jxpath/ri/JXPathCompiledExpression.class
+SHA-256-Digest: B/B51Hit5ZQqJkFsY+f2/usj0mvuS9xWhJNv2Uu2BfE=
+
+Name: org/apache/commons/jxpath/ri/axes/RootContext.class
+SHA-256-Digest: X5NmDt4Wh7ip2gUZBKpQekUrewvvSByvq2wQ+MDM2l8=
+
+Name: org/apache/commons/jxpath/servlet/ServletContextHandler.class
+SHA-256-Digest: 0Cp2eTgrnhST1E5G+sft/ptpYLwVE2aqa7hX+QyOWfI=
+
+Name: org/apache/commons/jxpath/util/BasicTypeConverter$ValueNodeSet.c
+ lass
+SHA-256-Digest: 7NqkbhK/HoOfYDsDn2kLc24D4oh1+k2xLHTqfyQVioE=
+
+Name: org/apache/commons/jxpath/util/ValueUtils.class
+SHA-256-Digest: eEfJaRAVnOEATe62VN0SZ0KwZwdRFTMHmRC1qhgo/pU=
+
+Name: org/apache/commons/jxpath/JXPathException.class
+SHA-256-Digest: VkacB++WthK1TY9EiBYS/6zyQGNNaGpBV31gdcxispA=
+
+Name: org/apache/commons/jxpath/servlet/HttpSessionAndServletContext.c
+ lass
+SHA-256-Digest: sUYtzDAHaDkOYF0WqF24T2nZKwWSaIFONNT8/wzJvkI=
+
+Name: org/apache/commons/jxpath/ri/parser/XPathParserTokenManager.clas
+ s
+SHA-256-Digest: ogk5F9lcG2VbiLwHrvn4TzBi3G9vuYtN2oTm2jzJcX8=
+
+Name: org/apache/commons/jxpath/ri/model/dom/DOMPointerFactory.class
+SHA-256-Digest: ToTScAoNMTctiLAzAycvKYKDZa6eemlXVqQvR6ar9Ts=
+
+Name: org/apache/commons/jxpath/ri/EvalContext$1.class
+SHA-256-Digest: tERaVdaaX/Kzl4tbc2R+bLDDGDLv2lvYGTjU9qOjekE=
+
+Name: org/apache/commons/jxpath/ri/model/NodePointer.class
+SHA-256-Digest: 1Jnq3IsSsO1ORzc88cRg6s3tW6vKMFjYh3aZJ9IYLBQ=
+
+Name: org/apache/commons/jxpath/ri/model/dom/DOMNodePointer.class
+SHA-256-Digest: jXMIH6jeCNQI9XZ5IMbgD+Xue3vixocgYGijfu8/oro=
+
+Name: org/apache/commons/jxpath/ri/InfoSetUtil.class
+SHA-256-Digest: CtFqIrUP+SR+eDlL4B5umRdDPqXARocU6J1JtN9KDvI=
+
+Name: org/apache/commons/jxpath/ri/axes/NamespaceContext.class
+SHA-256-Digest: DkAb7yohiIhOnQYSZ62+vIljE1BvVoU4CxmYgJK5uS8=
+
+Name: org/apache/commons/jxpath/ri/axes/AttributeContext.class
+SHA-256-Digest: HfFdd812P/7XeTyyKJjXIacBta3llGEZZga1kuOPj+U=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: rEULrt3GCNggFeuBb9QugPCG48TouWYgzDw3Q1PhCCQ=
+
+Name: org/apache/commons/jxpath/ri/model/beans/BeanPointer.class
+SHA-256-Digest: ZB8ogoZnHgw6d4j1jUDQsT2w53r3ZA6aRLacDO9LzjM=
+
+Name: org/apache/commons/jxpath/servlet/ServletRequestHandler.class
+SHA-256-Digest: CsjAwY0YcLDzfMd6H0GAE9ocfgz4Ke8+juDm6dPh+kE=
+
+Name: org/apache/commons/jxpath/ri/model/beans/PropertyPointer.class
+SHA-256-Digest: g137tIKrvMtSXsbSXxdN13iT7M4cEAmGD+H8Bq/cxDA=
+
+Name: org/apache/commons/jxpath/Variables.class
+SHA-256-Digest: EReYCnu83hERpVsAVeO74S1WqlEry6AbEkqUSI9f5gw=
+
+Name: org/apache/commons/jxpath/util/KeyManagerUtils$SingleNodeExtende
+ dKeyManager.class
+SHA-256-Digest: RtAhO6JjZl6lb7BmWUvQp1yoSfs8wb9umOWb0kMb6tM=
+
+Name: org/apache/commons/jxpath/ri/parser/XPathParserConstants.class
+SHA-256-Digest: 8dCk86h314LldAPa5KwE9kIjJcgirhWzDUkCndLt8ME=
+
+Name: org/apache/commons/jxpath/ri/axes/SelfContext.class
+SHA-256-Digest: LE5oMi2QnELiNb6GdLpjJK12TpkMUzA+777SBi+TKY8=
+
+Name: org/apache/commons/jxpath/BasicVariables.class
+SHA-256-Digest: xOUKuvvKt8q2reS4msl0ZrtDnz74QRcA7hU2vHvX1hY=
+
+Name: org/apache/commons/jxpath/ri/axes/UnionContext.class
+SHA-256-Digest: 3RIfvk0HxSFJ26ktLHc6EhNjlvYVUgtyPWOQYiQ2L4w=
+
+Name: org/apache/commons/jxpath/servlet/JXPathServletContexts.class
+SHA-256-Digest: neaZtCXzukaAYuV95RslP2/Qgbq3khQPxuWqcZo75Cg=
+

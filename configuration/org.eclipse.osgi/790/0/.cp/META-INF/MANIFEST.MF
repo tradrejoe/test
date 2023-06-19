@@ -1,0 +1,88 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.wst.common.uriresolver; singleton:=true
+Bundle-Version: 1.3.0.v202007161535
+Bundle-Activator: org.eclipse.wst.common.uriresolver.internal.provisiona
+ l.URIResolverPlugin
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.wst.common.uriresolver,org.eclipse.wst.commo
+ n.uriresolver.internal;x-internal:=true,org.eclipse.wst.common.uriresol
+ ver.internal.provisional;x-internal:=true,org.eclipse.wst.common.urires
+ olver.internal.util;x-internal:=true
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.4.0,4.0.0)",
+ org.eclipse.core.resources;bundle-version="[3.4.0,4.0.0)"
+Eclipse-LazyStart: true
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Automatic-Module-Name: org.eclipse.wst.common.uriresolver
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/webtools
+ -common/webtools.common.git;path="plugins/org.eclipse.wst.common.urires
+ olver";commitId=9200809ecb5d8b98af3b1e58277169c39f8dab50
+
+Name: about.html
+SHA-256-Digest: uNtdcam2UGRj5nbnesFNLRgKf5AFSxB9QgGcPDz4vOU=
+
+Name: plugin.xml
+SHA-256-Digest: 0ZX1Yz0bemRD1q0pbA23Npzvw1Ak444sBFwPke0hNlk=
+
+Name: org/eclipse/wst/common/uriresolver/internal/provisional/URIResolve
+ rExtension.class
+SHA-256-Digest: 6DFOfol8e4FmtlSsbgZSXUjL7GeILznByh0sNRcaVx0=
+
+Name: org/eclipse/wst/common/uriresolver/internal/URI.class
+SHA-256-Digest: AEhLYfTBSn5l8Yqm9zzH4HkdO6V3NtaiuJoLtBAcvp0=
+
+Name: org/eclipse/wst/common/uriresolver/internal/URIResolverExtensionDe
+ scriptor.class
+SHA-256-Digest: DOdY5ChAB7YQSEh8Atm44R5qc7VVUBTlquUxh6aPLR4=
+
+Name: org/eclipse/wst/common/uriresolver/URIHelper.class
+SHA-256-Digest: wB+92QSYQMqNssxHmAmxpWtQsh40csDF/ZVDJku8Nbs=
+
+Name: org/eclipse/wst/common/uriresolver/internal/ExtensibleURIResolver.
+ class
+SHA-256-Digest: +nLxRwFOM5UuieBwZhLeFbqWS2jLuPIXxaMfTV4raeI=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ uriresolver/pom.xml
+SHA-256-Digest: MyHZt0iglMGIrFEM5rx638GnIDVuQClWYPUlxqol47M=
+
+Name: org/eclipse/wst/common/uriresolver/internal/util/URIHelper.class
+SHA-256-Digest: +Lv740HMmCkEiYCAmE6j4yBkxHWzU5ShoZs+7koF8ng=
+
+Name: org/eclipse/wst/common/uriresolver/internal/URIResolverExtensionRe
+ gistry.class
+SHA-256-Digest: sC/8qhZqLRBj+Dkb0b3IE5XmgTSKjIUUyjWv3em7th4=
+
+Name: schema/resolverExtensions.exsd
+SHA-256-Digest: hN8BXMeWavlkbF1aBSkyVB0/pjfmT8baLiu7i2rpqec=
+
+Name: org/eclipse/wst/common/uriresolver/URIHelper$1.class
+SHA-256-Digest: o7asYrQh3bESMRlEgokcP2U7CveD0KmYz31MfHvr7RQ=
+
+Name: org/eclipse/wst/common/uriresolver/internal/provisional/URIResolve
+ rPlugin.class
+SHA-256-Digest: XBPGq426f1oqmRa9qLExvnd3WhK4MVk3bMLp07WwY0I=
+
+Name: plugin.properties
+SHA-256-Digest: 4IY7PlXNObkbKLssrjDMsWTv5Wj+3p2MHkFxen/6yp8=
+
+Name: org/eclipse/wst/common/uriresolver/internal/provisional/URIResolve
+ r.class
+SHA-256-Digest: OjfJvw3S/60JilMyXHJE/+MVKWifZaevXFOPlSAngqs=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ uriresolver/pom.properties
+SHA-256-Digest: ERkz7j1sibRTHdlg+OWilfzNvmo9LuWyQjcqimSnJAQ=
+
+Name: org/eclipse/wst/common/uriresolver/internal/URIResolverExtensionRe
+ gistryReader.class
+SHA-256-Digest: yYDw7Bc2zp5rvd5PiyxAxdM7Wgi8uVj+qKHHKNN4nhA=
+
+Name: org/eclipse/wst/common/uriresolver/internal/util/URIEncoder.class
+SHA-256-Digest: dd52hpyW1xGtNEwzgLMaDqVPbJZ1/R0GhC/SZ5HPzIY=
+

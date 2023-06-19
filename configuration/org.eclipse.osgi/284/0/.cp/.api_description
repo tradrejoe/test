@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.e4.ui.services_1.5.0.v20210115-1333" version="1.2">
+    <plugin id="org.eclipse.e4.ui.services_1.5.0.v20210115-1333"/>
+    <package name="org.eclipse.e4.ui.services" visibility="1">
+        <type name="ContextServiceAddon" restrictions="12"/>
+        <type name="EContextService" restrictions="1">
+            <method name="deferUpdates" restrictions="8" signature="(Z)V"/>
+        </type>
+        <type name="EMenuService" restrictions="1"/>
+        <type name="IServiceConstants" restrictions="1"/>
+        <type name="IStylingEngine" restrictions="9"/>
+    </package>
+    <package name="org.eclipse.e4.ui.services.help" visibility="1">
+        <type name="EHelpService" restrictions="3"/>
+    </package>
+</component>

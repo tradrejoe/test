@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.core.databinding_1.11.100.v20220817-1444" version="1.2">
+    <plugin id="org.eclipse.core.databinding_1.11.100.v20220817-1444"/>
+    <package name="org.eclipse.core.databinding" visibility="1">
+        <type name="ObservablesManager" restrictions="2"/>
+        <type name="UpdateListStrategy" restrictions="0">
+            <method name="useMoveAndReplace" restrictions="8" signature="()Z"/>
+        </type>
+    </package>
+    <package name="org.eclipse.core.databinding.bind.steps" visibility="1">
+        <type name="CommonSteps" restrictions="0"/>
+        <type name="CommonSteps$BindConfigStep" restrictions="1"/>
+        <type name="CommonSteps$ConvertFromStep" restrictions="1"/>
+        <type name="CommonSteps$ConvertToStep" restrictions="1"/>
+        <type name="CommonSteps$DirectionStep" restrictions="1"/>
+        <type name="CommonSteps$OneWayConfigAndFromStep" restrictions="1"/>
+        <type name="CommonSteps$ReadConfigStep" restrictions="1"/>
+        <type name="CommonSteps$TwoWayConfigAndFromStep" restrictions="1"/>
+        <type name="CommonSteps$WriteConfigStep" restrictions="1"/>
+        <type name="ListCommonSteps" restrictions="0"/>
+        <type name="ListCommonSteps$ListFromStep" restrictions="1"/>
+        <type name="ListCommonSteps$ListReadConfigStep" restrictions="1"/>
+        <type name="ListCommonSteps$ListToStep" restrictions="1"/>
+        <type name="ListCommonSteps$ListUntypedTo" restrictions="1"/>
+        <type name="ListCommonSteps$ListWriteConfigStep" restrictions="1"/>
+        <type name="ListOneWaySteps" restrictions="0"/>
+        <type name="ListOneWaySteps$ListOneWayBindWriteConfigStep" restrictions="1"/>
+        <type name="ListOneWaySteps$ListOneWayConvertStep" restrictions="1"/>
+        <type name="ListOneWaySteps$ListOneWayFromStep" restrictions="1"/>
+        <type name="ListOneWaySteps$ListOneWayToStep" restrictions="1"/>
+        <type name="ListOneWaySteps$ListOneWayUntypedTo" restrictions="1"/>
+        <type name="ListTwoWaySteps" restrictions="0"/>
+        <type name="ListTwoWaySteps$ListTwoWayBindConfigStep" restrictions="1"/>
+        <type name="ListTwoWaySteps$ListTwoWayConfigStep" restrictions="1"/>
+        <type name="ListTwoWaySteps$ListTwoWayConvertFromStep" restrictions="1"/>
+        <type name="ListTwoWaySteps$ListTwoWayConvertToStep" restrictions="1"/>
+        <type name="ListTwoWaySteps$ListTwoWayFromStep" restrictions="1"/>
+        <type name="ListTwoWaySteps$ListTwoWayToStep" restrictions="1"/>
+        <type name="ListTwoWaySteps$ListTwoWayUntypedToStep" restrictions="1"/>
+        <type name="SetCommonSteps" restrictions="0"/>
+        <type name="SetCommonSteps$SetFromStep" restrictions="1"/>
+        <type name="SetCommonSteps$SetReadConfigStep" restrictions="1"/>
+        <type name="SetCommonSteps$SetToStep" restrictions="1"/>
+        <type name="SetCommonSteps$SetUntypedTo" restrictions="1"/>
+        <type name="SetCommonSteps$SetWriteConfigStep" restrictions="1"/>
+        <type name="SetOneWaySteps" restrictions="0"/>
+        <type name="SetOneWaySteps$SetOneWayBindWriteConfigStep" restrictions="1"/>
+        <type name="SetOneWaySteps$SetOneWayConvertStep" restrictions="1"/>
+        <type name="SetOneWaySteps$SetOneWayFromStep" restrictions="1"/>
+        <type name="SetOneWaySteps$SetOneWayToStep" restrictions="1"/>
+        <type name="SetOneWaySteps$SetOneWayUntypedTo" restrictions="1"/>
+        <type name="SetTwoWaySteps" restrictions="0"/>
+        <type name="SetTwoWaySteps$SetTwoWayBindConfigStep" restrictions="1"/>
+        <type name="SetTwoWaySteps$SetTwoWayConfigStep" restrictions="1"/>
+        <type name="SetTwoWaySteps$SetTwoWayConvertFromStep" restrictions="1"/>
+        <type name="SetTwoWaySteps$SetTwoWayConvertToStep" restrictions="1"/>
+        <type name="SetTwoWaySteps$SetTwoWayFromStep" restrictions="1"/>
+        <type name="SetTwoWaySteps$SetTwoWayToStep" restrictions="1"/>
+        <type name="SetTwoWaySteps$SetTwoWayUntypedToStep" restrictions="1"/>
+        <type name="Step" restrictions="1"/>
+        <type name="ValueCommonSteps" restrictions="0"/>
+        <type name="ValueCommonSteps$ValueFromStep" restrictions="1"/>
+        <type name="ValueCommonSteps$ValueReadConfigStep" restrictions="1"/>
+        <type name="ValueCommonSteps$ValueToStep" restrictions="1"/>
+        <type name="ValueCommonSteps$ValueUntypedTo" restrictions="1"/>
+        <type name="ValueCommonSteps$ValueWriteConfigStep" restrictions="1"/>
+        <type name="ValueOneWaySteps" restrictions="0"/>
+        <type name="ValueOneWaySteps$ValueOneWayBindWriteConfigStep" restrictions="1"/>
+        <type name="ValueOneWaySteps$ValueOneWayConvertStep" restrictions="1"/>
+        <type name="ValueOneWaySteps$ValueOneWayFromStep" restrictions="1"/>
+        <type name="ValueOneWaySteps$ValueOneWayToStep" restrictions="1"/>
+        <type name="ValueOneWaySteps$ValueOneWayUntypedTo" restrictions="1"/>
+        <type name="ValueTwoWaySteps" restrictions="0"/>
+        <type name="ValueTwoWaySteps$ValueTwoWayBindConfigStep" restrictions="1"/>
+        <type name="ValueTwoWaySteps$ValueTwoWayConfigStep" restrictions="1"/>
+        <type name="ValueTwoWaySteps$ValueTwoWayConvertFromStep" restrictions="1"/>
+        <type name="ValueTwoWaySteps$ValueTwoWayConvertToStep" restrictions="1"/>
+        <type name="ValueTwoWaySteps$ValueTwoWayFromStep" restrictions="1"/>
+        <type name="ValueTwoWaySteps$ValueTwoWayToStep" restrictions="1"/>
+        <type name="ValueTwoWaySteps$ValueTwoWayUntypedToStep" restrictions="1"/>
+    </package>
+    <package name="org.eclipse.core.databinding.conversion" visibility="1">
+        <type name="IConverter" restrictions="3"/>
+        <type name="NumberToStringConverter" restrictions="10"/>
+        <type name="StringToNumberConverter" restrictions="10"/>
+    </package>
+</component>

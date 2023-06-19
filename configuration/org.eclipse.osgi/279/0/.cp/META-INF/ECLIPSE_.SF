@@ -1,0 +1,46 @@
+Signature-Version: 1.0
+Created-By: 11.0.10 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: uQFBXBTCh1b2KyNTEFEbSM76vpCe3IN0U+tb4atl7GY=
+SHA-256-Digest-Manifest-Main-Attributes: 80GzJGVgzDUsD92BHu/5wp1V/RuK2q+
+ oLb2y4LIhsmA=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/e4/ui/di/Focus.class
+SHA-256-Digest: fmUMYdWk6ld+WzMz+KXTBsOpV2V116NvMQX2HRfIAdE=
+
+Name: org/eclipse/e4/ui/internal/di/UIEventObjectSupplier.class
+SHA-256-Digest: LvJewCVTH5eNBJUyxFRB4d4f2QlNEpLcGVIu3d9IpkU=
+
+Name: .api_description
+SHA-256-Digest: +rjqRxu0lI4sZHVShWSlrGWl2UG40lLNOSKaBLcsF8w=
+
+Name: org/eclipse/e4/ui/di/UIEventTopic.class
+SHA-256-Digest: XZwkqgbSGT49t4rlHtbLHqBcbf2JtGszV7+PtJlUoyU=
+
+Name: org/eclipse/e4/ui/di/PersistState.class
+SHA-256-Digest: ScsbnZjNiPKGy+bAiYD4W7b7uAczoBnBQ68M2BOOwMs=
+
+Name: org/eclipse/e4/ui/di/AboutToShow.class
+SHA-256-Digest: Wih4dRoN3WxkQvJ6R6EsfeTaN8Nikqv5kfIv5j1/ys4=
+
+Name: plugin.properties
+SHA-256-Digest: KBK71/5tB4vR6hAnn0QLpyn69zVb0c8gUPMmRBr+DCs=
+
+Name: org/eclipse/e4/ui/di/UISynchronize.class
+SHA-256-Digest: KC3ywmfm9svTeBGvDX8WskmnzLNs9G9jiZRYgv9HY38=
+
+Name: org/eclipse/e4/ui/internal/di/UIEventObjectSupplier$UIEventHandler
+ .class
+SHA-256-Digest: o5hwN5jxE9dKNTn6+6s0GoSeJmY5t/5Y6Th7ZczAa5Q=
+
+Name: org/eclipse/e4/ui/di/AboutToHide.class
+SHA-256-Digest: MrzXPjY+9BbzFnhFPZ9KqRwi9Xihuq7BcRRoMP0SfuQ=
+
+Name: org/eclipse/e4/ui/di/Persist.class
+SHA-256-Digest: BpiHff7gh7AxPth6aPYjhfOtNzAlycyhbCYEDgUK6l4=
+
+Name: OSGI-INF/org.eclipse.e4.ui.internal.di.UIEventObjectSupplier.xml
+SHA-256-Digest: cWNEmBeV+U4j93ix1naCzVLJpQNZRYyjZ8pawLLkmO0=
+

@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-Name: %pluginName
+Bundle-Activator: org.jboss.tools.common.projecttemplates.ProjectTemplat
+ esPlugin
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %providerName
+Export-Package: org.jboss.tools.common.projecttemplates
+Bundle-Localization: plugin
+Bundle-SymbolicName: org.jboss.tools.common.projecttemplates;singleton:=
+ true
+Require-Bundle: org.eclipse.core.runtime;bundle-version="3.7.0",org.ecli
+ pse.ui;bundle-version="3.7.0",org.jboss.tools.common
+Bundle-Version: 3.17.300.v20220519-0955
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-BundleShape: dir
+Eclipse-SourceReferences: scm:git:https://github.com/jbosstools/jbosstoo
+ ls-base.git;path="common/plugins/org.jboss.tools.common.projecttemplate
+ s";commitId=1e6a0d00d897b50df87c98aca3ef4e332bed099a
+Bundle-License: Eclipse Public License;link="http://www.eclipse.org/lega
+ l/epl-v10.html"
+

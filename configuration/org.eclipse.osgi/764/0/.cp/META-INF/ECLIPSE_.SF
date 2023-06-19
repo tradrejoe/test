@@ -1,0 +1,106 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: IJ2a+pHpwQI7a9yTAg36tJZn1X1NgMYP2Rim1TqkMz8=
+SHA-256-Digest-Manifest-Main-Attributes: LI7vNi45VbUbSSxkRgQD77sgqH1mo/T
+ nqQsSAgovRWo=
+
+Name: plugin.xml
+SHA-256-Digest: dEga9U/2z+mTmzhhZaMv0y0WwbFE7OjDZzRMk8L4ySg=
+
+Name: org/eclipse/urischeme/AutoRegisterSchemeHandlersJob.class
+SHA-256-Digest: ruNAu1KI9jbuLKyZefcf8YTNpCIeju5urNDtqppeVAo=
+
+Name: org/eclipse/urischeme/internal/registration/RegistryWriter.class
+SHA-256-Digest: hSeSyo66mj0il5QWFOSQ5g6A2cj7EAK+Eukly3Y3u8c=
+
+Name: org/eclipse/urischeme/internal/registration/RegistrationLinux.clas
+ s
+SHA-256-Digest: sG/6SAkZRm7aNVopNFjwOSKU2QgApOpilB/xRfxOhwk=
+
+Name: org/eclipse/urischeme/internal/registration/IRegistryWriter.class
+SHA-256-Digest: 6Yrc5ugMYd1y79sN56r9NFF0jp2NxNLCBcULNC4y8UM=
+
+Name: org/eclipse/urischeme/IUriSchemeHandler.class
+SHA-256-Digest: O+4NkXC3HJ7Q4tTWDqEFEShLD0yYqGQ/YWd+Ym4U16s=
+
+Name: org/eclipse/urischeme/internal/registration/ProcessExecutor.class
+SHA-256-Digest: 9ZLQAZ3BCYRSFxSZ9lW4CpDit0U6tCJv/YoWBorT7rc=
+
+Name: org/eclipse/urischeme/internal/registration/SchemeInformation.clas
+ s
+SHA-256-Digest: DHob/DpM2jjg/Nf3Blpp1hc0oXDXo179JOSuvFsZ6YA=
+
+Name: org/eclipse/urischeme/internal/UriSchemeExtensionReader$Scheme.cla
+ ss
+SHA-256-Digest: aTy9/RTvNCc64n9AL8fFVOXDKnS2scd8mx7xqprMrwY=
+
+Name: org/eclipse/urischeme/internal/registration/RegistrationMacOsX.cla
+ ss
+SHA-256-Digest: ykfGGZ0FITD3QStfFf/15VIYb1jbI4sslBN28i4BmS0=
+
+Name: plugin.properties
+SHA-256-Digest: luZW3Ey6wPIPzBpBFL0avhzHzDKZM0KSLb9d1QjWK7I=
+
+Name: org/eclipse/urischeme/internal/UriSchemeProcessor.class
+SHA-256-Digest: Q8qmArlyCOHVeUmQN6yeW3uyBv2uIvFXQuraInmJaRQ=
+
+Name: org/eclipse/urischeme/internal/registration/PlistFileWriter.class
+SHA-256-Digest: dA98gobpbSk7NCsiPrV2znB1ybIVKZ2787wUIs8UwvA=
+
+Name: org/eclipse/urischeme/internal/UriSchemeExtensionReader.class
+SHA-256-Digest: QkdId3YGh4P9HIIv7SjJtInxFm3BRynGM3rkBz0wt1Q=
+
+Name: org/eclipse/urischeme/internal/registration/IFileProvider.class
+SHA-256-Digest: BYcPdmtsFS3olb7QzUWCB5tslB2In+ZPayX+4CHNNJM=
+
+Name: schema/uriSchemeHandlers.exsd
+SHA-256-Digest: LANoFRA3ljvWuZMRFVAQFg2nS+8WKwuX9ZrMbaKSIhY=
+
+Name: org/eclipse/urischeme/ISchemeInformation.class
+SHA-256-Digest: frIVQbiVW05ZvrB609BptemPgLwxhBYcqyb5xCo+nl4=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/urischeme/internal/registration/RegistrationWindows.cl
+ ass
+SHA-256-Digest: Ti2YiVHSaOXzfpQeOjj6+tUB1S6kLgk1QjrHaP92GKk=
+
+Name: org/eclipse/urischeme/IUriSchemeProcessor.class
+SHA-256-Digest: JG/K/KrFqLPQXKUL4oEH2U+bWnESpOY9twVIJIas/dY=
+
+Name: org/eclipse/urischeme/IOperatingSystemRegistration.class
+SHA-256-Digest: aFKMEn1XqNPC1v4klzOfboiGe20OXxcpXKCB6YCofE4=
+
+Name: .api_description
+SHA-256-Digest: DVaTYL88kdIXgKEYgD23GhWsSubCV4nJCGwkTtmW1Xw=
+
+Name: org/eclipse/urischeme/internal/registration/FileProvider.class
+SHA-256-Digest: RLtDl/cDlwUIBLI4D0JcAdr4k1mbQBiwCmlVrGAiPrc=
+
+Name: org/eclipse/urischeme/internal/registration/IProcessExecutor.class
+SHA-256-Digest: t/MMXs3oG/pDgIOjDoPGEf9EU4nOrzW+P7uWrXK76Zo=
+
+Name: org/eclipse/urischeme/internal/registration/WinRegistry.class
+SHA-256-Digest: K0meBoDH/e42ipEhEfQD57RdzHg+F6CM58STO/NN3LA=
+
+Name: org/eclipse/urischeme/internal/registration/Util.class
+SHA-256-Digest: YGS9EeWLwTdUvAe/fzk+f6iQdTsRzFstBgtnzCgtuCs=
+
+Name: org/eclipse/urischeme/internal/registration/WinRegistryException.c
+ lass
+SHA-256-Digest: MnVwjc1MIdzE6ltkXc8Hg28FGkMBHz/cJR8g6uW56vo=
+
+Name: org/eclipse/urischeme/IScheme.class
+SHA-256-Digest: AbUcyhiavuBZuc80kuPGKzEgdI45NZDYPd09EoFOCH4=
+
+Name: org/eclipse/urischeme/IUriSchemeExtensionReader.class
+SHA-256-Digest: +7isDwqoSpbEx3WmA50XIkt0gJZi0c7uLOUwpLVidYU=
+
+Name: org/eclipse/urischeme/internal/registration/DesktopFileWriter.clas
+ s
+SHA-256-Digest: FB86bd9WfbZrsIZASUL2bAOJUaCH/O7LfcC07vNTC3g=
+
+Name: org/eclipse/urischeme/internal/registration/IWinRegistry.class
+SHA-256-Digest: nT7GqR7ToLyYMbOOxq1hAihVh8LgBOjn+StzNNrBZvs=
+

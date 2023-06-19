@@ -1,0 +1,198 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %osgiServices
+Bundle-SymbolicName: org.eclipse.osgi.services
+Bundle-Version: 3.11.0.v20220618-0838
+Bundle-Description: %osgiServicesDes
+Bundle-Localization: plugin
+Bundle-Vendor: %eclipse.org
+Bundle-DocUrl: http://www.eclipse.org
+Bundle-ContactAddress: www.eclipse.org
+Export-Package: org.osgi.service.component.annotations;version="1.3",org
+ .osgi.service.http;version="1.2.1";uses:="javax.servlet,javax.servlet.h
+ ttp",org.osgi.service.http.context;version="1.1";uses:="org.osgi.framew
+ ork,javax.servlet.http",org.osgi.service.http.runtime;version="1.1";use
+ s:="org.osgi.service.http.runtime.dto",org.osgi.service.http.runtime.dt
+ o;version="1.1";uses:="org.osgi.dto,org.osgi.framework.dto",org.osgi.se
+ rvice.http.whiteboard;version="1.1",org.osgi.service.log;version="1.5";
+ uses:="org.osgi.framework";mandatory:="never.ever.use";never.ever.use="
+ true"
+Import-Package: javax.servlet;resolution:=optional,javax.servlet.http;re
+ solution:=optional,org.osgi.dto;version="1.0",org.osgi.framework;versio
+ n="1.6",org.osgi.framework.dto;version="1.8.0",org.osgi.service.http;ve
+ rsion="[1.2,1.3)",org.osgi.service.http.context;version="[1.1,1.2)",org
+ .osgi.service.http.runtime;version="[1.1,1.2)",org.osgi.service.http.ru
+ ntime.dto;version="[1.1,1.2)",org.osgi.service.http.whiteboard;version=
+ "[1.1,1.2)",org.osgi.service.log;version="[1.5,1.6)"
+DynamicImport-Package: javax.servlet,javax.servlet.http
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: org.eclipse.osgi.services
+Require-Bundle: org.osgi.service.cm;bundle-version="[1.6.0,1.7.0)";visib
+ ility:=reexport,org.osgi.service.component;bundle-version="[1.5.0,1.6.0
+ )";visibility:=reexport,org.osgi.service.device;bundle-version="[1.1.0,
+ 1.2.0)";visibility:=reexport,org.osgi.service.event;bundle-version="[1.
+ 4.0,1.5.0)";visibility:=reexport,org.osgi.service.metatype;bundle-versi
+ on="[1.4.0,1.5.0)";visibility:=reexport,org.osgi.service.provisioning;b
+ undle-version="[1.2.0,1.3.0)";visibility:=reexport,org.osgi.service.upn
+ p;bundle-version="[1.2.0,1.3.0)";visibility:=reexport,org.osgi.service.
+ useradmin;bundle-version="[1.1.0,1.2.0)";visibility:=reexport,org.osgi.
+ service.wireadmin;bundle-version="[1.0.0,1.1.0)";visibility:=reexport
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-equinox/equ
+ inox.git;path="bundles/org.eclipse.osgi.services";tag="I20220619-1800";
+ commitId=a31b3d49011b602b86c8e7c3aff1c959d5dde19c
+
+Name: org/osgi/service/component/annotations/FieldOption.class
+SHA-256-Digest: E55RZOxO/9C+37URKnSaB2fBkJsbksnu8g5uixrre98=
+
+Name: org/osgi/service/http/runtime/package-info.class
+SHA-256-Digest: fVjhhy+PPURUmqca6Sa5UkBdqab6NNfsZBkk36tC3n0=
+
+Name: org/osgi/service/http/whiteboard/HttpWhiteboardConstants.class
+SHA-256-Digest: Wqqfu6HNtm0ZAi4n6f8sXhpLNZAxzw3FnW8FYnwjZZk=
+
+Name: org/osgi/service/component/annotations/ReferencePolicyOption.class
+SHA-256-Digest: m9CTiRpEd4l1uNEfjN1p2ekzYkASoTYWZnyarVfWfhg=
+
+Name: org/osgi/service/http/runtime/dto/ListenerDTO.class
+SHA-256-Digest: +DISZgRdjzImqb++qlXIEExCYmSLemelreEdeUDBORs=
+
+Name: plugin.properties
+SHA-256-Digest: 3+xH8qNdm7dNFq5meOSU9XqIIocAzZKQD/wBcm+mvZc=
+
+Name: org/osgi/service/http/runtime/dto/FailedResourceDTO.class
+SHA-256-Digest: Xv+sK3vxmMxnxrE/raEwXBQiUwj+9BbrPere8wrctWk=
+
+Name: org/osgi/service/http/runtime/dto/FailedErrorPageDTO.class
+SHA-256-Digest: XIirSH+cEH5hEuLc4+lMzFiCiilOOMkIh6QTYJEvjno=
+
+Name: META-INF/p2.inf
+SHA-256-Digest: lZdaO2CE+pWSfK9zY0W9oGXsZf5gZSBFqN4t0+VCD4o=
+
+Name: org/osgi/service/http/runtime/dto/ServletContextDTO.class
+SHA-256-Digest: MGAy88v/0oWl7pO+0axwI8Sq6XFziSPLb548P8lV1vY=
+
+Name: org/osgi/service/log/note.txt
+SHA-256-Digest: Pk7NPofUedR6g6f2GLCiFrCnodT+1ijndYPg/3sg3b8=
+
+Name: org/osgi/service/http/runtime/dto/FailedPreprocessorDTO.class
+SHA-256-Digest: hLNhNfEhRVGFu18meSDovwtGjTyNMCJCZtbEiK9BxJU=
+
+Name: .api_description
+SHA-256-Digest: lnaHLZX2PZwtA8OWqhAruMEAJiHchli4rUn65NTgxr8=
+
+Name: org/osgi/service/component/annotations/Reference.class
+SHA-256-Digest: B6t7FT4/wsDCugi0LRw+HTNEJ4WGamRZwL9iKB4tBcg=
+
+Name: org/osgi/service/component/annotations/Activate.class
+SHA-256-Digest: 01oQr5DbxYRH0gJCjHHS8gmnF09E7i+AFQRWQjIz5/w=
+
+Name: org/osgi/service/http/runtime/HttpServiceRuntime.class
+SHA-256-Digest: yCwxonuZ1vODFMvJZAQzIJtbTzZdlaovM9g/1Jc4i7k=
+
+Name: org/osgi/service/http/whiteboard/package-info.class
+SHA-256-Digest: EnNpaSahHEVu4RVzounI3KC7gFSYg463dIPrZ8Ifg9E=
+
+Name: org/osgi/service/http/runtime/dto/FailedServletContextDTO.class
+SHA-256-Digest: FYu77TMuxuEVoY7lNaZ2lLTgL+QzWt4SRW3aaZk6/Ac=
+
+Name: org/osgi/service/http/HttpService.class
+SHA-256-Digest: GmNSrw+H6I0eGvxd/yoGbu8BR/sJcpvjaG0mJ7QCyy0=
+
+Name: org/osgi/service/component/annotations/Deactivate.class
+SHA-256-Digest: rVR67gPtCkYVGjGoy6vGDr7FNjTYEwKCPPJOWb+8I40=
+
+Name: org/osgi/service/http/runtime/HttpServiceRuntimeConstants.class
+SHA-256-Digest: vpBZiezRSVfkCGq25X6GgVlZOoxOrDDAv1/xKNvOpzA=
+
+Name: org/osgi/service/http/context/ServletContextHelper.class
+SHA-256-Digest: CsvBCjzuBhTXqQw0UUpOEx+X3NLuk8aVCdrF4lYHSTw=
+
+Name: org/osgi/service/http/runtime/dto/FilterDTO.class
+SHA-256-Digest: eP7oBc+zQ9dfa/MJ93JDjbhruFoXvIQZ3KwcHaxWtqc=
+
+Name: org/osgi/service/http/HttpContext.class
+SHA-256-Digest: TtjX0wl1UCP61EwemWSfmM2eAIp4toNVKU+QOm/C6dQ=
+
+Name: org/osgi/service/http/runtime/dto/FailedServletDTO.class
+SHA-256-Digest: C2SNNDbGgnawWGGRVqYgejbhSFL4SVtQFUSINL8mOLI=
+
+Name: org/osgi/service/http/runtime/dto/PreprocessorDTO.class
+SHA-256-Digest: goyFJiS6BT7s8yVYocMvt5QpSWcnqX/DNgO/9cDseT4=
+
+Name: org/osgi/service/http/runtime/dto/ErrorPageDTO.class
+SHA-256-Digest: rIRP1zcewq+pxBnET7kM4jKv+u+m7dzH2+5IKbYhyAM=
+
+Name: org/osgi/service/component/annotations/package-info.class
+SHA-256-Digest: Kju58md2qv3Vr0x7vDcZCYaNTQCG0oh7yS4fzD6zBNM=
+
+Name: about_files/LICENSE-2.0.txt
+SHA-256-Digest: z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=
+
+Name: org/osgi/service/component/annotations/packageinfo
+SHA-256-Digest: pFqkA0Evp1rF0zJ+NSsuant87bRmtwmoj6bJ9dRjIiE=
+
+Name: org/osgi/service/http/runtime/dto/ServletDTO.class
+SHA-256-Digest: 8P2/TImaQyFE1kBmu6lO4ugyCAZzlBF5kmXuwIdBQk8=
+
+Name: org/osgi/service/component/annotations/ReferenceScope.class
+SHA-256-Digest: sTDqPzi4l0Iboz87957kezPjwhFEOENQsyyQyaw0Eik=
+
+Name: org/osgi/service/http/context/package-info.class
+SHA-256-Digest: ahWafIRPq3V0cH/r3Yye2U3YGuu9VxAlPLhyrubJ8Cw=
+
+Name: org/osgi/service/component/annotations/ServiceScope.class
+SHA-256-Digest: ArPl1mVbSZlTCvV+HtYsOUeHl7xaSX59yNFP9GuSnAg=
+
+Name: org/osgi/service/component/annotations/ReferencePolicy.class
+SHA-256-Digest: 9M9tzZYzim3wszGRBGeBHGr/J6/qWb8/VKZ2ai/W0jc=
+
+Name: org/osgi/service/http/runtime/dto/RuntimeDTO.class
+SHA-256-Digest: 7R7BmtOjQGZA1Fy2C0NM/yrNRMxgQqXs5Af2+UCTAHk=
+
+Name: org/osgi/service/http/runtime/dto/package-info.class
+SHA-256-Digest: zu6KK7E3ej/SIdD8A29svrLeKuR1BKv06PupikgQPr8=
+
+Name: org/osgi/service/component/annotations/ConfigurationPolicy.class
+SHA-256-Digest: U2U1QUIPDGLaGTxNgpZAI1eDvgzI7KxnsL+h8v9tn9g=
+
+Name: about.html
+SHA-256-Digest: mRQr+rHZ602zBNi6E6wOzQSo7TLoTgkMjyl5J0spSyo=
+
+Name: org/osgi/service/http/runtime/dto/FailedListenerDTO.class
+SHA-256-Digest: 1SYtNTtzR2Z1TwtQtk4XLGRS07g0niTErkGXQBmigLg=
+
+Name: org/osgi/service/http/runtime/dto/ResourceDTO.class
+SHA-256-Digest: YnUMg8r0YZmeWMvOjHWosbo55Axbass5qDqZP+P0EVk=
+
+Name: org/osgi/service/http/runtime/dto/BaseServletDTO.class
+SHA-256-Digest: uTUaGNDt6Rb90ktoYpANR9A6/qrv7rCjXHTKAFOg9+g=
+
+Name: org/osgi/service/component/annotations/Component.class
+SHA-256-Digest: Iho2cAKkUP7lKaCMErR3gtZfCUitQ1s+jTWSABXIImE=
+
+Name: org/osgi/service/component/annotations/ReferenceCardinality.class
+SHA-256-Digest: k1dp+lBFwqWDIPRPXpFrSXGly/iBTf/GOFX7tkjSgsQ=
+
+Name: org/osgi/service/http/runtime/dto/FailedFilterDTO.class
+SHA-256-Digest: WnVbp0guOkFomgYE6ZPFGH2PnAjCPcyCc5rrolzdrIU=
+
+Name: org/osgi/service/http/whiteboard/Preprocessor.class
+SHA-256-Digest: v+ghU+XHxdLtvY05AFJviJcbZZ+hQkPQpEwlvtNbOmU=
+
+Name: org/osgi/service/component/annotations/Modified.class
+SHA-256-Digest: PfgVABWWJskb8Q3KvqnsNCOQGebr8HdlxML1c6c96wA=
+
+Name: org/osgi/service/http/runtime/dto/DTOConstants.class
+SHA-256-Digest: sA6NemRMoNp+qpcUWtQTcONuMwroUqzJYRJll3tzMig=
+
+Name: org/osgi/service/http/NamespaceException.class
+SHA-256-Digest: A7VTwi2hpKXNeA/MhPVBskZHwYpAGc2jQeG4Zknw0Ps=
+
+Name: org/osgi/service/http/package-info.class
+SHA-256-Digest: EBSwFBLJDY27DYroWxpeEJFFjdciaOCiHS7Fi7DsO8I=
+
+Name: org/osgi/service/http/runtime/dto/RequestInfoDTO.class
+SHA-256-Digest: ISV89XO0M0/IDa1GuDMWmNzib5LdhpWRLwrI0AhSmrU=
+

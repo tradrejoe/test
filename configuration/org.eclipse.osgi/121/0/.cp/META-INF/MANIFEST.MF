@@ -1,0 +1,196 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.core.expressions; singleton:=true
+Bundle-Version: 3.8.200.v20220613-1047
+Bundle-ClassPath: .
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Export-Package: org.eclipse.core.expressions,org.eclipse.core.internal.e
+ xpressions;x-internal:=true,org.eclipse.core.internal.expressions.prope
+ rtytester;x-internal:=true,org.eclipse.core.internal.expressions.util;x
+ -internal:=true
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.3.0,4.0.0)"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Import-Package: org.w3c.dom
+Automatic-Module-Name: org.eclipse.core.expressions
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.git;path="runtime/bundles/org.eclipse.core.expressions";
+ tag="I20220613-0910";commitId=195aa692a459f685f85eecc493f58c74543fc65f
+
+Name: org/eclipse/core/expressions/AndExpression.class
+SHA-256-Digest: AI0E/MX+CqJt2PC7nC1K8CRiHvX9TAPYYjkl2FDmKNg=
+
+Name: org/eclipse/core/expressions/CountExpression.class
+SHA-256-Digest: UAf464t7rlfKKugpLKMU7bq4PerAz6gfsKf4MI1CBOg=
+
+Name: org/eclipse/core/expressions/ExpressionConverter.class
+SHA-256-Digest: F/rLXxY1lvOBk+dEKtxpNnBQ8YVnqMSM1zLWp0JOj6s=
+
+Name: plugin.xml
+SHA-256-Digest: x9NSE0YPDkRrdE0raQHHFqZC/dzimtpupAwzqtnfF64=
+
+Name: org/eclipse/core/expressions/ExpressionInfo.class
+SHA-256-Digest: j+oXKqtjzr5TCBMBjlvDZTK7MG7kRF2H39yJvFJqvro=
+
+Name: org/eclipse/core/internal/expressions/Property.class
+SHA-256-Digest: zTGCel3wSGeYXCXIC0SlMAyIxjL1xlfx50aXv5CA5Jk=
+
+Name: org/eclipse/core/internal/expressions/SystemTestExpression.class
+SHA-256-Digest: MOJX9qbu1y61XDdUSPA1A2RFCNpG65aiHZblD/O3s8I=
+
+Name: org/eclipse/core/expressions/OrExpression.class
+SHA-256-Digest: 7QkdPilEJjrey1SeNrg6KTpxyUJmr9jpCjfO4NvqTDE=
+
+Name: org/eclipse/core/expressions/ExpressionTagNames.class
+SHA-256-Digest: XKgWwJQVcqSfxzenaJ3te2BDzbpkzFNSgNfS3xxXBa8=
+
+Name: org/eclipse/core/internal/expressions/TypeExtension.class
+SHA-256-Digest: KouKRdjOJdL2udW/mHMKcT1ZGySVnmHtkO7o5EJuUG0=
+
+Name: org/eclipse/core/internal/expressions/ExpressionMessages.propertie
+ s
+SHA-256-Digest: Rvz2LUJhN1aEUd4VqvA5jgvkBG7YQ772AEnbBo/KWyY=
+
+Name: plugin.properties
+SHA-256-Digest: IOOqRN5O9XMUcOjh5dAkiEb3K5Ys/3EVL1SNsN0Ukac=
+
+Name: org/eclipse/core/internal/expressions/TypeExtension$2.class
+SHA-256-Digest: DV46mxTNvf4XOBD2alcoJB8CE+I8hNDPcwFFcls3fng=
+
+Name: org/eclipse/core/internal/expressions/ExpressionStatus.class
+SHA-256-Digest: e5w4000Vu+sONwiWmBW+sd5HvYlhOu6sa+jtgUegJWE=
+
+Name: org/eclipse/core/expressions/Expression$2.class
+SHA-256-Digest: YVOK23bJJeiymL9B6U35/KbdqrVkSZnBo+ELdXOu4gs=
+
+Name: .api_description
+SHA-256-Digest: fcWitDaEnHK/zzdzaBwPdlBa84sL8ntqkMjrRAd+Oa0=
+
+Name: org/eclipse/core/internal/expressions/NotExpression.class
+SHA-256-Digest: oyQzTfpSmOwxUnGwcO0CooAzXLXCh/W0qTzJzCMDFpo=
+
+Name: org/eclipse/core/internal/expressions/PropertyTesterDescriptor.cla
+ ss
+SHA-256-Digest: T8d9RzT7u8Q7EIHrRkiQOFTalKdfR34Ut1jbJ2DR5Xc=
+
+Name: org/eclipse/core/internal/expressions/util/LRUCache$LRUCacheEntry.
+ class
+SHA-256-Digest: Co+2Gd/wi8Ww5p9XOs1ta44ZYYAbcosC4KzZSWvaXwM=
+
+Name: org/eclipse/core/expressions/EvaluationResult.class
+SHA-256-Digest: DLSeyH/yeDQTQlJf95qcqp0xP3DqTUe9/Vutn2zay2w=
+
+Name: org/eclipse/core/internal/expressions/propertytester/PlatformPrope
+ rtyTester.class
+SHA-256-Digest: 4sGnKZ4OZQAfXvNIIe8oD+YvR1Cn6EflgewJc95gM34=
+
+Name: org/eclipse/core/expressions/ElementHandler.class
+SHA-256-Digest: reOUb1bY1h0p97qCjOsKBFRuHfc7VRVrcME9aTCX1Fk=
+
+Name: org/eclipse/core/internal/expressions/PropertyCache.class
+SHA-256-Digest: Zd+iebWTFP+RlaaIwBTauk0SjRS1nLRkLoaKDHwXkOk=
+
+Name: org/eclipse/core/internal/expressions/ResolveExpression.class
+SHA-256-Digest: gLQWYRQnLunw24/lL4P9IeKOkiMrbuTXolgX8+Vs4bM=
+
+Name: org/eclipse/core/internal/expressions/IterateExpression$IteratePoo
+ l.class
+SHA-256-Digest: AL6PXc2zxjOixccu+viP1V638bQ7EDIY37fvfNJxuEI=
+
+Name: org/eclipse/core/expressions/WithExpression.class
+SHA-256-Digest: +ySyaWgIhIxEc1SNk4S8DEsqMuPX09ISBF3kB/Zh+Zs=
+
+Name: org/eclipse/core/expressions/IIterable.class
+SHA-256-Digest: 8n2WXkHTccBWJRL46SGGxNmVds/uXKwnUR8c+xKsGsA=
+
+Name: org/eclipse/core/expressions/IPropertyTester.class
+SHA-256-Digest: 0E9fogli4UEpEbhKg6ba1ZicBoMhiyfrCMOZy3h0XB0=
+
+Name: org/eclipse/core/expressions/ICountable.class
+SHA-256-Digest: RV4Grtylx2gNeAZoF+P9LSvV1BcYioKoy3iuqg8/XSw=
+
+Name: org/eclipse/core/expressions/IEvaluationContext.class
+SHA-256-Digest: hsak8chuug76T5Odb+InKm4iN5S48B6uRbgAQ4tt7TY=
+
+Name: .options
+SHA-256-Digest: 2bDqL1AhGE/+JnkVQKorwMZPwKWYp9NYdPsIsCcXigw=
+
+Name: org/eclipse/core/expressions/TestExpression.class
+SHA-256-Digest: bnTPZvbk7nWA4JbkWaAt3S1zR25Wr0kUwjkKZyA3tJU=
+
+Name: org/eclipse/core/expressions/Expression.class
+SHA-256-Digest: dkWY+F0JJKiQg49Vg5X3WAJ+zUHC76uSow9bYDgRmzY=
+
+Name: org/eclipse/core/expressions/EqualsExpression.class
+SHA-256-Digest: apQ5tbWaYlSBlms9wXS9vK8BJ4YvImJLnnYAZTsizhU=
+
+Name: org/eclipse/core/internal/expressions/EnablementExpression.class
+SHA-256-Digest: QwQvY25u9/tIhM7yEryb5v5e0c5znEY3aXvTeKQZnaU=
+
+Name: org/eclipse/core/internal/expressions/ExpressionMessages.class
+SHA-256-Digest: 1d173k005ObgDN6CBRhxVJsu+4Og1m7cJ2iPqlC1GNs=
+
+Name: org/eclipse/core/internal/expressions/StandardElementHandler.class
+SHA-256-Digest: /Nn5BrFzfDTbyOrZ5S6ryy+UeLPckjdY7k0JJjZwkU0=
+
+Name: org/eclipse/core/expressions/IVariableResolver.class
+SHA-256-Digest: 24KJxLnkJzQVXLg+XIO1ZC/mZ690e4uDQHtoshpdHzo=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: org/eclipse/core/internal/expressions/Expressions.class
+SHA-256-Digest: 184/D1Cg785vjMk5pvrcfIG6iDiPSrTh2o77IdXGhzs=
+
+Name: org/eclipse/core/expressions/EvaluationContext.class
+SHA-256-Digest: qVXP0n2Msezinwa+bkLiG+WD4UrplQXmWmqFn8H1jNk=
+
+Name: org/eclipse/core/internal/expressions/DefinitionRegistry.class
+SHA-256-Digest: l7eVsSDYKs+mbrrBpCc3K8GlptBrfwppo/XfWRMMr+I=
+
+Name: org/eclipse/core/internal/expressions/Messages.class
+SHA-256-Digest: 0Qmk3EKK2n2zAIpMvNDszjjcBbdR8g1aMJwXYG7RtTk=
+
+Name: org/eclipse/core/internal/expressions/AdaptExpression.class
+SHA-256-Digest: /wco4m7BhsdT/cHkxSbN6IYoXBFjIIXWx7qJh8t1uuI=
+
+Name: org/eclipse/core/internal/expressions/util/ToStringSorter.class
+SHA-256-Digest: eatPnUItB3sThqYR+cH+ZqoDB/w8qfrmHKR3nKl+7+I=
+
+Name: org/eclipse/core/internal/expressions/InstanceofExpression.class
+SHA-256-Digest: Ic9jykcuyzrUyRmSQO1awV7x0nW9bS2o2f2iJo8cAeQ=
+
+Name: org/eclipse/core/internal/expressions/DefaultVariable.class
+SHA-256-Digest: 2ycIhoWzX3gA1gHDkUAb2yzmjGaXmIDqUgLEY0AlMsE=
+
+Name: org/eclipse/core/internal/expressions/TypeExtensionManager.class
+SHA-256-Digest: 6spEs/VxG+9TYj0LKQuCDwUzttjiEvrHF1TiddLS3+k=
+
+Name: org/eclipse/core/internal/expressions/TypeExtensionManager$1.class
+SHA-256-Digest: D6y1rjaOOcNP7K41UkbinKImksqouWmdoYSdVKrMNfw=
+
+Name: org/eclipse/core/internal/expressions/TypeExtension$1.class
+SHA-256-Digest: /uJK7FnxQwgwrxd2HGuPkQISzYMTcxyYS+vDqexdXB4=
+
+Name: org/eclipse/core/expressions/PropertyTester.class
+SHA-256-Digest: sxDO6LTzC1wbCaMqQsMFr4hchXQy+/5DeZXJv2JstII=
+
+Name: org/eclipse/core/expressions/CompositeExpression.class
+SHA-256-Digest: VmLMSt5PrVwNLBCk74ZnS0gDA2UUKQGJPFu1tOM2bwE=
+
+Name: org/eclipse/core/expressions/ReferenceExpression.class
+SHA-256-Digest: 3T/1EvXyz7xeirOHCUYswuLsY8N+qcNXhfQmzp0yitE=
+
+Name: org/eclipse/core/expressions/Expression$1.class
+SHA-256-Digest: VT2l/H8iBjY8TezaNh4DGA70ffG0viPtKytCpLBUoC4=
+
+Name: org/eclipse/core/internal/expressions/util/LRUCache.class
+SHA-256-Digest: 1pvvfP0TQ4Mg4PEysvuymyPaDGFVHBjdHoynv8YS0s0=
+
+Name: org/eclipse/core/internal/expressions/IterateExpression.class
+SHA-256-Digest: SfDmJj3mwoopTXnbh04tUf8sdsbNYPUMJ0GC/JIfmow=
+

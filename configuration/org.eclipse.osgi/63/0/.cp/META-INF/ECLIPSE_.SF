@@ -1,0 +1,731 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: aLDWR3myWfWObBOVxQnpkp1IzHmQZ
+ zFyRfaIioDqbKA=
+SHA-256-Digest-Manifest: bpjI+n1AFnlew8uTJXdiO2hIKzA0/EbP5qe5GX38IYU=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: org/apache/commons/codec/language/bm/gen_approx_greeklatin.txt
+SHA-256-Digest: T8WROknGqBzaj5fScAwMr7a2xb2+0NMPLEXHGwP7DaM=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_dutch.txt
+SHA-256-Digest: A2SqQ3dzH3qihCSBlSC41MWHbyv7p03FqW6Em863gdQ=
+
+Name: org/apache/commons/codec/language/bm/Rule$1.class
+SHA-256-Digest: hj2P/fn+RBPmInFFvr3p6aJJ4+hxn7Wr3NhymU8goFU=
+
+Name: org/apache/commons/codec/language/bm/BeiderMorseEncoder.class
+SHA-256-Digest: 7YdYJMVurpZoXqtIB8ZzpO2ME+iYkMJllx8aCPXcYc4=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_german.txt
+SHA-256-Digest: ehjVR3/WuqDrLctHnInnFblx5vmErESKJ4qidSuKAHI=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_hungarian.txt
+SHA-256-Digest: la+yU2+OYyDQ5ykMmGcaDWz3eJ/BpC5RozcSjqWx3Q4=
+
+Name: org/apache/commons/codec/language/bm/Languages$1.class
+SHA-256-Digest: GuLS6Zqlx84ISewrpk2KpFtx+7aDoQTjio0pfAvCgMQ=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_common.txt
+SHA-256-Digest: ywzAmEMpqnYe8NpyTBzB5BxoUzKCMYsm/lo4mUOh6w4=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_hebrew.txt
+SHA-256-Digest: 19aWV7IeKQz74bGjJhCskGZlbUmBFTvbFUWhLRt3+hc=
+
+Name: org/apache/commons/codec/digest/PureJavaCrc32.class
+SHA-256-Digest: xatVnagiSwPi+LkE3BPXpvNEjFNGZ1XI0HuUfX8Ezyg=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_common.txt
+SHA-256-Digest: kynjSLtavRXOA3S7hVEwO+DhBnRDTMa5vJe8VEu65e0=
+
+Name: org/apache/commons/codec/language/DaitchMokotoffSoundex$Rule.cla
+ ss
+SHA-256-Digest: LiQRtuJtWeWECyB/wEgMrFALN5YH8SJg+DJ5Op8p84o=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_french.txt
+SHA-256-Digest: 7ixGomRt6/VxNRfP5u1XgGm4uZMS4f/6cjBBIoVVCRs=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_common.txt
+SHA-256-Digest: yTYLkCaNbqPvpH5bQzGNDkCajIWqYPuLXB0lw6tBpnk=
+
+Name: org/apache/commons/codec/language/Caverphone.class
+SHA-256-Digest: 90QiiIf775hwACoYLFPy/uEvYDU8Asf7MVMZjQqg5y0=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_russian.txt
+SHA-256-Digest: hGOLn7V/jx79S/A5HUP8CVwiizsaP3y/zADdqPKwU3o=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_english.txt
+SHA-256-Digest: albcPhmamt4PYGS8OY3QqcJuRC58wTf6IxAlVWHa0A8=
+
+Name: org/apache/commons/codec/language/bm/Lang$1.class
+SHA-256-Digest: dclX9UlgeiKUfUzle7saFUBeN6z6PakGHZ3LCaDPhUk=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_russian.txt
+SHA-256-Digest: Tu5DP6Gew0y09ERUcohzcenScRhIsp27AtSqERxI1wY=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_french.txt
+SHA-256-Digest: zvQ2LvWgqAKgPylullXU4P/Q8J9LtSXaSX5ZmAcumVM=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_greeklatin.txt
+SHA-256-Digest: eTxKubyomRcgBrNQisZ1Ehf9P4+BTs4AOusVFVWttUU=
+
+Name: about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+SHA-256-Digest: 70sq4AoiKPmbnFMVhYi1e9oPczCS6WKy+maEqwyunWY=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_any.txt
+SHA-256-Digest: FgfRoiH7rKouin14V6JMJGiyz42ec1xHSmfHRzd+JYA=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_polish.txt
+SHA-256-Digest: 9gdAvolzN0AB2z4md8EU1Cs/qlwkKGzA346oJUMJD+4=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_german.txt
+SHA-256-Digest: 3V/Fa1dJaYPxr/UYLGWdCJM/ABIKV3Mf+SasY84Lrh4=
+
+Name: org/apache/commons/codec/Resources.class
+SHA-256-Digest: Yjh6eM7EZlp6jT4fqiW11SRdwwd5J76KoWVTAGmxbgA=
+
+Name: org/apache/commons/codec/digest/MessageDigestAlgorithms.class
+SHA-256-Digest: 05yFO2cevS6Kbr/OCaL0o2+FW6aDThA35mY5IqZC+0E=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_french.txt
+SHA-256-Digest: m6qoFOxD+PZ5uwvxadw9E/rSZ62O4ymsrVt7OMZCY4k=
+
+Name: org/apache/commons/codec/language/DaitchMokotoffSoundex$1.class
+SHA-256-Digest: 7CvRAgD1gre/FyeR7pQA2whH9AXlKxxvxHg0TyOyi0E=
+
+Name: org/apache/commons/codec/net/QCodec.class
+SHA-256-Digest: YL9C/i/IeLexmMq1Bz2JslzVVaLtEI8BvGlw1io4DRo=
+
+Name: org/apache/commons/codec/binary/Base32InputStream.class
+SHA-256-Digest: tIKRE3pc4uPNRMbyb9wKDEYCfK+mvCRq/4gafLQzxpM=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_spanish.txt
+SHA-256-Digest: GHCMeQ96Fdg1l/o8GCs2GymkaNyhR4LQhVsV6i/OEtk=
+
+Name: org/apache/commons/codec/language/dmrules.txt
+SHA-256-Digest: 0I6BwneGnaRrLGb3Cdospf062AGYK7KdbfvvVGYxJRc=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_cyrillic.txt
+SHA-256-Digest: K+uvRguxcZZuNIai4i9RWEBz8bGnWGApvIFLPcAz9BY=
+
+Name: org/apache/commons/codec/language/bm/Rule$6.class
+SHA-256-Digest: IF6Hv9f/KJ2vbpsUaT1uhyNpIxAR7IIzu382Rd15VqU=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_czech.txt
+SHA-256-Digest: M4ZdqlNT1vsDfhcQ17UfX2wu++soaaPcTUcvgzeAdAs=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_approx_common.txt
+SHA-256-Digest: ab13EYMUWGmA7XNdtq8m0VGgcStiRWVJRaYiOhw4808=
+
+Name: org/apache/commons/codec/language/DoubleMetaphone.class
+SHA-256-Digest: QuIKBIllwLvS7r0SBM05edSo1udXGRUskBIz+YdnjQ0=
+
+Name: org/apache/commons/codec/language/bm/Rule$10.class
+SHA-256-Digest: X/S2hEiT1lne4tjYiRWPoSevusw/DokPj92ltSuWKj4=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_any.txt
+SHA-256-Digest: hz7/Pvot0QmSuefDe0NHxyUdoFwe0Sob1Snh2AQNHYQ=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_italian.txt
+SHA-256-Digest: alYYNDJeSMX1ot4BUD0bvVLvpdANKGBOdcX2MaGN/J8=
+
+Name: org/apache/commons/codec/language/bm/Languages$SomeLanguages.cla
+ ss
+SHA-256-Digest: xWaK36i3dIVDQ4YKRCexj6ZK9789T0wmQFL8fe9Kq2w=
+
+Name: org/apache/commons/codec/binary/CharSequenceUtils.class
+SHA-256-Digest: HfiRvaMiT6B0NOUQeaZ9ytU346Wli5PX29dP2rdeb5E=
+
+Name: org/apache/commons/codec/digest/MurmurHash3.class
+SHA-256-Digest: YAR+CTOe6C6TzwbFYv6KefEdNlHlGemwBDsOhXo8Sto=
+
+Name: org/apache/commons/codec/language/bm/Rule.class
+SHA-256-Digest: 0a/39TP4cwskqx54qKo96wBiVXXk1c5GhgHiStW/xjE=
+
+Name: org/apache/commons/codec/language/bm/Rule$7.class
+SHA-256-Digest: TBG5hfJbGMf475NQ1w8Z/shdpfedb/KFS58ukayvkpI=
+
+Name: org/apache/commons/codec/language/bm/ash_languages.txt
+SHA-256-Digest: lJiOEqt3YBUbRFXTBAIXZQlSmSyi7BuF9BjzWuOnntM=
+
+Name: org/apache/commons/codec/language/ColognePhonetic$CologneOutputB
+ uffer.class
+SHA-256-Digest: sgLV+cX64ODSofqZiA6soalI3qQNPUnUyWI/1PpEiP4=
+
+Name: org/apache/commons/codec/language/bm/Languages$LanguageSet.class
+SHA-256-Digest: 8W1iGWhDo5Bx+Ez8JlWOJW9AgU3xpfIBm6sfS09ZO5k=
+
+Name: org/apache/commons/codec/digest/MurmurHash3$IncrementalHash32x86
+ .class
+SHA-256-Digest: QastZHEu/u1QNXBaxrB50NBsnWcGJN1TgGcpsP8M040=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.commons.code
+ c/pom.xml
+SHA-256-Digest: nb5Xz4jrsqnC3+SD+TGvqHBOxPM2oqTiSlsQr0NHYz0=
+
+Name: org/apache/commons/codec/language/bm/Rule$Phoneme$1.class
+SHA-256-Digest: WnHXclbCLjiG/tJNml8GQ8szXDc8qpH/1ctpUNONjOk=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_spanish.txt
+SHA-256-Digest: 5hD3X96KGUiyiAGTl6zw/u/njH7l+m2KDvaz7SRfXEU=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_german.txt
+SHA-256-Digest: n2rkyIIyTk3vQcRq/Fe0gDfP0DbKUFgDQiis3psDSS0=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_common.txt
+SHA-256-Digest: w0z+ilOXolqyS1fSPSfFuQvLwpCINZR9ZVi3Tz95qEs=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_german.txt
+SHA-256-Digest: Hu2zf7TAmyP4EtFslFVVPVKDfaPnNwWUaImCxTMPkCQ=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_hungarian.txt
+SHA-256-Digest: eS+IpMLUigy5VZVcwSmODZCbDP0VzjsIGyFt1pEA6/w=
+
+Name: org/apache/commons/codec/BinaryEncoder.class
+SHA-256-Digest: 0YBpZfIzs9KO0w2OhJr5+Xjwhu5Y3TpSni33BMILBko=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_hebrew.txt
+SHA-256-Digest: vyzO0medqpZx7ZlqfERL2k85epXUewD+avQg1gIiqUs=
+
+Name: org/apache/commons/codec/digest/MurmurHash2.class
+SHA-256-Digest: PETo6iJY65VK0PnQQ32/lZKDz3kKzVvLrRQ8K8Wu/P8=
+
+Name: org/apache/commons/codec/language/bm/gen_hebrew_common.txt
+SHA-256-Digest: 3YweTIydAjQIXb9mOWVBCGrjYCN9VJgGJ2HCCfuOd9E=
+
+Name: org/apache/commons/codec/Encoder.class
+SHA-256-Digest: S006hAwDd8Qs84lsgtL2T937qqNgEAFVEf1vyIOnbik=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_french.txt
+SHA-256-Digest: ckIhfkddp47yd8lFQMy85D8G3FSCSfXNgqx/hUfwp/g=
+
+Name: org/apache/commons/codec/language/bm/Rule$RPattern.class
+SHA-256-Digest: DvF8CFwKHIKLNwxkac7TdVMigPNjTc7l8f2eP+wHIrA=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_hebrew.txt
+SHA-256-Digest: Z85Z0XMqlu4kbn1Q1DHLn6X5HiI5tETfI+YKE79lUXg=
+
+Name: org/apache/commons/codec/language/ColognePhonetic$CologneInputBu
+ ffer.class
+SHA-256-Digest: grurTU28+kSCxedOK2wl4y3s+CfiA/6mqYpB62lU8RE=
+
+Name: org/apache/commons/codec/language/bm/gen_lang.txt
+SHA-256-Digest: Q8aUUAMPu4bCZ8EaK+B/6YbCk0XaddZXgJ8BNkZ7Lus=
+
+Name: org/apache/commons/codec/language/bm/sep_hebrew_common.txt
+SHA-256-Digest: JDw/Vr33blWAFeNpxO+zCViaFp3pKy8kC7fCXbGI8v0=
+
+Name: org/apache/commons/codec/digest/UnixCrypt.class
+SHA-256-Digest: CLybt+6QRX3t3ffJd3KrIM/6mDS+FWadDt1MlI9sUok=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_russian.txt
+SHA-256-Digest: HBINrylexx1BUquRtVSDvXz7B1daIGp9L0uxscfsqmw=
+
+Name: org/apache/commons/codec/binary/BinaryCodec.class
+SHA-256-Digest: RNzIb+9gpTboUUeUJFuKnGt0RhNadAGoo+6ftXrTVjE=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_common.txt
+SHA-256-Digest: cmAVy8oOESCjj/NFWeSk6+5etys/Ebfv9md71tQ7kvg=
+
+Name: org/apache/commons/codec/language/bm/PhoneticEngine$1.class
+SHA-256-Digest: qetBdlTHDnGxOKvzI/05Ml2iuB22NbLsZnXWse0QtUY=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_russian.txt
+SHA-256-Digest: ti6SO2jdLZdBM2ANsRYQ94pDFvXX1HqzVUPSpsPadvI=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_romanian.txt
+SHA-256-Digest: mUMaQgO2nAP4ojVq9V1zHIdGDXEeokJww3gxjOUa6rw=
+
+Name: org/apache/commons/codec/language/Caverphone1.class
+SHA-256-Digest: GQSnNQTXgnNyFusBsxRFCnuZSxuGrKfpSC1Hyqj+n5M=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_spanish.txt
+SHA-256-Digest: +1dEdu8n6j0tg9heARw1jP3Zb7zsqiqzH98pyUQGOqc=
+
+Name: org/apache/commons/codec/CharEncoding.class
+SHA-256-Digest: DKv5gc2qXYwkAwnPR87gJD5mLK0y3Is2D5q8d5rlmUw=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_hebrew.txt
+SHA-256-Digest: a3m+B9HhaUDP09FiAeV9tel4pejSOqqOBaJLwuek298=
+
+Name: org/apache/commons/codec/language/bm/NameType.class
+SHA-256-Digest: gzIa+F/0tJDRm1oqYxxxY9LBwZUgssK0uVyQmtd4F0Y=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_greek.txt
+SHA-256-Digest: RKtq1ii/AhJKVRu/I3K8zDjmbda9L80K4aMAY7RkT+8=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_italian.txt
+SHA-256-Digest: GNCJvwbCtbHcnh/weCzLCQH2r3xLf3lAQRIRWfMn+Os=
+
+Name: org/apache/commons/codec/language/bm/Rule$2.class
+SHA-256-Digest: vRHpkatEW0AieKILj+Zeth3lccQBNDoYhZqvC2I3MPE=
+
+Name: org/apache/commons/codec/binary/BaseNCodec.class
+SHA-256-Digest: TQMeb0g5ZPxfYt/SL39PpTTzlEdETMC/NncXALEbBAQ=
+
+Name: org/apache/commons/codec/language/bm/Languages$2.class
+SHA-256-Digest: 3lJTUWKEmINaZBBxdus0dJkW2Ge+TXckRC9C1fP1ARY=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_spanish.txt
+SHA-256-Digest: TGv6UjsNzYdRI1uV64K2qWwEwNOJO0BEdpOXYbqT0Z8=
+
+Name: org/apache/commons/codec/language/bm/Rule$5.class
+SHA-256-Digest: L+1lFJGH1+3006ZBNABDQaBd1umpRyyJOaupUu5RUoI=
+
+Name: org/apache/commons/codec/language/bm/PhoneticEngine$PhonemeBuild
+ er.class
+SHA-256-Digest: BniyVuP5wLNKlXdMcJPNR3qOTrrOqT6+7SncDiUX5Bs=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_romanian.txt
+SHA-256-Digest: 2G4FKFleJz8F3TPPdcw70dZxyRLWZXkfWJWLLgSS3kY=
+
+Name: org/apache/commons/codec/StringEncoderComparator.class
+SHA-256-Digest: UFYWstbJwFofpy+uIyknZDkwXF5SL15g1kgXvVIzBxk=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_hungarian.txt
+SHA-256-Digest: 8zXw3gJQX9fKTtCA6h64tDQNmoRxxl8Qch42dQ6yQik=
+
+Name: org/apache/commons/codec/BinaryDecoder.class
+SHA-256-Digest: T/slz4cvPLS2RGeAw/Fp1g8Y3ML2oc050cv+D9x2tAU=
+
+Name: org/apache/commons/codec/Decoder.class
+SHA-256-Digest: QSMqr8F9DoMnBC1hxwfNVUdqM4nEq+NwYVRXZcSiFD0=
+
+Name: META-INF/NOTICE.txt
+SHA-256-Digest: xuVUH+wbPFlYAg9IsJipEvLMqXkvZqxqxrR3epT/A3I=
+
+Name: org/apache/commons/codec/language/bm/PhoneticEngine$RulesApplica
+ tion.class
+SHA-256-Digest: FEIDM+t2VztGraU5ll9NUDPP6sr0UfuxediB6WDETxA=
+
+Name: org/apache/commons/codec/binary/Base64InputStream.class
+SHA-256-Digest: tS10gODbZmGjlkkU7AxHlsebxlWpJqLsnyk9Y2eiqUc=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_spanish.txt
+SHA-256-Digest: pUqyp1a5ic5h/53rplSf0ZjYONaGrSJoNYGfdaGI1GM=
+
+Name: org/apache/commons/codec/language/Metaphone.class
+SHA-256-Digest: BF4L/dUmtSa/JkntEf9wKjTg0JKHMhQx9mpu8ibarl0=
+
+Name: org/apache/commons/codec/language/bm/sep_lang.txt
+SHA-256-Digest: VtgrOAAkI4ylelpeWnkZQGZ/KwWdcvIdHRKDhjkil74=
+
+Name: org/apache/commons/codec/digest/Sha2Crypt.class
+SHA-256-Digest: 2uCw6fI3txVRTSG9bvJh+FS1dFDwjDg3/OtnDioiJQw=
+
+Name: org/apache/commons/codec/net/PercentCodec.class
+SHA-256-Digest: 5IAMfyYG4YHu3X/isYGMxugWtpNRgnN2YzuP8UnZsVI=
+
+Name: META-INF/LICENSE.txt
+SHA-256-Digest: lMjL26CbHO2MJEWEVszuAdrVs2818ZVbQFjkUv2pxH4=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_hungarian.txt
+SHA-256-Digest: X4PePXX4K5lkqyMCoUHTLNNEhldSS9u8LTMFjIRdq5Q=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_any.txt
+SHA-256-Digest: k6NuvZG/OC3fLOHhE8+FCFv3AW0CEbVRLbyvJJdS2mM=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_english.txt
+SHA-256-Digest: dBunQiIrukGLt9yO3Sv9erxUX9XzHOPbZNv+P7NOPI0=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_italian.txt
+SHA-256-Digest: 9lm2/GrL/z2mt0kE0lW3+tEo9GDCs8xPCVq7xfDpQjw=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_german.txt
+SHA-256-Digest: ISPrcQRa6pwHvtbVo976mz3Ys7yTEMKfz/q2bcm22P8=
+
+Name: org/apache/commons/codec/digest/Md5Crypt.class
+SHA-256-Digest: fSx7LXQY/Rod5EYVc+knfWghIMZvT510//AqaP5XaTQ=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_german.txt
+SHA-256-Digest: 4hJT77W5jcvPGvYM3eEbhh6FrmKYaWji7f+LkCvU6Bc=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_greek.txt
+SHA-256-Digest: bqQmVS6qfKIhDU1hCJfOSLrZn5eOWFc1rsmU+tSSdqQ=
+
+Name: org/apache/commons/codec/language/bm/Rule$3.class
+SHA-256-Digest: F5ezEVddK0ycNhU0GxtiLpRHwyYXsQVnM/NhEyq1mfE=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_cyrillic.txt
+SHA-256-Digest: COTGJP3egBJFs2CX1fhdiT2uYlNVFtJU1zgs2CvztU8=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_portuguese.txt
+SHA-256-Digest: +EAoYwnZfy1GlA/g9OUiRZ2ZbIlaqw1FW/sqB5vIR8o=
+
+Name: org/apache/commons/codec/net/QuotedPrintableCodec.class
+SHA-256-Digest: 20zVgFT4OOW0YntP1gatl1mc6CYvjW7GtL7ZYJReSsc=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_any.txt
+SHA-256-Digest: /ZFspHiWYFaf7ecoBtDXp8oIwJhKBMmGxgwoVgxexcg=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_french.txt
+SHA-256-Digest: U5/HiUq5gCg8JsmOPnl1ww9LaZFWUk3ASzUlJXD7GN8=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_french.txt
+SHA-256-Digest: ByG9Gj/2Jcbu73qAlN0gInmWZidi+Q0QEFPoUD4GB7w=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_polish.txt
+SHA-256-Digest: wq/HMIa0hMQz0FoGHnquVQJ6nhCN5JPoZlWghfVjnEA=
+
+Name: org/apache/commons/codec/cli/Digest.class
+SHA-256-Digest: 4nLnG+SAOBTxBK0KxcX7ON48LQc31Ywboc647PETjWY=
+
+Name: org/apache/commons/codec/digest/DigestUtils.class
+SHA-256-Digest: KNhdsJSPI6nULb8WBouShzmirzhEoCzao2B6d7mykNc=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_any.txt
+SHA-256-Digest: Xg+KKwZfJIYBI625bwkCynNfb4wQll69lc2RhFconD0=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_portuguese.txt
+SHA-256-Digest: +Wh6xZaeOh7ms1pnEViwE8U/CsRcW8C8oyuATO03CpY=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_romanian.txt
+SHA-256-Digest: WNxb2kkPKnHZ90H2JJQ+mi7LF65Te9RENoJa7DV3RZk=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_russian.txt
+SHA-256-Digest: PBTtW7amiDJ4RFvslwZ7kW24zLwvPTVGTwRkSQp2le0=
+
+Name: org/apache/commons/codec/language/AbstractCaverphone.class
+SHA-256-Digest: dgLIQhfxja6BV7nQeFw8TFCVRjpqLIc9t7vggR6fpyo=
+
+Name: org/apache/commons/codec/digest/MurmurHash3$IncrementalHash32.cl
+ ass
+SHA-256-Digest: dPwDxP+QfjvaHVg+hjLgnYN+2Y8FAAgyS6HX58vh8do=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_greeklatin.txt
+SHA-256-Digest: lKcOyCouyORe2QJLK5C+aTPa0wFsjjAmDk6VWTbKVx4=
+
+Name: org/apache/commons/codec/binary/StringUtils.class
+SHA-256-Digest: fjjRnOETVfa2MtOYT3aWBmYn8lBuQt5EOURBWXE+lNo=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_romanian.txt
+SHA-256-Digest: lXq8SQ/OV4GtnRGiN1YQSjJr4TIqBOFWDNVirIFjabs=
+
+Name: org/apache/commons/codec/language/bm/Rule$4.class
+SHA-256-Digest: Iw7lyppSAPSAarzDahUKRCVsyQ+nLAYay2g64LGpteE=
+
+Name: org/apache/commons/codec/binary/BaseNCodecOutputStream.class
+SHA-256-Digest: iiuOtcSbZbvvBPL77yoFJ1bK0Vqgypldjm0TtHHAMrk=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_english.txt
+SHA-256-Digest: 31jN5RadMB1neWmIjmlV5y3e5kh7jYmCAYqttkEjd8E=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_arabic.txt
+SHA-256-Digest: T8zhu8jY1av2e0khVMyAoBxgRwJWW2Qniw2r9zuGC8c=
+
+Name: org/apache/commons/codec/language/Caverphone2.class
+SHA-256-Digest: FBRnkCtzyb8un7kb2Xz5r9YrKyE97zxq1puviA83/U0=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_hungarian.txt
+SHA-256-Digest: tq88BR/C2uuUfsFUqPuWhRGlEnZovLDhwKg4vdnfuL8=
+
+Name: org/apache/commons/codec/binary/Base64OutputStream.class
+SHA-256-Digest: vPoTGs9cakgCM6k/IrrVUzipt2oiJTCbhkLV2KtLsP4=
+
+Name: org/apache/commons/codec/language/SoundexUtils.class
+SHA-256-Digest: RAlpT5EetbEUGx7IEZbxtkxKB44SXYwsEmWqdff0rWQ=
+
+Name: org/apache/commons/codec/language/bm/Lang.class
+SHA-256-Digest: 1vXxyqLfrho3+iDfClNaLqMGDzA/MDM1b9YqO6LD1wE=
+
+Name: org/apache/commons/codec/digest/HmacAlgorithms.class
+SHA-256-Digest: PcUTmRfO+jJuMz/ucuF0ptyX1VAUPRQkPKgc85wpHSA=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_portuguese.txt
+SHA-256-Digest: jgISwY8ePtSZWebZ9vfiNoEj081F0KD6JPqAl1bm9ZE=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_turkish.txt
+SHA-256-Digest: 0QE5iVnvBEmRtJUsPRjQ37lGut+mKziN7rO5tg9X/pU=
+
+Name: org/apache/commons/codec/digest/PureJavaCrc32C.class
+SHA-256-Digest: GJb1INwV5el4Bz2c3WwOTBdqiuDtlM//VqPG/rCgf5Q=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_polish.txt
+SHA-256-Digest: KNvRn9NfmPkyr5lF+TAZpdyHStU2SB6OICorX3QRpBA=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_cyrillic.txt
+SHA-256-Digest: EXOTHUR2RYLgc25mBgNhiBg0hkr7Eh5nmypH1CnnPbI=
+
+Name: org/apache/commons/codec/digest/XXHash32.class
+SHA-256-Digest: PaYHot4XX04XHOyUFH6IQqfqNCRRLlNh3l2mMDqU+VM=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_cyrillic.txt
+SHA-256-Digest: sZD95tgtNgP7u1KH9FV83nLyf09wpR62l9Jzo5oHt8U=
+
+Name: org/apache/commons/codec/language/bm/Rule$Phoneme.class
+SHA-256-Digest: kDXdEThMa/twIphB6/8+43Z7fOv+0rSoQrynrpN7zfI=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: pm7gIh27Xxx/cX1jdleZEIdHDP6brPxNTgc0asPk8vY=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_spanish.txt
+SHA-256-Digest: Hdy57z+l69hOU3xDPVUn3DHGVRy1sBFkxhQXVhBZFfg=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_any.txt
+SHA-256-Digest: GETwHNSI/0YXaTmTzBaEFGI1qvKGSXLzzK1f1/vQo9s=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_romanian.txt
+SHA-256-Digest: wYJYMNpRx8qVkZAMOtVuZt81KYWjE8BZjXDYfV8FYB8=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_cyrillic.txt
+SHA-256-Digest: XUFwo5bM6Ihqy5MwgMj7km44r2oOhccM5Px6KoGoYWQ=
+
+Name: org/apache/commons/codec/net/BCodec.class
+SHA-256-Digest: dFx7UF+B/XR5rFdFNjSQHgDgkcyq2vLiiw1miHz/rB0=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_hungarian.txt
+SHA-256-Digest: kbYxYFcayFG2wva2ovsylfCXl85H40eda16hMEdSYfg=
+
+Name: org/apache/commons/codec/digest/Crypt.class
+SHA-256-Digest: a7xGwTaYi11KPjBNMZqF66h5jn04DxEuVv7rav0dwu4=
+
+Name: org/apache/commons/codec/net/RFC1522Codec.class
+SHA-256-Digest: REAYJK4TbIAgfhMted4aL+k+HFMw6PXufUdgQ79rxuQ=
+
+Name: org/apache/commons/codec/binary/Base32OutputStream.class
+SHA-256-Digest: Zs9EyHOYj4r9tCUcdmzIV2XJM8p9XtLQ5V/ktLjJInQ=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_italian.txt
+SHA-256-Digest: i4vx9obB/ZO05YqL55JVfAaN+vQ/mO/ds48jNrsuDF0=
+
+Name: org/apache/commons/codec/binary/Base64.class
+SHA-256-Digest: CGRZGthtfA09nQM8uRuDgLMcnpH9W2TVEy632YjW/JU=
+
+Name: org/apache/commons/codec/language/DaitchMokotoffSoundex$Branch.c
+ lass
+SHA-256-Digest: 8g9i5m/vkIl2QQCTfcUzUZWp9Axxfho8rfZekqF2dFY=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_greek.txt
+SHA-256-Digest: cc0tGFgtx+8inr0K7a7wQihohmCNFJUn4DVcONpbGP8=
+
+Name: org/apache/commons/codec/language/bm/Rule$PhonemeList.class
+SHA-256-Digest: KxNDZvpYUIlwJrnTBrAfqrMB+b9+bUip4EvUyKsz0d4=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_spanish.txt
+SHA-256-Digest: HN8QV+RilsPz2ZdE9g32NoyN5Fof2ys5EzyL9Q3V5xs=
+
+Name: org/apache/commons/codec/Charsets.class
+SHA-256-Digest: /a6Yjtn7jt+qgZW+ZvsGyS31Tec8r3OxSmvq5q6uemA=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_hebrew.txt
+SHA-256-Digest: g2pP7Kh/euTXBwl7x4URFYV1qGteSmsIRgKKlFzgYGU=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_french.txt
+SHA-256-Digest: l3EIFTM9S3h7G5ia8DqUGGPwwKjHsMl7DhWYofefqVA=
+
+Name: org/apache/commons/codec/binary/BaseNCodecInputStream.class
+SHA-256-Digest: 2lS0GED7AN+HwAbdKArArg4kT8ybgJon7EDMGDfebf4=
+
+Name: org/apache/commons/codec/language/bm/ash_hebrew_common.txt
+SHA-256-Digest: Z8isCC8oRNYEEBttfkKHKnukewwSn1eVkbTMlA4+3yI=
+
+Name: org/apache/commons/codec/language/bm/PhoneticEngine.class
+SHA-256-Digest: RndaqHHSUbyr//4d+GnEXcmkZjuTBhth8IRLtMIeziE=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_czech.txt
+SHA-256-Digest: nwV4P33ovUWoMnIsXlrp2Jj/en0bdaard19uE84hv9A=
+
+Name: org/apache/commons/codec/language/bm/Languages.class
+SHA-256-Digest: c344yrQgCHMQ2Wb3yM4bQMnUvsUG4B9pYhopJi85Ax4=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_approx_common.txt
+SHA-256-Digest: MTaqn/nvyANe52A1A7RqGJmSCo7E/3kxav6OhEJHdx8=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_any.txt
+SHA-256-Digest: Dg+Ewxbk4+FKjOBTQ1jT/QAOP5F7h/CiYSRWu6zWpEA=
+
+Name: org/apache/commons/codec/language/bm/ash_lang.txt
+SHA-256-Digest: 5Z7nv8USQ0yA0tXnv74SWNftLSjhjiffzGtKIzLq+XI=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_any.txt
+SHA-256-Digest: Fv/M/X9bkWVp6RiOplt4cpcwn1JikcEEkFlRU1fhNtg=
+
+Name: org/apache/commons/codec/net/URLCodec.class
+SHA-256-Digest: 2FylIZ4kWdnh+wHfyYpJmrXCejxUMRTWPGJGt8JjYsY=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_polish.txt
+SHA-256-Digest: iAi0dPKNG5uDFoDaKqwTzRfFLCttIpelrtMO8Bpfn48=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_common.txt
+SHA-256-Digest: 4isGSU6twdgaICutlcZjGXPwdgx/AA536BrMvPHSQ5s=
+
+Name: org/apache/commons/codec/language/bm/RuleType.class
+SHA-256-Digest: XzfOZuaC8XmmCFhpVLWNrZDQODjfgAtLE97NbkUP6tk=
+
+Name: org/apache/commons/codec/language/RefinedSoundex.class
+SHA-256-Digest: eugw1zQC1wkzwM9/94sKW5bmNIwN/mzbwaqieGGtRhs=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_english.txt
+SHA-256-Digest: uzqp9Hn0tsbDcRnVcrAfeHlVEiIfRQ0313cNKzXPmw4=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_approx_common.txt
+SHA-256-Digest: X9nsGQbYra0y6J0OcypX9VkWBXk323BMvwHDU3Y0d2Q=
+
+Name: org/apache/commons/codec/language/Nysiis.class
+SHA-256-Digest: VAvUe/vAcmyVdYoXUQwEhcA6sjcxpv66zUtAmjiu6bs=
+
+Name: org/apache/commons/codec/digest/HmacUtils.class
+SHA-256-Digest: bzinjiZnWD7WNCiB74r5GTVCvM7dyHrw8FOPS/L2mwM=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_portuguese.txt
+SHA-256-Digest: yUofhxvRhr/PbLmqSr0SAcyBPiPgPN5Oc3uQeiPwvDU=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_polish.txt
+SHA-256-Digest: u9tftXrJDtfWsopCo41QpRLCm4ej7yn4W9CQytMzc2E=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_russian.txt
+SHA-256-Digest: E2ski4un+eHeCwu4tP+NV5v4C3H7riyfm7Wuj2uBhoc=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_english.txt
+SHA-256-Digest: yI/X6RTkiGtbqoDtyns0CfjVlD5LB3cWV/HcOOu0CzA=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_hebrew.txt
+SHA-256-Digest: 9ZHEZ10x/MgajLfMKrrEJU3RYqCn+o20dgKKC8/u0Vw=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_french.txt
+SHA-256-Digest: 5+H/NK+UczB3Y9AjE5H+EBotNv2sAoLf1O4Dd1QkRtA=
+
+Name: org/apache/commons/codec/language/Soundex.class
+SHA-256-Digest: GCbP7IQbdkfxHPiixKbbOZqa2OlBwozfm+NB9wJ3TWQ=
+
+Name: org/apache/commons/codec/language/bm/Lang$LangRule.class
+SHA-256-Digest: IoT+9iaedgyQrbdZS5+uw5aYr0Aedx0nGA4dqJmwZiA=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_arabic.txt
+SHA-256-Digest: Ac1gTazDqeKegBq0jx6Fh+aUZFse9RVBAYNARvGSmIg=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.commons.code
+ c/pom.properties
+SHA-256-Digest: bVp3mRp56ZFyTtaFNG9cOduqk9TIdryXrANS02pAfbY=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_italian.txt
+SHA-256-Digest: HApT885R6GqYxMBiHZm77xaFAVKSCZO4riug67YqEjo=
+
+Name: org/apache/commons/codec/StringDecoder.class
+SHA-256-Digest: pBXc0tI+c4nizBaflUPFkQMPuYRkP8hQAEKQY55T0aw=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_italian.txt
+SHA-256-Digest: vZHu12kFqftf11yuV7XUmwGl4Zg79rNz2NVO/FSlukU=
+
+Name: org/apache/commons/codec/binary/BaseNCodec$Context.class
+SHA-256-Digest: p0k+LsIsHpPvYdckLMtqz/u81FetdhVjFsPm3bL+R7I=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_cyrillic.txt
+SHA-256-Digest: ccRnwPzRMmzrPlQDONBNG5bEslNcyL8POu58UeNL0c8=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_romanian.txt
+SHA-256-Digest: UWhsF2IjlSKIohx84cFgVSkqHOQKov1sYtYTIEots2s=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_hebrew.txt
+SHA-256-Digest: iNWhPxFTZC6saU9KjUWah35AIZDpZmeATsB+qjKzAmg=
+
+Name: org/apache/commons/codec/language/bm/sep_languages.txt
+SHA-256-Digest: ir+1CoMgQivDLNdt7TanbXYQ0pie0S1xFvUajdQ+8BE=
+
+Name: org/apache/commons/codec/net/Utils.class
+SHA-256-Digest: unJgCKu8IsFwpZaN1WH9GW9xD2W07bbXIu+bW2cfme0=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_french.txt
+SHA-256-Digest: eBjqVKdcQdMugql5noZHKq9Hrs1eapuuwmpCpK+cmIY=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_polish.txt
+SHA-256-Digest: btHO2W/Sw00SXh9QFAZgNDqvgeAAekj8m4wmVNzRFRQ=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_turkish.txt
+SHA-256-Digest: H6EyjrjvKO0r8ni+SCxqiiooWUzoq0464TtUCHp5bDs=
+
+Name: org/apache/commons/codec/language/bm/Rule$8.class
+SHA-256-Digest: AW9M9bFzN74UMDtgDz6hATf9pW5QONfk+kn1bLlfYsI=
+
+Name: org/apache/commons/codec/StringEncoder.class
+SHA-256-Digest: 9IAvDZJsOv/+h1df3tKGBQKx1uvUNuX8QXdrTwmxe9Y=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_dutch.txt
+SHA-256-Digest: y6luMKcQCsw3TeyLDlVshoPw5xKddpOI0EMbMhoLUaE=
+
+Name: org/apache/commons/codec/digest/B64.class
+SHA-256-Digest: 4a0sb/4Uwnla81byktlIUiv6jADkT2trFDMZw2chVtU=
+
+Name: org/apache/commons/codec/language/bm/Rule$PhonemeExpr.class
+SHA-256-Digest: RqlvKk5FBmBWY3nssfeAvl+7hjTi8jiw8rJdD4AzkgY=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_arabic.txt
+SHA-256-Digest: Sb9MirSW6yXWSw2d+Z+phx74pcX1GJPwQA1xQOBeoi4=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_spanish.txt
+SHA-256-Digest: 3fdOITDtrg/TX+jwYqdn+UdB+Jx5uGjtESQD/0OCzhI=
+
+Name: org/apache/commons/codec/language/MatchRatingApproachEncoder.cla
+ ss
+SHA-256-Digest: yGvqGxmPPhOIa0DCxLIODOzD8cCfkWD33JKcS/8l4ws=
+
+Name: org/apache/commons/codec/language/bm/lang.txt
+SHA-256-Digest: qVU88DBtKmEDB8ejLL7BFAaW4acCy6BT+SsXY5lGuLM=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_portuguese.txt
+SHA-256-Digest: N45cDttkQqO3KUybET7NujGze8PWKaBZc8TXTgd3oZU=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_spanish.txt
+SHA-256-Digest: FNiseTktQkYmSCsfcFt2r5gU9H6eLYP+R6wsnRyq1AQ=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_dutch.txt
+SHA-256-Digest: C14cCNYIBVRnv6LmfhnsWyTyCRukc/DcrLGLZXPLKp4=
+
+Name: org/apache/commons/codec/language/DaitchMokotoffSoundex.class
+SHA-256-Digest: ST2ROHjo+vrAq9lR+TmNjRr9uhQ0UpzDIUBLOD9UwHY=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_hebrew.txt
+SHA-256-Digest: sVZWaYRg1z4mauelI/aIXfYalN6VElaioqP98tZnhvg=
+
+Name: org/apache/commons/codec/language/bm/Rule$9.class
+SHA-256-Digest: ckzoAkGXhofG3GEF8jQlI5LXFamqx8hsjbKeb99YhgY=
+
+Name: org/apache/commons/codec/binary/Hex.class
+SHA-256-Digest: oVq5Qy0sA+vWo8hp4F6bJHnoIAqGszISv+G+EOBp4ps=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_turkish.txt
+SHA-256-Digest: MgtW5+afca2uoE3jLnW0KevMHSWtMRJG2mgNWmGZzVk=
+
+Name: about.html
+SHA-256-Digest: LZyhoMmwL/Son5vQ+kbQNd8gjuJVbfL+2utE20NJHpw=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_any.txt
+SHA-256-Digest: 4xPJvvQnKOkcqzjcePTYrsHu5BIVW7FtNXGpmijqJsk=
+
+Name: org/apache/commons/codec/DecoderException.class
+SHA-256-Digest: 37xFr8aIqOPlv81JuhmKpw9P1e04uvIr7Ez7cGngbW4=
+
+Name: org/apache/commons/codec/EncoderException.class
+SHA-256-Digest: DEjiMtuDKvp3Vm3jz1ReWQ3zX8r+X54JqWQ1ui/B3rk=
+
+Name: org/apache/commons/codec/binary/Base32.class
+SHA-256-Digest: q/UTS9i8I2sNXrVKyluMqYJnc3dgh3nW3NhqkjfXNhc=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_hebrew.txt
+SHA-256-Digest: sZTCWIBVgpc8jZ03x9M4D4yLRHbj0h9XfD7qLox+W5M=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_english.txt
+SHA-256-Digest: YfaMBGJHmzoQ016Ebz5A7pB8C814nV1RCFQ6ImdJIvA=
+
+Name: org/apache/commons/codec/language/DoubleMetaphone$DoubleMetaphon
+ eResult.class
+SHA-256-Digest: 08aP+TH/VMqWioRU7zOg0vTh7z7V1M1bkGQdc4WA8Sw=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_czech.txt
+SHA-256-Digest: VX2/SEZT/Jq1hXAG852NV4aRgBRu1J6YanPBnWKdUTM=
+
+Name: org/apache/commons/codec/language/bm/ResourceConstants.class
+SHA-256-Digest: zpB3h7mxLxI7wIiWz6kl71UcWuGn6PqVyYioX3JNwRE=
+
+Name: org/apache/commons/codec/language/ColognePhonetic$CologneBuffer.
+ class
+SHA-256-Digest: FiAygC/RK9JILsaOP4qKeVffQkMZmq+OsMlo50up4jw=
+
+Name: org/apache/commons/codec/language/bm/gen_languages.txt
+SHA-256-Digest: bapkAA42MQh1Ifr34zJUlZfY3pS2NDat9LQfDTefHT4=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_portuguese.txt
+SHA-256-Digest: ecUNDfVESsYZLlPcd10TADXTpscYIqj35PANA1VeRIg=
+
+Name: org/apache/commons/codec/language/ColognePhonetic.class
+SHA-256-Digest: hDP+qyZt1glUa0Bc8o7W+5lTja+JKnIJyLB7EMpmVB4=
+

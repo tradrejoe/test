@@ -1,0 +1,165 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: VR9ZCr6ROxRaqDQbIOiXuSYcecNfsw5jKx65A+iAhoU=
+SHA-256-Digest-Manifest-Main-Attributes: 0kaCdWZLjXSfboCVhouL3UBddQIEj0s
+ Y3jE6vJUDlQg=
+
+Name: plugin.xml
+SHA-256-Digest: W0jDPE0HTS8Wr74Fy9zBAccruPIQ3NS5c7TgT4TZ7Bo=
+
+Name: org/eclipse/core/runtime/jobs/IJobManager.class
+SHA-256-Digest: w31grFzjtdfivdNIcFsk2Wrwdi/7zU3XMgtQ3k3gz/0=
+
+Name: org/eclipse/core/internal/jobs/Semaphore.class
+SHA-256-Digest: U8HXNbvbDP9U3/LUnZscxogZ8xcy8I7VYk4cMYoQcjc=
+
+Name: org/eclipse/core/internal/jobs/JobQueue.class
+SHA-256-Digest: +zl6CfAikllq/PC981KGm7M6yo487cDHYKJIjIgwOQ8=
+
+Name: org/eclipse/core/internal/jobs/DeadlockDetector.class
+SHA-256-Digest: UCJmKlJwZfJerxWw616DVi0X7l1i4yVZy73dHCMgGEI=
+
+Name: org/eclipse/core/runtime/jobs/IJobFunction.class
+SHA-256-Digest: 7M+uOxFXg3tVDWi2e9AvmqFBGnQXaN2Sh45IuUnAC4Y=
+
+Name: plugin.properties
+SHA-256-Digest: JNvxJGrlQKeZVZ5CBp33d7lsCrQe8v6fcHtF268S6x0=
+
+Name: org/eclipse/core/internal/jobs/InternalJobGroup.class
+SHA-256-Digest: 6yf/OPI2PZBpM6gYdzvGDKquRd6zV+0xhyaSXjvtr6M=
+
+Name: org/eclipse/core/internal/jobs/LockManager$LockState.class
+SHA-256-Digest: OyzaQ5q8eLCo+tCt8+0a9mQerzYvvqYqZj/EG2RTXwI=
+
+Name: org/eclipse/core/runtime/jobs/JobGroup.class
+SHA-256-Digest: qhqtN930twcAt21JPFf9f1m+t6yHQ1n+3mauqyN+Dbk=
+
+Name: org/eclipse/core/internal/jobs/JobManager$5.class
+SHA-256-Digest: ZNaPUJW9jW+XC0RGfKB4Nzy8pE2Po0YDI0J0O3gWFrA=
+
+Name: org/eclipse/core/internal/jobs/ImplicitJobs.class
+SHA-256-Digest: +36FrkRLhyoKtcuyMIIsZLE+SoRyKzPw2vNMZwkogGE=
+
+Name: org/eclipse/core/internal/jobs/OrderedLock.class
+SHA-256-Digest: 6kYE2ZU+V2BF57L3GBrVD6RrDewS6v7bPN95vyZg85M=
+
+Name: org/eclipse/core/runtime/jobs/MultiRule.class
+SHA-256-Digest: OF+xD5bOAnfOoHk5JjWrfmnEOg9REIBymOJxgJ2rsl8=
+
+Name: .api_description
+SHA-256-Digest: JX+QHPjun+EMlygZW4ObnMKWels70r6vCA+4Ib4xVhg=
+
+Name: org/eclipse/core/internal/jobs/Worker.class
+SHA-256-Digest: GfU0c3HGwupSyf2n/nOG20mHESHXh5rjKvnJU5wkok0=
+
+Name: org/eclipse/core/internal/jobs/JobMessages.class
+SHA-256-Digest: ByZoKkoTtJ24X5NTMOfkH+0JlJmlvc+E+4shFdJVAEw=
+
+Name: org/eclipse/core/runtime/jobs/LockListener.class
+SHA-256-Digest: Ba6oCsDUHMrUvwcADSIZjPyXLus2uCvEGnL8ieNe9Ao=
+
+Name: org/eclipse/core/runtime/jobs/ISchedulingRule.class
+SHA-256-Digest: FbQacfSB8R4knUtv/RIqnIGLMy+uzM0+JXH9WR+ei7A=
+
+Name: org/eclipse/core/internal/jobs/JobManager$2.class
+SHA-256-Digest: mlz56oUESzHWOssm1sqlP7iJOPkOImYKbeT0CN+9U2A=
+
+Name: org/eclipse/core/runtime/jobs/IJobStatus.class
+SHA-256-Digest: 3o5/7g3v4Wtkd0gl8YKZXQgZTbSipvGCuaR/5J8gypk=
+
+Name: org/eclipse/core/internal/jobs/JobActivator.class
+SHA-256-Digest: 7g+2hl10wrdFceYujmP7Ba/1pU++GpgqjDc5IfQP7+M=
+
+Name: org/eclipse/core/internal/jobs/JobManager$JobGroupUpdater.class
+SHA-256-Digest: 2K9Nd3OuZEgfbogBVTTVfvchcPDTyCMsBVd4vYNdxjA=
+
+Name: org/eclipse/core/internal/jobs/JobListeners.class
+SHA-256-Digest: +px0Yh4ZOWKPDm52xhWke+GYzwkrgTcVWRAooywTe28=
+
+Name: org/eclipse/core/internal/jobs/JobStatus.class
+SHA-256-Digest: fT5bFCigJ3Wwg1shiprTeRW0jq2IoMnqkNGWP7UK9eg=
+
+Name: org/eclipse/core/internal/jobs/JobQueue$1.class
+SHA-256-Digest: HPF38+P9L9AOtjZrRwZa/RpVmCdmakOarJTJfhWCGwg=
+
+Name: org/eclipse/core/internal/jobs/messages.properties
+SHA-256-Digest: +4TY7EGDGt/S0Vln0ODd/pE+4Or0srZ/QiZTj1iER2Q=
+
+Name: org/eclipse/core/runtime/jobs/Job$1.class
+SHA-256-Digest: jaAuDXo14/3FX5Cyr0OoFMHCxCeoIzTnE5zACnj4I78=
+
+Name: org/eclipse/core/internal/jobs/ThreadJob.class
+SHA-256-Digest: s0s78XY7NunSdxXQQcbMHv6L7IdVXvXSm1+1MZ2hlL4=
+
+Name: org/eclipse/core/internal/jobs/JobManager$4.class
+SHA-256-Digest: nMMaPyiJ/Wjm7IyBGc6zvnNZq0Sip+2roIhSEsLOxSM=
+
+Name: org/eclipse/core/internal/jobs/JobManager.class
+SHA-256-Digest: zuqZUUAfz5yWPvkvMP3RRerde5Ol3XU2avllxlDO50c=
+
+Name: .options
+SHA-256-Digest: d5xxcPg0TsqQluP1F/S4Pd0lj1ATcAFWBNw0WFFwiD4=
+
+Name: org/eclipse/core/internal/jobs/Deadlock.class
+SHA-256-Digest: oF+1swscYujQFKrXrEBYMOai5OqgSjRODJdKpd1hrLI=
+
+Name: org/eclipse/core/runtime/jobs/ILock.class
+SHA-256-Digest: jBk35mT57LLXPCOAQey4OZL2cyQZjrAHWX1hkzeam3U=
+
+Name: org/eclipse/core/runtime/jobs/Job.class
+SHA-256-Digest: kRxErwVlG8XJ9J060/hDUuDtDK/hnQ1WWqgw91KAyfI=
+
+Name: org/eclipse/core/internal/jobs/WorkerPool.class
+SHA-256-Digest: WF/jU8ftItWjnrkNHWkU6+LnzMzprdgyrVinONm1Q+8=
+
+Name: org/eclipse/core/runtime/jobs/ProgressProvider.class
+SHA-256-Digest: RqO0KDwPnvKr9pvC82/X3xURPbXRd/KrWkBjeZaay84=
+
+Name: org/eclipse/core/internal/jobs/ObjectMap.class
+SHA-256-Digest: BRvCsRT6wapsCMtrRfRvr8hjMjOZ1d3miQQ+UilUq3M=
+
+Name: org/eclipse/core/internal/jobs/InternalJob.class
+SHA-256-Digest: 0P43j1zYelds0OT9yHLtW2t8opKDrWeLGYBYBaYUGe4=
+
+Name: org/eclipse/core/internal/jobs/JobManager$1.class
+SHA-256-Digest: x1WmsWNrexGTzgsirqAiNEqCPL6VLhiP4K++hU/Bs40=
+
+Name: org/eclipse/core/internal/jobs/JobListeners$IListenerDoit.class
+SHA-256-Digest: ygotTMmoyKTgt3Y4z/nbLpJiT/4Hx8Uq1XwgVzEM84Y=
+
+Name: org/eclipse/core/internal/jobs/JobOSGiUtils.class
+SHA-256-Digest: ea7QJTm/+OQ8pe3oVRDCDO0dTvpdseWoVoufe4Rq0FU=
+
+Name: org/eclipse/core/runtime/jobs/Job$2.class
+SHA-256-Digest: kqiWLSD7sYnk00RV0f3dVLHqputHEN9heAxVeBpX57Q=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: org/eclipse/core/internal/jobs/JobQueue$2.class
+SHA-256-Digest: 6yeH0HPxKX7NCwtrBKiWo6Ixtdn//9COMA8vNExQFFE=
+
+Name: org/eclipse/core/internal/jobs/LockManager.class
+SHA-256-Digest: QRrBmnQfuglvxAjB2an7izMuDMicXgw/ihMXIYWj67A=
+
+Name: org/eclipse/core/internal/jobs/JobManager$3.class
+SHA-256-Digest: J1HIBizhIQ87g0QWfxtus2EocdF2tDimuQG7c8QlRy4=
+
+Name: org/eclipse/core/runtime/jobs/IJobChangeListener.class
+SHA-256-Digest: ibMAGw9BHRItNwqbMArpZxHRAUqDQ56HYh7WX8zictg=
+
+Name: org/eclipse/core/runtime/jobs/ISchedulableOperation.class
+SHA-256-Digest: tAQHzLSJfzuVH62ppTZiyW51uAxnrC3GhgqBWFf0swQ=
+
+Name: org/eclipse/core/runtime/jobs/JobChangeAdapter.class
+SHA-256-Digest: +GeEbwF22KY02ElsDMJYnhmCIcPeVd7KAv7RGY2I+VY=
+
+Name: org/eclipse/core/internal/jobs/JobChangeEvent.class
+SHA-256-Digest: O8CAYcJnKp3TcV+r2eajOIrRE11bnzmdp/f32gnrzqc=
+
+Name: org/eclipse/core/internal/jobs/InternalWorker.class
+SHA-256-Digest: p8i5EhqxEcFPgxN7q03rrFpRn4h2HlPQiq3c+4eP0C0=
+
+Name: org/eclipse/core/runtime/jobs/IJobChangeEvent.class
+SHA-256-Digest: nHADLktpIsxIcT/KXrt4Z60xL4icGaq91xg/4pgeNr4=
+

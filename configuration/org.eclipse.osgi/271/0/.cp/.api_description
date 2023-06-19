@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="org.eclipse.e4.core.services_2.3.300.v20220613-1047" version="1.2">
+    <plugin id="org.eclipse.e4.core.services_2.3.300.v20220613-1047"/>
+    <package name="org.eclipse.e4.core.services.about" visibility="1">
+        <type name="ISystemInformation" restrictions="2"/>
+    </package>
+    <package name="org.eclipse.e4.core.services.events" visibility="1">
+        <type name="IEventBroker" restrictions="1"/>
+    </package>
+    <package name="org.eclipse.e4.core.services.nls" visibility="1">
+        <type name="ILocaleChangeService" restrictions="3"/>
+    </package>
+</component>

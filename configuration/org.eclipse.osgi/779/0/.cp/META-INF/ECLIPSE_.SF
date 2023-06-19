@@ -1,0 +1,308 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: lf7FDB1fNrQ9eZWhcKxpdqVpbiQogDAy5Ki+CiDIkSk=
+SHA-256-Digest-Manifest-Main-Attributes: VCqwv+ReaW6ARPRRUTKpGSkpSbvgn8K
+ h6RJoX/qg+SM=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ModifierH
+ elper.class
+SHA-256-Digest: WJ1FlNfekXcklzvHvotlPAVJARrMDRduoZW7gxv0j1A=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EditModel
+ $NotifyRunner.class
+SHA-256-Digest: GeiQYQYknDXvVWtlY+RQeqx5r+iTgywaKSX1Ku8VacY=
+
+Name: plugin.xml
+SHA-256-Digest: 6OPKuM012VaRZfxJRBOEJRadpY472rC7vtWm4oFbSgQ=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ProjectRe
+ sourceSetEditImpl.class
+SHA-256-Digest: 9XIdl8y+3VWa29C8bm/FekmS+RzSWt+lPCTKQp+t/JQ=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/EditModelRegistr
+ y.class
+SHA-256-Digest: mfxp4kcLGk5xCHJQTMHUJ+PhXtxsLk30vRBTkL5siL4=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/EditModelExtensi
+ on.class
+SHA-256-Digest: TAeCYLupjjLrVSprOHbBxMebsL7gOnst9jWDap3PEsk=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/ClientAccessRegi
+ stryException.class
+SHA-256-Digest: qp96tk9YI7tISuGzXlHf1kbQpvke8GliVXqzz09A/SQ=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/AbstractE
+ ditModelCommand.class
+SHA-256-Digest: 16dayXI+hqK+xHay77iY3tbIy38FW6fTJ3+mWdjWlDs=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/AdapterFactoryDe
+ scriptor.class
+SHA-256-Digest: 2vEdAtjqHRGdPeMAbQ1/GJ/2cUKZ6ivpj1PPWq4NDWk=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EditModel
+ Event.class
+SHA-256-Digest: BYsmbOrJTrMhOM61tiL8VIyYszbMjxayiQRHRoGyl9c=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/LooseComp
+ osedEditModel.class
+SHA-256-Digest: rP4V0Vj4sAhsK0zXMqJx3uUb8B9pDa1GtHIuQl0OEhw=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ModifierH
+ elperRegistry$FactoryHolder.class
+SHA-256-Digest: FISrpEPcKMZNlUjHJOfytY2wEkVMEgVU0X5uuY3bnGU=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/EditModelResourc
+ e.class
+SHA-256-Digest: YRU1g7S+t9qemMUdOkr8DmIJPKwseZMF3dGIioaqRi8=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/ClientAccessRegi
+ stry.class
+SHA-256-Digest: O5xREIhU4sz8P+f1/YKDlIrFIcCFNEAfw4N8SoC3Vko=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/WorkbenchResourceHelp
+ er.class
+SHA-256-Digest: 7BZ/BHikETwuTxRc4gaSsMExNWK83SZL1w4oP1Dm86k=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ModifierH
+ elperRegistry.class
+SHA-256-Digest: UBeIyOxEADMSumvdF8ffwGx3y1j0iSZDaRvydvxMPx8=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ComposedE
+ ditModel.class
+SHA-256-Digest: M7uGLbsYPTs34ZOlblTrX28cqxbKAapHmy8YX/9edAs=
+
+Name: emftosed.properties
+SHA-256-Digest: /I9I114hCJXN9OLCA9NwG5I7KwnS4dFJEGyQWz3zDS0=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/EmfValidationHandler.
+ class
+SHA-256-Digest: Dkor3U6yVv7VqGnWm4g0f+Bih+o6fKxv8XLSLUtovfk=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/DynamicAd
+ apterFactory$1.class
+SHA-256-Digest: uRzd/1JJVXLQlewLFmpzOHI/Q3cQcpyj8Ih5dud/jLk=
+
+Name: plugin.properties
+SHA-256-Digest: Oz9bCoUbvi6R7+52TVbL05anZGsWDD5gYYWhm0TTqVU=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EditModel
+ Listener.class
+SHA-256-Digest: B1VNZji8QkN5nu7pT7c/X/vv/C41/hwT0TBM4wSR+Ls=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EditModel
+ $ResourceAdapter.class
+SHA-256-Digest: MNwd8eIlyFV+Pdj0nMJkzDaoaY0KdAaJWGnRwYEAIlo=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/EditModelExtensi
+ onRegistry.class
+SHA-256-Digest: 84QAFjC6WDAQNJcDciRbRlNTub2aiKRguYRKUtyjBjE=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/CompatibilityWorkbenc
+ hURIConverterImpl.class
+SHA-256-Digest: mUlkpueW/h7qYnIK9jZl6tBOkZkz9F8+EgWdKyS/cvA=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/AdapterFactoryRe
+ gistry.class
+SHA-256-Digest: C8ldBPyCwiTSZcmprK5DQghC1o0sdKUvde0a0kUIWbk=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/ChildCommand.cla
+ ss
+SHA-256-Digest: qR9YyEKDhsnpGojoTJfqkuorD2VMnil2llPjqOY9Sng=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/EditModelRegistr
+ y$EditModelInfo.class
+SHA-256-Digest: bF1LPa3XGEPa2hZKRYr20krLLnHxZqo0be2f7DP4fvs=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/validateedit/IValidat
+ eEditContext.class
+SHA-256-Digest: cngHsW6WDOtQQfTBmT9cnXcY8gK7iFjzea9/Bd/p/J4=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ModifierH
+ elperFactory.class
+SHA-256-Digest: 09gpxKO4yCc15xU27vXlQH2qYv6AWhBhxK5HQKFA/lY=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EditModel
+ $1.class
+SHA-256-Digest: ZsDpgq6eBnBmtUCT3uPuafF4cJ15s7hsIJgQyJbCB3c=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/Compoundi
+ ngCommandStack.class
+SHA-256-Digest: gb4p84eoB+8T7MOdUZq/8sx/xeTb0KyKdxK7XhaYY7o=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/PassthruResourceSet.c
+ lass
+SHA-256-Digest: 4fo6VELRcoXxtPCq6maaEhUoVdChisqYmLbhkVS7Z9w=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/EMFWorkbenchContext.c
+ lass
+SHA-256-Digest: qOBXos8QMA9r4V5IKSu67eEiZiHZoGW9c+le2Rf7Of0=
+
+Name: emfworkbenchedit.properties
+SHA-256-Digest: ssTIR6b7X6LVdDKlUdvsrNBtTxwWW9zWnmre/I2E+FQ=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/ReadOnlyClientAc
+ cessRegistry.class
+SHA-256-Digest: HcXNrgkPUmOaea2Q9g3gTFY3ox/aLtk/iY5a6BHM5wY=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/PassthruResourceSet$P
+ assthruResourcesEList.class
+SHA-256-Digest: 7jbo2CJWCa/aU8gAXuQDFKFjQ1a6qNZtY0cyOjjaur4=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/validateedit/Resource
+ StateValidatorPresenter.class
+SHA-256-Digest: hO7JMvaPa0n2k0EybQCEvoocxyWzx4R/7ym59IX0Z8c=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/validateedit/Resource
+ StateValidatorImpl$RefreshRunnable.class
+SHA-256-Digest: BRR8BEYHBwASW8yhMe2NtmwNw7qJf/7Ah3TVl/5KIys=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/DynamicGrowthModel.cl
+ ass
+SHA-256-Digest: PgSulNYXhFhaPunprJR/tlAnDI2TTZvb1HzKUrUvOsk=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ComposedA
+ ccessorKey.class
+SHA-256-Digest: uiklChoKX9dGkMHizC+bXeFFWK0hrxpOUxvurt/eVKs=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/validateedit/Resource
+ StateInputProvider.class
+SHA-256-Digest: /ZKxWSYAvpiRDrT7mSSTKluoedl41NHUyxaoOtGsASE=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EditModel
+ Nature.class
+SHA-256-Digest: hJUFA85SiYHTyC1cB+br7KcyhadfDe6/PBdJTbdgON8=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ResourceS
+ etWorkbenchEditSynchronizer$1.class
+SHA-256-Digest: JIic6oCs2ytUBMtoA3B4XYH3T8KgSvu5jPSukgpBvyU=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/EMFWorkbenchEditResou
+ rceHandler.class
+SHA-256-Digest: 5+frNAV9/KXE/MLSiQxysgry7Igf0GQDhCOSD+Bz79g=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EMFWorkbe
+ nchEditPlugin$1.class
+SHA-256-Digest: nbI+CzsEnMsP3I1kAU3th9nGk97HZCdBnVC/pnqkgi4=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EditModel
+ .class
+SHA-256-Digest: W6CFGjXFlshXsXXKcY75rVI+aJRjLgvFoglopk80COU=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/WrappingCommandS
+ tack.class
+SHA-256-Digest: hmwCMIXsENxYUcyOiCxxaItjwLTqB+r9u8FWopJiYBY=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/OwnerProv
+ ider.class
+SHA-256-Digest: wHiujXHxwq7TSdBJXDRTh8vPm0ssc3jXRn5OE6EIYVo=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/EMFWorkbenchEdit
+ ContextFactory.class
+SHA-256-Digest: uI6dohBjpQBakxk6Ckot6E4JF//apv9bGmErUosuEPA=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/validateedit/Validate
+ EditHeadlessContext.class
+SHA-256-Digest: why7R71cs3WvmrOSyMqu8Ov97TN4WIAeOaVf62a2Db0=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/EditModelRetriev
+ er.class
+SHA-256-Digest: wjJxx3MXLpR4fQCcrKTpfLU3UYS2/NeBwlaGSELSGXg=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ResourceS
+ etWorkbenchEditSynchronizer$SavedFileKey.class
+SHA-256-Digest: JBaRYjH8GLtnMWCgG2GsqcQJaE+SHRMp1xW21y65/Qs=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/EmfPackagePropertyTes
+ ter.class
+SHA-256-Digest: CLrAf5Y6FwkjPTN0IUVarCWXhoQ17Ef91vHHLFjW2rk=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EditModel
+ Command.class
+SHA-256-Digest: wPuhPxumGbXGajkWbrX3XLKw90yE0gKM419HzQGCch8=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ emfworkbench.integration/pom.properties
+SHA-256-Digest: xpnamRBRDYk1arp7/RakH305yXVFCbYfycu0hgadgXg=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/InvertedCommand.
+ class
+SHA-256-Digest: IzIIJNN9oQkn5X/57OFHDjLy28w3CHr53xbkb3HDeJ0=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EditModel
+ Factory.class
+SHA-256-Digest: p1XUzPCvO8jf9MQ/dOXNaHSOCCFHBUxjj74MT6wJ138=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/WorkbenchResourceHelp
+ er$FileAdapter.class
+SHA-256-Digest: OSyri5D3ott5bUjgi4USLi7P7vAfj7V7UiofaZl/oHQ=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ModifierH
+ elperChainer.class
+SHA-256-Digest: OZVrHF2ggRzh6Qw6k465ahT2jBiZjvkFU04lypun4Rg=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EditModel
+ $Reference.class
+SHA-256-Digest: VeGZOtCEYcVL5TLm+Cuk1VI0l56tARnwXW75VZmXvfY=
+
+Name: about.html
+SHA-256-Digest: rZdZdbJtFiw298EzlEydJC5gajKbkkBfRettUMDggmY=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/EMFWorkbenchContext$R
+ esourceSetListener.class
+SHA-256-Digest: 40IcT+QJrzkJWN1OXJEBqhr9q1qn6N71uqSHXwjU5Ag=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/ParentCommand.cl
+ ass
+SHA-256-Digest: bPFMb31Kay5K1liMaZ+5FS/M/8o660YdEBH/xSP7pX8=
+
+Name: META-INF/maven/org.eclipse.webtools.common/org.eclipse.wst.common.
+ emfworkbench.integration/pom.xml
+SHA-256-Digest: GWMmHNB1vZtqLsXdcv4o+v+IgV/2w0Mz1zUyyIW6+DQ=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ModelModi
+ fier$ProxyWrappingCommand.class
+SHA-256-Digest: SjoRNR3c3dz7sLu3qQALSa6jdETwTiYR7QY3iHr56R8=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ResourceS
+ etWorkbenchEditSynchronizer.class
+SHA-256-Digest: MPuxnAOwHs6WEHY3zqVxuTherOEkZYQ08Grd7squWNc=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/Snapshot.class
+SHA-256-Digest: kjjXvzlfTivOk9AdESiPRi7YtkdW88TY3IHed9tYXAc=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/WorkbenchResourceHelp
+ er$FileAdapterFactory.class
+SHA-256-Digest: E1lNRCIhDPJNCIRseFj4dMTiGYoEg74gf8/Yd85XNls=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/EMFWorkbe
+ nchEditPlugin.class
+SHA-256-Digest: X5NznqVLSM6JHWUs5Xnu48uBGIdsKd5ShnMRDzUYz9s=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/ModelModi
+ fier.class
+SHA-256-Digest: lfxFqlAhP329Fw47vpk7bJZqb3AYFfCyZkHrwNelZL0=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/validateedit/Resource
+ StateValidatorImpl.class
+SHA-256-Digest: tr9BRLvIDhZ+5VADrhgH+4ul9Rq/qltFEdmu74K1nDo=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/EditModelLeastUsedCac
+ he.class
+SHA-256-Digest: 54/AvzBbXN1FK80iJ+Zl1o4lE8VKxY6c5qBEcY5MsNw=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/IEditMode
+ lFactory.class
+SHA-256-Digest: 0tgDxw6fjXFVRrgieTiH/hKaBF43at7NPYI8dYbCKpw=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/integration/DynamicAd
+ apterFactory.class
+SHA-256-Digest: sku2V1UMuZwKjHbp6O1mZWl/mocygxetlbwk01KhSAg=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/validateedit/Resource
+ StateValidator.class
+SHA-256-Digest: JD3ZE0N/Gz0xGIReTurfNGOIuA80qcfyhYxM43tS+p8=
+
+Name: org/eclipse/wst/common/internal/emfworkbench/edit/ExtendedComposed
+ AdapterFactory.class
+SHA-256-Digest: m7GkGjfw5kC85L2rUX4nHdhYDltdo2piKVTNhTEPxfU=
+
