@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+repositories/https\:__download.eclipse.org_eclipse_updates_4.26/count=1
+repositories/https\:__download.eclipse.org_eclipse_updates_4.26/enabled=true
+repositories/https\:__download.eclipse.org_eclipse_updates_4.26/isSystem=false
+repositories/https\:__download.eclipse.org_eclipse_updates_4.26/nickname=The Eclipse Project Updates
+repositories/https\:__download.eclipse.org_eclipse_updates_4.26/uri=https\://download.eclipse.org/eclipse/updates/4.26
+repositories/https\:__download.eclipse.org_releases_2022-12/count=1
+repositories/https\:__download.eclipse.org_releases_2022-12/enabled=true
+repositories/https\:__download.eclipse.org_releases_2022-12/isSystem=false
+repositories/https\:__download.eclipse.org_releases_2022-12/nickname=2022-12
+repositories/https\:__download.eclipse.org_releases_2022-12/uri=https\://download.eclipse.org/releases/2022-12
