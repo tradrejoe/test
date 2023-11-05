@@ -1,0 +1,328 @@
+<!--script src="lib/app.js"></script-->
+<script>
+// Expression bodies
+let evens = [0, 2, 4];
+var odds = evens.map(v => v + 1);
+var nums = evens.map((v, i) => v + i);
+
+// Statement bodies
+fives = [];
+nums.forEach(v => {
+  if (v % 5 === 0)
+    fives.push(v);
+});
+
+// Lexical this
+var bob = {
+  _name: "Bob",
+  _friends: [],
+  printFriends() {
+    this._friends.forEach(f =>
+      console.log(this._name + " knows " + f));
+  }
+};
+
+// Lexical arguments
+function square() {
+  let example = () => {
+    let numbers = [];
+    for (let number of arguments) {
+      numbers.push(number * number);
+    }
+
+    return numbers;
+  };
+
+  return example();
+}
+
+square(2, 4, 7.5, 8, 11.5, 21); // returns: [4, 16, 56.25, 64, 132.25, 441]
+
+console.log('iterator demo');
+
+let fibonacci = {
+  [Symbol.iterator]() {
+    let pre = 0, cur = 1;
+    return {
+      next() {
+        [pre, cur] = [cur, pre + cur];
+        return { done: false, value: cur }
+      }
+    }
+  }
+}
+
+for (var n of fibonacci) {
+  // truncate the sequence at 1000
+  if (n > 1000)
+    break;
+  console.log(n);
+}
+
+const iterable1 = {};
+
+iterable1[Symbol.iterator] = function* () {
+  yield 1;
+  yield 2;
+  yield 3;
+};
+
+console.log([...iterable1]);
+// expected output: Array [1, 2, 3
+
+/*
+interface IteratorResult {
+  done: boolean;
+  value: any;
+}
+interface Iterator {
+  next(): IteratorResult;
+}
+interface Iterable {
+  [Symbol.iterator](): Iterator
+}
+*/
+
+console.log('iterator infinite for loop');
+var fibonacci2 = {
+  [Symbol.iterator]: function*() {
+    var pre = 0, cur = 1;
+    for (;;) {
+      var temp = pre;
+      pre = cur;
+      cur += temp;
+      yield cur;
+    }
+  }
+}
+
+for (var n of fibonacci2) {
+  // truncate the sequence at 1000
+  if (n > 1000)
+    break;
+  console.log(n);
+}
+
+/*
+interface Generator extends Iterator {
+    next(value?: any): IteratorResult;
+    throw(exception: any);
+}
+*/
+
+console.log("unicode...");
+
+// same as ES5.1
+"𠮷".length == 2
+
+// new RegExp behaviour, opt-in ‘u’
+"𠮷".match(/./u)[0].length == 2
+
+// new form
+"\u{20BB7}" == "𠮷"
+"𠮷" == "\uD842\uDFB7"
+
+// new String ops
+"𠮷".codePointAt(0) == 0x20BB7
+
+// for-of iterates code points
+for(var c of "𠮷") {
+  console.log(c);
+}
+
+
+function g({name: x}) {
+  console.log('g({name: 5})='+x);
+}
+g({name: 5})
+
+
+var s = new Set();
+s.add("hello").add("goodbye").add("hello");
+s.size === 2;
+s.has("hello") === true;
+console.log('Set:' + s);
+
+// Maps
+var m = new Map();
+m.set("hello", 42);
+m.set(s, 34);
+m.get(s) == 34;
+
+// Weak Maps
+var wm = new WeakMap();
+wm.set(s, { extra: 42 });
+wm.size === undefined
+
+// Weak Sets
+var ws = new WeakSet();
+ws.add({ data: 42 });
+// Because the added object has no other references, it will not be held in the set
+
+// Proxying a normal object
+var target = { greeting: 'Herro'};
+var handler = {
+  get: function (receiver, name) {
+    return `${receiver.greeting}, ${name}!`;
+  }
+};
+
+var p = new Proxy(target, handler);
+console.log('proxy, p.world === ' + p.world);
+
+// Proxying a function object
+var target = function () { return "I am the target"; };
+var handler = {
+  apply: function (receiver, ...args) {
+    return "I am the proxy";
+  }
+};
+
+var p = new Proxy(target, handler);
+p() === "I am the proxy";
+
+class MyArray extends Array {
+    constructor(...args) { super(...args); }
+}
+
+var arr = new MyArray();
+arr[1] = 12;
+arr.length == 2;
+
+/*
+Number.EPSILON
+Number.isInteger(Infinity) // false
+Number.isNaN("NaN") // false
+
+Math.acosh(3) // 1.762747174039086
+Math.hypot(3, 4) // 5
+Math.imul(Math.pow(2, 32) - 1, Math.pow(2, 32) - 2) // 2
+
+"abcde".includes("cd") // true
+"abc".repeat(3) // "abcabcabc"
+
+Array.from(document.querySelectorAll("*")) // Returns a real Array
+Array.of(1, 2, 3) // Similar to new Array(...), but without special one-arg behavior
+[0, 0, 0].fill(7, 1) // [0,7,7]
+[1,2,3].findIndex(x => x == 2) // 1
+["a", "b", "c"].entries() // iterator [0, "a"], [1,"b"], [2,"c"]
+["a", "b", "c"].keys() // iterator 0, 1, 2
+["a", "b", "c"].values() // iterator "a", "b", "c"
+
+Object.assign(Point, { origin: new Point(0,0) })
+*/
+
+function timeout(duration = 0) {
+    return new Promise((resolve, reject) => {
+        setTimeout(resolve, duration);
+    })
+}
+
+var p = timeout(1000).then(() => {
+    return timeout(2000);
+}).then(() => {
+    throw new Error("hmm");
+}).catch(err => {
+    return Promise.all([timeout(100), timeout(200)]);
+})
+
+const promise1 = Promise.resolve(3);
+const promise2 = 42;
+const promise3 = new Promise((resolve, reject) => {
+  setTimeout(resolve, 100, 'foo');
+});
+
+Promise.all([promise1, promise2, promise3]).then((values) => {
+  console.log(values);
+});
+// expected output: Array [3, 42, "foo"]
+
+var O = {a: 1};
+Object.defineProperty(O, 'b', {value: 2});
+O[Symbol('c')] = 3;
+
+Reflect.ownKeys(O); // ['a', 'b', Symbol(c)]
+
+function C(a, b){
+  this.c = a + b;
+}
+var instance = Reflect.construct(C, [20, 22]);
+instance.c; // 42
+
+function factorial(n, acc = 1) {
+    //"use strict";
+    if (n <= 1) return acc;
+    return factorial(n - 1, n * acc);
+}
+
+// Stack overflow in most implementations today,
+// but safe on arbitrary inputs in ES2015
+console.log('factorial(10)='+ factorial(10));
+
+console.log('L.I. ...');
+for (var i = 1; i <= 4; i++) {
+	(function tmp(j) {
+		setTimeout(function() {console.log(j);}, j * 1000);
+	})(i);
+};
+
+let arr2 = [];
+console.log('arr2.prototype= ' + arr2.prototype);
+
+var x = 6 % 2;
+console.log('x = 6 % 2; x == ' + x);
+
+console.log(x ? '0 is true': '0 is false');
+
+
+class X{
+    get Y(){return 42;}
+}
+var x = new X();
+console.log('x.Y='+x.Y);
+
+
+
+
+/*sum(10,20);
+diff(10,20); //Uncaught ReferenceError: Cannot access 'diff' before initialization
+
+function sum(x,y){
+  return x+y;
+}
+
+let diff = function(x,y){
+  return x-y;
+}*/
+
+console.log(Array.from("aeiou"));
+
+function printA() {
+console.log('printA='+answer); 
+var answer = 1; }
+printA();
+printA();
+
+function sayHello() {
+console.log('hello');
+}console.log(sayHello.prototype);
+
+//let ?{a: x = 1} = undefined;   // x = 1
+//let {?a: x = 1} = undefined   // throw
+//let {?a: x = 1} = {}          // x = 1, nope error
+
+//console.log('a' + a) // prints 8
+
+
+console.log('f1 f2...');
+var v=1;
+var f1 = function () { console.log(v); }
+var f2 = function () { var v = 2; f1(); } 
+f2();
+
+console.log('unshift...');
+const animals = ['R', 'd', 'c'];
+
+
+console.log(animals.unshift('l'));
+</script>
